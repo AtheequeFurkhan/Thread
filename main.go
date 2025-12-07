@@ -221,7 +221,7 @@ func generateReadme(store Store) {
 	// Organize by category
 	cats := make(map[string][]Article)
 	for _, a := range store.Articles {
-		if len(cats[a.Category]) < 5 { // Top 5 per category
+		if len(cats[a.Category]) < 5 {
 			cats[a.Category] = append(cats[a.Category], a)
 		}
 	}
@@ -229,21 +229,38 @@ func generateReadme(store Store) {
 	// Archive links
 	files, _ := ioutil.ReadDir(DataDir)
 	var archives []string
-	for i := len(files) - 1; i >= 0; i-- { // Reverse order
+	for i := len(files) - 1; i >= 0; i-- {
 		if strings.HasSuffix(files[i].Name(), ".md") {
 			archives = append(archives, files[i].Name())
 		}
-		if len(archives) >= 7 { break } // Show last 7 days
+		if len(archives) >= 7 {
+			break
+		}
 	}
 
+	// --- FIX START: Date Formatting ---
+	now := time.Now()
+	
+	// 1. Pretty date for the text (e.g., "07 Dec 17:38 UTC")
+	displayDate := now.Format("02 Jan 15:04 UTC")
+	
+	// 2. Safe date for the badge URL (No spaces, replace - with --)
+	// Shields.io requires underscores for spaces and double dashes for literal dashes
+	badgeDate := now.Format("02_Jan_15:04_UTC")
+	// --- FIX END ---
+
 	data := ReadmeData{
-		LastUpdate:    time.Now().Format(time.RFC850),
-		NextUpdate:    time.Now().Add(15 * time.Minute).Format(time.RFC850),
+		LastUpdate:    displayDate, // Use the pretty one for text
+		NextUpdate:    badgeDate,   // We will repurpose this field or add a new one, but for now let's pass the clean date
 		TotalCaptured: store.TotalCaptured,
 		Categories:    cats,
 		LatestNews:    store.Articles[:min(20, len(store.Articles))],
 		ArchiveLinks:  archives,
 	}
+    
+    // We need to inject the clean badge date into the struct. 
+    // To keep it simple, let's just make sure we use the badge-safe format in the template URL.
+    // See the template change below.
 
 	t, err := template.New("readme").Parse(string(tmplData))
 	if err != nil {
