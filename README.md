@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-07 Dec 23:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-129-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-07 Dec 23:28 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-130-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 07 Dec 23:11 UTC)*
+*(Updated: 07 Dec 23:28 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Death of Venezuelan opposition figure in custody 'vile', US says](https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone](https://cointelegraph.com/news/crypto-other-halving-bittensor-maturation-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Bethlehem Christmas tree illuminated for first time since Gaza war began](https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['We've lost everything': Australia wildfire rips through homes](https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: BBC reports from scene of deadly Goa nightclub fire](https://www.bbc.com/news/videos/cx2pqq15x85o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Which European countries have mandatory or voluntary military service](https://www.bbc.com/news/articles/cvgj4npzp53o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
