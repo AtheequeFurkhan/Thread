@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Death of Venezuelan opposition figure in custody 'vile', US says",
+      "link": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Alfredo Díaz, 56, died in prison cell on Saturday, human rights groups say, prompting opposition outcry.",
+      "published": "Sun, 07 Dec 2025 22:56:47 GMT",
+      "fetched_at": "2025-12-07T23:11:14.537636843Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump criticises Democrat he pardoned over not switching political parties",
       "link": "https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1153,6 +1162,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 128,
-  "last_update": "2025-12-07T22:47:25.474999946Z"
+  "total_captured": 129,
+  "last_update": "2025-12-07T23:11:14.537656188Z"
 }
