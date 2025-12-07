@@ -1,0 +1,32 @@
+name: NewsPulse Bot
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch:       # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+
+      - name: Run Scraper
+        run: go run main.go
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "AtheequeFurkhan"
+          git config --global user.email "atheequemf2003@gmail.com"
+          git add data/ README.md
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ NewsPulse Update: $(date +'%Y-%m-%d %H:%M')" && git push)
