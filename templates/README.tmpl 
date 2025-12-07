@@ -1,0 +1,57 @@
+<div align="center">
+
+# 📰 NewsPulse
+### Automated Real-Time News Aggregator & Archiver
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Last%20Update-{{ .LastUpdate }}-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles%20Captured-{{ .TotalCaptured }}-orange?style=for-the-badge)
+
+*NewsPulse fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
+
+[Explore Archives](#-daily-archives) • [Feature Requests](https://github.com/yourusername/NewsPulse/issues)
+
+</div>
+
+---
+
+## 🔥 Top 20 Latest Headlines
+*(Updated: {{ .LastUpdate }})*
+
+| Category | Headline | Sentiment |
+| :--- | :--- | :--- |
+{{ range .LatestNews -}}
+| **{{ .Category }}** | [{{ .Title }}]({{ .Link }}) | {{ .Sentiment }} |
+{{ end }}
+
+---
+
+## ⚡ Category Highlights
+
+{{ range $cat, $articles := .Categories }}
+### 📂 {{ $cat }}
+{{ range $articles -}}
+- [{{ .Title }}]({{ .Link }}) ({{ .Sentiment }})
+{{ end }}
+{{ end }}
+
+---
+
+## 🗄️ Daily Archives (Last 7 Days)
+Detailed logs including summaries and timestamps.
+
+| Date | Link |
+| :--- | :--- |
+{{ range .ArchiveLinks -}}
+| {{ . }} | [View Log](data/{{ . }}) |
+{{ end }}
+
+---
+
+## 🤖 About This Project
+This repository is automatically updated by a Go bot running on GitHub Actions.
+- **Frequency:** Every 15 minutes
+- **Tech Stack:** Go (Golang), GitHub Actions
+- **Next Update:** {{ .NextUpdate }}
+
+> "News is what somebody somewhere wants to suppress; all the rest is advertising."
