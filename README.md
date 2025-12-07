@@ -3,9 +3,10 @@
 # 📰 Thread
 ### Automated Real-Time News Aggregator & Archiver
 
+<!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Last%20Update-Sunday, 07-Dec-25 17:47:41 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles%20Captured-125-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-07 Dec 17:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-125-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -16,7 +17,7 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: Sunday, 07-Dec-25 17:47:41 UTC)*
+*(Updated: 07 Dec 17:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
@@ -83,7 +84,6 @@
 ---
 
 ## 🗄️ Daily Archives (Last 7 Days)
-Detailed logs including summaries and timestamps.
 
 | Date | Link |
 | :--- | :--- |
@@ -93,9 +93,7 @@ Detailed logs including summaries and timestamps.
 ---
 
 ## 🤖 About This Project
-This repository is automatically updated by a Go bot running on GitHub Actions.
 - **Frequency:** Every 15 minutes
 - **Tech Stack:** Go (Golang), GitHub Actions
-- **Next Update:** Sunday, 07-Dec-25 18:02:41 UTC
 
 > "News is what somebody somewhere wants to suppress; all the rest is advertising."
