@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "WisdomTree brings options income strategy onchain with new tokenized fund",
+      "link": "https://cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5ZTItYmQwOS03NDkyLWE2MDMtNjkwMTQ2ODllZDgx.jpg\" alt=\"WisdomTree brings options income strategy onchain with new tokenized fund\"\u003e\u003c/p\u003e\u003cp\u003eThe asset manager’s EPXC fund tokenizes a cash-secured put-writing strategy, signaling deeper integration between traditional market products and blockchain.\u003c/p\u003e",
+      "published": "Sun, 07 Dec 2025 17:56:02 +0000",
+      "fetched_at": "2025-12-07T18:15:58.493829276Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "In an era of rising prices, computers have gotten cheaper. (And why that may end)",
       "link": "https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers",
       "category": "Business",
@@ -1126,6 +1135,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 125,
-  "last_update": "2025-12-07T17:53:25.613034536Z"
+  "total_captured": 126,
+  "last_update": "2025-12-07T18:15:59.152587889Z"
 }
