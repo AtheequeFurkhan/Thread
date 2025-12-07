@@ -1,4 +1,4 @@
-name: NewsPulse Bot
+name: Thread
 
 on:
   schedule:
