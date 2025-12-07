@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-07 Dec 21:09 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-127-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-07 Dec 21:26 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-128-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 07 Dec 21:09 UTC)*
+*(Updated: 07 Dec 21:26 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone](https://cointelegraph.com/news/crypto-other-halving-bittensor-maturation-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [WisdomTree brings options income strategy onchain with new tokenized fund](https://cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Watch: BBC reports from scene of deadly Goa nightclub fire](https://www.bbc.com/news/videos/cx2pqq15x85o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Which European countries have mandatory or voluntary military service](https://www.bbc.com/news/articles/cvgj4npzp53o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [What should you do if you dislike your friend's partner?](https://www.bbc.com/news/articles/cp858lmrn74o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back](https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Flames and thick smoke surround plane in Brazil after fire breaks out](https://www.bbc.com/news/videos/c20gw2xqp1wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['I don't want to be part of this war machine': Young Germans protest against military service plans](https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Bethlehem Christmas tree illuminated for first time since Gaza war began](https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['We've lost everything': Australia wildfire rips through homes](https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: BBC reports from scene of deadly Goa nightclub fire](https://www.bbc.com/news/videos/cx2pqq15x85o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
