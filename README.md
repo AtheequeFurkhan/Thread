@@ -4,7 +4,7 @@
 ### Automated Real-Time News Aggregator & Archiver
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Last%20Update-Sunday, 07-Dec-25 17:15:15 UTC-blue?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Last%20Update-Sunday, 07-Dec-25 17:28:21 UTC-blue?style=for-the-badge)
 ![Articles Captured](https://img.shields.io/badge/Articles%20Captured-125-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
@@ -16,7 +16,7 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: Sunday, 07-Dec-25 17:15:15 UTC)*
+*(Updated: Sunday, 07-Dec-25 17:28:21 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
@@ -96,6 +96,6 @@ Detailed logs including summaries and timestamps.
 This repository is automatically updated by a Go bot running on GitHub Actions.
 - **Frequency:** Every 15 minutes
 - **Tech Stack:** Go (Golang), GitHub Actions
-- **Next Update:** Sunday, 07-Dec-25 17:30:15 UTC
+- **Next Update:** Sunday, 07-Dec-25 17:43:21 UTC
 
 > "News is what somebody somewhere wants to suppress; all the rest is advertising."
