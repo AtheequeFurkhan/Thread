@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Thieves snatch eight Matisse artworks from library in Brazil",
+      "link": "https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The thieves enter the library in normal opening hours, stuffing the art works into a canvas bag.",
+      "published": "Mon, 08 Dec 2025 10:36:30 GMT",
+      "fetched_at": "2025-12-08T12:24:51.739134373Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Thousands flee Thai-Cambodia border after deadly clashes",
+      "link": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "At least five people have been killed in the most serious confrontation between both sides since July.",
+      "published": "Mon, 08 Dec 2025 11:10:30 GMT",
+      "fetched_at": "2025-12-08T12:24:51.739124174Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders",
+      "link": "https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkYjAtNjk5Ny03NTMzLWFiNTctMTAzNWI3MmJmNTFk.jpg\" alt=\"Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders\"\u003e\u003c/p\u003e\u003cp\u003ePredictions markets offer traders more upside than holding the underlying spot crypto, but AI bots and accounts with a 100% win rate raise suspicions of insider trading.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 12:07:31 +0000",
+      "fetched_at": "2025-12-08T12:24:51.696519774Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Can panic wallets stop a wrench? Why crypto’s next security debate is physical",
       "link": "https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1441,6 +1468,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 160,
-  "last_update": "2025-12-08T11:48:50.714180606Z"
+  "total_captured": 163,
+  "last_update": "2025-12-08T12:24:51.982547101Z"
 }
