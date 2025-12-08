@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Philippines’ fastest growing digital bank rolls out crypto services",
+      "link": "https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjNzMtYzhmNy03YjA1LWJhZTctOGU4ZDRhNGQyZDhh.jpg\" alt=\"Philippines’ fastest growing digital bank rolls out crypto services\"\u003e\u003c/p\u003e\u003cp\u003eThe digital bank now offers BTC, ETH, SOL, and more via a secure app integration with US fintech firm Alpaca.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 05:40:01 +0000",
+      "fetched_at": "2025-12-08T05:52:05.653145521Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes",
       "link": "https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1216,6 +1225,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 135,
-  "last_update": "2025-12-08T05:39:38.8619776Z"
+  "total_captured": 136,
+  "last_update": "2025-12-08T05:52:05.856010843Z"
 }
