@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 20:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-191-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 21:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-192-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 20:52 UTC)*
+*(Updated: 08 Dec 21:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [US judge asks for clarification on Do Kwon’s foreign charges](https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [StableChain launches mainnet with USDT gas fees, dedicated governance token](https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation](https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [New DePIN protocol rolls out ZK-proof processing marketplace](https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy](https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US judge asks for clarification on Do Kwon’s foreign charges](https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [StableChain launches mainnet with USDT gas fees, dedicated governance token](https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Watchdog asks for crypto industry feedback on UK investment reforms](https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [XRP needs a Solana-style strategy to keep up: Ripple executive](https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time](https://cointelegraph.com/news/why-grayscale-thinks-bitcoin-will-ignore-the-4-year-cycle-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
