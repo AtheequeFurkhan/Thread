@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 10:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-156-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 10:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-158-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 10:15 UTC)*
+*(Updated: 08 Dec 10:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) | 🟢 Positive |
 | **Business** | [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) | ⚪ Neutral |
 | **World** | [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems](https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Zelensky due at Downing Street for high-level Ukraine talks](https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026](https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [The future of secure messaging: Why decentralization matters more than ever](https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World

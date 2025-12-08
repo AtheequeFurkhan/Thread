@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
+      "published": "Sat, 06 Dec 2025 01:00:00 GMT",
+      "fetched_at": "2025-12-08T10:43:18.311315378Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The unexpected history of those oh-so annoying internet popup ads",
+      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
+      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
+      "fetched_at": "2025-12-08T10:43:18.311307153Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Netflix is buying Warner Bros. What it could mean for the entertainment industry",
       "link": "https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry",
       "category": "Business",
@@ -1405,6 +1423,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 156,
-  "last_update": "2025-12-08T10:15:01.418695011Z"
+  "total_captured": 158,
+  "last_update": "2025-12-08T10:43:18.409034962Z"
 }
