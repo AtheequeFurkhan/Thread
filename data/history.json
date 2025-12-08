@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy",
+      "link": "https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg\" alt=\"Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy\"\u003e\u003c/p\u003e\u003cp\u003eMichael Saylor said that he pitched Bitcoin as “digital capital” to wealth funds and banks, calling it the foundation for a new yield-bearing credit asset class.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 14:18:44 +0000",
+      "fetched_at": "2025-12-08T14:39:54.612324619Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "XRP bulls grow louder: What will spark the breakout toward $2.65?",
+      "link": "https://cointelegraph.com/news/xrp-bulls-grow-louder-what-will-spark-breakout-2-65?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjYtYjg2YS03NzMwLTgyZDAtZWRlOTlkMTQ1YzRi.jpg\" alt=\"XRP bulls grow louder: What will spark the breakout toward $2.65?\"\u003e\u003c/p\u003e\u003cp\u003eXRP analysts highlighted the potential to rebound to $2.65 as institutional demand increased and derivatives traders flipped bullish.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 14:34:06 +0000",
+      "fetched_at": "2025-12-08T14:39:54.612308509Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Mantra CEO tells OM holders to withdraw from OKX over ‘inaccurate’ migration plan",
       "link": "https://cointelegraph.com/news/mantra-ceo-urges-om-holders-exit-okx-migration-dispute?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1531,6 +1549,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 170,
-  "last_update": "2025-12-08T14:13:36.911720596Z"
+  "total_captured": 172,
+  "last_update": "2025-12-08T14:39:54.846768099Z"
 }
