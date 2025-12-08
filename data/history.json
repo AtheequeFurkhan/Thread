@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "White South Africans divided on US refugee offer",
+      "link": "https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Donald Trump says white South Africans are being persecuted and so qualify for asylum but black farmers are also being killed.",
+      "published": "Mon, 08 Dec 2025 05:05:22 GMT",
+      "fetched_at": "2025-12-08T06:21:51.568700846Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
+      "link": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "One year into his rule Syria's leader has won over Trump and much of the West, but at home people know his weaknesses.",
+      "published": "Mon, 08 Dec 2025 06:00:48 GMT",
+      "fetched_at": "2025-12-08T06:21:51.568691499Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Zelensky due at Downing Street for high-level Ukraine talks",
+      "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Sir Keir Starmer will also welcome the leaders of France and Germany as Europe looks to respond to a US-led push for a peace deal.",
+      "published": "Mon, 08 Dec 2025 04:03:33 GMT",
+      "fetched_at": "2025-12-08T06:21:51.568683493Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin bulls must defend key level to avoid $76K, say analysts",
+      "link": "https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNkODQtNDkzNS03YTBhLTg0YjItNGNmYmRkOWE2YzE2.jpg\" alt=\"Bitcoin bulls must defend key level to avoid $76K, say analysts\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is holding a critical Fibonacci support level, but analysts warned that a break could trigger losses down to April lows of $76,000.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 05:48:38 +0000",
+      "fetched_at": "2025-12-08T06:21:51.526000475Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026",
+      "link": "https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiZTctN2YxNi03ZWNlLWE2MjMtYmFiMWQxYWNjNmNm.jpg\" alt=\"Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026\"\u003e\u003c/p\u003e\u003cp\u003eZKsync says the first Ethereum zero-knowledge rollup blockchain will have an “orderly sunset” next year, as it has served its purpose.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 05:55:49 +0000",
+      "fetched_at": "2025-12-08T06:21:51.525983253Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The future of secure messaging: Why decentralization matters more than ever",
+      "link": "https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjODQtMjY3YS03NjQyLTgzY2QtMTNkMTFlMTMwNDFl.jpg\" alt=\"The future of secure messaging: Why decentralization matters more than ever\"\u003e\u003c/p\u003e\u003cp\u003eDecentralized messengers shift security beyond encryption by reducing metadata, limiting data requests and preparing for post-quantum threats.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 06:15:00 +0000",
+      "fetched_at": "2025-12-08T06:21:51.525966853Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Philippines’ fastest growing digital bank rolls out crypto services",
       "link": "https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1225,6 +1279,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 136,
-  "last_update": "2025-12-08T05:52:05.856010843Z"
+  "total_captured": 142,
+  "last_update": "2025-12-08T06:21:52.089397132Z"
 }

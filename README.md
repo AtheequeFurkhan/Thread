@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 05:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-136-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 06:21 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-142-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 05:52 UTC)*
+*(Updated: 08 Dec 06:21 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems](https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Zelensky due at Downing Street for high-level Ukraine talks](https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026](https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [The future of secure messaging: Why decentralization matters more than ever](https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Philippines’ fastest growing digital bank rolls out crypto services](https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes](https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Trump’s national security strategy is silent on crypto, blockchain](https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **Business** | [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) | 🔴 Negative |
 | **Business** | ['New York Times' lawsuit creates a new headache for Pentagon chief Hegseth](https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit) | ⚪ Neutral |
 | **Business** | [NPR battles Trump executive order in court](https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court) | ⚪ Neutral |
-| **Business** | [Netflix will buy Warner Bros' studio and streaming businesses for $72 billion](https://www.npr.org/2025/12/05/g-s1-100873/netflix-buys-warner-bros-discovery-studio-streaming) | ⚪ Neutral |
-| **Business** | [EU hits Elon Musk's X with $140 million fine over business practices](https://www.npr.org/2025/12/05/nx-s1-5634694/x-musk-eu-fines) | ⚪ Neutral |
-| **Business** | [Appeals court hands Trump a victory, OK'ing firings of two independent agency heads](https://www.npr.org/2025/12/05/nx-s1-5634705/trump-nlrb-mspb-firing-appeal) | ⚪ Neutral |
-| **Business** | [Netflix announces deal to acquire Warner Brothers Discovery](https://www.npr.org/2025/12/05/nx-s1-5634667/netflix-announces-deal-to-acquire-warner-brothers-discovery) | ⚪ Neutral |
-| **Business** | [Here's what the Netflix-Warner Brothers deal means for consumers](https://www.npr.org/2025/12/05/nx-s1-5634617/heres-what-the-netflix-warner-brothers-deal-means-for-consumers) | 🟢 Positive |
-| **Business** | [7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors](https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026](https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [The future of secure messaging: Why decentralization matters more than ever](https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Philippines’ fastest growing digital bank rolls out crypto services](https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes](https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Trump’s national security strategy is silent on crypto, blockchain](https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Robinhood set to enter Indonesia, targeting 17M crypto traders](https://cointelegraph.com/news/robinhood-enters-indonesia-with-dual-acquisition-targeting-17m-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO](https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems](https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Zelensky due at Downing Street for high-level Ukraine talks](https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Death of Venezuelan opposition figure in custody 'vile', US says](https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Flames and thick smoke surround plane in Brazil after fire breaks out](https://www.bbc.com/news/videos/c20gw2xqp1wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['I don't want to be part of this war machine': Young Germans protest against military service plans](https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Bethlehem Christmas tree illuminated for first time since Gaza war began](https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
