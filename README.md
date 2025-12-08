@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 16:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-177-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 16:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-180-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 16:16 UTC)*
+*(Updated: 08 Dec 16:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
+| **World** | [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) | 🔴 Negative |
 | **Crypto** | [Ripple’s big Singapore win: What the expanded license allows now](https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation](https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders](https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Can panic wallets stop a wrench? Why crypto’s next security debate is physical](https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Crypto funds log second week of inflows after massive $5.5B sell-off](https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) (🟢 Positive)
 - [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) (🔴 Negative)
 - [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) (🟢 Positive)
 - [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) (⚪ Neutral)
 - [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) (🔴 Negative)
-- ['New York Times' lawsuit creates a new headache for Pentagon chief Hegseth](https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ripple’s big Singapore win: What the expanded license allows now](https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation](https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [New DePIN protocol rolls out ZK-proof processing marketplace](https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy](https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [XRP bulls grow louder: What will spark the breakout toward $2.65?](https://cointelegraph.com/news/xrp-bulls-grow-louder-what-will-spark-breakout-2-65?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix",
+      "category": "Business",
+      "summary": "Paramount has launched a hostile bid for the company that's home to Casablanca, Batman and CNN. Just Friday, Netflix and Warner Brothers executives were celebrating a deal they had struck.",
+      "published": "Mon, 08 Dec 2025 11:36:39 -0500",
+      "fetched_at": "2025-12-08T16:49:56.176854558Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Paramount launches rival bid for Warner Bros Discovery",
+      "link": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Paramount says its proposal is a \"superior alternative\" for shareholders than the rival offer from Netflix.",
+      "published": "Mon, 08 Dec 2025 16:39:31 GMT",
+      "fetched_at": "2025-12-08T16:49:55.76559071Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC",
+      "link": "https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYmUtMTVhMC03NzVlLWExYzctMjBlMWYwMmE1ZDU4.jpg\" alt=\"Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin failed to successfully retest the yearly open after US sell-side pressure reentered to start the week, keeping volatility firmly in control.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 16:20:28 +0000",
+      "fetched_at": "2025-12-08T16:49:55.49186067Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "China's trade surplus hits $1 trillion for first time ever",
       "link": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs",
       "category": "Business",
@@ -1594,6 +1621,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 177,
-  "last_update": "2025-12-08T16:16:54.708749168Z"
+  "total_captured": 180,
+  "last_update": "2025-12-08T16:49:56.17687959Z"
 }
