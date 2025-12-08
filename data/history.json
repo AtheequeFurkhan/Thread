@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Saylor pitches Bitcoin-backed banking system to nation-states",
+      "link": "https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg\" alt=\"Saylor pitches Bitcoin-backed banking system to nation-states\"\u003e\u003c/p\u003e\u003cp\u003eSpeaking in Abu Dhabi, the Strategy CEO said nations could use Bitcoin reserves and tokenized credit markets to offer regulated accounts with higher yields.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 21:51:01 +0000",
+      "fetched_at": "2025-12-08T22:12:13.069464528Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?",
+      "link": "https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmZWItYjgyMS03MTRhLWJiZmItMmZkMDJmODQwY2Vl.jpg\" alt=\"Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?\"\u003e\u003c/p\u003e\u003cp\u003eImproving retail crypto and major TradFi investor sentiment align with the recent uptick in Bitcoin price, but sell orders and short positions in the $93,000 range threaten to cap the rally.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 22:03:25 +0000",
+      "fetched_at": "2025-12-08T22:12:13.069448248Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CoreWeave plans $2B note offering to scale AI business while managing dilution",
       "link": "https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1729,6 +1747,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 192,
-  "last_update": "2025-12-08T21:47:48.440336723Z"
+  "total_captured": 194,
+  "last_update": "2025-12-08T22:12:13.794994699Z"
 }
