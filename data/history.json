@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
+      "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Tokyo has vowed a 'calm and resolute' response as tensions with Beijing continue to escalate.",
+      "published": "Mon, 08 Dec 2025 07:03:46 GMT",
+      "fetched_at": "2025-12-08T07:17:41.066911978Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Water leak in Louvre damages hundreds of books",
+      "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The leak in the Egyptian department comes just weeks after a jewellery heist that put the museum's security infrastructure under scrutiny.",
+      "published": "Mon, 08 Dec 2025 03:07:17 GMT",
+      "fetched_at": "2025-12-08T07:17:41.066903122Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "White South Africans divided on US refugee offer",
       "link": "https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1279,6 +1297,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 142,
-  "last_update": "2025-12-08T06:54:56.868261655Z"
+  "total_captured": 144,
+  "last_update": "2025-12-08T07:17:42.039108729Z"
 }
