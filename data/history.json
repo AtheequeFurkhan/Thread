@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Mantra CEO tells OM holders to withdraw from OKX over ‘inaccurate’ migration plan",
+      "link": "https://cointelegraph.com/news/mantra-ceo-urges-om-holders-exit-okx-migration-dispute?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlNDAtYWUxNi03NWNjLTg0ZjctMDQ4MzI1YmVlMjVk.jpg\" alt=\"Mantra CEO tells OM holders to withdraw from OKX over ‘inaccurate’ migration plan\"\u003e\u003c/p\u003e\u003cp\u003eJP Mullin urged OM token holders to withdraw from OKX, alleging the exchange had not communicated with Mantra about the incoming token migration, resulting in inaccurate dates.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 14:00:44 +0000",
+      "fetched_at": "2025-12-08T14:13:36.783901133Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "SEC ends Biden-era probe into tokenized equity platform Ondo Finance",
+      "link": "https://cointelegraph.com/news/sec-ends-ondo-investigation-tokenized-securities-reset?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMTUtMjIxNC03OGI2LWI5NTMtYTFkNTZkYjA3YzNh.jpg\" alt=\"SEC ends Biden-era probe into tokenized equity platform Ondo Finance\"\u003e\u003c/p\u003e\u003cp\u003eLaunched in 2023, the SEC probe into Ondo’s tokenized RWAs and ONDO token ended without charges, signaling a regulatory reset for onchain assets.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 14:08:11 +0000",
+      "fetched_at": "2025-12-08T14:13:36.783881707Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Binance suspends employee over using insider information for personal gain",
       "link": "https://cointelegraph.com/news/binance-suspends-employee-whistleblower-insider-probe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1513,6 +1531,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 168,
-  "last_update": "2025-12-08T13:46:20.422849904Z"
+  "total_captured": 170,
+  "last_update": "2025-12-08T14:13:36.911720596Z"
 }
