@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US Supreme Court hears fight over Trump's power to fire federal agency official",
+      "link": "https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The court is hearing arguments in Trump v Slaughter - a case that could have major implications for the independence of some federal agencies.",
+      "published": "Mon, 08 Dec 2025 15:27:15 GMT",
+      "fetched_at": "2025-12-08T15:50:51.675954244Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "New DePIN protocol rolls out ZK-proof processing marketplace",
       "link": "https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1558,6 +1567,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 173,
-  "last_update": "2025-12-08T15:35:12.820400197Z"
+  "total_captured": 174,
+  "last_update": "2025-12-08T15:50:51.953973163Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 15:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-173-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 15:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-174-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 15:35 UTC)*
+*(Updated: 08 Dec 15:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [New DePIN protocol rolls out ZK-proof processing marketplace](https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy](https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [XRP bulls grow louder: What will spark the breakout toward $2.65?](https://cointelegraph.com/news/xrp-bulls-grow-louder-what-will-spark-breakout-2-65?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) | 🟢 Positive |
 | **Business** | [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) | ⚪ Neutral |
-| **World** | [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
