@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Netflix is buying Warner Bros. What it could mean for the entertainment industry",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry",
+      "category": "Business",
+      "summary": "NPR's Leila Fadel speaks with Matt Belloni of Puck News about Netflix's acquisition of Warner Bros. and the potential challenges ahead.",
+      "published": "Mon, 08 Dec 2025 04:46:32 -0500",
+      "fetched_at": "2025-12-08T10:15:01.344552745Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Supreme Court to hear case that could vastly expand presidential powers",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive",
+      "category": "Business",
+      "summary": "The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies.",
+      "published": "Mon, 08 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-08T10:15:01.344542616Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Syrians share their thoughts one year on from the fall of Assad",
+      "link": "https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's Middle East correspondent Hugo Bachega speaks to Syrians about how life has changed since the revolution.",
+      "published": "Mon, 08 Dec 2025 08:38:09 GMT",
+      "fetched_at": "2025-12-08T10:15:01.246289392Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US Treasurys lead tokenization wave as CoinShares predicts 2026 growth",
+      "link": "https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMjAtMWZjYy03NjY3LTlkM2UtMmQzNzZmNDgyZDFi.jpg\" alt=\"US Treasurys lead tokenization wave as CoinShares predicts 2026 growth\"\u003e\u003c/p\u003e\u003cp\u003eCoinShares said tokenized RWAs jumped 229% in 2025, led by US Treasurys, and it expects dollar-yield demand to keep driving onchain growth into 2026.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 10:00:42 +0000",
+      "fetched_at": "2025-12-08T10:15:01.07489984Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/did-btc-santa-rally-start-89k-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkNTYtNjJlZS03MDg4LWJhZDktMTFlMjcwNDQ4ODMz.jpg\" alt=\"Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week\"\u003e\u003c/p\u003e\u003cp\u003eA Santa rally for Bitcoin and risk assets stayed on the cards as the markets prepared for the last Fed interest-rate decision of 2025.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 10:07:25 +0000",
+      "fetched_at": "2025-12-08T10:15:01.074888308Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Circle and Bybit deepen USDC partnership as stablecoin nears $80B",
       "link": "https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1360,6 +1405,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 151,
-  "last_update": "2025-12-08T09:47:14.815357243Z"
+  "total_captured": 156,
+  "last_update": "2025-12-08T10:15:01.418695011Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 09:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-151-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 10:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-156-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 09:47 UTC)*
+*(Updated: 08 Dec 10:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) | 🟢 Positive |
+| **Business** | [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) | ⚪ Neutral |
+| **World** | [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [US Treasurys lead tokenization wave as CoinShares predicts 2026 growth](https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/did-btc-santa-rally-start-89k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Circle and Bybit deepen USDC partnership as stablecoin nears $80B](https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K](https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -36,11 +41,6 @@
 | **Crypto** | [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026](https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [The future of secure messaging: Why decentralization matters more than ever](https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Philippines’ fastest growing digital bank rolls out crypto services](https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes](https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Trump’s national security strategy is silent on crypto, blockchain](https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Robinhood set to enter Indonesia, targeting 17M crypto traders](https://cointelegraph.com/news/robinhood-enters-indonesia-with-dual-acquisition-targeting-17m-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO](https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) (🟢 Positive)
+- [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) (⚪ Neutral)
 - [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) (🔴 Negative)
 - ['New York Times' lawsuit creates a new headache for Pentagon chief Hegseth](https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit) (⚪ Neutral)
 - [NPR battles Trump executive order in court](https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court) (⚪ Neutral)
-- [Netflix will buy Warner Bros' studio and streaming businesses for $72 billion](https://www.npr.org/2025/12/05/g-s1-100873/netflix-buys-warner-bros-discovery-studio-streaming) (⚪ Neutral)
-- [EU hits Elon Musk's X with $140 million fine over business practices](https://www.npr.org/2025/12/05/nx-s1-5634694/x-musk-eu-fines) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [US Treasurys lead tokenization wave as CoinShares predicts 2026 growth](https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/did-btc-santa-rally-start-89k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Circle and Bybit deepen USDC partnership as stablecoin nears $80B](https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K](https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Binance secures ADGM licenses to operate international platform](https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japan protests after Chinese fighter jets lock radar on Japanese planes](https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Water leak in Louvre damages hundreds of books](https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
