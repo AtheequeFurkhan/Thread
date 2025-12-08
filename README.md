@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 23:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-197-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 23:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-198-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 23:30 UTC)*
+*(Updated: 08 Dec 23:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) | 🟢 Positive |
 | **Crypto** | [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [The easiest and safest methods for gifting crypto at Christmas in 2025](https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
 | **World** | [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
