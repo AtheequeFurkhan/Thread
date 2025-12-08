@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "China's trade surplus hits $1 trillion for first time ever",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs",
+      "category": "Business",
+      "summary": "China's exports to the U.S. have dropped sharply this year, in the face of President Trump's tariffs — but the country is still finding plenty of customers elsewhere around the world.",
+      "published": "Mon, 08 Dec 2025 10:55:39 -0500",
+      "fetched_at": "2025-12-08T16:16:54.708732718Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ripple’s big Singapore win: What the expanded license allows now",
+      "link": "https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYjQtOWM5Ny03Mzk2LTg0NzItOTg5MGRjYjRiZTBi.jpg\" alt=\"Ripple’s big Singapore win: What the expanded license allows now\"\u003e\u003c/p\u003e\u003cp\u003eSingapore’s MAS has widened Ripple’s MPI license scope, enabling regulated token services, end-to-end payments and major growth across Asia-Pacific.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 16:09:01 +0000",
+      "fetched_at": "2025-12-08T16:16:54.130947182Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation",
+      "link": "https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg\" alt=\"Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation\"\u003e\u003c/p\u003e\u003cp\u003eRipple’s $500 million raise shows its post-SEC shift is working, as Wall Street piles in under a deal reportedly offering rare protections and guaranteed returns.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 16:09:29 +0000",
+      "fetched_at": "2025-12-08T16:16:54.130918709Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US Supreme Court hears fight over Trump's power to fire federal agency official",
       "link": "https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1567,6 +1594,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 174,
-  "last_update": "2025-12-08T15:50:51.953973163Z"
+  "total_captured": 177,
+  "last_update": "2025-12-08T16:16:54.708749168Z"
 }
