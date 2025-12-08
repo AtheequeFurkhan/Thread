@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Man found guilty of Australian beach murder after hiding in India for years",
+      "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The half-buried body of 24-year-old Toyah Cordingley was discovered by her father in October 2018.",
+      "published": "Mon, 08 Dec 2025 07:08:13 GMT",
+      "fetched_at": "2025-12-08T07:41:46.895238339Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
       "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1297,6 +1306,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 144,
-  "last_update": "2025-12-08T07:17:42.039108729Z"
+  "total_captured": 145,
+  "last_update": "2025-12-08T07:41:47.281422535Z"
 }

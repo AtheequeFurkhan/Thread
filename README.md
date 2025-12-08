@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 07:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-144-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 07:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-145-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 07:17 UTC)*
+*(Updated: 08 Dec 07:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Japan protests after Chinese fighter jets lock radar on Japanese planes](https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Water leak in Louvre damages hundreds of books](https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone](https://cointelegraph.com/news/crypto-other-halving-bittensor-maturation-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [WisdomTree brings options income strategy onchain with new tokenized fund](https://cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japan protests after Chinese fighter jets lock radar on Japanese planes](https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Water leak in Louvre damages hundreds of books](https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems](https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Zelensky due at Downing Street for high-level Ukraine talks](https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
