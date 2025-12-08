@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Can panic wallets stop a wrench? Why crypto’s next security debate is physical",
+      "link": "https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MDctOGIxNy03NTZhLWIyN2QtMTczN2QyY2Q4YzUx.jpg\" alt=\"Can panic wallets stop a wrench? Why crypto’s next security debate is physical\"\u003e\u003c/p\u003e\u003cp\u003eJameson Lopp’s wrench attack data shows physical assaults on crypto holders surging in 2025, forcing a reckoning over whether self‑custody is worth the physical risk.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 11:13:48 +0000",
+      "fetched_at": "2025-12-08T11:30:39.202601478Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto funds log second week of inflows after massive $5.5B sell-off",
       "link": "https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1432,6 +1441,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 159,
-  "last_update": "2025-12-08T11:12:35.168210696Z"
+  "total_captured": 160,
+  "last_update": "2025-12-08T11:30:39.536839229Z"
 }
