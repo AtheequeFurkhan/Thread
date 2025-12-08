@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time",
+      "link": "https://cointelegraph.com/news/why-grayscale-thinks-bitcoin-will-ignore-the-4-year-cycle-this-time?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYzQtNjE0ZC03MjkxLWJlZTktMzVlODQ1NGM4NGFk.jpg\" alt=\"Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time\"\u003e\u003c/p\u003e\u003cp\u003eGrayscale argues Bitcoin’s market structure has evolved beyond the old four-year rhythm. Institutional flows and macro dynamics have reshaped BTC’s price behavior.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 17:50:00 +0000",
+      "fetched_at": "2025-12-08T18:19:13.1324663Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tether's USDt awarded key regulatory status in Abu Dhabi",
       "link": "https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1666,6 +1675,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 185,
-  "last_update": "2025-12-08T17:50:18.817626261Z"
+  "total_captured": 186,
+  "last_update": "2025-12-08T18:19:13.413201101Z"
 }
