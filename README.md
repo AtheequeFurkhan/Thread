@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-195-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 23:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-197-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 23:12 UTC)*
+*(Updated: 08 Dec 23:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) | 🟢 Positive |
+| **Crypto** | [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) | ⚪ Neutral |
 | **Crypto** | [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
 | **World** | [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) | 🔴 Negative |
-| **Crypto** | [Ripple’s big Singapore win: What the expanded license allows now](https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) (🟢 Positive)
 - [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) (⚪ Neutral)
 - [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) (🟢 Positive)
 - [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) (🔴 Negative)
 - [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) (🟢 Positive)
-- [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US judge asks for clarification on Do Kwon’s foreign charges](https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [StableChain launches mainnet with USDT gas fees, dedicated governance token](https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

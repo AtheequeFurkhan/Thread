@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "This NPR College Podcast Challenge finalist might change how you hear your commute",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute",
+      "category": "Business",
+      "summary": "Student Bennett Cook recorded ambient sounds on his way to campus and found something surprising. His resulting podcast — a finalist in NPR's College Podcast Challenge — may change your commute.",
+      "published": "Mon, 08 Dec 2025 18:26:08 -0500",
+      "fetched_at": "2025-12-08T23:30:16.335924123Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K",
+      "link": "https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMWEtM2NiZS03ZjkwLWFmODQtMzEwNjZmMWQ2N2Ix.jpg\" alt=\"Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin's rejection at the short-term range highs is caused by macroeconomic uncertainty, liquidations and stagnant spot ETF flows. Will clearer signals from the US economy boost BTC volumes?\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 23:16:20 +0000",
+      "fetched_at": "2025-12-08T23:30:15.9719916Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Paramount's hostile bid on Warner Bros",
       "link": "https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros",
       "category": "Business",
@@ -1756,6 +1774,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 195,
-  "last_update": "2025-12-08T23:12:07.766675412Z"
+  "total_captured": 197,
+  "last_update": "2025-12-08T23:30:16.335954159Z"
 }
