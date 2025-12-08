@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tsunami warning after earthquake strikes off Japan",
+      "link": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 7.6 magnitude tremor prompts tsunami warnings and orders to evacuate residents.",
+      "published": "Mon, 08 Dec 2025 17:20:03 GMT",
+      "fetched_at": "2025-12-08T17:34:50.558218764Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "European leaders walk tightrope between backing Ukraine and keeping US on board",
+      "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Europe's leaders are trying to avoid alienating Donald Trump while fighting for Ukrainian sovereignty and future continental stability.",
+      "published": "Mon, 08 Dec 2025 17:01:30 GMT",
+      "fetched_at": "2025-12-08T17:34:50.558207313Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BlackRock files for listing staked Ether ETF",
       "link": "https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1639,6 +1657,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 182,
-  "last_update": "2025-12-08T17:13:56.00657772Z"
+  "total_captured": 184,
+  "last_update": "2025-12-08T17:34:50.558238251Z"
 }

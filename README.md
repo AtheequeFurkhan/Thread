@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 17:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-182-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 17:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-184-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 17:13 UTC)*
+*(Updated: 08 Dec 17:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [BlackRock files for listing staked Ether ETF](https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [The easiest and safest methods for gifting crypto at Christmas in 2025](https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears](https://cointelegraph.com/news/bitcoin-rallies-are-for-selling-top-arguments-btc-market-bears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US Supreme Court hears fight over Trump's power to fire federal agency official](https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
