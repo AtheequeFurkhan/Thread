@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
+      "link": "https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMmMtZjlkZS03YTU5LWIzYmYtZGM3OGZjMzFiOTY4.jpg\" alt=\"Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K\"\u003e\u003c/p\u003e\u003cp\u003eETH price rising to $3,000 drove whales to open 136,433 ETH long bets, as technical indicators suggest a short-term ETH price rally toward $4,000.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 09:12:45 +0000",
+      "fetched_at": "2025-12-08T09:19:38.358480612Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Coinbase mounts a cautious comeback in India, two years after exit",
       "link": "https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1342,6 +1351,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 149,
-  "last_update": "2025-12-08T08:51:21.798233204Z"
+  "total_captured": 150,
+  "last_update": "2025-12-08T09:19:39.28439245Z"
 }
