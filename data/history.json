@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Binance secures ADGM licenses to operate international platform",
+      "link": "https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjNDgtYjg2My03ODNlLTlhMmUtOTMwZjVkZWI5OTlj.jpg\" alt=\"Binance secures ADGM licenses to operate international platform\"\u003e\u003c/p\u003e\u003cp\u003eBinance’s international operations and liquidity will now be supervised end-to-end by the Financial Services Regulatory Authority in the financial free zone in Abu Dhabi.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 07:37:27 +0000",
+      "fetched_at": "2025-12-08T07:50:54.564070296Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Man found guilty of Australian beach murder after hiding in India for years",
       "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1306,6 +1315,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 145,
-  "last_update": "2025-12-08T07:41:47.281422535Z"
+  "total_captured": 146,
+  "last_update": "2025-12-08T07:50:54.769985969Z"
 }
