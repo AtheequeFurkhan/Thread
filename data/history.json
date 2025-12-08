@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Three-year-old girl killed in Gaza by Israeli forces, local sources say",
+      "link": "https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The child was reportedly playing near her family's tent in Mawasi Rafah when she was shot.",
+      "published": "Mon, 08 Dec 2025 20:24:46 GMT",
+      "fetched_at": "2025-12-08T20:36:43.981402195Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US judge asks for clarification on Do Kwon’s foreign charges",
+      "link": "https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmNWEtOTU0ZS03NzFhLThkZDgtNjA0ZTQ3OWYzZjE5.jpg\" alt=\"US judge asks for clarification on Do Kwon’s foreign charges\"\u003e\u003c/p\u003e\u003cp\u003eThe Terraform Labs co-founder could face up to 40 years in prison in South Korea, but a judge questioned whether the country would ignore his US sentence.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 20:16:37 +0000",
+      "fetched_at": "2025-12-08T20:36:43.915547684Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "StableChain launches mainnet with USDT gas fees, dedicated governance token",
       "link": "https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1702,6 +1720,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 189,
-  "last_update": "2025-12-08T20:14:15.083059056Z"
+  "total_captured": 191,
+  "last_update": "2025-12-08T20:36:44.21688582Z"
 }
