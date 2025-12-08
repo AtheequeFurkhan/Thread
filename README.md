@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 08:20 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-147-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 08:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-149-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 08:20 UTC)*
+*(Updated: 08 Dec 08:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **World** | [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Binance secures ADGM licenses to operate international platform](https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO](https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Death of Venezuelan opposition figure in custody 'vile', US says](https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump criticises Democrat he pardoned over not switching political parties](https://www.bbc.com/news/articles/cwyw5vwrp9jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Binance secures ADGM licenses to operate international platform](https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026](https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The future of secure messaging: Why decentralization matters more than ever](https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Philippines’ fastest growing digital bank rolls out crypto services](https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japan protests after Chinese fighter jets lock radar on Japanese planes](https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Water leak in Louvre damages hundreds of books](https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

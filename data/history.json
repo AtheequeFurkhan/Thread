@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Coinbase mounts a cautious comeback in India, two years after exit",
+      "link": "https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjZDQtZGU4MS03MzFiLWE5ZDctMWYwMzk5OGY4NDNh.jpg\" alt=\"Coinbase mounts a cautious comeback in India, two years after exit\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase has reopened India app registrations, with local fiat on-ramps planned for 2026 following a rocky exit more than two years ago.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 08:36:49 +0000",
+      "fetched_at": "2025-12-08T08:51:21.79821504Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "One hundred abducted schoolchildren released in Nigeria",
+      "link": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Details of the release of the schoolchildren are still unclear and 165 people remain unaccounted for.",
+      "published": "Mon, 08 Dec 2025 08:27:57 GMT",
+      "fetched_at": "2025-12-08T08:51:21.115015037Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Woman who blackmailed Son Heung-min gets four years in jail",
       "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1324,6 +1342,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 147,
-  "last_update": "2025-12-08T08:20:03.782923305Z"
+  "total_captured": 149,
+  "last_update": "2025-12-08T08:51:21.798233204Z"
 }
