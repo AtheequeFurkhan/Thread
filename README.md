@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 16:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-180-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 17:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-182-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 16:49 UTC)*
+*(Updated: 08 Dec 17:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [BlackRock files for listing staked Ether ETF](https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [The easiest and safest methods for gifting crypto at Christmas in 2025](https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
 | **World** | [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders](https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [BlackRock files for listing staked Ether ETF](https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [The easiest and safest methods for gifting crypto at Christmas in 2025](https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ripple’s big Singapore win: What the expanded license allows now](https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation](https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [New DePIN protocol rolls out ZK-proof processing marketplace](https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy](https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

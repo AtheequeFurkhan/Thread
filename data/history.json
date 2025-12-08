@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "BlackRock files for listing staked Ether ETF",
+      "link": "https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlNzQtMjQ5Ni03MjNlLWFlMTEtZDBkNzFiNTI3NDA0.jpg\" alt=\"BlackRock files for listing staked Ether ETF\"\u003e\u003c/p\u003e\u003cp\u003eThe fund, if approved by the SEC, would give BlackRock investors indirect exposure to staked Ether — one of the industry’s first following the 2024 approval of spot Ether ETFs.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 16:53:49 +0000",
+      "fetched_at": "2025-12-08T17:13:54.954889659Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The easiest and safest methods for gifting crypto at Christmas in 2025",
+      "link": "https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYmMtZDk5Yy03NDhmLThhNzktMDg4NTU1MTNiNTVi.jpg\" alt=\"The easiest and safest methods for gifting crypto at Christmas in 2025\"\u003e\u003c/p\u003e\u003cp\u003eDiscover safe ways to give crypto in 2025. Learn about gift cards, exchanges, hardware wallets and essential security and tax guidance.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 17:00:00 +0000",
+      "fetched_at": "2025-12-08T17:13:54.954876445Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery",
       "link": "https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix",
       "category": "Business",
@@ -1621,6 +1639,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 180,
-  "last_update": "2025-12-08T16:49:56.17687959Z"
+  "total_captured": 182,
+  "last_update": "2025-12-08T17:13:56.00657772Z"
 }
