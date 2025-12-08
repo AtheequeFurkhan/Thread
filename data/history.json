@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
+      "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.",
+      "published": "Mon, 08 Dec 2025 02:16:15 GMT",
+      "fetched_at": "2025-12-08T02:49:28.166085382Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -1171,6 +1180,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 130,
-  "last_update": "2025-12-08T00:58:37.726335741Z"
+  "total_captured": 131,
+  "last_update": "2025-12-08T02:49:28.523163188Z"
 }
