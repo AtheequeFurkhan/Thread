@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 12:24 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-163-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 13:08 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-166-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 12:24 UTC)*
+*(Updated: 08 Dec 13:08 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders](https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Binance secures ADGM licenses to operate international platform](https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Man found guilty of Australian beach murder after hiding in India for years](https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Japan protests after Chinese fighter jets lock radar on Japanese planes](https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders](https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Can panic wallets stop a wrench? Why crypto’s next security debate is physical](https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto funds log second week of inflows after massive $5.5B sell-off](https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US Treasurys lead tokenization wave as CoinShares predicts 2026 growth](https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/did-btc-santa-rally-start-89k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
+- [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thieves snatch eight Matisse artworks from library in Brazil](https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands flee Thai-Cambodia border after deadly clashes](https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Syrians share their thoughts one year on from the fall of Assad](https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

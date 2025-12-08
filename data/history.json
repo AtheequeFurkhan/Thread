@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Hunt under way for Benin coup plotters and their hostages",
+      "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Nigeria sent fighter jets to help oust the mutineers from the national broadcaster and a military camp.",
+      "published": "Mon, 08 Dec 2025 12:42:28 GMT",
+      "fetched_at": "2025-12-08T13:08:54.479061519Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Argentina weighs letting traditional banks trade crypto: Report",
+      "link": "https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkNTEtZGVhNC03YmM3LWJiODktNTAzNGE0NzBjMjhl.jpg\" alt=\"Argentina weighs letting traditional banks trade crypto: Report\"\u003e\u003c/p\u003e\u003cp\u003eArgentina’s central bank is reportedly considering whether to allow traditional financial institutions to offer crypto services, marking the potential lifting of a ban.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 12:47:35 +0000",
+      "fetched_at": "2025-12-08T13:08:54.431643626Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
+      "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges.",
+      "published": "Mon, 08 Dec 2025 12:19:21 GMT",
+      "fetched_at": "2025-12-08T13:08:54.221443333Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Thieves snatch eight Matisse artworks from library in Brazil",
       "link": "https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1468,6 +1495,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 163,
-  "last_update": "2025-12-08T12:24:51.982547101Z"
+  "total_captured": 166,
+  "last_update": "2025-12-08T13:08:54.479079403Z"
 }
