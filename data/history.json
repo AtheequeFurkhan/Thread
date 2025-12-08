@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "New DePIN protocol rolls out ZK-proof processing marketplace",
+      "link": "https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjItNmQ5MS03NjdkLWEwOWYtZDc3ZWY4ZWZjNmY3.jpg\" alt=\"New DePIN protocol rolls out ZK-proof processing marketplace\"\u003e\u003c/p\u003e\u003cp\u003eBrevis has launched ProverNet, a ZK-proof marketplace where provers can earn by computing proofs and apps can buy proving capacity.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 14:56:31 +0000",
+      "fetched_at": "2025-12-08T15:14:16.609588639Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy",
       "link": "https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1549,6 +1558,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 172,
-  "last_update": "2025-12-08T14:53:57.026869435Z"
+  "total_captured": 173,
+  "last_update": "2025-12-08T15:14:16.969025575Z"
 }
