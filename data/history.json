@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "StableChain launches mainnet with USDT gas fees, dedicated governance token",
+      "link": "https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2MtMmY5Ny03OGJmLTg4N2ItMzc5YmZjMmY1ZTJi.jpg\" alt=\"StableChain launches mainnet with USDT gas fees, dedicated governance token\"\u003e\u003c/p\u003e\u003cp\u003eThe USDT-powered network launches with support from Bitfinex, Hack VC, Tether executives and other investors following a $28 million seed round.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 19:53:52 +0000",
+      "fetched_at": "2025-12-08T20:14:15.072173329Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watchdog asks for crypto industry feedback on UK investment reforms",
       "link": "https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1693,6 +1702,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 188,
-  "last_update": "2025-12-08T19:47:22.23671361Z"
+  "total_captured": 189,
+  "last_update": "2025-12-08T20:14:15.083059056Z"
 }
