@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Binance suspends employee over using insider information for personal gain",
+      "link": "https://cointelegraph.com/news/binance-suspends-employee-whistleblower-insider-probe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMTMtMjJjZS03ZGZlLWIzYWMtYzdhZDNiNjFiMzBl.jpg\" alt=\"Binance suspends employee over using insider information for personal gain\"\u003e\u003c/p\u003e\u003cp\u003eBinance has suspended an employee and alerted authorities after an internal probe found the staffer allegedly used insider information to publish a post from an official account.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 13:34:49 +0000",
+      "fetched_at": "2025-12-08T13:46:19.956089679Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears",
+      "link": "https://cointelegraph.com/news/bitcoin-rallies-are-for-selling-top-arguments-btc-market-bears?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkYjEtZmU5ZC03M2VkLWJjMDEtOWE0MjNiMGJhNWZk.jpg\" alt=\"Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears\"\u003e\u003c/p\u003e\u003cp\u003eMany analysts say BTC’s rebound is a bull trap, warning its price could fall to as low as $40,000 over the coming months.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 13:35:02 +0000",
+      "fetched_at": "2025-12-08T13:46:19.956071585Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Hunt under way for Benin coup plotters and their hostages",
       "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1495,6 +1513,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 166,
-  "last_update": "2025-12-08T13:08:54.479079403Z"
+  "total_captured": 168,
+  "last_update": "2025-12-08T13:46:20.422849904Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 13:08 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-166-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 13:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-168-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 13:08 UTC)*
+*(Updated: 08 Dec 13:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Binance suspends employee over using insider information for personal gain](https://cointelegraph.com/news/binance-suspends-employee-whistleblower-insider-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears](https://cointelegraph.com/news/bitcoin-rallies-are-for-selling-top-arguments-btc-market-bears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Hunt under way for Benin coup plotters and their hostages](https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Circle and Bybit deepen USDC partnership as stablecoin nears $80B](https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K](https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [One hundred abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Woman who blackmailed Son Heung-min gets four years in jail](https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Binance suspends employee over using insider information for personal gain](https://cointelegraph.com/news/binance-suspends-employee-whistleblower-insider-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears](https://cointelegraph.com/news/bitcoin-rallies-are-for-selling-top-arguments-btc-market-bears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Argentina weighs letting traditional banks trade crypto: Report](https://cointelegraph.com/news/argentina-weighs-reversing-bank-level-crypto-ban-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders](https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Can panic wallets stop a wrench? Why crypto’s next security debate is physical](https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto funds log second week of inflows after massive $5.5B sell-off](https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [US Treasurys lead tokenization wave as CoinShares predicts 2026 growth](https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
