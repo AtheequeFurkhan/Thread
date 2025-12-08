@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Circle and Bybit deepen USDC partnership as stablecoin nears $80B",
+      "link": "https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMjQtOTRiNi03OGM3LWFmNDYtZjg3MjNlNzcxNDA5.jpg\" alt=\"Circle and Bybit deepen USDC partnership as stablecoin nears $80B\"\u003e\u003c/p\u003e\u003cp\u003eBybit plans deeper USDC adoption for trading and payments, with the stablecoin “already embedded” across its ecosystem.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 09:37:16 +0000",
+      "fetched_at": "2025-12-08T09:47:14.477314986Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
       "link": "https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1351,6 +1360,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 150,
-  "last_update": "2025-12-08T09:19:39.28439245Z"
+  "total_captured": 151,
+  "last_update": "2025-12-08T09:47:14.815357243Z"
 }
