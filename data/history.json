@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Woman who blackmailed Son Heung-min gets four years in jail",
+      "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him.",
+      "published": "Mon, 08 Dec 2025 08:03:10 GMT",
+      "fetched_at": "2025-12-08T08:20:03.342127243Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Binance secures ADGM licenses to operate international platform",
       "link": "https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1315,6 +1324,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 146,
-  "last_update": "2025-12-08T07:50:54.769985969Z"
+  "total_captured": 147,
+  "last_update": "2025-12-08T08:20:03.782923305Z"
 }
