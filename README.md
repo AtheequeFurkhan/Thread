@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 02:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-131-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 03:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-135-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 02:49 UTC)*
+*(Updated: 08 Dec 03:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes](https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Trump’s national security strategy is silent on crypto, blockchain](https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Robinhood set to enter Indonesia, targeting 17M crypto traders](https://cointelegraph.com/news/robinhood-enters-indonesia-with-dual-acquisition-targeting-17m-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO](https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Death of Venezuelan opposition figure in custody 'vile', US says](https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Business** | [Here's what the Netflix-Warner Brothers deal means for consumers](https://www.npr.org/2025/12/05/nx-s1-5634617/heres-what-the-netflix-warner-brothers-deal-means-for-consumers) | 🟢 Positive |
 | **Business** | [7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors](https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre) | ⚪ Neutral |
 | **Business** | [Waymo will recall software after its self-driving cars passed stopped school buses](https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall) | 🔴 Negative |
-| **World** | [Watch: Flames and thick smoke surround plane in Brazil after fire breaks out](https://www.bbc.com/news/videos/c20gw2xqp1wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['I don't want to be part of this war machine': Young Germans protest against military service plans](https://www.bbc.com/news/videos/cx25031x23ro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Bethlehem Christmas tree illuminated for first time since Gaza war began](https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['We've lost everything': Australia wildfire rips through homes](https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes](https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Trump’s national security strategy is silent on crypto, blockchain](https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Robinhood set to enter Indonesia, targeting 17M crypto traders](https://cointelegraph.com/news/robinhood-enters-indonesia-with-dual-acquisition-targeting-17m-crypto-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO](https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone](https://cointelegraph.com/news/crypto-other-halving-bittensor-maturation-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [WisdomTree brings options income strategy onchain with new tokenized fund](https://cointelegraph.com/news/wisdomtree-tokenized-options-income-fund-epxc-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Polish lawmakers fail to revive controversial crypto bill after presidential veto](https://cointelegraph.com/news/polish-lawmakers-fail-crypto-bill-presidential-veto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Polymarket plans to use in-house market maker to trade against users: Report](https://cointelegraph.com/news/polymarket-in-house-market-making-desk-trade-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Is Bitcoin shifting to a 2-year cycle?](https://cointelegraph.com/news/bitcoin-shifting-2-year-cycle-video?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
