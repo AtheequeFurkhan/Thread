@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "XRP needs a Solana-style strategy to keep up: Ripple executive",
+      "link": "https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2EtYmQzNy03MzkzLThjZDEtYzk2MmQyYzhkODM0.jpg\" alt=\"XRP needs a Solana-style strategy to keep up: Ripple executive\"\u003e\u003c/p\u003e\u003cp\u003eLuke Judges highlights how XRP Ledger’s tech and developer tools could take cues from Solana to stay competitive among layer-1 networks.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 18:40:00 +0000",
+      "fetched_at": "2025-12-08T18:50:24.61449658Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time",
       "link": "https://cointelegraph.com/news/why-grayscale-thinks-bitcoin-will-ignore-the-4-year-cycle-this-time?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1675,6 +1684,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 186,
-  "last_update": "2025-12-08T18:19:13.413201101Z"
+  "total_captured": 187,
+  "last_update": "2025-12-08T18:50:24.996542841Z"
 }
