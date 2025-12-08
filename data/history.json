@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tether's USDt awarded key regulatory status in Abu Dhabi",
+      "link": "https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2QtYjQ4OS03Mzg0LThmNzMtMTQ5NDFmYzIzNzQ0.jpg\" alt=\"Tether's USDt awarded key regulatory status in Abu Dhabi\"\u003e\u003c/p\u003e\u003cp\u003eADGM’s recognition of USDT as an accepted fiat-referenced token lets licensed companies offer regulated custody, marking a step for stablecoins in the UAE.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 17:44:14 +0000",
+      "fetched_at": "2025-12-08T17:50:14.315136611Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tsunami warning after earthquake strikes off Japan",
       "link": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1657,6 +1666,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 184,
-  "last_update": "2025-12-08T17:34:50.558238251Z"
+  "total_captured": 185,
+  "last_update": "2025-12-08T17:50:18.817626261Z"
 }
