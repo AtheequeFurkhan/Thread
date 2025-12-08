@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 10:43 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-158-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 10:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-159-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 10:43 UTC)*
+*(Updated: 08 Dec 10:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto funds log second week of inflows after massive $5.5B sell-off](https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [White South Africans divided on US refugee offer](https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems](https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Zelensky due at Downing Street for high-level Ukraine talks](https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin bulls must defend key level to avoid $76K, say analysts](https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto funds log second week of inflows after massive $5.5B sell-off](https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US Treasurys lead tokenization wave as CoinShares predicts 2026 growth](https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/did-btc-santa-rally-start-89k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Circle and Bybit deepen USDC partnership as stablecoin nears $80B](https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K](https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase mounts a cautious comeback in India, two years after exit](https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

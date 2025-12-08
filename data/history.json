@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto funds log second week of inflows after massive $5.5B sell-off",
+      "link": "https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkNjktYjZjYS03YmVmLWI5ZGItMTlmMDQwOWRiM2Mx.jpg\" alt=\"Crypto funds log second week of inflows after massive $5.5B sell-off\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin led the $716 million of inflows to crypto ETPs last week, while Chainlink saw record gains, accounting for more than 50% of its AUM.\u003c/p\u003e",
+      "published": "Mon, 08 Dec 2025 10:54:18 +0000",
+      "fetched_at": "2025-12-08T10:55:45.207453482Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -1423,6 +1432,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 158,
-  "last_update": "2025-12-08T10:43:18.409034962Z"
+  "total_captured": 159,
+  "last_update": "2025-12-08T10:55:45.543790714Z"
 }
