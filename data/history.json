@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Paramount's hostile bid on Warner Bros",
+      "link": "https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros",
+      "category": "Business",
+      "summary": "It only took a weekend. Paramount is jumping into the fray with a hostile takeover bid, challenging Netflix's deal to buy Warner Bros. Discovery. Paramount's offer is valued at over $108 billion.",
+      "published": "Mon, 08 Dec 2025 17:40:28 -0500",
+      "fetched_at": "2025-12-08T22:49:51.97691918Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Saylor pitches Bitcoin-backed banking system to nation-states",
       "link": "https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1747,6 +1756,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 194,
-  "last_update": "2025-12-08T22:34:16.164726029Z"
+  "total_captured": 195,
+  "last_update": "2025-12-08T22:49:51.976931954Z"
 }

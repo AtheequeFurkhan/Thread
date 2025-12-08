@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 22:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-194-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-08 Dec 22:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-195-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 22:34 UTC)*
+*(Updated: 08 Dec 22:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) | ⚪ Neutral |
 | **Crypto** | [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC](https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) | 🔴 Negative |
 | **Crypto** | [Ripple’s big Singapore win: What the expanded license allows now](https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation](https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) (⚪ Neutral)
 - [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) (🟢 Positive)
 - [China's trade surplus hits $1 trillion for first time ever](https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs) (🔴 Negative)
 - [Netflix is buying Warner Bros. What it could mean for the entertainment industry](https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry) (🟢 Positive)
 - [Supreme Court to hear case that could vastly expand presidential powers](https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive) (⚪ Neutral)
-- [In an era of rising prices, computers have gotten cheaper. (And why that may end)](https://www.npr.org/2025/12/04/nx-s1-5609211/cost-of-living-cheaper-computers) (🔴 Negative)
 
 
 ### 📂 Crypto
