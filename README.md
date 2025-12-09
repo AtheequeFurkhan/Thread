@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 05:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-214-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 06:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-215-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 05:50 UTC)*
+*(Updated: 09 Dec 06:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO](https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Goa nightclub owners fled to Thailand hours after deadly fire, police say](https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin peeled off exchanges this year in ‘positive long-term sign’](https://cointelegraph.com/news/bitcoin-exchange-outflows-etf-accumulation-supply-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ukraine prepares new peace plan as Zelensky rules out giving up land](https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) | 🟢 Positive |
 | **Crypto** | [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO](https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin peeled off exchanges this year in ‘positive long-term sign’](https://cointelegraph.com/news/bitcoin-exchange-outflows-etf-accumulation-supply-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether deepens AI bet, backs Italian firm’s humanoid robots](https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Polymarket trading figures are being ‘double-counted ’: Paradigm](https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
