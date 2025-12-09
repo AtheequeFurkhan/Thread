@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M",
+      "link": "https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyM2ItYjg2OC03YjZlLWJmZWMtMjNlNmVlNzE0ZmJm.jpg\" alt=\"HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M\"\u003e\u003c/p\u003e\u003cp\u003eHashKey opens IPO subscriptions as it seeks to raise $214.7 million, valuing Hong Kong’s biggest crypto exchange at about $2.5 billion.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 10:46:17 +0000",
+      "fetched_at": "2025-12-09T10:55:15.732499741Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Will Zcash's ZEC return to $500 or higher before 2026?",
       "link": "https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2008,6 +2017,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 223,
-  "last_update": "2025-12-09T10:43:00.403781316Z"
+  "total_captured": 224,
+  "last_update": "2025-12-09T10:55:15.73852782Z"
 }
