@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Securitize hires former PayPal exec as US tokenization gains traction",
+      "link": "https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzNWItZWUyZC03MmU1LWIwZjktMmExY2ZkYmE2YzFh.jpg\" alt=\"Securitize hires former PayPal exec as US tokenization gains traction\"\u003e\u003c/p\u003e\u003cp\u003eSecuritize hires former PayPal executive Jerome Roche as it expands regulated tokenized securities for US investors and builds on fresh approvals in Europe.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 14:45:34 +0000",
+      "fetched_at": "2025-12-09T14:55:35.408840996Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded",
       "link": "https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2197,6 +2206,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 244,
-  "last_update": "2025-12-09T14:41:38.251124497Z"
+  "total_captured": 245,
+  "last_update": "2025-12-09T14:55:35.805577984Z"
 }
