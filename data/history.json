@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Real Finance secures $29M to build institutional rails for tokenized assets",
+      "link": "https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkNjktYjZjYS03YmVmLWI5ZGItMTlmMDQwOWRiM2Mx.jpg\" alt=\"Real Finance secures $29M to build institutional rails for tokenized assets\"\u003e\u003c/p\u003e\u003cp\u003eReal Finance’s raise comes as tokenization accelerates and institutions push deeper into RWAs, including fast-growing money market funds.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 21:30:13 +0000",
+      "fetched_at": "2025-12-09T21:41:20.286862613Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ethereum network sees 62% drop in fees: Is ETH price at risk?",
       "link": "https://cointelegraph.com/news/eth-network-sees-62percent-fee-drop-is-ether-price-at-risk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2368,6 +2377,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 263,
-  "last_update": "2025-12-09T21:30:09.572259078Z"
+  "total_captured": 264,
+  "last_update": "2025-12-09T21:41:20.452815489Z"
 }
