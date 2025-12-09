@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
+      "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ukraine barely has a hold on Pokrovsk, but its forces are keen to show they are still resisting Russia's advance.",
+      "published": "Tue, 09 Dec 2025 09:13:18 GMT",
+      "fetched_at": "2025-12-09T09:42:58.609753965Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
       "link": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1981,6 +1990,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 220,
-  "last_update": "2025-12-09T09:16:10.260803589Z"
+  "total_captured": 221,
+  "last_update": "2025-12-09T09:42:59.360829199Z"
 }

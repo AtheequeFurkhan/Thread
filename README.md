@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 09:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-220-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 09:42 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-221-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 09:16 UTC)*
+*(Updated: 09 Dec 09:42 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia](https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [UN environment report 'hijacked' by US and others over fossil fuels, top scientist says](https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push](https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Why are Thailand and Cambodia fighting at the border?](https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [OCC boss says ‘no justification’ to judge banks and crypto differently](https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia](https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UN environment report 'hijacked' by US and others over fossil fuels, top scientist says](https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Why are Thailand and Cambodia fighting at the border?](https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Goa nightclub owners fled to Thailand hours after deadly fire, police say](https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ukraine prepares new peace plan as Zelensky rules out giving up land](https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor](https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
