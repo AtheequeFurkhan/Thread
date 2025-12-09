@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 14:55 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-245-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 15:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-247-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 14:55 UTC)*
+*(Updated: 09 Dec 15:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Jack Maller’s Twenty One Capital debuts on NYSE](https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Securitize hires former PayPal exec as US tokenization gains traction](https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Jakarta office fire kills at least 22, police confirm](https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps](https://cointelegraph.com/news/bitcoin-bear-flag-pattern-targets-67k-btc-spot-demand-slumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research](https://cointelegraph.com/news/prediction-markets-polymarket-retail-insider-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Are we in a recession? Maybe professional Santas can tell us](https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Jack Maller’s Twenty One Capital debuts on NYSE](https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Securitize hires former PayPal exec as US tokenization gains traction](https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How prediction markets raise insider trading and credit risks](https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto nears its ‘Netscape moment’ as industry approaches inflection point](https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury](https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack](https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Congress ups pressure to release boat strike video with threat to Hegseth's travel budget](https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "French feminists outraged by Brigitte Macron's comment about activists",
+      "link": "https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "There has been pushback to the term used by France's first lady to describe activists who interrupted comedian Ary Abittan's show.",
+      "published": "Tue, 09 Dec 2025 14:55:24 GMT",
+      "fetched_at": "2025-12-09T15:15:18.031380922Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Jack Maller’s Twenty One Capital debuts on NYSE",
+      "link": "https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAxNzItYzY2Yi03NjUyLWIwNGUtZmE0MTMwMjA3OWUz.jpg\" alt=\"Jack Maller’s Twenty One Capital debuts on NYSE\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital launched on the NYSE with strong institutional backing and a massive Bitcoin treasury.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 15:00:24 +0000",
+      "fetched_at": "2025-12-09T15:15:18.006137745Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Securitize hires former PayPal exec as US tokenization gains traction",
       "link": "https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2206,6 +2224,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 245,
-  "last_update": "2025-12-09T14:55:35.805577984Z"
+  "total_captured": 247,
+  "last_update": "2025-12-09T15:15:18.243517474Z"
 }
