@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Senator Lummis anticipates crypto market structure markup next week",
+      "link": "https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzYWMtMGNmYy03MWZiLTk0YTItZTQ1NjRhM2JjYmRj.jpg\" alt=\"Senator Lummis anticipates crypto market structure markup next week\"\u003e\u003c/p\u003e\u003cp\u003e“Our staffs are exhausted,” said the Wyoming senator at the Blockchain Association Policy Summit on Tuesday, speaking on the progress of the crypto bill.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 16:28:59 +0000",
+      "fetched_at": "2025-12-09T16:48:40.302538169Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Circle moves toward privacy-focused stablecoin with USDCx project",
+      "link": "https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzZTItYzMyMy03Y2JjLTg1YmYtZmVjNzAyZWJlZWU4.jpg\" alt=\"Circle moves toward privacy-focused stablecoin with USDCx project\"\u003e\u003c/p\u003e\u003cp\u003eA new Circle–Aleo stablecoin project highlights the growing demand for privacy features as firms weigh blockchain use against the risks of transparency.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 16:40:00 +0000",
+      "fetched_at": "2025-12-09T16:48:40.30251193Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Google unveils plans to try again with smart glasses in 2026",
+      "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015.",
+      "published": "Tue, 09 Dec 2025 16:34:53 GMT",
+      "fetched_at": "2025-12-09T16:48:40.141860796Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Trump criticises 'weak' European leaders over Ukraine and immigration",
       "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2242,6 +2269,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 249,
-  "last_update": "2025-12-09T16:17:02.27048807Z"
+  "total_captured": 252,
+  "last_update": "2025-12-09T16:48:40.814508976Z"
 }

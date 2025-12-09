@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 16:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-249-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 16:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-252-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 16:17 UTC)*
+*(Updated: 09 Dec 16:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?](https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Hong Kong launches CARF crypto tax consultation to combat evasion](https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Trump to address affordability. And, the significance of Indiana's redistricting fight](https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting) | ⚪ Neutral |
 | **World** | [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Burkina Faso accuses Nigerian Air Force of violating its airspace](https://www.bbc.com/news/articles/cpvdl74gxz9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Tanzania crackdown on planned protest leaves streets deserted](https://www.bbc.com/news/articles/cx2e3j819eqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Jakarta office fire kills at least 22, police confirm](https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?](https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Jack Maller’s Twenty One Capital debuts on NYSE](https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Securitize hires former PayPal exec as US tokenization gains traction](https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [How prediction markets raise insider trading and credit risks](https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto nears its ‘Netscape moment’ as industry approaches inflection point](https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
