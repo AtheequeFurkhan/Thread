@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Why are Thailand and Cambodia fighting at the border?",
+      "link": "https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The roots of the South East Asian neighbours' dispute go back more than a century.",
+      "published": "Tue, 09 Dec 2025 07:58:35 GMT",
+      "fetched_at": "2025-12-09T08:50:00.620806662Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025",
       "link": "https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1954,6 +1963,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 217,
-  "last_update": "2025-12-09T08:18:49.892602342Z"
+  "total_captured": 218,
+  "last_update": "2025-12-09T08:50:00.980213229Z"
 }
