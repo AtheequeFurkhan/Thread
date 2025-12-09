@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025",
+      "link": "https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyMTMtNDA4Ni03ZDlhLTk2MjItYWM3MDFlNWU1NDY1.jpg\" alt=\"Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin retail investors have been sending fewer BTC to Binance per day than at any time in history, despite the new highs of the 2025 bull market.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 07:59:44 +0000",
+      "fetched_at": "2025-12-09T08:18:49.892581193Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
+      "link": "https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAxY2QtYzBiNC03ZTk2LWJkNDgtMTAyYTQwYTBkMjA3.jpg\" alt=\"NFT winter deepens: Monthly sales hit lowest point of the year\"\u003e\u003c/p\u003e\u003cp\u003eNFT sales fell to $320 million in November — their lowest this year — with early December off to a weak start as top collections slide across the board.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 08:08:46 +0000",
+      "fetched_at": "2025-12-09T08:18:49.89256339Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO",
       "link": "https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1936,6 +1954,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 215,
-  "last_update": "2025-12-09T07:49:14.465951752Z"
+  "total_captured": 217,
+  "last_update": "2025-12-09T08:18:49.892602342Z"
 }
