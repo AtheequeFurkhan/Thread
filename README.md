@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 23:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-266-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 23:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-269-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 23:30 UTC)*
+*(Updated: 09 Dec 23:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys](https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Czech billionaire becomes PM with promise to cut ties to business empire](https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Real Finance secures $29M to build institutional rails for tokenized assets](https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?](https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Czech billionaire becomes PM with promise to cut ties to business empire](https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Nobel officials unsure when Peace Prize winner will arrive for ceremony](https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [These young Australians grew up with social media - what do they think of the ban?](https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Lithuania declares emergency situation over Belarus balloons](https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
