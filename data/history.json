@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "New ETF proposal bets Bitcoin returns are made after hours",
+      "link": "https://cointelegraph.com/news/bitcoin-afterdark-etf-overnight-market-hours?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0NzItYjMxYS03MDQ4LTlmMDYtYWQ0M2ZlNDIwZTU0.jpg\" alt=\"New ETF proposal bets Bitcoin returns are made after hours\"\u003e\u003c/p\u003e\u003cp\u003eETF analyst Eric Balchuas said there was a chance that such an investment vehicle “could put up better [returns]” based on BTC price moves after trading hours.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 20:55:16 +0000",
+      "fetched_at": "2025-12-09T21:11:04.758736865Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "US bank regulator clears national banks to facilitate crypto transactions",
       "link": "https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2350,6 +2359,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 261,
-  "last_update": "2025-12-09T20:47:38.502643236Z"
+  "total_captured": 262,
+  "last_update": "2025-12-09T21:11:05.04817626Z"
 }
