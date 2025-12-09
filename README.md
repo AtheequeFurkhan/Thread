@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 02:46 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-206-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 03:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-208-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 02:46 UTC)*
+*(Updated: 09 Dec 03:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'](https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [US judge asks for clarification on Do Kwon’s foreign charges](https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [StableChain launches mainnet with USDT gas fees, dedicated governance token](https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Watchdog asks for crypto industry feedback on UK investment reforms](https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [XRP needs a Solana-style strategy to keep up: Ripple executive](https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'](https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

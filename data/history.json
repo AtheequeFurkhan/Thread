@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US deports second group of Iranian nationals, officials say",
+      "link": "https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A chartered plane carrying more than 50 Iranians flew out of Mesa, Arizona, on Sunday.",
+      "published": "Tue, 09 Dec 2025 02:40:54 GMT",
+      "fetched_at": "2025-12-09T03:46:42.906328123Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'",
+      "link": "https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The president also threatened to hit Mexico with an extra 5% tariff in a row over water supplies to US farmers.",
+      "published": "Tue, 09 Dec 2025 03:06:45 GMT",
+      "fetched_at": "2025-12-09T03:46:42.906320468Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Nasa astronaut and cosmonauts begin voyage back to Earth",
       "link": "https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1855,6 +1873,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 206,
-  "last_update": "2025-12-09T02:46:33.131267646Z"
+  "total_captured": 208,
+  "last_update": "2025-12-09T03:46:43.44681335Z"
 }
