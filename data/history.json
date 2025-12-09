@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Does Japan's megaquake warning mean the 'big one' is coming?",
+      "link": "https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An alert issued this week has caught the attention of a country used to earthquake warnings.",
+      "published": "Tue, 09 Dec 2025 11:51:10 GMT",
+      "fetched_at": "2025-12-09T13:47:07.65539794Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto nears its ‘Netscape moment’ as industry approaches inflection point",
+      "link": "https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzMjAtMjkwMy03ZDk1LTg3ZTgtMjgwMTg1MzVjYWQ2.jpg\" alt=\"Crypto nears its ‘Netscape moment’ as industry approaches inflection point\"\u003e\u003c/p\u003e\u003cp\u003eCrypto is at a mainstream tipping point due to the emergence of regulated investment products, according to Matt Huang of Paradigm.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 13:26:29 +0000",
+      "fetched_at": "2025-12-09T13:47:07.443982038Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury",
+      "link": "https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyZWYtZjkxNy03Nzc0LTkxNzUtYzgzYzRmM2VmYjU4.jpg\" alt=\"Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury\"\u003e\u003c/p\u003e\u003cp\u003eMalaysia’s crown prince launches a stablecoin on Zetrix and a $121 million digital asset treasury modeled after MicroStrategy despite sector bubble fears.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 13:43:25 +0000",
+      "fetched_at": "2025-12-09T13:47:07.443962242Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
       "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2143,6 +2170,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 238,
-  "last_update": "2025-12-09T13:10:20.652074739Z"
+  "total_captured": 241,
+  "last_update": "2025-12-09T13:47:07.800863189Z"
 }
