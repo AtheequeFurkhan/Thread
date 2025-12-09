@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys",
+      "link": "https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0ZWEtYzkzYS03M2I0LWFlYTYtM2U0NTg4YmRhMTUy.jpg\" alt=\"Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys\"\u003e\u003c/p\u003e\u003cp\u003eThe latest trial explored multiple stablecoins and showed tokenized US Treasurys can be reused instantly across counterparties on shared infrastructure.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 22:02:56 +0000",
+      "fetched_at": "2025-12-09T22:13:04.587093422Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Czech billionaire becomes PM with promise to cut ties to business empire",
       "link": "https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2386,6 +2395,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 265,
-  "last_update": "2025-12-09T21:48:32.955642427Z"
+  "total_captured": 266,
+  "last_update": "2025-12-09T22:13:04.587119837Z"
 }

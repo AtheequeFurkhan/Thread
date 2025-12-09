@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 21:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-265-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 22:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-266-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 21:48 UTC)*
+*(Updated: 09 Dec 22:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys](https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Czech billionaire becomes PM with promise to cut ties to business empire](https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Real Finance secures $29M to build institutional rails for tokenized assets](https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ethereum network sees 62% drop in fees: Is ETH price at risk?](https://cointelegraph.com/news/eth-network-sees-62percent-fee-drop-is-ether-price-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?](https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Jack Maller’s Twenty One Capital debuts on NYSE](https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys](https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Real Finance secures $29M to build institutional rails for tokenized assets](https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum network sees 62% drop in fees: Is ETH price at risk?](https://cointelegraph.com/news/eth-network-sees-62percent-fee-drop-is-ether-price-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [New ETF proposal bets Bitcoin returns are made after hours](https://cointelegraph.com/news/bitcoin-afterdark-etf-overnight-market-hours?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US bank regulator clears national banks to facilitate crypto transactions](https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
