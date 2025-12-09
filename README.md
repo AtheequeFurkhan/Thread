@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 11:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-224-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 11:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-225-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 11:12 UTC)*
+*(Updated: 09 Dec 11:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Polygon deploys Madhugiri hard fork, aims for 33% throughput boost](https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M](https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Will Zcash's ZEC return to $500 or higher before 2026?](https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [CCTV shows Matisse heist suspects making off with artworks on foot](https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'](https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Polygon deploys Madhugiri hard fork, aims for 33% throughput boost](https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M](https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Will Zcash's ZEC return to $500 or higher before 2026?](https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push](https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025](https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [NFT winter deepens: Monthly sales hit lowest point of the year](https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
