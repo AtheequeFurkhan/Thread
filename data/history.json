@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor",
+      "link": "https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It was not clear if he would stay in his rent-stabilised apartment in the borough of Queens.",
+      "published": "Tue, 09 Dec 2025 03:53:58 GMT",
+      "fetched_at": "2025-12-09T04:21:24.164865035Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Polymarket trading figures are being ‘double-counted ’: Paradigm",
+      "link": "https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg\" alt=\"Polymarket trading figures are being ‘double-counted ’: Paradigm\"\u003e\u003c/p\u003e\u003cp\u003eParadigm researchers found that major analytics dashboards are double-counting Polymarket’s trading volume due to redundant blockchain events.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 04:02:43 +0000",
+      "fetched_at": "2025-12-09T04:21:24.110309435Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US deports second group of Iranian nationals, officials say",
       "link": "https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1873,6 +1891,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 208,
-  "last_update": "2025-12-09T03:46:43.44681335Z"
+  "total_captured": 210,
+  "last_update": "2025-12-09T04:21:24.443897762Z"
 }
