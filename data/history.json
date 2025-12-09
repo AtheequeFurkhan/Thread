@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "These young Australians grew up with social media - what do they think of the ban?",
+      "link": "https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC took to the streets of Sydney to find out what young people aged between 18 and 20 think of Australia’s under-16s social media ban.",
+      "published": "Tue, 09 Dec 2025 19:00:08 GMT",
+      "fetched_at": "2025-12-09T19:09:40.883462431Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "UK crypto lobbying group joins Digital Chamber in cross-border policy push",
+      "link": "https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxYjYtOGVkZi03ZjRjLTk4NDQtYWEyMTljNTIwNzU5.jpg\" alt=\"UK crypto lobbying group joins Digital Chamber in cross-border policy push\"\u003e\u003c/p\u003e\u003cp\u003eThe partnership between the two advocacy groups was the latest move in efforts by US and UK policymakers to work closer together on crypto regulation.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 18:50:00 +0000",
+      "fetched_at": "2025-12-09T19:09:40.845697495Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading",
       "link": "https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2305,6 +2323,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 256,
-  "last_update": "2025-12-09T18:49:06.360582067Z"
+  "total_captured": 258,
+  "last_update": "2025-12-09T19:09:41.282820811Z"
 }

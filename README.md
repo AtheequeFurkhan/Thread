@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 18:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-256-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 19:09 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-258-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 18:49 UTC)*
+*(Updated: 09 Dec 19:09 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [These young Australians grew up with social media - what do they think of the ban?](https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading](https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin’s back above $94K: Is the BTC bull run back on?](https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration](https://cointelegraph.com/news/pnc-bitcoin-trading-bank-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto nears its ‘Netscape moment’ as industry approaches inflection point](https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury](https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Congress ups pressure to release boat strike video with threat to Hegseth's travel budget](https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack](https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading](https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin’s back above $94K: Is the BTC bull run back on?](https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration](https://cointelegraph.com/news/pnc-bitcoin-trading-bank-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [These young Australians grew up with social media - what do they think of the ban?](https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Lithuania declares emergency situation over Belarus balloons](https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
