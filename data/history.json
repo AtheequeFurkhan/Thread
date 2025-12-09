@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Czech billionaire becomes PM with promise to cut ties to business empire",
+      "link": "https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "If he honours his pledge, he will no longer benefit from the sale of any Agrofert product, from frankfurters to fertiliser.",
+      "published": "Tue, 09 Dec 2025 19:00:56 GMT",
+      "fetched_at": "2025-12-09T21:48:32.383380932Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Real Finance secures $29M to build institutional rails for tokenized assets",
       "link": "https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2377,6 +2386,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 264,
-  "last_update": "2025-12-09T21:41:20.452815489Z"
+  "total_captured": 265,
+  "last_update": "2025-12-09T21:48:32.955642427Z"
 }
