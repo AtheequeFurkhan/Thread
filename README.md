@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-08 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-198-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 00:58 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-202-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 08 Dec 23:48 UTC)*
+*(Updated: 09 Dec 00:58 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) | 🟢 Positive |
 | **Crypto** | [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [Tether's USDt awarded key regulatory status in Abu Dhabi](https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [BlackRock files for listing staked Ether ETF](https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [The easiest and safest methods for gifting crypto at Christmas in 2025](https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix) | 🟢 Positive |
-| **World** | [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Paramount launches rival bid for Warner Bros Discovery](https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
@@ -87,6 +87,7 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-09.md | [View Log](data/2025-12-09.md) |
 | 2025-12-08.md | [View Log](data/2025-12-08.md) |
 | 2025-12-07.md | [View Log](data/2025-12-07.md) |
 

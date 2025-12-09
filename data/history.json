@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "A wage for housework? India's sweeping experiment in paying women",
+      "link": "https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Some 118 million women in 12 Indian states receive unconditional cash transfers, one of the world’s largest experiments.",
+      "published": "Tue, 09 Dec 2025 00:29:08 GMT",
+      "fetched_at": "2025-12-09T00:58:00.589730863Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Sudan air force bombing of towns, markets and schools has killed hundreds, report says",
+      "link": "https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A detailed study highlights the military's aerial campaign and how civilians have been its victims.",
+      "published": "Tue, 09 Dec 2025 00:21:12 GMT",
+      "fetched_at": "2025-12-09T00:58:00.589714302Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Is AI in recruitment a 'race to the bottom'?",
+      "link": "https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.",
+      "published": "Tue, 09 Dec 2025 00:10:31 GMT",
+      "fetched_at": "2025-12-09T00:58:00.205809074Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
+      "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.",
+      "published": "Mon, 08 Dec 2025 23:55:20 GMT",
+      "fetched_at": "2025-12-09T00:58:00.205798414Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How Australia found itself battling big tech over social media for children",
       "link": "https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1783,6 +1819,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 198,
-  "last_update": "2025-12-08T23:48:39.619514443Z"
+  "total_captured": 202,
+  "last_update": "2025-12-09T00:58:01.135956014Z"
 }
