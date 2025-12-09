@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 17:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-252-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 17:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-253-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 17:35 UTC)*
+*(Updated: 09 Dec 17:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Lithuania declares emergency situation over Belarus balloons](https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Japan plans tough new rules for crypto exchanges: What liability reserves actually mean](https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hong Kong launches CARF crypto tax consultation to combat evasion](https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Trump to address affordability. And, the significance of Indiana's redistricting fight](https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting) | ⚪ Neutral |
-| **World** | [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Lithuania declares emergency situation over Belarus balloons](https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump criticises 'weak' European leaders over Ukraine and immigration](https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French feminists outraged by Brigitte Macron's comment about activists](https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

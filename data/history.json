@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Lithuania declares emergency situation over Belarus balloons",
+      "link": "https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Prime Minister Inga Ruginiene says the \"hybrid attack\" poses a real risk to national security and civil aviation.",
+      "published": "Tue, 09 Dec 2025 16:08:44 GMT",
+      "fetched_at": "2025-12-09T17:51:28.98977333Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Senator Lummis anticipates crypto market structure markup next week",
       "link": "https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2269,6 +2278,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 252,
-  "last_update": "2025-12-09T17:35:38.176161395Z"
+  "total_captured": 253,
+  "last_update": "2025-12-09T17:51:29.099160154Z"
 }
