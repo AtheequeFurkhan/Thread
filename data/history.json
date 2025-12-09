@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Millions of borrowers in Biden's SAVE plan would start paying under new settlement",
+      "link": "https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement",
+      "category": "Business",
+      "summary": "Legal challenges put SAVE borrowers in limbo for months, a time during which they were not required to make payments on their loans. That would change if the proposed settlement is approved.",
+      "published": "Tue, 09 Dec 2025 15:14:19 -0500",
+      "fetched_at": "2025-12-09T20:32:17.366274767Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Nobel officials unsure when Peace Prize winner will arrive for ceremony",
       "link": "https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2332,6 +2341,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 259,
-  "last_update": "2025-12-09T20:13:20.720904549Z"
+  "total_captured": 260,
+  "last_update": "2025-12-09T20:32:17.366286008Z"
 }
