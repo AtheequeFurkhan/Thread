@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Nobel officials unsure when Peace Prize winner will arrive for ceremony",
+      "link": "https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Venezuela's opposition leader María Corina Machado is in hiding, and her current whereabouts are still unknown.",
+      "published": "Tue, 09 Dec 2025 20:06:12 GMT",
+      "fetched_at": "2025-12-09T20:13:20.720858363Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "These young Australians grew up with social media - what do they think of the ban?",
       "link": "https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2323,6 +2332,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 258,
-  "last_update": "2025-12-09T19:48:18.076444644Z"
+  "total_captured": 259,
+  "last_update": "2025-12-09T20:13:20.720904549Z"
 }
