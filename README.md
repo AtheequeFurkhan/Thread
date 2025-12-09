@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 04:21 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-210-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 04:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-211-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 04:21 UTC)*
+*(Updated: 09 Dec 04:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Tether deepens AI bet, backs Italian firm’s humanoid robots](https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor](https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Polymarket trading figures are being ‘double-counted ’: Paradigm](https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Tether deepens AI bet, backs Italian firm’s humanoid robots](https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Polymarket trading figures are being ‘double-counted ’: Paradigm](https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [OCC boss says ‘no justification’ to judge banks and crypto differently](https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
