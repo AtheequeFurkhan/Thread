@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration",
+      "link": "https://cointelegraph.com/news/pnc-bitcoin-trading-bank-coinbase?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzZTEtZGU5Zi03MDY1LWI3ZmItMmNjN2VlNzljNjdh.jpg\" alt=\"PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration\"\u003e\u003c/p\u003e\u003cp\u003eThe move makes PNC the first major US bank to offer spot Bitcoin trading within its own digital platform, starting with private bank clients.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 18:15:32 +0000",
+      "fetched_at": "2025-12-09T18:17:06.564625388Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Lithuania declares emergency situation over Belarus balloons",
       "link": "https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2278,6 +2287,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 253,
-  "last_update": "2025-12-09T17:51:29.099160154Z"
+  "total_captured": 254,
+  "last_update": "2025-12-09T18:17:06.785023438Z"
 }
