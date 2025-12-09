@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "CCTV shows Matisse heist suspects making off with artworks on foot",
+      "link": "https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Brazilian officials say thieves held up a security guard and an elderly couple before making off with the artworks on foot.",
+      "published": "Tue, 09 Dec 2025 09:16:20 GMT",
+      "fetched_at": "2025-12-09T10:15:13.780980185Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
       "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1990,6 +1999,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 221,
-  "last_update": "2025-12-09T09:53:13.092477606Z"
+  "total_captured": 222,
+  "last_update": "2025-12-09T10:15:14.052458049Z"
 }
