@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 08:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-218-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 09:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-220-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 08:50 UTC)*
+*(Updated: 09 Dec 09:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [UN environment report 'hijacked' by US and others over fossil fuels, top scientist says](https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push](https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Why are Thailand and Cambodia fighting at the border?](https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025](https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [NFT winter deepens: Monthly sales hit lowest point of the year](https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [OCC boss says ‘no justification’ to judge banks and crypto differently](https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push](https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025](https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [NFT winter deepens: Monthly sales hit lowest point of the year](https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO](https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin peeled off exchanges this year in ‘positive long-term sign’](https://cointelegraph.com/news/bitcoin-exchange-outflows-etf-accumulation-supply-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Tether deepens AI bet, backs Italian firm’s humanoid robots](https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [UN environment report 'hijacked' by US and others over fossil fuels, top scientist says](https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Why are Thailand and Cambodia fighting at the border?](https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Goa nightclub owners fled to Thailand hours after deadly fire, police say](https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ukraine prepares new peace plan as Zelensky rules out giving up land](https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor](https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
