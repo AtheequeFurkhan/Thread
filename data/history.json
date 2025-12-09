@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+      "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
+      "published": "Tue, 09 Dec 2025 05:05:31 GMT",
+      "fetched_at": "2025-12-09T05:13:08.606220509Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tether deepens AI bet, backs Italian firm’s humanoid robots",
       "link": "https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -1900,6 +1909,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 211,
-  "last_update": "2025-12-09T04:47:19.147802435Z"
+  "total_captured": 212,
+  "last_update": "2025-12-09T05:13:09.08429326Z"
 }

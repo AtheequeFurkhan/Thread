@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 04:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-211-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 05:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-212-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 04:47 UTC)*
+*(Updated: 09 Dec 05:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ukraine prepares new peace plan as Zelensky rules out giving up land](https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Tether deepens AI bet, backs Italian firm’s humanoid robots](https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor](https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Polymarket trading figures are being ‘double-counted ’: Paradigm](https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Business** | [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) | ⚪ Neutral |
 | **Crypto** | [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ukraine prepares new peace plan as Zelensky rules out giving up land](https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Zohran Mamdani confirms he will live in historic Gracie Mansion as New York mayor](https://www.bbc.com/news/articles/cy95n8e9lx7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US deports second group of Iranian nationals, officials say](https://www.bbc.com/news/articles/c23e77ln3d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump unveils $12bn farm aid package to help farmers who faced 'unjustified trade actions'](https://www.bbc.com/news/articles/cjrj58qed2wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
