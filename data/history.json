@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research",
+      "link": "https://cointelegraph.com/news/prediction-markets-polymarket-retail-insider-concerns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYjMtYWQzOS03YzU1LTg0ZGQtMWYzZGRjMjQzYzM1.jpg\" alt=\"‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research\"\u003e\u003c/p\u003e\u003cp\u003eRising retail participation incentivizes data-driven, “elite” traders to use “information asymmetry” and spreads caused by casual investors seeking a quick buck, 10x said.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 11:43:33 +0000",
+      "fetched_at": "2025-12-09T11:48:16.704076099Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "EU investigates Google over AI-generated summaries in search results",
+      "link": "https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It is examining whether the tech giant did not offer \"appropriate compensation\" to web publishers.",
+      "published": "Tue, 09 Dec 2025 11:40:41 GMT",
+      "fetched_at": "2025-12-09T11:48:16.605084733Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Are we in a recession? Maybe professional Santas can tell us",
+      "link": "https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us",
+      "category": "Business",
+      "summary": "Demand for professional Santas and other seasonal workers seems to have cooled. Could that be a sign we're in a recession?",
+      "published": "Tue, 09 Dec 2025 06:30:00 -0500",
+      "fetched_at": "2025-12-09T11:48:16.215779175Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Polygon deploys Madhugiri hard fork, aims for 33% throughput boost",
       "link": "https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2026,6 +2053,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 225,
-  "last_update": "2025-12-09T11:30:31.778055823Z"
+  "total_captured": 228,
+  "last_update": "2025-12-09T11:48:16.714486349Z"
 }
