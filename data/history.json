@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US bank regulator clears national banks to facilitate crypto transactions",
+      "link": "https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0NTctN2FkYy03MTdlLWIyOWUtNjk5MjkwYzQ3NTc3.jpg\" alt=\"US bank regulator clears national banks to facilitate crypto transactions\"\u003e\u003c/p\u003e\u003cp\u003eThe guidance confirms that facilitating customer crypto trades falls within the “business of banking,” expanding the range of activities that national banks may offer under existing law.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 20:37:37 +0000",
+      "fetched_at": "2025-12-09T20:47:38.170621534Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Millions of borrowers in Biden's SAVE plan would start paying under new settlement",
       "link": "https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement",
       "category": "Business",
@@ -2341,6 +2350,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 260,
-  "last_update": "2025-12-09T20:32:17.366286008Z"
+  "total_captured": 261,
+  "last_update": "2025-12-09T20:47:38.502643236Z"
 }

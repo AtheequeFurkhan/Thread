@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 20:32 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-260-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 20:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-261-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 20:32 UTC)*
+*(Updated: 09 Dec 20:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [US bank regulator clears national banks to facilitate crypto transactions](https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [Millions of borrowers in Biden's SAVE plan would start paying under new settlement](https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement) | 🟢 Positive |
 | **World** | [Nobel officials unsure when Peace Prize winner will arrive for ceremony](https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [These young Australians grew up with social media - what do they think of the ban?](https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How prediction markets raise insider trading and credit risks](https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [US bank regulator clears national banks to facilitate crypto transactions](https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading](https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin’s back above $94K: Is the BTC bull run back on?](https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration](https://cointelegraph.com/news/pnc-bitcoin-trading-bank-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
