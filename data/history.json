@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Will Zcash's ZEC return to $500 or higher before 2026?",
+      "link": "https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyNTEtYTlmMS03NTVkLWJjYjEtYWI2NDFmNjhjYmZj.jpg\" alt=\"Will Zcash's ZEC return to $500 or higher before 2026?\"\u003e\u003c/p\u003e\u003cp\u003eBullish reversal signals and rising whale demand increase ZEC’s chances of hitting $500 in December, though some caution remains warranted.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 10:26:40 +0000",
+      "fetched_at": "2025-12-09T10:42:59.37308231Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CCTV shows Matisse heist suspects making off with artworks on foot",
       "link": "https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1999,6 +2008,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 222,
-  "last_update": "2025-12-09T10:15:14.052458049Z"
+  "total_captured": 223,
+  "last_update": "2025-12-09T10:43:00.403781316Z"
 }
