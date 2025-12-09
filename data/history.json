@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trump criticises 'weak' European leaders over Ukraine and immigration",
+      "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In his latest public criticism of Europe, the US president claims countries are \"decaying\".",
+      "published": "Tue, 09 Dec 2025 15:30:21 GMT",
+      "fetched_at": "2025-12-09T15:38:05.711615454Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?",
+      "link": "https://cointelegraph.com/news/bitcoin-hash-ribbons-flash-buy-signal-90k-will-btc-price-rebound?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzOTUtZTBkOC03YjYzLTliZjQtYjcyNjU3MWQwNmIy.jpg\" alt=\"Bitcoin Hash Ribbons flash ‘buy’ signal at $90K: Will BTC price rebound?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin miners offer a glimpse into potential BTC price upside to come as the historically accurate Hash Ribbons sent a buy signal.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 15:16:22 +0000",
+      "fetched_at": "2025-12-09T15:38:05.70270689Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French feminists outraged by Brigitte Macron's comment about activists",
       "link": "https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2224,6 +2242,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 247,
-  "last_update": "2025-12-09T15:15:18.243517474Z"
+  "total_captured": 249,
+  "last_update": "2025-12-09T15:38:05.711638356Z"
 }
