@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Watch: Nasa astronaut and cosmonauts begin voyage back to Earth",
+      "link": "https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Jonny Kim, along with Russian cosmonauts Sergey Ryzhikov and Alexey Zubritsky, will touchdown in Kazakhstan after 245 days on the ISS.",
+      "published": "Tue, 09 Dec 2025 02:19:19 GMT",
+      "fetched_at": "2025-12-09T02:46:32.825338985Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fitch Ratings flags risk for US banks with high crypto exposure",
+      "link": "https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwNGUtYWIwZS03NTM2LThmMzYtMjJmYTA1ZWRjNzk1.jpg\" alt=\"Fitch Ratings flags risk for US banks with high crypto exposure\"\u003e\u003c/p\u003e\u003cp\u003eWhile crypto offers banks an opportunity to generate new sources of revenue, Fitch warns it could bring risks that could lead to rating revisions.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 01:38:44 +0000",
+      "fetched_at": "2025-12-09T02:46:32.798034855Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "CFTC pilot opens path for crypto as collateral in derivative markets",
+      "link": "https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg\" alt=\"CFTC pilot opens path for crypto as collateral in derivative markets\"\u003e\u003c/p\u003e\u003cp\u003eThe pilot program allows futures commission merchants to accept Bitcoin, Ether and USDC for margin collateral, provided strict reporting criteria are followed.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 01:42:20 +0000",
+      "fetched_at": "2025-12-09T02:46:32.798019428Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "OCC boss says ‘no justification’ to judge banks and crypto differently",
+      "link": "https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMTAtZTRlNC03MWJkLTk2YTYtMDhhOWEzZWQ4NDY1.jpg\" alt=\"OCC boss says ‘no justification’ to judge banks and crypto differently\"\u003e\u003c/p\u003e\u003cp\u003eOffice of the Comptroller of the Currency’s Jonathan Gould says crypto companies should have a path to supervision in the banking system, which can evolve to embrace blockchain.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 01:58:05 +0000",
+      "fetched_at": "2025-12-09T02:46:32.797993844Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "A wage for housework? India's sweeping experiment in paying women",
       "link": "https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -1819,6 +1855,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 202,
-  "last_update": "2025-12-09T00:58:01.135956014Z"
+  "total_captured": 206,
+  "last_update": "2025-12-09T02:46:33.131267646Z"
 }

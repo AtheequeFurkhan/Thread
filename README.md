@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 00:58 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-202-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 02:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-206-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 00:58 UTC)*
+*(Updated: 09 Dec 02:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [OCC boss says ‘no justification’ to judge banks and crypto differently](https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [StableChain launches mainnet with USDT gas fees, dedicated governance token](https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Watchdog asks for crypto industry feedback on UK investment reforms](https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [XRP needs a Solana-style strategy to keep up: Ripple executive](https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time](https://cointelegraph.com/news/why-grayscale-thinks-bitcoin-will-ignore-the-4-year-cycle-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Tether's USDt awarded key regulatory status in Abu Dhabi](https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [European leaders walk tightrope between backing Ukraine and keeping US on board](https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fitch Ratings flags risk for US banks with high crypto exposure](https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [CFTC pilot opens path for crypto as collateral in derivative markets](https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [OCC boss says ‘no justification’ to judge banks and crypto differently](https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin catches a bid, but data shows pro traders skeptical of rally above $92K](https://cointelegraph.com/news/bitcoin-bulls-bid-range-lows-but-dollar92k-remains-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Saylor pitches Bitcoin-backed banking system to nation-states](https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto, TradFi sentiment improves: Will Bitcoin traders clear shorts above $93K?](https://cointelegraph.com/news/improving-bitcoin-investor-mood-backs-bid-for-rally-to-dollar93k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [CoreWeave plans $2B note offering to scale AI business while managing dilution](https://cointelegraph.com/news/coreweave-2-billion-convertible-notes-ai-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [US judge asks for clarification on Do Kwon’s foreign charges](https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Nasa astronaut and cosmonauts begin voyage back to Earth](https://www.bbc.com/news/videos/c93n0939q5yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A wage for housework? India's sweeping experiment in paying women](https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sudan air force bombing of towns, markets and schools has killed hundreds, report says](https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How Australia found itself battling big tech over social media for children](https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Three-year-old girl killed in Gaza by Israeli forces, local sources say](https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tsunami warning after earthquake strikes off Japan](https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
