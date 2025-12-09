@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 14:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-241-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 14:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-244-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 14:14 UTC)*
+*(Updated: 09 Dec 14:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [How prediction markets raise insider trading and credit risks](https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto nears its ‘Netscape moment’ as industry approaches inflection point](https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury](https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Technology** | [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Are we in a recession? Maybe professional Santas can tell us](https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us) | ⚪ Neutral |
 | **Crypto** | [Polygon deploys Madhugiri hard fork, aims for 33% throughput boost](https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M](https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Will Zcash's ZEC return to $500 or higher before 2026?](https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [CCTV shows Matisse heist suspects making off with artworks on foot](https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How prediction markets raise insider trading and credit risks](https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto nears its ‘Netscape moment’ as industry approaches inflection point](https://cointelegraph.com/news/crypto-netscape-industry-inflection-point?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Malaysia’s crown prince launches ringgit stablecoin, Zetrix treasury](https://cointelegraph.com/news/malaysia-crown-prince-stablecoin-dat-zetrix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack](https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Japan plans tough new rules for crypto exchanges: What liability reserves actually mean](https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Hong Kong launches CARF crypto tax consultation to combat evasion](https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded](https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Sacked agents sue FBI, saying they were punished for taking the knee](https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Does Japan's megaquake warning mean the 'big one' is coming?](https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Congress ups pressure to release boat strike video with threat to Hegseth's travel budget](https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Burkina Faso accuses Nigerian Air Force of violating its airspace](https://www.bbc.com/news/articles/cpvdl74gxz9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tanzania crackdown on planned protest leaves streets deserted](https://www.bbc.com/news/articles/cx2e3j819eqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

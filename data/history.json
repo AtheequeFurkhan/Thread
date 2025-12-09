@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded",
+      "link": "https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Plotters misjudged the national mood and Benin's neighbours learnt from past errors, says analyst Paul Melly.",
+      "published": "Tue, 09 Dec 2025 14:20:38 GMT",
+      "fetched_at": "2025-12-09T14:41:38.098455287Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Sacked agents sue FBI, saying they were punished for taking the knee",
+      "link": "https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The group say adopting a gesture used by protesters helped to defuse tensions during a 2020 demonstration.",
+      "published": "Tue, 09 Dec 2025 14:28:47 GMT",
+      "fetched_at": "2025-12-09T14:41:38.098436972Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How prediction markets raise insider trading and credit risks",
+      "link": "https://cointelegraph.com/news/prediction-markets-insider-trading-credit-risks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzNTktZGNjYi03ZTBjLWJkOWItYWIxYjQxN2YyNDNm.jpg\" alt=\"How prediction markets raise insider trading and credit risks\"\u003e\u003c/p\u003e\u003cp\u003ePrediction markets may be providing a way of turning opinions into financial products, but they may also pose financial risks and opportunities for insider trading.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 14:21:11 +0000",
+      "fetched_at": "2025-12-09T14:41:37.995031728Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Does Japan's megaquake warning mean the 'big one' is coming?",
       "link": "https://www.bbc.com/news/articles/cx2en927054o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2170,6 +2197,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 241,
-  "last_update": "2025-12-09T14:14:29.47073848Z"
+  "total_captured": 244,
+  "last_update": "2025-12-09T14:41:38.251124497Z"
 }
