@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
+      "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "US lawmakers could withhold Pentagon travel funds until unedited video of a controversial incident is made public.",
+      "published": "Tue, 09 Dec 2025 12:41:57 GMT",
+      "fetched_at": "2025-12-09T13:10:20.246261666Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack",
+      "link": "https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyZDctOTRlNy03Mzg3LWI2NTktNzQ1MDY5Yzk5OTVh.jpg\" alt=\"Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack\"\u003e\u003c/p\u003e\u003cp\u003eThe total value traded for spot DOGE ETFs reached its lowest point since launch, signaling a fading of the early hype as liquidity and flows lag well behind those of major crypto ETFs.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 12:48:48 +0000",
+      "fetched_at": "2025-12-09T13:10:20.088008741Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Japan plans tough new rules for crypto exchanges: What liability reserves actually mean",
+      "link": "https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzMjktYmYxNS03ZDlkLThkOTgtZTFkZTI3MDg0OTFl.jpg\" alt=\"Japan plans tough new rules for crypto exchanges: What liability reserves actually mean\"\u003e\u003c/p\u003e\u003cp\u003eJapan’s FSA is set to mandate liability reserves for crypto exchanges to boost consumer protection. The new rules are set to change the market.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 12:56:21 +0000",
+      "fetched_at": "2025-12-09T13:10:20.0879976Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Hong Kong launches CARF crypto tax consultation to combat evasion",
+      "link": "https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYzctNDUyYy03MmIzLTllOTgtYjBlNzQwNDJjNTE3.jpg\" alt=\"Hong Kong launches CARF crypto tax consultation to combat evasion\"\u003e\u003c/p\u003e\u003cp\u003eHong Kong has launched a public consultation on adopting the OECD’s crypto account tax data sharing program, CARF, and revising its tax reporting standards.\u003c/p\u003e",
+      "published": "Tue, 09 Dec 2025 13:07:37 +0000",
+      "fetched_at": "2025-12-09T13:10:20.087979566Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Trump to address affordability. And, the significance of Indiana's redistricting fight",
       "link": "https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting",
       "category": "Business",
@@ -2107,6 +2143,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 234,
-  "last_update": "2025-12-09T12:25:15.917697342Z"
+  "total_captured": 238,
+  "last_update": "2025-12-09T13:10:20.652074739Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 12:25 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-234-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-09 Dec 13:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-238-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 12:25 UTC)*
+*(Updated: 09 Dec 13:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Congress ups pressure to release boat strike video with threat to Hegseth's travel budget](https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack](https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Japan plans tough new rules for crypto exchanges: What liability reserves actually mean](https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Hong Kong launches CARF crypto tax consultation to combat evasion](https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Trump to address affordability. And, the significance of Indiana's redistricting fight](https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting) | ⚪ Neutral |
 | **World** | [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Burkina Faso accuses Nigerian Air Force of violating its airspace](https://www.bbc.com/news/articles/cpvdl74gxz9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia](https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [UN environment report 'hijacked' by US and others over fossil fuels, top scientist says](https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Circle gets Abu Dhabi greenlight amid UAE stablecoin and crypto push](https://cointelegraph.com/news/circle-adgm-license-abu-dhabi-stablecoin-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Why are Thailand and Cambodia fighting at the border?](https://www.bbc.com/news/articles/cdjxje2pje1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin retail inflows to Binance ‘collapse’ to 400 BTC record low in 2025](https://cointelegraph.com/news/bitcoin-retail-inflows-binance-collapse-400-btc-record-low-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [NFT winter deepens: Monthly sales hit lowest point of the year](https://cointelegraph.com/news/nft-sales-hit-lowest-level-2025-market-cap-down-66-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO](https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack](https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Japan plans tough new rules for crypto exchanges: What liability reserves actually mean](https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Hong Kong launches CARF crypto tax consultation to combat evasion](https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps](https://cointelegraph.com/news/bitcoin-bear-flag-pattern-targets-67k-btc-spot-demand-slumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research](https://cointelegraph.com/news/prediction-markets-polymarket-retail-insider-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Polygon deploys Madhugiri hard fork, aims for 33% throughput boost](https://cointelegraph.com/news/polygon-madhugiri-hardfork-throughput-stablecoins-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [HashKey crypto exchange opens Hong Kong IPO subscription, targets $215M](https://cointelegraph.com/news/hashkey-crypto-launches-hong-kong-ipo-215-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Will Zcash's ZEC return to $500 or higher before 2026?](https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Congress ups pressure to release boat strike video with threat to Hegseth's travel budget](https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict](https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Burkina Faso accuses Nigerian Air Force of violating its airspace](https://www.bbc.com/news/articles/cpvdl74gxz9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tanzania crackdown on planned protest leaves streets deserted](https://www.bbc.com/news/articles/cx2e3j819eqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jakarta office fire kills at least 22, police confirm](https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [CCTV shows Matisse heist suspects making off with artworks on foot](https://www.bbc.com/news/videos/c0jeq519222o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
