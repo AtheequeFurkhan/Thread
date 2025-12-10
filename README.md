@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 15:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-324-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 15:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-325-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 15:15 UTC)*
+*(Updated: 10 Dec 15:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Judge rules Epstein grand jury records from 2019 case can be released](https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails](https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Judge rules Epstein grand jury records from 2019 case can be released](https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ex-president's daughter sworn in as South African MP after half-sister quits](https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits](https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US jets tracked circling Gulf of Venezuela as tensions mount](https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
