@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Porn company starts age checks after £1m Ofcom fine",
+      "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites.",
+      "published": "Wed, 10 Dec 2025 14:05:23 GMT",
+      "fetched_at": "2025-12-10T14:15:40.412734531Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -2890,6 +2899,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 321,
-  "last_update": "2025-12-10T13:48:39.944131497Z"
+  "total_captured": 322,
+  "last_update": "2025-12-10T14:15:40.853377753Z"
 }
