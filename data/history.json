@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Gunfire as rebels target key DR Congo city despite Trump peace deal",
+      "link": "https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Schools and shops remain closed in Uvira amid fears that rebels have seized some administrative buildings.",
+      "published": "Wed, 10 Dec 2025 10:26:34 GMT",
+      "fetched_at": "2025-12-10T10:44:00.472099973Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "XRP price may grow ‘from $2 to $10’ in less than a year: Analyst",
+      "link": "https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ODEtNWJhMC03NjY0LTkyNmYtNDA5MGZhYTc4Mjdj.jpg\" alt=\"XRP price may grow ‘from $2 to $10’ in less than a year: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eXRP ETFs absorbed 506 million tokens in under a month, strengthening the case that price discovery is likely on the table for 2026.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 10:24:02 +0000",
+      "fetched_at": "2025-12-10T10:44:00.455790779Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Abu Dhabi’s Mubadala Capital explores tokenized private market access",
+      "link": "https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ODAtNGNjMy03YjJmLWE4MDgtNWM5NzM1NmY5MDY5.jpg\" alt=\"Abu Dhabi’s Mubadala Capital explores tokenized private market access\"\u003e\u003c/p\u003e\u003cp\u003eMubadala Capital teams up with Kaio to test tokenized access to private market strategies, signaling growing sovereign interest in onchain real-world assets.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 10:41:17 +0000",
+      "fetched_at": "2025-12-10T10:44:00.455753339Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Brett Cooper says she makes up her own mind —  about Trump and everything else",
       "link": "https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers",
       "category": "Business",
@@ -2728,6 +2755,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 303,
-  "last_update": "2025-12-10T10:15:21.346150528Z"
+  "total_captured": 306,
+  "last_update": "2025-12-10T10:44:00.472143304Z"
 }
