@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US could ask foreign tourists for five-year social media history before entry",
+      "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The plan would affect people from countries, including the UK, which can fill out a form in lieu of a visa.",
+      "published": "Wed, 10 Dec 2025 11:26:19 GMT",
+      "fetched_at": "2025-12-10T11:49:01.626033208Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Vitalik Buterin says Ethereum can handle temporary loss of finality",
+      "link": "https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NTAtMGZhMC03YWFlLThhYzUtZmJhMDdmOTllYzYy.jpg\" alt=\"Vitalik Buterin says Ethereum can handle temporary loss of finality\"\u003e\u003c/p\u003e\u003cp\u003eVitalik Buterin downplayed Ethereum’s recent brush with finality loss, saying temporary delays are fine if the wrong block is not finalized, and experts mostly agree.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 11:45:24 +0000",
+      "fetched_at": "2025-12-10T11:49:01.604199199Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Elon Musk says Doge was 'somewhat successful' but he would not do it again",
       "link": "https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2764,6 +2782,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 307,
-  "last_update": "2025-12-10T11:31:45.613950061Z"
+  "total_captured": 309,
+  "last_update": "2025-12-10T11:49:02.579553519Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 11:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-307-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 11:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-309-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 11:31 UTC)*
+*(Updated: 10 Dec 11:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Animoca, Solv to help Japanese Bitcoin companies generate yield](https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Connecticut can’t take action against Kalshi for now, judge rules](https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Abu Dhabi’s Mubadala Capital explores tokenized private market access](https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Silk Road-linked Bitcoin wallets move $3M to new address](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs](https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Key Bitcoin price levels to watch ahead of 2025’s last FOMC meeting](https://cointelegraph.com/news/bitcoin-price-levels-to-watch-2025-last-fomc-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French far-right leader tells BBC he shares US warnings on Europe 'for most part'](https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
