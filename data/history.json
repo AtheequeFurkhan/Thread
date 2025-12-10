@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-10T13:48:39.755967472Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ex-president's daughter sworn in as South African MP after half-sister quits",
+      "link": "https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Brumelda Zuma will represent the party led by her father in parliament after her half-sister resigned.",
+      "published": "Wed, 10 Dec 2025 13:02:20 GMT",
+      "fetched_at": "2025-12-10T13:48:39.593209364Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits",
+      "link": "https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The friends were warned their clothing was \"in conflict with Afghan and Islamic values\", a Taliban spokesman told the BBC.",
+      "published": "Wed, 10 Dec 2025 13:31:40 GMT",
+      "fetched_at": "2025-12-10T13:48:39.593198283Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "US jets tracked circling Gulf of Venezuela as tensions mount",
+      "link": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The F/A-18 Super Hornets appear on flight tracking sites near Maracaibo, Venezuela's second-largest city.",
+      "published": "Wed, 10 Dec 2025 12:34:44 GMT",
+      "fetched_at": "2025-12-10T13:48:39.593184548Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Japan plans major shift as crypto moves from payments to securities law",
+      "link": "https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4NDUtYmFjYi03ZDE0LTk4MDAtMTNmNjMwMGNmM2Iw.jpg\" alt=\"Japan plans major shift as crypto moves from payments to securities law\"\u003e\u003c/p\u003e\u003cp\u003eJapan plans to move crypto regulation from payments law to securities rules, tightening disclosures for IEOs and cracking down on unregistered platforms.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 13:23:07 +0000",
+      "fetched_at": "2025-12-10T13:48:39.388193271Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?",
+      "link": "https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTYtM2U0ZS03ZDljLWJiZDEtNjNhMjc4YmI3YWE4.jpg\" alt=\"Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?\"\u003e\u003c/p\u003e\u003cp\u003eEthereum gained between 97% and 147% after ETH price flipped the 50-week MA into support. A similar scenario is unfolding this week.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 13:29:46 +0000",
+      "fetched_at": "2025-12-10T13:48:39.388181369Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report",
+      "link": "https://cointelegraph.com/news/stablecoins-break-into-top-3-growth-drivers-for-web3-gaming-bga-2025-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4M2EtNjkyNC03ZDcwLThlYjItZmQ5MTJiOTYyZmYy.jpg\" alt=\"Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report\"\u003e\u003c/p\u003e\u003cp\u003eStablecoins rank among the top catalysts for Web3 gaming growth, signaling a shift toward fundamentals, monetization and payment infrastructure.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 13:35:05 +0000",
+      "fetched_at": "2025-12-10T13:48:39.388166681Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Superstate opens onchain capital raises for SEC-registered public companies",
       "link": "https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2827,6 +2890,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 314,
-  "last_update": "2025-12-10T13:10:49.570809365Z"
+  "total_captured": 321,
+  "last_update": "2025-12-10T13:48:39.944131497Z"
 }
