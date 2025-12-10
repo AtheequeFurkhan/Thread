@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 12:25 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-313-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 13:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-314-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 12:25 UTC)*
+*(Updated: 10 Dec 13:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Superstate opens onchain capital raises for SEC-registered public companies](https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) | 🔴 Negative |
 | **World** | [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Nobel Peace Prize winner will be in Oslo but won't make awards ceremony](https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs](https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Key Bitcoin price levels to watch ahead of 2025’s last FOMC meeting](https://cointelegraph.com/news/bitcoin-price-levels-to-watch-2025-last-fomc-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Kids locked out of social media apps after Australia's world-first ban](https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Superstate opens onchain capital raises for SEC-registered public companies](https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Abu Dhabi’s Mubadala Capital explores tokenized private market access](https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Silk Road-linked Bitcoin wallets move $3M to new address](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs](https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

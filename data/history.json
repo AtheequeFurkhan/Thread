@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Superstate opens onchain capital raises for SEC-registered public companies",
+      "link": "https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ZjItNzdhOS03NTM4LWE4YzYtN2MwY2UxOGQyZjBh.jpg\" alt=\"Superstate opens onchain capital raises for SEC-registered public companies\"\u003e\u003c/p\u003e\u003cp\u003eSuperstate’s Direct Issuance Programs let SEC-registered companies raise capital on Ethereum and Solana, taking stablecoin payments and issuing tokenized shares instantly.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 13:00:00 +0000",
+      "fetched_at": "2025-12-10T13:10:48.882166452Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.",
       "link": "https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters",
       "category": "Business",
@@ -2818,6 +2827,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 313,
-  "last_update": "2025-12-10T12:25:33.748247184Z"
+  "total_captured": 314,
+  "last_update": "2025-12-10T13:10:49.570809365Z"
 }
