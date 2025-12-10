@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 22:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-347-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 22:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-348-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 22:13 UTC)*
+*(Updated: 10 Dec 22:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Fed slashes interest rates, but issues mixed forward guidance](https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) | 🟢 Positive |
 | **Crypto** | [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) | 🔴 Negative |
 | **World** | [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fed slashes interest rates, but issues mixed forward guidance](https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [ChronoForge to shut down amid funding collapse and Web3 gaming turmoil](https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Fed slashes interest rates, but issues mixed forward guidance",
+      "link": "https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhMmYtOTc3OS03NGI4LWIwYjUtZTcwZjIyOTExYTQ0.jpg\" alt=\"Fed slashes interest rates, but issues mixed forward guidance\"\u003e\u003c/p\u003e\u003cp\u003eA lack of clarity on future interest rate cuts under Jerome Powell's leadership has placed a damper on a Bitcoin price rally, analysts say.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 22:11:49 +0000",
+      "fetched_at": "2025-12-10T22:35:33.228372054Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why news organizations are suing AI companies, and what they hope to win",
       "link": "https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win",
       "category": "Business",
@@ -3124,6 +3133,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 347,
-  "last_update": "2025-12-10T22:13:26.920109009Z"
+  "total_captured": 348,
+  "last_update": "2025-12-10T22:35:33.4966269Z"
 }
