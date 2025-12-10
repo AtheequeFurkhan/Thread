@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Benin coup plot leader hiding in Togo, official tells BBC",
+      "link": "https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The coup was thwarted after Nigeria sent warplanes to dislodge the mutineers from the offices of state TV.",
+      "published": "Wed, 10 Dec 2025 17:09:21 GMT",
+      "fetched_at": "2025-12-10T17:44:28.559655845Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE",
+      "link": "https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MjAtNzcxMC03ODE4LWE5OWYtZTg3NzlkNmY0YWYx.jpg\" alt=\"Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is attempting a recovery, but the short-term trend depends on the Federal Reserve’s upcoming interest rate decision. Meanwhile, ETH leads the altcoin recovery.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 17:30:00 +0000",
+      "fetched_at": "2025-12-10T17:44:28.294033982Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant",
+      "link": "https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5M2MtMzc3Ny03Y2ZlLTk3ZjgtYjEyODllMDQ5Yzgy.jpg\" alt=\"Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant\"\u003e\u003c/p\u003e\u003cp\u003eVanguard is opening crypto ETF access to millions of investors. The move reflects a broader 2025 trend of crypto finding its way into investor portfolios.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 17:30:00 +0000",
+      "fetched_at": "2025-12-10T17:44:28.293933855Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "The whale awakening: Why dormant crypto giants are suddenly back in motion",
       "link": "https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2980,6 +3007,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 331,
-  "last_update": "2025-12-10T17:15:39.48039712Z"
+  "total_captured": 334,
+  "last_update": "2025-12-10T17:44:28.644081601Z"
 }
