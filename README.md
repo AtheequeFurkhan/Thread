@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 17:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-334-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 17:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-335-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 17:44 UTC)*
+*(Updated: 10 Dec 17:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant](https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [US jets tracked circling Gulf of Venezuela as tensions mount](https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Japan plans major shift as crypto moves from payments to securities law](https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?](https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report](https://cointelegraph.com/news/stablecoins-break-into-top-3-growth-drivers-for-web3-gaming-bga-2025-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US judge blocks Trump's National Guard deployment in Los Angeles](https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Judge rules Epstein grand jury records from 2019 case can be released](https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

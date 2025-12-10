@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ukraine at critical moment, European leaders say after Trump call",
+      "link": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump.",
+      "published": "Wed, 10 Dec 2025 17:45:14 GMT",
+      "fetched_at": "2025-12-10T17:54:44.146834697Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Benin coup plot leader hiding in Togo, official tells BBC",
       "link": "https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3007,6 +3016,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 334,
-  "last_update": "2025-12-10T17:44:28.644081601Z"
+  "total_captured": 335,
+  "last_update": "2025-12-10T17:54:44.363349181Z"
 }
