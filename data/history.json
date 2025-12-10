@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch Australian teens test out social media on first day of ban",
+      "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.",
+      "published": "Wed, 10 Dec 2025 04:38:55 GMT",
+      "fetched_at": "2025-12-10T05:14:49.946590567Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Make crypto games great again? ‘Trump Billionaires Club’ launches this month",
+      "link": "https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2MWItY2MwMy03OTQwLTk5OTEtMWIwNDg2ZjI2N2E0.jpg\" alt=\"Make crypto games great again? ‘Trump Billionaires Club’ launches this month\"\u003e\u003c/p\u003e\u003cp\u003eThe Trump Billionaires Club demo video on its website appears to feature a digital version of New York and show a player token using dice rolls to move around a gameboard.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 05:00:47 +0000",
+      "fetched_at": "2025-12-10T05:14:49.841225222Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Trump touts upbeat message on economy as Americans feel the pinch",
       "link": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2548,6 +2566,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 283,
-  "last_update": "2025-12-10T04:51:26.193845017Z"
+  "total_captured": 285,
+  "last_update": "2025-12-10T05:14:50.519281135Z"
 }

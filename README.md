@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 04:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-283-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 05:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-285-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 04:51 UTC)*
+*(Updated: 10 Dec 05:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Make crypto games great again? ‘Trump Billionaires Club’ launches this month](https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83](https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys](https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Czech billionaire becomes PM with promise to cut ties to business empire](https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Real Finance secures $29M to build institutional rails for tokenized assets](https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Make crypto games great again? ‘Trump Billionaires Club’ launches this month](https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Trump to begin interviews with Fed chair finalists this week: FT](https://cointelegraph.com/news/trump-begin-interviews-fed-chair-finalists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin FOMO trickles back at $94K, but Fed could spoil the party](https://cointelegraph.com/news/bitcoin-much-needed-rebound-94k-ahead-fed-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Stripe’s stablecoin blockchain Tempo launches public testnet](https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin](https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin firm Twenty One Capital drops 20% on first day of trading](https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83](https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Chaos in Brazil Congress during push to cut Bolsonaro's sentence](https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
