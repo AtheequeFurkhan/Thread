@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Stripe’s stablecoin blockchain Tempo launches public testnet",
+      "link": "https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1NTktY2VkYi03MzExLTljNTEtYzI3NDk1Y2NlYzYy.jpg\" alt=\"Stripe’s stablecoin blockchain Tempo launches public testnet \"\u003e\u003c/p\u003e\u003cp\u003ePublic testnet for the Stripe-and-Paradigm-built payments blockchain is now live, featuring tools for developer onboarding and stablecoin testing.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 01:34:08 +0000",
+      "fetched_at": "2025-12-10T02:51:39.361632435Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin",
+      "link": "https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ZGUtOGExZS03ZWI3LWE3YjUtNWIwMmUyYjg3OWZl.jpg\" alt=\"Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin\"\u003e\u003c/p\u003e\u003cp\u003eStrive, co-founded in 2022 by American entrepreneur Vivek Ramaswamy, launched a $500 million preferred stock offering to acquire more Bitcoin and Bitcoin-related products.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 01:44:16 +0000",
+      "fetched_at": "2025-12-10T02:51:39.361614913Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin firm Twenty One Capital drops 20% on first day of trading",
+      "link": "https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1NjAtNTcwOC03MDYzLWFhN2YtNThmMzNhZDIyYWY5.jpg\" alt=\"Bitcoin firm Twenty One Capital drops 20% on first day of trading\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital came to market with over $4 billion in Bitcoin, but its lack of publicly shared business plans appears to have led some investors to the exit.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 02:27:01 +0000",
+      "fetched_at": "2025-12-10T02:51:39.361600626Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Watch: Ozzy the dog sets Guinness World record for longest canine tongue",
       "link": "https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2467,6 +2494,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 274,
-  "last_update": "2025-12-10T00:59:19.843732349Z"
+  "total_captured": 277,
+  "last_update": "2025-12-10T02:51:39.78322709Z"
 }

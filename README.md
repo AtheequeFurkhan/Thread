@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 00:59 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-274-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 02:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-277-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 00:59 UTC)*
+*(Updated: 10 Dec 02:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Stripe’s stablecoin blockchain Tempo launches public testnet](https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin](https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin firm Twenty One Capital drops 20% on first day of trading](https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Two teenagers went to seek gold. They were buried alive in a mine collapse](https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Indian couple trolled over skin colour after wedding video goes viral](https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Business** | [Millions of borrowers in Biden's SAVE plan would start paying under new settlement](https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement) | 🟢 Positive |
 | **World** | [Nobel officials unsure when Peace Prize winner will arrive for ceremony](https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [These young Australians grew up with social media - what do they think of the ban?](https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading](https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin’s back above $94K: Is the BTC bull run back on?](https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Stripe’s stablecoin blockchain Tempo launches public testnet](https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin](https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin firm Twenty One Capital drops 20% on first day of trading](https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys](https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Real Finance secures $29M to build institutional rails for tokenized assets](https://cointelegraph.com/news/real-finance-29m-funding-institutional-rwa-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ethereum network sees 62% drop in fees: Is ETH price at risk?](https://cointelegraph.com/news/eth-network-sees-62percent-fee-drop-is-ether-price-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [New ETF proposal bets Bitcoin returns are made after hours](https://cointelegraph.com/news/bitcoin-afterdark-etf-overnight-market-hours?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [US bank regulator clears national banks to facilitate crypto transactions](https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
