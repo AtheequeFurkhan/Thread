@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
+      "link": "https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmYjMtYmM0Yi03YTI1LTllZjYtMjFhYmRiZDYwOTNi.jpg\" alt=\"Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models\"\u003e\u003c/p\u003e\u003cp\u003eThe funding will support Surf’s next AI model aimed at delivering deeper onchain analysis and automating research for crypto companies and traders.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 21:38:32 +0000",
+      "fetched_at": "2025-12-10T21:49:48.271054049Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
       "link": "https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3097,6 +3106,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 344,
-  "last_update": "2025-12-10T21:35:49.971851635Z"
+  "total_captured": 345,
+  "last_update": "2025-12-10T21:49:48.511533973Z"
 }
