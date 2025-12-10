@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Watch: Ozzy the dog sets Guinness World record for longest canine tongue",
+      "link": "https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The mastiff mix from Oklahoma City broke the previous record with his tongue measuring in at 7.83in (19.89cm).",
+      "published": "Tue, 09 Dec 2025 23:42:25 GMT",
+      "fetched_at": "2025-12-10T00:59:19.719176379Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Two teenagers went to seek gold. They were buried alive in a mine collapse",
+      "link": "https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Poverty in Sierra Leone is pushing more students into risky work, which proved deadly for two boys.",
+      "published": "Wed, 10 Dec 2025 00:24:01 GMT",
+      "fetched_at": "2025-12-10T00:59:19.719160058Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Indian couple trolled over skin colour after wedding video goes viral",
+      "link": "https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Rishabh Rajput and Sonali Chouksey received congratulatory messages peppered with \"jokes and memes\".",
+      "published": "Wed, 10 Dec 2025 00:14:08 GMT",
+      "fetched_at": "2025-12-10T00:59:19.719151712Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How long Britain could really fight for if war broke out tomorrow",
+      "link": "https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In the event of a war, one expert suggests the British Army could be incapable of fighting effectively on land within weeks, once committed - though  'much depends on the form of the conflict'.",
+      "published": "Wed, 10 Dec 2025 00:11:37 GMT",
+      "fetched_at": "2025-12-10T00:59:19.719140191Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+      "link": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025",
+      "published": "Wed, 10 Dec 2025 00:04:38 GMT",
+      "fetched_at": "2025-12-10T00:59:19.405230215Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French PM wins crucial budget vote",
       "link": "https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2422,6 +2467,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 269,
-  "last_update": "2025-12-09T23:47:48.762691305Z"
+  "total_captured": 274,
+  "last_update": "2025-12-10T00:59:19.843732349Z"
 }

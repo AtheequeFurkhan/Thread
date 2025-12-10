@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-09 Dec 23:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-269-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 00:59 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-274-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 09 Dec 23:47 UTC)*
+*(Updated: 10 Dec 00:59 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Two teenagers went to seek gold. They were buried alive in a mine collapse](https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Indian couple trolled over skin colour after wedding video goes viral](https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [How long Britain could really fight for if war broke out tomorrow](https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -36,11 +41,6 @@
 | **Crypto** | [UK crypto lobbying group joins Digital Chamber in cross-border policy push](https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading](https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin’s back above $94K: Is the BTC bull run back on?](https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [PNC Bank launches Bitcoin trading for eligible clients via Coinbase integration](https://cointelegraph.com/news/pnc-bitcoin-trading-bank-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Lithuania declares emergency situation over Belarus balloons](https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Senator Lummis anticipates crypto market structure markup next week](https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Circle moves toward privacy-focused stablecoin with USDCx project](https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
+- [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Two teenagers went to seek gold. They were buried alive in a mine collapse](https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Indian couple trolled over skin colour after wedding video goes viral](https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [How long Britain could really fight for if war broke out tomorrow](https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Czech billionaire becomes PM with promise to cut ties to business empire](https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Nobel officials unsure when Peace Prize winner will arrive for ceremony](https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
@@ -87,6 +87,7 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-10.md | [View Log](data/2025-12-10.md) |
 | 2025-12-09.md | [View Log](data/2025-12-09.md) |
 | 2025-12-08.md | [View Log](data/2025-12-08.md) |
 | 2025-12-07.md | [View Log](data/2025-12-07.md) |
