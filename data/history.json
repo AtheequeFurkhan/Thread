@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Fed expected to cut rates for a 3rd straight time",
+      "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time",
+      "category": "Business",
+      "summary": "The Federal Reserve is expected to cut its benchmark interest rate by a quarter point today. But there could more disagreement than usual among the rate-setting committee.",
+      "published": "Wed, 10 Dec 2025 04:48:32 -0500",
+      "fetched_at": "2025-12-10T09:54:33.650940472Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French far-right leader tells BBC he shares US warnings on Europe 'for most part'",
       "link": "https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2692,6 +2701,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 299,
-  "last_update": "2025-12-10T09:44:23.00251988Z"
+  "total_captured": 300,
+  "last_update": "2025-12-10T09:54:34.064838403Z"
 }

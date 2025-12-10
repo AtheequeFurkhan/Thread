@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 09:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-299-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 09:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-300-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 09:44 UTC)*
+*(Updated: 10 Dec 09:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Fed expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time) | ⚪ Neutral |
 | **World** | [French far-right leader tells BBC he shares US warnings on Europe 'for most part'](https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Silk Road-linked Bitcoin wallets move $3M to new address](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs](https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83](https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Chaos in Brazil Congress during push to cut Bolsonaro's sentence](https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Fed expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time) (⚪ Neutral)
 - [Millions of borrowers in Biden's SAVE plan would start paying under new settlement](https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement) (🟢 Positive)
 - [Trump to address affordability. And, the significance of Indiana's redistricting fight](https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting) (⚪ Neutral)
 - [Are we in a recession? Maybe professional Santas can tell us](https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us) (⚪ Neutral)
 - [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) (🟢 Positive)
-- [Paramount's hostile bid on Warner Bros](https://www.npr.org/2025/12/08/nx-s1-5637346/paramounts-hostile-bid-on-warner-bros) (⚪ Neutral)
 
 
 ### 📂 Crypto
