@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 05:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-287-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 06:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-288-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 05:51 UTC)*
+*(Updated: 10 Dec 06:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Connecticut can’t take action against Kalshi for now, judge rules](https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [How long Britain could really fight for if war broke out tomorrow](https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Connecticut can’t take action against Kalshi for now, judge rules](https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Make crypto games great again? ‘Trump Billionaires Club’ launches this month](https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Trump to begin interviews with Fed chair finalists this week: FT](https://cointelegraph.com/news/trump-begin-interviews-fed-chair-finalists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin FOMO trickles back at $94K, but Fed could spoil the party](https://cointelegraph.com/news/bitcoin-much-needed-rebound-94k-ahead-fed-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Stripe’s stablecoin blockchain Tempo launches public testnet](https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin](https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

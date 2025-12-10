@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Connecticut can’t take action against Kalshi for now, judge rules",
+      "link": "https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2NGItYTRjMS03ZDQ2LWIwNzktZGFkOTViMjljZjA0.jpg\" alt=\"Connecticut can’t take action against Kalshi for now, judge rules\"\u003e\u003c/p\u003e\u003cp\u003eA US judge has handed Kalshi a small win after putting a temporary stop to the Connecticut Department of Consumer Protection’s enforcement action against the company.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 06:13:22 +0000",
+      "fetched_at": "2025-12-10T06:20:38.425745052Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "'It's insulting they think we can't handle it': The Australian teens banned from social media",
       "link": "https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2584,6 +2593,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 287,
-  "last_update": "2025-12-10T05:51:32.368720253Z"
+  "total_captured": 288,
+  "last_update": "2025-12-10T06:20:38.760755799Z"
 }
