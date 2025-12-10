@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 16:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-330-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 17:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-331-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 16:49 UTC)*
+*(Updated: 10 Dec 17:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) | 🔴 Negative |
 | **World** | [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Superstate opens onchain capital raises for SEC-registered public companies](https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) | 🔴 Negative |
 | **World** | [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Nobel Peace Prize winner will be in Oslo but won't make awards ceremony](https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action](https://cointelegraph.com/news/short-the-dip-and-buy-the-rip-what-fomc-outcomes-reveal-about-bitcoin-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails](https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Japan plans major shift as crypto moves from payments to securities law](https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?](https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

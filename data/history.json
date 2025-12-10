@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "The whale awakening: Why dormant crypto giants are suddenly back in motion",
+      "link": "https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MzAtY2UyNC03YjRmLWJmM2UtODZlYTBjNWVkM2E5.jpg\" alt=\"The whale awakening: Why dormant crypto giants are suddenly back in motion\"\u003e\u003c/p\u003e\u003cp\u003eDormant Bitcoin giants have awakened. Onchain data shows aging wallets reactivating, reshaping supply dynamics across the network.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 17:04:46 +0000",
+      "fetched_at": "2025-12-10T17:15:39.123672619Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Can the lessons of 1929 help us avert another economic crisis?",
       "link": "https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis",
       "category": "Business",
@@ -2971,6 +2980,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 330,
-  "last_update": "2025-12-10T16:49:27.657122841Z"
+  "total_captured": 331,
+  "last_update": "2025-12-10T17:15:39.48039712Z"
 }
