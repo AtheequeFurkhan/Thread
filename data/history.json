@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Amazon, Microsoft pledge mega AI investments in India",
+      "link": "https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.",
+      "published": "Wed, 10 Dec 2025 07:50:12 GMT",
+      "fetched_at": "2025-12-10T08:53:08.674158861Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Kids locked out of social media apps after Australia's world-first ban",
+      "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The new law requires tech platforms to ensure that Australians aged under 16 don't hold accounts.",
+      "published": "Wed, 10 Dec 2025 05:05:52 GMT",
+      "fetched_at": "2025-12-10T08:53:08.674148932Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "South Korea protests Chinese and Russian warplanes in its airspace",
+      "link": "https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Seoul says it will \"actively respond\" to  neighbouring countries' activities in its air defence zone.",
+      "published": "Wed, 10 Dec 2025 08:17:07 GMT",
+      "fetched_at": "2025-12-10T08:53:08.451379066Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -2629,6 +2656,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 292,
-  "last_update": "2025-12-10T08:18:27.385668117Z"
+  "total_captured": 295,
+  "last_update": "2025-12-10T08:53:08.674225585Z"
 }

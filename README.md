@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 08:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-292-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 08:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-295-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 08:18 UTC)*
+*(Updated: 10 Dec 08:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Kids locked out of social media apps after Australia's world-first ban](https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin FOMO trickles back at $94K, but Fed could spoil the party](https://cointelegraph.com/news/bitcoin-much-needed-rebound-94k-ahead-fed-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Stripe’s stablecoin blockchain Tempo launches public testnet](https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin](https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin firm Twenty One Capital drops 20% on first day of trading](https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Two teenagers went to seek gold. They were buried alive in a mine collapse](https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Kids locked out of social media apps after Australia's world-first ban](https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
