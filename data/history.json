@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.",
+      "link": "https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters",
+      "category": "Business",
+      "summary": "The divided Federal Reserve is considering cutting interest rates today. And, Afghans in the U.S. who fought for the CIA say they feel abandoned by the agency.",
+      "published": "Wed, 10 Dec 2025 06:47:30 -0500",
+      "fetched_at": "2025-12-10T12:25:33.748233698Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "At least 22 killed in building collapse in Morocco",
+      "link": "https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The two four-storey buildings that came down in Fez contained eight families, state media report.",
+      "published": "Wed, 10 Dec 2025 12:21:12 GMT",
+      "fetched_at": "2025-12-10T12:25:33.583919349Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Nobel Peace Prize winner will be in Oslo but won't make awards ceremony",
+      "link": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly safe and on her way to Oslo.",
+      "published": "Wed, 10 Dec 2025 12:00:19 GMT",
+      "fetched_at": "2025-12-10T12:25:33.583895384Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "McDonald's pulls AI Christmas ad after backlash",
+      "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\".",
+      "published": "Wed, 10 Dec 2025 12:14:14 GMT",
+      "fetched_at": "2025-12-10T12:25:33.407210953Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US could ask foreign tourists for five-year social media history before entry",
       "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2782,6 +2818,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 309,
-  "last_update": "2025-12-10T11:49:02.579553519Z"
+  "total_captured": 313,
+  "last_update": "2025-12-10T12:25:33.748247184Z"
 }

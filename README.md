@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 11:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-309-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 12:25 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-313-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 11:49 UTC)*
+*(Updated: 10 Dec 12:25 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) | 🔴 Negative |
+| **World** | [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Nobel Peace Prize winner will be in Oslo but won't make awards ceremony](https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Technology** | [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Crypto** | [Key Bitcoin price levels to watch ahead of 2025’s last FOMC meeting](https://cointelegraph.com/news/bitcoin-price-levels-to-watch-2025-last-fomc-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Kids locked out of social media apps after Australia's world-first ban](https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) (🔴 Negative)
 - [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) (🟢 Positive)
 - [A divided Fed is expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs) (⚪ Neutral)
 - [Feeling burned out? There's a word for that in Mandarin Chinese](https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin) (⚪ Neutral)
 - [Fed expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time) (⚪ Neutral)
-- [Millions of borrowers in Biden's SAVE plan would start paying under new settlement](https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement) (🟢 Positive)
 
 
 ### 📂 Crypto
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Kids locked out of social media apps after Australia's world-first ban](https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Nobel Peace Prize winner will be in Oslo but won't make awards ceremony](https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US could ask foreign tourists for five-year social media history before entry](https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [French far-right leader tells BBC he shares US warnings on Europe 'for most part'](https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
