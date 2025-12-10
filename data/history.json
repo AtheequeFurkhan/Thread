@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tether launches privacy-focused health platform with on-device AI",
+      "link": "https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5YWItNjVmNS03NWFlLThiMjAtOTBiZWY1M2VkYmFl.jpg\" alt=\"Tether launches privacy-focused health platform with on-device AI\"\u003e\u003c/p\u003e\u003cp\u003eTether says the system is designed to give users control over biometric data by keeping analysis and storage off the cloud.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 20:50:03 +0000",
+      "fetched_at": "2025-12-10T20:54:44.392044247Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Sarkozy releases prison diaries about his 20 days behind bars",
       "link": "https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3079,6 +3088,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 342,
-  "last_update": "2025-12-10T20:40:35.569552523Z"
+  "total_captured": 343,
+  "last_update": "2025-12-10T20:54:44.392070346Z"
 }
