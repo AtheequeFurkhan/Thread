@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Trump touts upbeat message on economy as Americans feel the pinch",
+      "link": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The president says he is focused on \"making America affordable again\", as cost of living becomes a campaign issue.",
+      "published": "Wed, 10 Dec 2025 03:09:33 GMT",
+      "fetched_at": "2025-12-10T03:52:11.400941776Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
+      "link": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The incident in Australia comes after the man was jailed for nine days and deported from Singapore for public nuisance.",
+      "published": "Wed, 10 Dec 2025 03:03:53 GMT",
+      "fetched_at": "2025-12-10T03:52:11.400932228Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+      "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers.",
+      "published": "Wed, 10 Dec 2025 03:37:06 GMT",
+      "fetched_at": "2025-12-10T03:52:11.400920426Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
+      "link": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term.",
+      "published": "Wed, 10 Dec 2025 03:34:48 GMT",
+      "fetched_at": "2025-12-10T03:52:11.400905628Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump to begin interviews with Fed chair finalists this week: FT",
+      "link": "https://cointelegraph.com/news/trump-begin-interviews-fed-chair-finalists?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ZDktZWRhYy03MmM1LTg2MTYtY2RmODM2YjIwNmEw.jpg\" alt=\"Trump to begin interviews with Fed chair finalists this week: FT\"\u003e\u003c/p\u003e\u003cp\u003eTreasury Secretary Scott Bessent has presented a list of four names to the White House. Former Fed governor Kevin Warsh and frontrunner Kevin Hassett are reportedly on the list.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 03:38:55 +0000",
+      "fetched_at": "2025-12-10T03:52:11.346524625Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin FOMO trickles back at $94K, but Fed could spoil the party",
+      "link": "https://cointelegraph.com/news/bitcoin-much-needed-rebound-94k-ahead-fed-meeting?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2MWMtNDE1NC03M2U5LWEyZDYtNTk4OGU3NDdlM2Q3.jpg\" alt=\"Bitcoin FOMO trickles back at $94K, but Fed could spoil the party\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin surged to $94,625, its highest in three weeks, as positive social sentiment returned, but comments from the Fed on Wednesday could put it back on shaky ground.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 03:46:52 +0000",
+      "fetched_at": "2025-12-10T03:52:11.346508645Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Stripe’s stablecoin blockchain Tempo launches public testnet",
       "link": "https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2494,6 +2548,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 277,
-  "last_update": "2025-12-10T02:51:39.78322709Z"
+  "total_captured": 283,
+  "last_update": "2025-12-10T03:52:11.668247628Z"
 }
