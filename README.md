@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 14:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-322-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 15:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-324-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 14:47 UTC)*
+*(Updated: 10 Dec 15:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails](https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ex-president's daughter sworn in as South African MP after half-sister quits](https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Abu Dhabi’s Mubadala Capital explores tokenized private market access](https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails](https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Japan plans major shift as crypto moves from payments to securities law](https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?](https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report](https://cointelegraph.com/news/stablecoins-break-into-top-3-growth-drivers-for-web3-gaming-bga-2025-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Superstate opens onchain capital raises for SEC-registered public companies](https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Vitalik Buterin says Ethereum can handle temporary loss of finality](https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ex-president's daughter sworn in as South African MP after half-sister quits](https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits](https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US jets tracked circling Gulf of Venezuela as tensions mount](https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [At least 22 killed in building collapse in Morocco](https://www.bbc.com/news/articles/c74x03zy19wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Nobel Peace Prize winner will be in Oslo but won't make awards ceremony](https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

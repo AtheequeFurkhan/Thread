@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US sanctions network it says recruits Colombian fighters for Sudan civil war",
+      "link": "https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US Treasury said the network of four entities and four individuals is primarily Colombian.",
+      "published": "Wed, 10 Dec 2025 14:50:53 GMT",
+      "fetched_at": "2025-12-10T15:15:43.846253583Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails",
+      "link": "https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4YzUtNTA4YS03ZGI2LWJmNWMtOWU0MWQwNzMzNzZl.jpg\" alt=\"Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin whipsawed around the key yearly open level into the Fed interest-rate announcement as traders waited for a reliable move.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 15:08:50 +0000",
+      "fetched_at": "2025-12-10T15:15:43.617937675Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Porn company starts age checks after £1m Ofcom fine",
       "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -2899,6 +2917,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 322,
-  "last_update": "2025-12-10T14:47:02.445638123Z"
+  "total_captured": 324,
+  "last_update": "2025-12-10T15:15:44.750365926Z"
 }
