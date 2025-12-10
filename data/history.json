@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'It's insulting they think we can't handle it': The Australian teens banned from social media",
+      "link": "https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Millions of Australian teens will no longer be allowed to use social media. Who wins and who loses out?",
+      "published": "Wed, 10 Dec 2025 05:45:45 GMT",
+      "fetched_at": "2025-12-10T05:51:32.277135018Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
       "link": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2575,6 +2584,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 286,
-  "last_update": "2025-12-10T05:37:30.061511831Z"
+  "total_captured": 287,
+  "last_update": "2025-12-10T05:51:32.368720253Z"
 }

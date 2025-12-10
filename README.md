@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 05:37 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-286-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 05:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-287-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 05:37 UTC)*
+*(Updated: 10 Dec 05:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Make crypto games great again? ‘Trump Billionaires Club’ launches this month](https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [French PM wins crucial budget vote](https://www.bbc.com/news/articles/c3w7530w37po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Judge rules Ghislaine Maxwell grand jury records can be unsealed](https://www.bbc.com/news/articles/cn8e2kvzen7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | ['What's your name?' - Moment police confront Luigi Mangione at McDonald's](https://www.bbc.com/news/videos/cx2px9x20exo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83](https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
