@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 21:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-343-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 21:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-344-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 21:13 UTC)*
+*(Updated: 10 Dec 21:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Sarkozy releases prison diaries about his 20 days behind bars](https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [ChronoForge to shut down amid funding collapse and Web3 gaming turmoil](https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action](https://cointelegraph.com/news/short-the-dip-and-buy-the-rip-what-fomc-outcomes-reveal-about-bitcoin-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US judge blocks Trump's National Guard deployment in Los Angeles](https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Judge rules Epstein grand jury records from 2019 case can be released](https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [US sanctions network it says recruits Colombian fighters for Sudan civil war](https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [ChronoForge to shut down amid funding collapse and Web3 gaming turmoil](https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K](https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [ETHZilla moves into onchain housing finance with 15% Zippy acquisition](https://cointelegraph.com/news/ethzilla-zippy-acquisition-home-loans-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Galaxy expands to UAE as part of Middle East push](https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
+      "link": "https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5ZTEtMjcwOC03OWRhLWEyOGUtNTk2YzNhMmIwMTQ1.jpg\" alt=\"GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains\"\u003e\u003c/p\u003e\u003cp\u003eFalling sales and diminished Bitcoin gains pressured earnings, with the stock continuing to retrace its brief rally in March.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 21:23:18 +0000",
+      "fetched_at": "2025-12-10T21:35:49.945508798Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tether launches privacy-focused health platform with on-device AI",
       "link": "https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3088,6 +3097,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 343,
-  "last_update": "2025-12-10T21:13:44.468016443Z"
+  "total_captured": 344,
+  "last_update": "2025-12-10T21:35:49.971851635Z"
 }
