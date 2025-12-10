@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 22:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-348-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 23:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-350-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 22:51 UTC)*
+*(Updated: 10 Dec 23:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Video shows US military seizing oil tanker off Venezuela coast](https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Why Thailand and Cambodia are fighting again after Trump ceasefire](https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Fed slashes interest rates, but issues mixed forward guidance](https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) | 🟢 Positive |
 | **Crypto** | [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant](https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) | 🔴 Negative |
-| **World** | [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Video shows US military seizing oil tanker off Venezuela coast](https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Why Thailand and Cambodia are fighting again after Trump ceasefire](https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Sarkozy releases prison diaries about his 20 days behind bars](https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Italian cooking awarded Unesco cultural heritage status](https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

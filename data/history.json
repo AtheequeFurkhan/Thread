@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: Video shows US military seizing oil tanker off Venezuela coast",
+      "link": "https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "According to US Attorney General Pam Bondi, who shared the footage, the tanker was used to transport sanctioned oil from Venezuela and Iran.",
+      "published": "Wed, 10 Dec 2025 22:35:53 GMT",
+      "fetched_at": "2025-12-10T23:10:52.150814033Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Why Thailand and Cambodia are fighting again after Trump ceasefire",
+      "link": "https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Between the neighbours is a gulf of mistrust that has proven near impossible to bridge.",
+      "published": "Wed, 10 Dec 2025 23:03:32 GMT",
+      "fetched_at": "2025-12-10T23:10:52.150787874Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Fed slashes interest rates, but issues mixed forward guidance",
       "link": "https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3133,6 +3151,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 348,
-  "last_update": "2025-12-10T22:51:29.303929567Z"
+  "total_captured": 350,
+  "last_update": "2025-12-10T23:10:52.552561809Z"
 }
