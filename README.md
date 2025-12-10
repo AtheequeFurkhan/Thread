@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 11:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-306-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 11:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-307-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 11:15 UTC)*
+*(Updated: 10 Dec 11:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP price may grow ‘from $2 to $10’ in less than a year: Analyst](https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Abu Dhabi’s Mubadala Capital explores tokenized private market access](https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Animoca, Solv to help Japanese Bitcoin companies generate yield](https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Connecticut can’t take action against Kalshi for now, judge rules](https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Elon Musk says Doge was 'somewhat successful' but he would not do it again](https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gunfire as rebels target key DR Congo city despite Trump peace deal](https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French far-right leader tells BBC he shares US warnings on Europe 'for most part'](https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [South Korea protests Chinese and Russian warplanes in its airspace](https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Elon Musk says Doge was 'somewhat successful' but he would not do it again",
+      "link": "https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Tesla boss says instead of leading the Department of Government Efficiency, he could have been working for his companies.",
+      "published": "Wed, 10 Dec 2025 11:12:30 GMT",
+      "fetched_at": "2025-12-10T11:31:45.125692133Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Gunfire as rebels target key DR Congo city despite Trump peace deal",
       "link": "https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2755,6 +2764,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 306,
-  "last_update": "2025-12-10T11:15:16.233999952Z"
+  "total_captured": 307,
+  "last_update": "2025-12-10T11:31:45.613950061Z"
 }
