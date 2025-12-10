@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-10T08:18:27.101115599Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US tells Thailand and Cambodia to stop fighting as clashes continue",
+      "link": "https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Donald Trump, who brokered an earlier ceasefire, says he plans to \"make a phone call\" to stop the fighting.",
+      "published": "Wed, 10 Dec 2025 06:11:36 GMT",
+      "fetched_at": "2025-12-10T08:18:26.570673425Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
+      "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "He was speaking after US President Donald Trump repeated claims Kyiv was \"using war\" to avoid elections.",
+      "published": "Wed, 10 Dec 2025 08:08:32 GMT",
+      "fetched_at": "2025-12-10T08:18:26.570575476Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Animoca, Solv to help Japanese Bitcoin companies generate yield",
       "link": "https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2602,6 +2629,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 289,
-  "last_update": "2025-12-10T07:51:23.051793232Z"
+  "total_captured": 292,
+  "last_update": "2025-12-10T08:18:27.385668117Z"
 }

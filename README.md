@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 07:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-289-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 08:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-292-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 07:51 UTC)*
+*(Updated: 10 Dec 08:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Animoca, Solv to help Japanese Bitcoin companies generate yield](https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Connecticut can’t take action against Kalshi for now, judge rules](https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin firm Twenty One Capital drops 20% on first day of trading](https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Watch: Ozzy the dog sets Guinness World record for longest canine tongue](https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Two teenagers went to seek gold. They were buried alive in a mine collapse](https://www.bbc.com/news/articles/cyvgq5nr05yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Indian couple trolled over skin colour after wedding video goes viral](https://www.bbc.com/news/articles/c62vnlg6v6wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [How long Britain could really fight for if war broke out tomorrow](https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK spending half an hour longer online than in pandemic, says Ofcom](https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google unveils plans to try again with smart glasses in 2026](https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [US tells Thailand and Cambodia to stop fighting as clashes continue](https://www.bbc.com/news/articles/cx2pn5dxd0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Ukraine 'ready for elections' if partners guarantee security, Zelensky says](https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['It's insulting they think we can't handle it': The Australian teens banned from social media](https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
