@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Sarkozy releases prison diaries about his 20 days behind bars",
+      "link": "https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former French president was jailed for taking part in an election campaign funding conspiracy.",
+      "published": "Wed, 10 Dec 2025 18:43:10 GMT",
+      "fetched_at": "2025-12-10T20:40:35.453794668Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "ChronoForge to shut down amid funding collapse and Web3 gaming turmoil",
+      "link": "https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5NjEtM2E2MC03OTdiLWFiZTAtYzllZjUxMjA1ZDE3.jpg\" alt=\"ChronoForge to shut down amid funding collapse and Web3 gaming turmoil\"\u003e\u003c/p\u003e\u003cp\u003eChronoForge’s shutdown highlights mounting financial strain across Web3 gaming as shrinking budgets and dismal market sentiment take their toll.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 20:20:46 +0000",
+      "fetched_at": "2025-12-10T20:40:35.436245438Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Italian cooking awarded Unesco cultural heritage status",
       "link": "https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3061,6 +3079,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 340,
-  "last_update": "2025-12-10T20:14:50.663385564Z"
+  "total_captured": 342,
+  "last_update": "2025-12-10T20:40:35.569552523Z"
 }
