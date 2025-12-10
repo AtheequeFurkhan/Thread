@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "French far-right leader tells BBC he shares US warnings on Europe 'for most part'",
+      "link": "https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US's new National Security Strategy suggests Europe is facing \"civilisational erasure\".",
+      "published": "Wed, 10 Dec 2025 06:00:08 GMT",
+      "fetched_at": "2025-12-10T09:44:22.765731849Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Silk Road-linked Bitcoin wallets move $3M to new address",
+      "link": "https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NmUtOWZkNy03MTdlLThhMTctMjEzYTU3NWIyMGNl.jpg\" alt=\"Silk Road-linked Bitcoin wallets move $3M to new address\"\u003e\u003c/p\u003e\u003cp\u003eSilk Road-linked wallets still hold about $38.4 million worth of BTC, with millions potentially sitting in other unseized wallets.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 09:23:54 +0000",
+      "fetched_at": "2025-12-10T09:44:22.748970945Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs",
       "link": "https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2674,6 +2692,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 297,
-  "last_update": "2025-12-10T09:16:25.112313521Z"
+  "total_captured": 299,
+  "last_update": "2025-12-10T09:44:23.00251988Z"
 }
