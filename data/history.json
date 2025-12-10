@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US judge blocks Trump's National Guard deployment in Los Angeles",
+      "link": "https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The judge has ordered control of the the troops, which were deployed in June, to be returned to California's governor.",
+      "published": "Wed, 10 Dec 2025 15:46:21 GMT",
+      "fetched_at": "2025-12-10T15:54:48.679013003Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Judge rules Epstein grand jury records from 2019 case can be released",
       "link": "https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2926,6 +2935,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 325,
-  "last_update": "2025-12-10T15:43:34.896795472Z"
+  "total_captured": 326,
+  "last_update": "2025-12-10T15:54:49.62453322Z"
 }
