@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Brett Cooper says she makes up her own mind —  about Trump and everything else",
+      "link": "https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers",
+      "category": "Business",
+      "summary": "NPR's Steve Inskeep asks conservative commentator Brett Cooper about her YouTube following, her recent criticisms of President Trump and her opinion of Nick Fuentes.",
+      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-10T10:15:21.084130365Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "A divided Fed is expected to cut rates for a 3rd straight time",
+      "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs",
+      "category": "Business",
+      "summary": "The Fed is expected to lower its benchmark interest rate by a quarter percentage point — but with inflation stubbornly high and mixed signals from the job market, it could be a split decision.",
+      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-10T10:15:21.08411151Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Feeling burned out? There's a word for that in Mandarin Chinese",
+      "link": "https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin",
+      "category": "Business",
+      "summary": "How an obscure term used in anthropology leaped from the pages of academia into the Chinese meme world and then became part of Chinese government policymaking.",
+      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-10T10:15:21.084096582Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Fed expected to cut rates for a 3rd straight time",
       "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time",
       "category": "Business",
@@ -2701,6 +2728,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 300,
-  "last_update": "2025-12-10T09:54:34.064838403Z"
+  "total_captured": 303,
+  "last_update": "2025-12-10T10:15:21.346150528Z"
 }

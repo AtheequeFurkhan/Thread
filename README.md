@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 09:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-300-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 10:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-303-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 09:54 UTC)*
+*(Updated: 10 Dec 10:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) | 🟢 Positive |
+| **Business** | [A divided Fed is expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs) | ⚪ Neutral |
+| **Business** | [Feeling burned out? There's a word for that in Mandarin Chinese](https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin) | ⚪ Neutral |
 | **Business** | [Fed expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time) | ⚪ Neutral |
 | **World** | [French far-right leader tells BBC he shares US warnings on Europe 'for most part'](https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Silk Road-linked Bitcoin wallets move $3M to new address](https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [Sperm from donor with cancer-causing gene was used to conceive almost 200 children](https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Make crypto games great again? ‘Trump Billionaires Club’ launches this month](https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Trump touts upbeat message on economy as Americans feel the pinch](https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Man who grabbed Ariana Grande kicked out of Lady Gaga concert](https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83](https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) (🟢 Positive)
+- [A divided Fed is expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs) (⚪ Neutral)
+- [Feeling burned out? There's a word for that in Mandarin Chinese](https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin) (⚪ Neutral)
 - [Fed expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time) (⚪ Neutral)
 - [Millions of borrowers in Biden's SAVE plan would start paying under new settlement](https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement) (🟢 Positive)
-- [Trump to address affordability. And, the significance of Indiana's redistricting fight](https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting) (⚪ Neutral)
-- [Are we in a recession? Maybe professional Santas can tell us](https://www.npr.org/sections/planet-money/2025/12/09/g-s1-101130/are-we-in-a-recession-maybe-professional-santas-can-tell-us) (⚪ Neutral)
-- [This NPR College Podcast Challenge finalist might change how you hear your commute](https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute) (🟢 Positive)
 
 
 ### 📂 Crypto
