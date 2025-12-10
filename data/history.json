@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Can the lessons of 1929 help us avert another economic crisis?",
+      "link": "https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis",
+      "category": "Business",
+      "summary": "\u003cem\u003eNew York Times\u003c/em\u003e financial columnist Andrew Ross Sorkin draws parallels between the stock market crash of 1929, which led to the Great Depression, and today's economic uncertainty.",
+      "published": "Wed, 10 Dec 2025 11:37:52 -0500",
+      "fetched_at": "2025-12-10T16:49:27.657108555Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Iceland becomes fifth country to boycott Eurovision",
+      "link": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest.",
+      "published": "Wed, 10 Dec 2025 16:38:08 GMT",
+      "fetched_at": "2025-12-10T16:49:27.504253576Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Teachers union claims risks to retirement funds in crypto market structure",
+      "link": "https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4YWEtMTc3Zi03Yzg3LWE3ZTEtMzY5YWUyZGFiZmI0.jpg\" alt=\"Teachers union claims risks to retirement funds in crypto market structure\"\u003e\u003c/p\u003e\u003cp\u003eThe letter to the US Senate Banking Committee cited opposition to the digital asset market structure bill, echoing concerns from other labor groups.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 16:23:11 +0000",
+      "fetched_at": "2025-12-10T16:49:27.483171678Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action",
+      "link": "https://cointelegraph.com/news/short-the-dip-and-buy-the-rip-what-fomc-outcomes-reveal-about-bitcoin-price-action?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4NDQtNGE0OC03MjMyLTg5MWItYzM3MDYwZjFjMzQ2.jpg\" alt=\"Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s reaction to FOMC decisions often conflicts with traders’ predictions. Will today’s Federal Reserve interest rate outcome lead to a rally or sell-off?\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 16:28:32 +0000",
+      "fetched_at": "2025-12-10T16:49:27.483145178Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US judge blocks Trump's National Guard deployment in Los Angeles",
       "link": "https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2935,6 +2971,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 326,
-  "last_update": "2025-12-10T16:18:49.943194797Z"
+  "total_captured": 330,
+  "last_update": "2025-12-10T16:49:27.657122841Z"
 }
