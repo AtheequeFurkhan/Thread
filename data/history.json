@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
+      "link": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.",
+      "published": "Wed, 10 Dec 2025 05:06:53 GMT",
+      "fetched_at": "2025-12-10T05:37:29.262556003Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch Australian teens test out social media on first day of ban",
       "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -2566,6 +2575,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 285,
-  "last_update": "2025-12-10T05:14:50.519281135Z"
+  "total_captured": 286,
+  "last_update": "2025-12-10T05:37:30.061511831Z"
 }
