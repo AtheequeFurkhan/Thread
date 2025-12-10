@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 19:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-339-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 20:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-340-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 19:48 UTC)*
+*(Updated: 10 Dec 20:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Italian cooking awarded Unesco cultural heritage status](https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K](https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [ETHZilla moves into onchain housing finance with 15% Zippy acquisition](https://cointelegraph.com/news/ethzilla-zippy-acquisition-home-loans-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Galaxy expands to UAE as part of Middle East push](https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails](https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Ex-president's daughter sworn in as South African MP after half-sister quits](https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Italian cooking awarded Unesco cultural heritage status](https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US judge blocks Trump's National Guard deployment in Los Angeles](https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Judge rules Epstein grand jury records from 2019 case can be released](https://www.bbc.com/news/articles/clyz2vyzek9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

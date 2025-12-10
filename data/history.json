@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Italian cooking awarded Unesco cultural heritage status",
+      "link": "https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An Eyptian snack, Icelandic pool culture, Cuban music and Albanian lahuta music also get recognition.",
+      "published": "Wed, 10 Dec 2025 19:54:04 GMT",
+      "fetched_at": "2025-12-10T20:14:50.544953694Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K",
       "link": "https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3052,6 +3061,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 339,
-  "last_update": "2025-12-10T19:48:15.465520145Z"
+  "total_captured": 340,
+  "last_update": "2025-12-10T20:14:50.663385564Z"
 }
