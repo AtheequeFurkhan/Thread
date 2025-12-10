@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 21:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-345-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 22:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-347-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 21:49 UTC)*
+*(Updated: 10 Dec 22:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) | 🟢 Positive |
+| **Crypto** | [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Business** | [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) | 🔴 Negative |
 | **World** | [Iceland becomes fifth country to boycott Eurovision](https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action](https://cointelegraph.com/news/short-the-dip-and-buy-the-rip-what-fomc-outcomes-reveal-about-bitcoin-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [US judge blocks Trump's National Guard deployment in Los Angeles](https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) (🟢 Positive)
 - [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) (🔴 Negative)
 - [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) (🔴 Negative)
 - [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) (🟢 Positive)
 - [A divided Fed is expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs) (⚪ Neutral)
-- [Feeling burned out? There's a word for that in Mandarin Chinese](https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [ChronoForge to shut down amid funding collapse and Web3 gaming turmoil](https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K](https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
