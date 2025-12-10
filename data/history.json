@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Animoca, Solv to help Japanese Bitcoin companies generate yield",
+      "link": "https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2OTctZDA2Ni03NDczLTk0MTEtNDQ3YmFhOThlNzJi.jpg\" alt=\"Animoca, Solv to help Japanese Bitcoin companies generate yield\"\u003e\u003c/p\u003e\u003cp\u003eSolv generates Bitcoin yield through lending markets, liquidity provisioning to automated market maker pools, and participation in structured staking programs.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 06:19:55 +0000",
+      "fetched_at": "2025-12-10T06:53:27.971769927Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Connecticut can’t take action against Kalshi for now, judge rules",
       "link": "https://cointelegraph.com/news/connecticut-cant-take-action-against-kalshi-for-now-judge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -2593,6 +2602,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 288,
-  "last_update": "2025-12-10T06:20:38.760755799Z"
+  "total_captured": 289,
+  "last_update": "2025-12-10T06:53:28.345834182Z"
 }
