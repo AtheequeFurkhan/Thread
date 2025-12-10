@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Galaxy expands to UAE as part of Middle East push",
+      "link": "https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MjUtY2I0YS03Nzc3LTkyNzAtZmNkOGMxMjliZmM5.jpg\" alt=\"Galaxy expands to UAE as part of Middle East push\"\u003e\u003c/p\u003e\u003cp\u003eThe digital assets company is one of many to seek regulatory approval from UAE authorities or attempt to expand their services into a region drawing them in.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 18:40:20 +0000",
+      "fetched_at": "2025-12-10T18:50:32.151660831Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Strategy responds to MSCI letter, makes case for index inclusion",
       "link": "https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3025,6 +3034,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 336,
-  "last_update": "2025-12-10T18:19:52.797805472Z"
+  "total_captured": 337,
+  "last_update": "2025-12-10T18:50:32.203416674Z"
 }

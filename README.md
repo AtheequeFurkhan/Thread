@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-336-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 18:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-337-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 18:19 UTC)*
+*(Updated: 10 Dec 18:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Galaxy expands to UAE as part of Middle East push](https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Strategy responds to MSCI letter, makes case for index inclusion](https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Ex-president's daughter sworn in as South African MP after half-sister quits](https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits](https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [US jets tracked circling Gulf of Venezuela as tensions mount](https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Japan plans major shift as crypto moves from payments to securities law](https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Galaxy expands to UAE as part of Middle East push](https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy responds to MSCI letter, makes case for index inclusion](https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant](https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
