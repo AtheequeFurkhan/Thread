@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Strategy responds to MSCI letter, makes case for index inclusion",
+      "link": "https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MmYtMGZhNi03NjRjLWI1ZDgtMTUwNTVkODk0Nzcy.jpg\" alt=\"Strategy responds to MSCI letter, makes case for index inclusion\"\u003e\u003c/p\u003e\u003cp\u003eThe company argued that digital asset treasuries are operating companies and that MSCI indexes include businesses with a single-asset focus.\u003c/p\u003e",
+      "published": "Wed, 10 Dec 2025 17:56:23 +0000",
+      "fetched_at": "2025-12-10T18:19:52.622489254Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ukraine at critical moment, European leaders say after Trump call",
       "link": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3016,6 +3025,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 335,
-  "last_update": "2025-12-10T17:54:44.363349181Z"
+  "total_captured": 336,
+  "last_update": "2025-12-10T18:19:52.797805472Z"
 }

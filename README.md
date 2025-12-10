@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-10 Dec 17:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-335-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-10 Dec 18:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-336-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 10 Dec 17:54 UTC)*
+*(Updated: 10 Dec 18:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Strategy responds to MSCI letter, makes case for index inclusion](https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ukraine at critical moment, European leaders say after Trump call](https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Benin coup plot leader hiding in Togo, official tells BBC](https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits](https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [US jets tracked circling Gulf of Venezuela as tensions mount](https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Japan plans major shift as crypto moves from payments to securities law](https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?](https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Strategy responds to MSCI letter, makes case for index inclusion](https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant](https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [The whale awakening: Why dormant crypto giants are suddenly back in motion](https://cointelegraph.com/explained/the-whale-awakening-why-dormant-crypto-giants-are-suddenly-back-in-motion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Teachers union claims risks to retirement funds in crypto market structure](https://cointelegraph.com/news/us-teachers-union-senate-withdraw-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Short the dip and buy the rip? What FOMC outcomes reveal about Bitcoin price action](https://cointelegraph.com/news/short-the-dip-and-buy-the-rip-what-fomc-outcomes-reveal-about-bitcoin-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
