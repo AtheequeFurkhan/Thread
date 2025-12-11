@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 15:55 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-396-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 16:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-402-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 15:55 UTC)*
+*(Updated: 11 Dec 16:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Ukraine hands US revised peace plan proposal, Germany says](https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Bulgarian PM and government resign after mass protests](https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [From Iran to China to Venezuela - how tanker seized by US hid true location](https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Prediction markets bet Bitcoin won’t reach $100K before year’s end](https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Trust Wallet taps Revolut for crypto purchases in Europe](https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin treasuries stall in Q4, but largest holders keep stacking sats](https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled](https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Coinbase opens Solana DEX access as CeFi and DeFi converge](https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed](https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [UAE telco giant e& taps dirham stablecoin for bill payments pilot](https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [XRP transaction fees drop 89%: Is price headed below $1.75?](https://cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Business** | [Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers](https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix) | 🟢 Positive |
-| **Business** | [What the Federal Reserve's interest rate cut means for consumers](https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers) | ⚪ Neutral |
-| **Business** | [Federal Reserve votes to cut interest rates for a 3rd time](https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- [Moment skydiver's parachute wraps around plane wing](https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Poland arrests Russian archaeologist wanted in Ukraine](https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Ukraine hands US revised peace plan proposal, Germany says](https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Bulgarian PM and government resign after mass protests](https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

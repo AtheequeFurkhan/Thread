@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
+      "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two species working together.",
+      "published": "Thu, 11 Dec 2025 16:01:59 GMT",
+      "fetched_at": "2025-12-11T16:20:24.112305252Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Thousands ready to evacuate as flooding hits Pacific Northwest",
+      "link": "https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An atmospheric river has caused torrential rain to parts of Canada and the United States.",
+      "published": "Thu, 11 Dec 2025 12:53:15 GMT",
+      "fetched_at": "2025-12-11T16:20:24.11228783Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US judge orders Kilmar Abrego Garcia's release from ICE custody",
+      "link": "https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The judge rules Abrego Garcia was \"without lawful authority\", and will now at least temporarily be allowed to return to his Maryland home.",
+      "published": "Thu, 11 Dec 2025 15:49:31 GMT",
+      "fetched_at": "2025-12-11T16:20:24.112273072Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ukraine hands US revised peace plan proposal, Germany says",
+      "link": "https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The latest draft includes proposals on territorial concessions, Germany's chancellor says.",
+      "published": "Thu, 11 Dec 2025 15:40:25 GMT",
+      "fetched_at": "2025-12-11T16:20:24.112262332Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bulgarian PM and government resign after mass protests",
+      "link": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Rosen Zhelyazkov's dramatic move came ahead of a vote of no confidence in parliament, and 20 days before Bulgaria joins the euro.",
+      "published": "Thu, 11 Dec 2025 14:32:11 GMT",
+      "fetched_at": "2025-12-11T16:20:24.112250781Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "From Iran to China to Venezuela - how tanker seized by US hid true location",
+      "link": "https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A seized tanker accused of smuggling sanctioned oil has long hidden its true location. BBC Verify examines how.",
+      "published": "Thu, 11 Dec 2025 15:03:30 GMT",
+      "fetched_at": "2025-12-11T16:20:24.112236394Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Prediction markets bet Bitcoin won’t reach $100K before year’s end",
       "link": "https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3565,6 +3619,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 396,
-  "last_update": "2025-12-11T15:55:58.896279785Z"
+  "total_captured": 402,
+  "last_update": "2025-12-11T16:20:24.409787353Z"
 }
