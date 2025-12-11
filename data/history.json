@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
+      "category": "Business",
+      "summary": "As Democrats campaigning on affordability pick up wins, Trump's messaging about a strong economy is at odds with widespread voter sentiment that he's not doing enough to tackle rising costs.",
+      "published": "Thu, 11 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-11T17:19:24.547592498Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US SEC's Crenshaw takes aim at crypto in final weeks at the agency",
+      "link": "https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMTQtMmUwOS03MmE5LWIyNDAtNDYzYjQ4MzY5NDBm.jpg\" alt=\"US SEC's Crenshaw takes aim at crypto in final weeks at the agency\"\u003e\u003c/p\u003e\u003cp\u003eCaroline Crenshaw, the financial agency’s sole remaining Democratic commissioner, is expected to depart in January, 18 months after her official term ended.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 16:53:28 +0000",
+      "fetched_at": "2025-12-11T17:19:24.170808137Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Texas grid is heating up again, this time from AI, not Bitcoin miners",
+      "link": "https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMjctN2Q5Mi03YmY0LThkOTktOGZhZmQ3NjU0NjY1.jpg\" alt=\"Texas grid is heating up again, this time from AI, not Bitcoin miners\"\u003e\u003c/p\u003e\u003cp\u003eERCOT reported a record surge in large-load requests, with AI data centers surpassing Bitcoin miners and reshaping Texas’s grid planning and reliability outlook.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 17:15:00 +0000",
+      "fetched_at": "2025-12-11T17:19:24.170785475Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
       "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -3637,6 +3664,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 404,
-  "last_update": "2025-12-11T16:53:55.874924911Z"
+  "total_captured": 407,
+  "last_update": "2025-12-11T17:19:24.547610171Z"
 }
