@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 14:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-393-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 14:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-395-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 14:16 UTC)*
+*(Updated: 11 Dec 14:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trust Wallet taps Revolut for crypto purchases in Europe](https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Bitcoin treasuries stall in Q4, but largest holders keep stacking sats](https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Moment skydiver's parachute wraps around plane wing](https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026](https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Business** | [What the Federal Reserve's interest rate cut means for consumers](https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers) | ⚪ Neutral |
 | **Business** | [Federal Reserve votes to cut interest rates for a 3rd time](https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time) | ⚪ Neutral |
 | **Crypto** | [Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system](https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund](https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trust Wallet taps Revolut for crypto purchases in Europe](https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Bitcoin treasuries stall in Q4, but largest holders keep stacking sats](https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026](https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [UK FCA makes pound stablecoin payments 2026 priority](https://cointelegraph.com/news/uk-fca-pound-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis](https://cointelegraph.com/news/bitcoin-due-2026-bottom-exchange-volumes-grind-lower-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled](https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Coinbase opens Solana DEX access as CeFi and DeFi converge](https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

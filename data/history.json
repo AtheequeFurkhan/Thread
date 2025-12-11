@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trust Wallet taps Revolut for crypto purchases in Europe",
+      "link": "https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkODctNmU5Yi03ZDExLWFmMjgtNzhiYzZjMzViMTBm.jpg\" alt=\"Trust Wallet taps Revolut for crypto purchases in Europe\"\u003e\u003c/p\u003e\u003cp\u003eTrust Wallet’s “zero-fee” crypto purchases through Revolut arrive weeks after the fintech unicorn hit a $75 billion valuation in a private share sale.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 14:13:13 +0000",
+      "fetched_at": "2025-12-11T14:43:32.267298435Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin treasuries stall in Q4, but largest holders keep stacking sats",
+      "link": "https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkNTgtYTQyZC03ZjQyLThjYmEtMWEzNjljOGI3YTVm.jpg\" alt=\"Bitcoin treasuries stall in Q4, but largest holders keep stacking sats\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin treasury adoption slowed during the fourth quarter, but the largest firms continued to accumulate BTC, with public companies now holding over 4.7% of the total Bitcoin supply.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 14:27:24 +0000",
+      "fetched_at": "2025-12-11T14:43:32.267281433Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Moment skydiver's parachute wraps around plane wing",
       "link": "https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3538,6 +3556,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 393,
-  "last_update": "2025-12-11T14:16:41.716688314Z"
+  "total_captured": 395,
+  "last_update": "2025-12-11T14:43:32.292909755Z"
 }
