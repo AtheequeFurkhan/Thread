@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed",
+      "link": "https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMmMtYTQ5Yi03YmU4LTk1ZjAtMjQ0Y2E3YTkyMmUw.jpg\" alt=\"Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed\"\u003e\u003c/p\u003e\u003cp\u003eThe Polish government reintroduced an identical version of an 84-page crypto bill that was vetoed by the president, raising questions about local versus centralized EU oversight.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 11:22:09 +0000",
+      "fetched_at": "2025-12-11T11:31:07.11435602Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "UAE telco giant e\u0026 taps dirham stablecoin for bill payments pilot",
       "link": "https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3430,6 +3439,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 381,
-  "last_update": "2025-12-11T11:12:03.81328911Z"
+  "total_captured": 382,
+  "last_update": "2025-12-11T11:31:08.301894744Z"
 }
