@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "More than 30 dead after Myanmar military air strike hits hospital",
+      "link": "https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The junta has stepped up bombardments by air in an attempt to reclaim territory from ethnic armies.",
+      "published": "Thu, 11 Dec 2025 08:12:36 GMT",
+      "fetched_at": "2025-12-11T08:19:16.516335108Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Goa nightclub owners held in Thailand over deadly fire",
       "link": "https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3358,6 +3367,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 373,
-  "last_update": "2025-12-11T07:50:05.473210413Z"
+  "total_captured": 374,
+  "last_update": "2025-12-11T08:19:16.554488796Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 07:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-373-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 08:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-374-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 07:50 UTC)*
+*(Updated: 11 Dec 08:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Satoshi Nakamoto statue lands on NYSE in sign of changing times](https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Gemini soars 14% as new license opens door to US prediction markets](https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Payments giant Stripe acquires team from crypto wallet app Valora](https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [String of celebrity scandals renews debate on South Korea's 'cancel culture'](https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
