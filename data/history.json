@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
+      "link": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\".",
+      "published": "Thu, 11 Dec 2025 23:40:28 GMT",
+      "fetched_at": "2025-12-11T23:49:01.433112585Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
+      "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights.",
+      "published": "Thu, 11 Dec 2025 23:35:19 GMT",
+      "fetched_at": "2025-12-11T23:49:00.969129639Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'Catastrophe bonds' are gaining popularity as a response to climate change",
       "link": "https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change",
       "category": "Business",
@@ -3799,6 +3817,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 422,
-  "last_update": "2025-12-11T23:30:47.1059468Z"
+  "total_captured": 424,
+  "last_update": "2025-12-11T23:49:01.647840322Z"
 }

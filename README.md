@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 23:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-422-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 23:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-424-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 23:30 UTC)*
+*(Updated: 11 Dec 23:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) | 🟢 Positive |
 | **Business** | [Farmers welcome Trump's $12 billion aid package, say additional relief is needed](https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed) | ⚪ Neutral |
 | **Crypto** | [Bitcoin, blockchain should form Pakistan’s new financial rail, minister says](https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Business** | [Trump calls affordability crisis a 'hoax.' The data tells a different story](https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms) | ⚪ Neutral |
 | **Crypto** | [US SEC's Crenshaw takes aim at crypto in final weeks at the agency](https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Texas grid is heating up again, this time from AI, not Bitcoin miners](https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area](https://cointelegraph.com/news/belarus-blocks-bybit-bitget-okx-russia-retail-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony](https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ukraine hands US revised peace plan proposal, Germany says](https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
