@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 13:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-391-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 14:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-393-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 13:51 UTC)*
+*(Updated: 11 Dec 14:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Moment skydiver's parachute wraps around plane wing](https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026](https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system](https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund](https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026](https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [UK FCA makes pound stablecoin payments 2026 priority](https://cointelegraph.com/news/uk-fca-pound-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis](https://cointelegraph.com/news/bitcoin-due-2026-bottom-exchange-volumes-grind-lower-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled](https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Coinbase opens Solana DEX access as CeFi and DeFi converge](https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed](https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Moment skydiver's parachute wraps around plane wing](https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Poland arrests Russian archaeologist wanted in Ukraine](https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
