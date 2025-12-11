@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund",
+      "link": "https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjNWItY2U1Mi03OTFlLTkwNDgtNGY4NGU2YWEyODBm.jpg\" alt=\"State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund\"\u003e\u003c/p\u003e\u003cp\u003eState Street Investment Management and Galaxy Asset Management are launching a tokenized private liquidity fund on Solana, with Ondo expected to invest $200 million.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 08:52:34 +0000",
+      "fetched_at": "2025-12-11T09:18:04.934358841Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "More than 30 dead after Myanmar military air strike hits hospital",
       "link": "https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3367,6 +3376,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 374,
-  "last_update": "2025-12-11T08:50:04.98180196Z"
+  "total_captured": 375,
+  "last_update": "2025-12-11T09:18:05.328107488Z"
 }
