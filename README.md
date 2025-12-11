@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 22:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-421-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 22:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-422-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 22:35 UTC)*
+*(Updated: 11 Dec 22:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) | 🟢 Positive |
 | **Business** | [Farmers welcome Trump's $12 billion aid package, say additional relief is needed](https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed) | ⚪ Neutral |
 | **Crypto** | [Bitcoin, blockchain should form Pakistan’s new financial rail, minister says](https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Terraform co-founder sentenced to 15 years in prison after guilty plea](https://cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Texas grid is heating up again, this time from AI, not Bitcoin miners](https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area](https://cointelegraph.com/news/belarus-blocks-bybit-bitget-okx-russia-retail-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) (🟢 Positive)
 - [Farmers welcome Trump's $12 billion aid package, say additional relief is needed](https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed) (⚪ Neutral)
 - [Trump calls affordability crisis a 'hoax.' The data tells a different story](https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms) (⚪ Neutral)
 - [Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers](https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix) (🟢 Positive)
 - [What the Federal Reserve's interest rate cut means for consumers](https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers) (⚪ Neutral)
-- [Federal Reserve votes to cut interest rates for a 3rd time](https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time) (⚪ Neutral)
 
 
 ### 📂 Crypto

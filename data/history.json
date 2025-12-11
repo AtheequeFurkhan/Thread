@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'Catastrophe bonds' are gaining popularity as a response to climate change",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change",
+      "category": "Business",
+      "summary": "After the hurricane in Jamaica, the government had a pot of money to help rebuild. A Catastrophe Bonds payout. We explain how it works and why Cat Bond popularity is on the rise as a response to climate change.",
+      "published": "Thu, 11 Dec 2025 17:41:07 -0500",
+      "fetched_at": "2025-12-11T22:50:55.888603523Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Farmers welcome Trump's $12 billion aid package, say additional relief is needed",
       "link": "https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed",
       "category": "Business",
@@ -3790,6 +3799,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 421,
-  "last_update": "2025-12-11T22:35:44.648486968Z"
+  "total_captured": 422,
+  "last_update": "2025-12-11T22:50:55.888625545Z"
 }
