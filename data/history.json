@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance",
+      "link": "https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlZDUtODYxOC03MjgxLTkxN2MtZGYxZjBmNTYyYzA3.jpg\" alt=\"J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance\"\u003e\u003c/p\u003e\u003cp\u003eThe tokenized commercial bond is one of the earliest transactions of its kind in the budding sector of onchain debt and credit instruments.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 20:35:07 +0000",
+      "fetched_at": "2025-12-11T20:50:00.812935597Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ether price trend forecasts triple-digit rally as ETH ETF inflows resume",
+      "link": "https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlYjUtZWIxMC03NTE2LWE2MTctOTFjMzBjZTUxN2Ey.jpg\" alt=\"Ether price trend forecasts triple-digit rally as ETH ETF inflows resume\"\u003e\u003c/p\u003e\u003cp\u003eSpot ETH ETF inflows resumed, while demand for taker volume improved. Will Ether’s futures markets follow the trend and kickstart a rally toward new all-time highs?\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 20:41:08 +0000",
+      "fetched_at": "2025-12-11T20:50:00.812913095Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Vote on Trump’s CFTC chair pick could come today, US senator says",
       "link": "https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3709,6 +3727,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 412,
-  "last_update": "2025-12-11T20:35:44.796508029Z"
+  "total_captured": 414,
+  "last_update": "2025-12-11T20:50:01.168031882Z"
 }

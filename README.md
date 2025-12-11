@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 20:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-412-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 20:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-414-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 20:35 UTC)*
+*(Updated: 11 Dec 20:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance](https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Ether price trend forecasts triple-digit rally as ETH ETF inflows resume](https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Vote on Trump’s CFTC chair pick could come today, US senator says](https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage](https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why](https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [From Iran to China to Venezuela - how tanker seized by US hid true location](https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Prediction markets bet Bitcoin won’t reach $100K before year’s end](https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Trust Wallet taps Revolut for crypto purchases in Europe](https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin treasuries stall in Q4, but largest holders keep stacking sats](https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Moment skydiver's parachute wraps around plane wing](https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance](https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Ether price trend forecasts triple-digit rally as ETH ETF inflows resume](https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Vote on Trump’s CFTC chair pick could come today, US senator says](https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage](https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why](https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bhutan goes for gold, announces sovereign-backed RWA token](https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [US SEC's Crenshaw takes aim at crypto in final weeks at the agency](https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
