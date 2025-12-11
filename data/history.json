@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "UAE telco giant e\u0026 taps dirham stablecoin for bill payments pilot",
+      "link": "https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjZDAtZjUxNS03YTMzLWFlNGItMjlhMjU2NjY5M2Fl.jpg\" alt=\"UAE telco giant e\u0026 taps dirham stablecoin for bill payments pilot\"\u003e\u003c/p\u003e\u003cp\u003eThe MoU marks a cautious step toward real-world stablecoin payments in the UAE, with e\u0026 assessing how AE Coin may integrate into its digital channels.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 10:59:15 +0000",
+      "fetched_at": "2025-12-11T11:12:03.706468286Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "XRP transaction fees drop 89%: Is price headed below $1.75?",
       "link": "https://cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3421,6 +3430,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 380,
-  "last_update": "2025-12-11T10:46:33.148070129Z"
+  "total_captured": 381,
+  "last_update": "2025-12-11T11:12:03.81328911Z"
 }
