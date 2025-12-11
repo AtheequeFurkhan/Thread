@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 21:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-417-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 21:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-418-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 21:34 UTC)*
+*(Updated: 11 Dec 21:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [XRP buy signal flashes as funding rate turns deeply negative: Will bulls step in?](https://cointelegraph.com/news/xrp-funding-rate-turns-negative-will-bulls-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Netflix teases comedy movie about missing $35M crypto password](https://cointelegraph.com/news/netflix-comedy-movie-missing-crypto-password?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout](https://cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets](https://cointelegraph.com/news/hive-listing-colombia-ai-bitcoin-infrastructure-andean-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ukraine hands US revised peace plan proposal, Germany says](https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Bulgarian PM and government resign after mass protests](https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [XRP buy signal flashes as funding rate turns deeply negative: Will bulls step in?](https://cointelegraph.com/news/xrp-funding-rate-turns-negative-will-bulls-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Netflix teases comedy movie about missing $35M crypto password](https://cointelegraph.com/news/netflix-comedy-movie-missing-crypto-password?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout](https://cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets](https://cointelegraph.com/news/hive-listing-colombia-ai-bitcoin-infrastructure-andean-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance](https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ether price trend forecasts triple-digit rally as ETH ETF inflows resume](https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
