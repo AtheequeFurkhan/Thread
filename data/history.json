@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO",
+      "link": "https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg\" alt=\"MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO\"\u003e\u003c/p\u003e\u003cp\u003eThe MSCI Index is consulting on whether to exclude Bitcoin and other digital asset treasury companies that have a balance sheet with more than 50% of their assets in crypto.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 04:34:12 +0000",
+      "fetched_at": "2025-12-11T04:54:59.487273764Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "A16z Crypto opens office in South Korea as it bets on Asia",
+      "link": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzMtYjllNS03MDA5LWEzN2ItMTg4NjUzNzMxMjhl.jpg\" alt=\"A16z Crypto opens office in South Korea as it bets on Asia\"\u003e\u003c/p\u003e\u003cp\u003eA16z Crypto opened its first Asian office in Seoul, South Korea, led by SungMo Park, citing the region’s dominance in global adoption and onchain activity.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 04:48:28 +0000",
+      "fetched_at": "2025-12-11T04:54:59.487247325Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
       "link": "https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3277,6 +3295,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 364,
-  "last_update": "2025-12-11T04:28:43.355902513Z"
+  "total_captured": 366,
+  "last_update": "2025-12-11T04:54:59.594537007Z"
 }
