@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vote on Trump’s CFTC chair pick could come today, US senator says",
+      "link": "https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNmMtMDdhZC03NGIxLWE5ZTYtMTUyZDg3NTg4MzM0.jpg\" alt=\"Vote on Trump’s CFTC chair pick could come today, US senator says\"\u003e\u003c/p\u003e\u003cp\u003eSenators could vote on Michael Selig's nomination to head the CFTC, which, if successful, is expected to lead to the departure of acting Chair Caroline Pham.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 19:12:02 +0000",
+      "fetched_at": "2025-12-11T19:13:53.591671206Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage",
       "link": "https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3700,6 +3709,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 411,
-  "last_update": "2025-12-11T18:52:53.92372517Z"
+  "total_captured": 412,
+  "last_update": "2025-12-11T19:13:54.05745035Z"
 }
