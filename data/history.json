@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
+      "link": "https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzUtY2JlMi03NzJkLWFkYWUtNDIzMjliNjA5YWJk.jpg\" alt=\"CFTC Innovation Council adds prediction market, exchange CEOs\"\u003e\u003c/p\u003e\u003cp\u003eThe CFTC's new CEO Innovation Council includes leaders from crypto exchanges like Kraken and traditional stock exchanges such as Nasdaq to discuss market structure reforms.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 04:01:58 +0000",
+      "fetched_at": "2025-12-11T04:28:42.874276451Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Big tech bets big on AI - but can India keep pace in the global race?",
       "link": "https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3268,6 +3277,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 363,
-  "last_update": "2025-12-11T03:54:01.031206829Z"
+  "total_captured": 364,
+  "last_update": "2025-12-11T04:28:43.355902513Z"
 }
