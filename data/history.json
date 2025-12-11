@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
+      "category": "Business",
+      "summary": "Sen. Elizabeth Warren cautions that the sale of Warner Bros. Discovery to either Netflix or Paramount Skydance could reduce competition and concentrate power over what films and news American see.",
+      "published": "Thu, 11 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-11T10:16:14.021457064Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "What the Federal Reserve's interest rate cut means for consumers",
       "link": "https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers",
       "category": "Business",
@@ -3403,6 +3412,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 378,
-  "last_update": "2025-12-11T09:57:48.857255727Z"
+  "total_captured": 379,
+  "last_update": "2025-12-11T10:16:14.328310965Z"
 }
