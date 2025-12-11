@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "The Swiss city that lets you pay for most things with bitcoin",
+      "link": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.",
+      "published": "Thu, 11 Dec 2025 00:22:58 GMT",
+      "fetched_at": "2025-12-11T01:00:00.840971279Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "String of celebrity scandals renews debate on South Korea's 'cancel culture'",
+      "link": "https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In a matter of days, three big entertainers in South Korea have made headlines in separate scandals.",
+      "published": "Thu, 11 Dec 2025 00:05:47 GMT",
+      "fetched_at": "2025-12-11T01:00:00.329798888Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
+      "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The cloud computing giant's revenue miss renews questions about its financial health.",
+      "published": "Thu, 11 Dec 2025 00:19:20 GMT",
+      "fetched_at": "2025-12-11T01:00:00.329774051Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Portugal braced for mass disruption in first general strike for 12 years",
+      "link": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "PM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms.",
+      "published": "Thu, 11 Dec 2025 00:24:49 GMT",
+      "fetched_at": "2025-12-11T01:00:00.329758202Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying",
+      "link": "https://cointelegraph.com/news/asian-millionaires-bullish-crypto-60-percent-raise-allocations-survey?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2YTAtNGFiNS03ZTMxLWE4NDEtM2UxNDJkMDFkZmE4.jpg\" alt=\"Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying\"\u003e\u003c/p\u003e\u003cp\u003eSygnum’s APAC HNWI Report 2025 found that 87% of Asia’s high-net-worth individuals are already exposed to crypto, with an average allocation of approximately 17%.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 00:00:00 +0000",
+      "fetched_at": "2025-12-11T00:59:59.963288312Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Video shows US military seizing oil tanker off Venezuela coast",
       "link": "https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3151,6 +3196,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 350,
-  "last_update": "2025-12-10T23:47:51.951581107Z"
+  "total_captured": 355,
+  "last_update": "2025-12-11T01:00:00.841036891Z"
 }
