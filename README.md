@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 05:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-368-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 05:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-370-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 05:44 UTC)*
+*(Updated: 11 Dec 05:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [GOP hardliners vexed as defense bill advances without CBDC ban](https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [Australian regulator eases rules for stablecoins and wrapped tokens](https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO](https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Shares in AI giant Oracle fall after revenue results ramp up bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Portugal braced for mass disruption in first general strike for 12 years](https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying](https://cointelegraph.com/news/asian-millionaires-bullish-crypto-60-percent-raise-allocations-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Watch: Video shows US military seizing oil tanker off Venezuela coast](https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Why Thailand and Cambodia are fighting again after Trump ceasefire](https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [GOP hardliners vexed as defense bill advances without CBDC ban](https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [Australian regulator eases rules for stablecoins and wrapped tokens](https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO](https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [A16z Crypto opens office in South Korea as it bets on Asia](https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CFTC Innovation Council adds prediction market, exchange CEOs](https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto among sectors ‘debanked’ by 9 major banks: US regulator](https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Gemini soars 14% as new license opens door to US prediction markets](https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

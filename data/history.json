@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "GOP hardliners vexed as defense bill advances without CBDC ban",
+      "link": "https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiOWYtMzM0Ny03MjczLWFjZjctNTlmZWViYTRjODlk.jpg\" alt=\"GOP hardliners vexed as defense bill advances without CBDC ban\"\u003e\u003c/p\u003e\u003cp\u003eConservatives in the Republican Party are frustrated that a promised ban on central bank digital currencies didn’t make it into a must-pass defense bill that’s now on its way to the Senate.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 05:40:23 +0000",
+      "fetched_at": "2025-12-11T05:54:07.918996032Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Australian regulator eases rules for stablecoins and wrapped tokens",
+      "link": "https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiZGQtMTMwMi03ZmQ5LWJmZDctMTQzOGU2Y2U5MzEy.jpg\" alt=\"Australian regulator eases rules for stablecoins and wrapped tokens\"\u003e\u003c/p\u003e\u003cp\u003eAustralia’s securities regulator has removed licensing requirements for stablecoin intermediaries and approved omnibus accounts, reducing compliance costs.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 05:42:00 +0000",
+      "fetched_at": "2025-12-11T05:54:07.918972318Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Mexico approves up to 50% tariffs on China and other countries",
       "link": "https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3313,6 +3331,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 368,
-  "last_update": "2025-12-11T05:44:03.901821972Z"
+  "total_captured": 370,
+  "last_update": "2025-12-11T05:54:08.936179906Z"
 }
