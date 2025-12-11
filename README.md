@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 04:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-366-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 05:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-368-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 04:54 UTC)*
+*(Updated: 11 Dec 05:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO](https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [A16z Crypto opens office in South Korea as it bets on Asia](https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CFTC Innovation Council adds prediction market, exchange CEOs](https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying](https://cointelegraph.com/news/asian-millionaires-bullish-crypto-60-percent-raise-allocations-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Watch: Video shows US military seizing oil tanker off Venezuela coast](https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Why Thailand and Cambodia are fighting again after Trump ceasefire](https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Fed slashes interest rates, but issues mixed forward guidance](https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump launches $1m 'gold card' immigration visas](https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Indigenous deaths in custody in Australia hit highest level since 1980](https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US seizes oil tanker off the coast of Venezuela, Trump says](https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Venezuelan opposition leader makes first public appearance after months in hiding](https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
