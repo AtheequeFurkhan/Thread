@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
+      "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.",
+      "published": "Thu, 11 Dec 2025 06:03:16 GMT",
+      "fetched_at": "2025-12-11T06:21:10.489158385Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Satoshi Nakamoto statue lands on NYSE in sign of changing times",
+      "link": "https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiYTYtOWEyOS03Y2Q3LWFkZTYtMTI5MDg1ZjdiMzA0.jpg\" alt=\"Satoshi Nakamoto statue lands on NYSE in sign of changing times\"\u003e\u003c/p\u003e\u003cp\u003eThere are five other Satoshi statues made by Valentina Picozzi located around the world in Switzerland, El Salvador, Japan, Vietnam, and Miami, in the US State of Florida.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 06:13:26 +0000",
+      "fetched_at": "2025-12-11T06:21:10.4743001Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "GOP hardliners vexed as defense bill advances without CBDC ban",
       "link": "https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3331,6 +3349,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 370,
-  "last_update": "2025-12-11T05:54:08.936179906Z"
+  "total_captured": 372,
+  "last_update": "2025-12-11T06:21:10.631920451Z"
 }
