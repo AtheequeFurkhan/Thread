@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Netflix teases comedy movie about missing $35M crypto password",
+      "link": "https://cointelegraph.com/news/netflix-comedy-movie-missing-crypto-password?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlZDYtYTAzMC03ODY2LWE1MzUtMTVjNjdjMTM1OTNj.jpg\" alt=\"Netflix teases comedy movie about missing $35M crypto password\"\u003e\u003c/p\u003e\u003cp\u003eThe film, titled \"One Attempt Remaining,\" about a couple trying to regain access to millions of dollars worth of crypto, mirrors real-world crypto dilemmas.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 21:30:00 +0000",
+      "fetched_at": "2025-12-11T21:34:07.641434517Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout",
       "link": "https://cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3745,6 +3754,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 416,
-  "last_update": "2025-12-11T21:14:09.323254116Z"
+  "total_captured": 417,
+  "last_update": "2025-12-11T21:34:07.764588212Z"
 }
