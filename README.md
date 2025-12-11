@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 09:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-376-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 09:57 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-378-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 09:45 UTC)*
+*(Updated: 11 Dec 09:57 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [What the Federal Reserve's interest rate cut means for consumers](https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers) | ⚪ Neutral |
+| **Business** | [Federal Reserve votes to cut interest rates for a 3rd time](https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time) | ⚪ Neutral |
 | **Crypto** | [Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system](https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund](https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Indigenous deaths in custody in Australia hit highest level since 1980](https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [US seizes oil tanker off the coast of Venezuela, Trump says](https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Venezuelan opposition leader makes first public appearance after months in hiding](https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Crypto among sectors ‘debanked’ by 9 major banks: US regulator](https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Gemini soars 14% as new license opens door to US prediction markets](https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [What the Federal Reserve's interest rate cut means for consumers](https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers) (⚪ Neutral)
+- [Federal Reserve votes to cut interest rates for a 3rd time](https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time) (⚪ Neutral)
 - [Why news organizations are suing AI companies, and what they hope to win](https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win) (🟢 Positive)
 - [Can the lessons of 1929 help us avert another economic crisis?](https://www.npr.org/2025/12/10/nx-s1-5639795/can-the-lessons-of-1929-help-us-avert-another-economic-crisis) (🔴 Negative)
 - [The Fed is expected to cut rates. And, Afghan CIA fighters feel abandoned by the U.S.](https://www.npr.org/2025/12/10/g-s1-101524/up-first-newsletter-trump-economy-fed-reserve-meeting-afghan-fighters) (🔴 Negative)
-- [Brett Cooper says she makes up her own mind —  about Trump and everything else](https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers) (🟢 Positive)
-- [A divided Fed is expected to cut rates for a 3rd straight time](https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs) (⚪ Neutral)
 
 
 ### 📂 Crypto

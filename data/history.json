@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "What the Federal Reserve's interest rate cut means for consumers",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers",
+      "category": "Business",
+      "summary": "NPR's Michel Martin speaks with Mark Zandi, chief economist at Moody Analytics, about the Federal Reserve's decision to cut interest rates and what it means for consumers.",
+      "published": "Thu, 11 Dec 2025 04:43:22 -0500",
+      "fetched_at": "2025-12-11T09:57:48.857217546Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Federal Reserve votes to cut interest rates for a 3rd time",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time",
+      "category": "Business",
+      "summary": "The Federal Reserve voted to cut interest rates Wednesday by another quarter percent, in an effort to prop up a sagging job market. Fed officials warned they'll be cautious about more cuts in 2026.",
+      "published": "Thu, 11 Dec 2025 04:43:27 -0500",
+      "fetched_at": "2025-12-11T09:57:48.857201956Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system",
       "link": "https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3385,6 +3403,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 376,
-  "last_update": "2025-12-11T09:45:01.242269842Z"
+  "total_captured": 378,
+  "last_update": "2025-12-11T09:57:48.857255727Z"
 }
