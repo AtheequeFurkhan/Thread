@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system",
+      "link": "https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjODAtYTA5Ni03Yjc3LWE1MWEtNDNhODI5MTczZmQx.jpg\" alt=\"Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system\"\u003e\u003c/p\u003e\u003cp\u003eNorway rules that a digital krone is unnecessary for now, highlighting its strong payment rails and the uncertain benefits of both retail and wholesale CBDCs.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 09:24:51 +0000",
+      "fetched_at": "2025-12-11T09:45:00.502079168Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund",
       "link": "https://cointelegraph.com/news/state-street-galaxy-ondo-onchain-cash-sweep-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3376,6 +3385,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 375,
-  "last_update": "2025-12-11T09:18:05.328107488Z"
+  "total_captured": 376,
+  "last_update": "2025-12-11T09:45:01.242269842Z"
 }
