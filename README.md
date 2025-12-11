@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 17:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-407-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 18:17 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-409-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 17:52 UTC)*
+*(Updated: 11 Dec 18:17 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony](https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bhutan goes for gold, announces sovereign-backed RWA token](https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Trump calls affordability crisis a 'hoax.' The data tells a different story](https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms) | ⚪ Neutral |
 | **Crypto** | [US SEC's Crenshaw takes aim at crypto in final weeks at the agency](https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Texas grid is heating up again, this time from AI, not Bitcoin miners](https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026](https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Poland arrests Russian archaeologist wanted in Ukraine](https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bhutan goes for gold, announces sovereign-backed RWA token](https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US SEC's Crenshaw takes aim at crypto in final weeks at the agency](https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Texas grid is heating up again, this time from AI, not Bitcoin miners](https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area](https://cointelegraph.com/news/belarus-blocks-bybit-bitget-okx-russia-retail-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Prediction markets bet Bitcoin won’t reach $100K before year’s end](https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Trust Wallet taps Revolut for crypto purchases in Europe](https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony](https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ukraine hands US revised peace plan proposal, Germany says](https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Bulgarian PM and government resign after mass protests](https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

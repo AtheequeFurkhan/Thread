@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony",
+      "link": "https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Adonay Berhane, Wongelawit Gebre Endrias and four others are accused by police of undermining public morality.",
+      "published": "Thu, 11 Dec 2025 17:40:51 GMT",
+      "fetched_at": "2025-12-11T18:17:59.048071535Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bhutan goes for gold, announces sovereign-backed RWA token",
+      "link": "https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNDEtYjkyZi03ZmU4LWFiZTktOTA1MWI2M2RkM2Q1.jpg\" alt=\"Bhutan goes for gold, announces sovereign-backed RWA token\"\u003e\u003c/p\u003e\u003cp\u003eThe Himalayan Kingdom mines Bitcoin, holds digital asset reserves, and has embraced blockchain technology to modernize its financial system.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 17:50:29 +0000",
+      "fetched_at": "2025-12-11T18:17:58.809797902Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
       "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
       "category": "Business",
@@ -3664,6 +3682,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 407,
-  "last_update": "2025-12-11T17:52:11.635482735Z"
+  "total_captured": 409,
+  "last_update": "2025-12-11T18:17:59.425559977Z"
 }
