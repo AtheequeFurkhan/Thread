@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout",
+      "link": "https://cointelegraph.com/news/xiaomi-pre-install-sei-crypto-wallet-smartphones?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlZGEtM2ZmMC03YmViLWFkN2EtY2IxZTEzYmY0MWNk.jpg\" alt=\"Xiaomi to pre-install Sei crypto wallet on millions of phones in global rollout\"\u003e\u003c/p\u003e\u003cp\u003eThe partnership gives Sei direct mobile distribution across key crypto markets and includes plans to pilot stablecoin payments in 2026.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 20:55:19 +0000",
+      "fetched_at": "2025-12-11T21:14:09.258223453Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets",
+      "link": "https://cointelegraph.com/news/hive-listing-colombia-ai-bitcoin-infrastructure-andean-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZhN2EtYzVjNi03Zjc4LTg4OTUtMGE5MmFjNTBiOTE2.jpg\" alt=\"HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets\"\u003e\u003c/p\u003e\u003cp\u003eHIVE’s Colombia listing provides Andean investors with access to the growing digital infrastructure sector as Bitcoin miners shift their focus toward AI and HPC.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 21:10:00 +0000",
+      "fetched_at": "2025-12-11T21:14:09.258200811Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance",
       "link": "https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3727,6 +3745,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 414,
-  "last_update": "2025-12-11T20:50:01.168031882Z"
+  "total_captured": 416,
+  "last_update": "2025-12-11T21:14:09.323254116Z"
 }
