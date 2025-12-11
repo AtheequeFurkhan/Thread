@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Prediction markets bet Bitcoin won’t reach $100K before year’s end",
+      "link": "https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0YzctYzA1MS03MmMxLWE2ZjctYjQ0MGM0ODcyZjYy.jpg\" alt=\"Prediction markets bet Bitcoin won’t reach $100K before year’s end\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin bull market optimism has suffered since the Oct. 10 crash, as chances of a short-term BTC price rally above $100,000 appeared to be fading.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 15:30:00 +0000",
+      "fetched_at": "2025-12-11T15:41:50.134588781Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Trust Wallet taps Revolut for crypto purchases in Europe",
       "link": "https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3556,6 +3565,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 395,
-  "last_update": "2025-12-11T15:14:53.988740924Z"
+  "total_captured": 396,
+  "last_update": "2025-12-11T15:41:50.209644574Z"
 }
