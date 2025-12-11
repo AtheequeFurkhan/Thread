@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 07:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-372-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 07:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-373-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 07:18 UTC)*
+*(Updated: 11 Dec 07:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Satoshi Nakamoto statue lands on NYSE in sign of changing times](https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [GOP hardliners vexed as defense bill advances without CBDC ban](https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Payments giant Stripe acquires team from crypto wallet app Valora](https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [String of celebrity scandals renews debate on South Korea's 'cancel culture'](https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Shares in AI giant Oracle fall after revenue results ramp up bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump launches $1m 'gold card' immigration visas](https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

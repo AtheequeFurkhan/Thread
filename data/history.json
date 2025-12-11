@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Goa nightclub owners held in Thailand over deadly fire",
+      "link": "https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week.",
+      "published": "Thu, 11 Dec 2025 06:45:03 GMT",
+      "fetched_at": "2025-12-11T07:41:14.536991572Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Panic in France as children fall victim to lethal violence of Marseille drug gangs",
       "link": "https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3349,6 +3358,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 372,
-  "last_update": "2025-12-11T07:18:29.73270596Z"
+  "total_captured": 373,
+  "last_update": "2025-12-11T07:41:14.867162361Z"
 }
