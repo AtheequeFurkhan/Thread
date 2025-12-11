@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 13:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-384-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 13:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-391-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,17 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 13:12 UTC)*
+*(Updated: 11 Dec 13:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Poland arrests Russian archaeologist wanted in Ukraine](https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [UK FCA makes pound stablecoin payments 2026 priority](https://cointelegraph.com/news/uk-fca-pound-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis](https://cointelegraph.com/news/bitcoin-due-2026-bottom-exchange-volumes-grind-lower-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled](https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Coinbase opens Solana DEX access as CeFi and DeFi converge](https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed](https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -34,13 +41,6 @@
 | **World** | [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Satoshi Nakamoto statue lands on NYSE in sign of changing times](https://cointelegraph.com/news/satoshi-nakamoto-statue-nyse-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [GOP hardliners vexed as defense bill advances without CBDC ban](https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Australian regulator eases rules for stablecoins and wrapped tokens](https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO](https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [A16z Crypto opens office in South Korea as it bets on Asia](https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [UK FCA makes pound stablecoin payments 2026 priority](https://cointelegraph.com/news/uk-fca-pound-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis](https://cointelegraph.com/news/bitcoin-due-2026-bottom-exchange-volumes-grind-lower-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled](https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Coinbase opens Solana DEX access as CeFi and DeFi converge](https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed](https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [UAE telco giant e& taps dirham stablecoin for bill payments pilot](https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [XRP transaction fees drop 89%: Is price headed below $1.75?](https://cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [McDonald's pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [What we know about US seizure of oil tanker off Venezuela](https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Pakistan's military sentences its former spy chief to 14 years in jail](https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Austria bans headscarves in schools for under-14s](https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Poland arrests Russian archaeologist wanted in Ukraine](https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [More than 30 dead after Myanmar military air strike hits hospital](https://www.bbc.com/news/articles/cqxq3lg2gwxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Goa nightclub owners held in Thailand over deadly fire](https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Panic in France as children fall victim to lethal violence of Marseille drug gangs](https://www.bbc.com/news/articles/cr7l0nyxxygo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Mexico approves up to 50% tariffs on China and other countries](https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Japanese chess player calls out association's pregnancy bias](https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
