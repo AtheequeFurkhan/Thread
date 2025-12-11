@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+      "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters.",
+      "published": "Thu, 11 Dec 2025 16:00:08 GMT",
+      "fetched_at": "2025-12-11T16:53:55.874856954Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area",
+      "link": "https://cointelegraph.com/news/belarus-blocks-bybit-bitget-okx-russia-retail-crypto-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkYTUtZGQ4My03OWMyLTk4YzUtNzQwZDdjM2Y3MWZj.jpg\" alt=\"Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area\"\u003e\u003c/p\u003e\u003cp\u003eBelarus blocked major crypto exchange domains the same day Russia signaled it may ease regulated crypto access requirements while clamping down on the gray market.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 16:34:41 +0000",
+      "fetched_at": "2025-12-11T16:53:55.373816206Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
       "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3619,6 +3637,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 402,
-  "last_update": "2025-12-11T16:20:24.409787353Z"
+  "total_captured": 404,
+  "last_update": "2025-12-11T16:53:55.874924911Z"
 }
