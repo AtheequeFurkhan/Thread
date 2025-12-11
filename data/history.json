@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Farmers welcome Trump's $12 billion aid package, say additional relief is needed",
+      "link": "https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed",
+      "category": "Business",
+      "summary": "President Trump says he's sending $12 billion in aid to American farmers who are reeling from global trade disruptions. Those include inflation and Trump's tariffs that are making fertilizer and farm equipment more expensive, and the President's trade war with China  which closed a huge market for American soybean exports.",
+      "published": "Thu, 11 Dec 2025 12:52:58 -0500",
+      "fetched_at": "2025-12-11T22:12:33.654659448Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin, blockchain should form Pakistan’s new financial rail, minister says",
+      "link": "https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmMjUtNWQ0OC03MzEyLWI1YWQtZDE4NzYyNDgzNGUx.jpg\" alt=\"Bitcoin, blockchain should form Pakistan’s new financial rail, minister says\"\u003e\u003c/p\u003e\u003cp\u003eThe remarks signal Pakistan’s push to turn its grassroots crypto activity into a compliant, innovation-driven sector anchored by Bitcoin and digital-asset regulation.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 21:47:52 +0000",
+      "fetched_at": "2025-12-11T22:12:33.527470334Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Terraform co-founder sentenced to 15 years in prison after guilty plea",
+      "link": "https://cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkZmYtNmQyOC03ZGM4LWFmOGQtNjdhODhkOWM1ZmM5.jpg\" alt=\"Terraform co-founder sentenced to 15 years in prison after guilty plea\"\u003e\u003c/p\u003e\u003cp\u003eA federal judge heard statements from some of Terraform Labs’ and Do Kwon’s victims for hours before deciding on the co-founder’s sentence.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 22:00:04 +0000",
+      "fetched_at": "2025-12-11T22:12:33.527450888Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "XRP buy signal flashes as funding rate turns deeply negative: Will bulls step in?",
       "link": "https://cointelegraph.com/news/xrp-funding-rate-turns-negative-will-bulls-step-in?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3763,6 +3790,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 418,
-  "last_update": "2025-12-11T21:48:43.239664332Z"
+  "total_captured": 421,
+  "last_update": "2025-12-11T22:12:33.654680728Z"
 }
