@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "title": "Big tech bets big on AI - but can India keep pace in the global race?",
+      "link": "https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Experts have called India a hedge against AI - reflecting the absence of Indian companies in the global boom.",
+      "published": "Thu, 11 Dec 2025 02:46:08 GMT",
+      "fetched_at": "2025-12-11T02:54:35.083288371Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump launches $1m 'gold card' immigration visas",
+      "link": "https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.",
+      "published": "Thu, 11 Dec 2025 01:10:45 GMT",
+      "fetched_at": "2025-12-11T02:54:35.083174589Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
+      "link": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous",
+      "published": "Thu, 11 Dec 2025 01:28:01 GMT",
+      "fetched_at": "2025-12-11T02:54:35.083165702Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\".",
+      "published": "Thu, 11 Dec 2025 01:46:54 GMT",
+      "fetched_at": "2025-12-11T02:54:35.083155043Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+      "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, arrives in Oslo after a secretive journey.",
+      "published": "Thu, 11 Dec 2025 02:30:19 GMT",
+      "fetched_at": "2025-12-11T02:54:35.083140035Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto among sectors ‘debanked’ by 9 major banks: US regulator",
+      "link": "https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhNzMtMTgwNi03NzczLTkzYzEtNzQzNGJmMTMwZWEy.jpg\" alt=\"Crypto among sectors ‘debanked’ by 9 major banks: US regulator\"\u003e\u003c/p\u003e\u003cp\u003eThe Office of the Comptroller of the Currency said crypto was one of many industries that banks had denied services to, and it could refer its findings to the Justice Department.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 01:08:44 +0000",
+      "fetched_at": "2025-12-11T02:54:34.842005744Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Gemini soars 14% as new license opens door to US prediction markets",
+      "link": "https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhZWYtN2VhNy03ZTgwLWJhYTYtMjdlZmU0OGYzOWE3.jpg\" alt=\"Gemini soars 14% as new license opens door to US prediction markets\"\u003e\u003c/p\u003e\u003cp\u003eAn affiliate of the crypto exchange Gemini received a designated contract market license, and it now plans to offer prediction markets in the US.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 01:33:43 +0000",
+      "fetched_at": "2025-12-11T02:54:34.841993231Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Payments giant Stripe acquires team from crypto wallet app Valora",
+      "link": "https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhOGEtZjc5Ny03OGY2LTlkOGQtYzNkY2U3OGY5NTg2.jpg\" alt=\"Payments giant Stripe acquires team from crypto wallet app Valora\"\u003e\u003c/p\u003e\u003cp\u003eStripe has hired Valora’s builders to work on its crypto initiatives, as the wallet’s app shifts ownership back to Celo’s cLabs. \u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 02:31:09 +0000",
+      "fetched_at": "2025-12-11T02:54:34.841969256Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The Swiss city that lets you pay for most things with bitcoin",
       "link": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -3196,6 +3268,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 355,
-  "last_update": "2025-12-11T01:00:00.841036891Z"
+  "total_captured": 363,
+  "last_update": "2025-12-11T02:54:35.399570487Z"
 }

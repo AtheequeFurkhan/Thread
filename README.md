@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 01:00 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-355-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-11 Dec 02:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-363-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,18 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 01:00 UTC)*
+*(Updated: 11 Dec 02:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Trump launches $1m 'gold card' immigration visas](https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Indigenous deaths in custody in Australia hit highest level since 1980](https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [US seizes oil tanker off the coast of Venezuela, Trump says](https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Venezuelan opposition leader makes first public appearance after months in hiding](https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Crypto among sectors ‘debanked’ by 9 major banks: US regulator](https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [Gemini soars 14% as new license opens door to US prediction markets](https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Payments giant Stripe acquires team from crypto wallet app Valora](https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [String of celebrity scandals renews debate on South Korea's 'cancel culture'](https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Shares in AI giant Oracle fall after revenue results ramp up bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -33,14 +41,6 @@
 | **Crypto** | [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Tether launches privacy-focused health platform with on-device AI](https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Sarkozy releases prison diaries about his 20 days behind bars](https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [ChronoForge to shut down amid funding collapse and Web3 gaming turmoil](https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Italian cooking awarded Unesco cultural heritage status](https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K](https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [ETHZilla moves into onchain housing finance with 15% Zippy acquisition](https://cointelegraph.com/news/ethzilla-zippy-acquisition-home-loans-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Galaxy expands to UAE as part of Middle East push](https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Strategy responds to MSCI letter, makes case for index inclusion](https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto among sectors ‘debanked’ by 9 major banks: US regulator](https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [Gemini soars 14% as new license opens door to US prediction markets](https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Payments giant Stripe acquires team from crypto wallet app Valora](https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying](https://cointelegraph.com/news/asian-millionaires-bullish-crypto-60-percent-raise-allocations-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fed slashes interest rates, but issues mixed forward guidance](https://cointelegraph.com/news/fed-slashes-interest-rates-mixed-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January](https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models](https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains](https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- [String of celebrity scandals renews debate on South Korea's 'cancel culture'](https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Shares in AI giant Oracle fall after revenue results ramp up bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Portugal braced for mass disruption in first general strike for 12 years](https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Watch: Video shows US military seizing oil tanker off Venezuela coast](https://www.bbc.com/news/videos/c9vj1jnmekko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Why Thailand and Cambodia are fighting again after Trump ceasefire](https://www.bbc.com/news/articles/c39p7jkp27lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Big tech bets big on AI - but can India keep pace in the global race?](https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Trump launches $1m 'gold card' immigration visas](https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Indigenous deaths in custody in Australia hit highest level since 1980](https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [US seizes oil tanker off the coast of Venezuela, Trump says](https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Venezuelan opposition leader makes first public appearance after months in hiding](https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
