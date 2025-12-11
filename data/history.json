@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage",
+      "link": "https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNGUtNmU5NC03NTNmLWEyNDktYTVlMzgyMTQ0Mjdi.jpg\" alt=\"Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage\"\u003e\u003c/p\u003e\u003cp\u003eThe Bank of Mexico's new stability report flags liquidity, contagion and regulatory-arbitrage risks as crypto adoption accelerates in Latin America.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 18:20:53 +0000",
+      "fetched_at": "2025-12-11T18:52:53.727462842Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why",
+      "link": "https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkZTUtNTVlMi03YTk1LWFmYmEtMzc0NzlmYjJkMGQ1.jpg\" alt=\"Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin price breakouts continue to be rejected at $94,000, even as traders’ long-term view of US monetary policy and the crypto market turns bullish.\u003c/p\u003e",
+      "published": "Thu, 11 Dec 2025 18:37:40 +0000",
+      "fetched_at": "2025-12-11T18:52:53.727428929Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony",
       "link": "https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3682,6 +3700,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 409,
-  "last_update": "2025-12-11T18:17:59.425559977Z"
+  "total_captured": 411,
+  "last_update": "2025-12-11T18:52:53.92372517Z"
 }
