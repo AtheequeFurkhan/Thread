@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 06:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-444-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 07:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-448-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 06:53 UTC)*
+*(Updated: 12 Dec 07:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Indiana Republicans defy Trump to reject new voting map](https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [CFTC gives prediction markets leeway on data and record-keeping rules](https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?](https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Fears grow that world's rarest apes were swept away in Sumatran floods](https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Chief of S Korea's high-stakes exam quits over 'insane' English test](https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Tricked, abducted and abused: Inside China's schools for 'rebellious' teens](https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Indiana Republicans defy Trump to reject new voting map](https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Maduro says Trump wants Venezuela's oil. But is that the real US goal?](https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Flood misery for Gazans awaiting next stage of peace plan](https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?](https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
