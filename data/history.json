@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Bitcoin miners could boost corporate adoption as crypto treasury buys slow",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmYjgtMzk5OS03MWVkLWI5ZjctNzQzNzljZDJmOWNj.jpg\" alt=\"Bitcoin miners could boost corporate adoption as crypto treasury buys slow\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin miners Marathon Digital Holdings, Riot Platforms and Hut 8 are already in the top ten largest public companies holding Bitcoin.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 01:42:04 +0000",
+      "fetched_at": "2025-12-12T02:52:22.997691885Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "SEC clears DTCC to offer securities market tokenization service",
+      "link": "https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmZDItMzg0NS03NzkzLTlhNGItYmEwNjkzYzYwOTRh.jpg\" alt=\"SEC clears DTCC to offer securities market tokenization service\"\u003e\u003c/p\u003e\u003cp\u003eThe Depository Trust and Clearing Corporation plans to tokenize stocks, ETFs, and US Treasurys next year after receiving an SEC no-action letter.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 02:46:38 +0000",
+      "fetched_at": "2025-12-12T02:52:22.99764661Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-12T02:52:22.828859601Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'It's amazing' – the wonder material very few can make",
       "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -3871,6 +3898,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 430,
-  "last_update": "2025-12-12T00:59:28.522344425Z"
+  "total_captured": 433,
+  "last_update": "2025-12-12T02:52:22.9978767Z"
 }
