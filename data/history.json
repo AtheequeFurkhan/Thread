@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Eritrea quits regional bloc as tensions rise with Ethiopia",
+      "link": "https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Eritrea says it has been targetted by Igad and that the bloc is failing its founding principles.",
+      "published": "Fri, 12 Dec 2025 18:18:30 GMT",
+      "fetched_at": "2025-12-12T18:51:12.056593045Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Pyth to launch reserve using buybacks from DAO treasury funds",
+      "link": "https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzMmEtZGE5Mi03ZWFlLWEyMTQtOWY3MjM5MDY5YmVkLmpwZw==.jpg\" alt=\"Pyth to launch reserve using buybacks from DAO treasury funds\"\u003e\u003c/p\u003e\u003cp\u003eThe network’s reserve will consist of purchases of the network’s native PYTH token, utilizing approximately 33% of the protocol’s revenue through the DAO.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 18:49:58 +0000",
+      "fetched_at": "2025-12-12T18:51:11.990226121Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Nobel laureate Narges Mohammadi arrested in Iran, supporters say",
       "link": "https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4393,6 +4411,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 488,
-  "last_update": "2025-12-12T18:19:21.7319612Z"
+  "total_captured": 490,
+  "last_update": "2025-12-12T18:51:12.303251263Z"
 }
