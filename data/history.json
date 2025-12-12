@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Phantom taps Kalshi to offer regulated prediction markets in wallet",
+      "link": "https://cointelegraph.com/news/phantom-kalshi-prediction-markets-wallet-integration?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyNjktOTg4MS03N2JiLTlmZjQtYTNmNmU4NjM4OTYz.jpg\" alt=\"Phantom taps Kalshi to offer regulated prediction markets in wallet\"\u003e\u003c/p\u003e\u003cp\u003eThe wallet-native feature lets users trade tokenized event contracts across politics, economics and culture without leaving Phantom.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 12:55:42 +0000",
+      "fetched_at": "2025-12-12T13:08:47.219983556Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin decouples from stocks in second half of 2025",
+      "link": "https://cointelegraph.com/news/bitcoin-decouples-stocks-second-half-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmY2YtZDJmYS03MmQ4LWFiYzEtNWExYjlhOTM1ZjQ0.jpg\" alt=\"Bitcoin decouples from stocks in second half of 2025\"\u003e\u003c/p\u003e\u003cp\u003eThe gap between equities and Bitcoin got wider after Bitcoin’s post-all-time-peak correction in October.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 13:03:06 +0000",
+      "fetched_at": "2025-12-12T13:08:47.219690232Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "UK MPs warn Bank of England stablecoin plans could drive innovation offshore",
+      "link": "https://cointelegraph.com/news/uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyNTctNWI5OC03ZTg1LWE3NzgtMjIzNWY4NDFiNjBl.jpg\" alt=\"UK MPs warn Bank of England stablecoin plans could drive innovation offshore\"\u003e\u003c/p\u003e\u003cp\u003eCross‑party MPs and members of the House of Lords have urged UK Chancellor Rachel Reeves to rein in the Bank of England’s proposed regime for systemic stablecoins.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 13:06:33 +0000",
+      "fetched_at": "2025-12-12T13:08:47.219636212Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "CNN has endured turmoil for years. With Warner Bros. sale, things will get bumpier",
+      "link": "https://www.npr.org/2025/12/12/nx-s1-5640900/cnn-trump-warner-bros-netflix-paramount",
+      "category": "Business",
+      "summary": "In the corporate battle over parent company Warner Bros. Discovery, CNN's fate remains up for grabs. President Trump wants a say in what happens next.",
+      "published": "Fri, 12 Dec 2025 07:28:31 -0500",
+      "fetched_at": "2025-12-12T13:08:47.095020637Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela",
+      "link": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The man who led the operation says María Corina Machado crossed “very rough seas” in “pitch-black darkness”.",
+      "published": "Fri, 12 Dec 2025 12:51:09 GMT",
+      "fetched_at": "2025-12-12T13:08:47.0603152Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Inside the Colombian cathedral built 180m underground",
+      "link": "https://www.bbc.com/news/videos/cjwyy65ne62o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The idea came from the miners building makeshift altars in the mine in the 1930s, to pray for their safety before starting their shifts.",
+      "published": "Fri, 12 Dec 2025 12:44:25 GMT",
+      "fetched_at": "2025-12-12T13:08:47.06029907Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
       "link": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4195,6 +4249,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 466,
-  "last_update": "2025-12-12T12:25:13.305612047Z"
+  "total_captured": 472,
+  "last_update": "2025-12-12T13:08:47.220227291Z"
 }
