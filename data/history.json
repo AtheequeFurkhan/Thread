@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Binance cozies up to Trump’s crypto platform with USD1 stablecoin links",
+      "link": "https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwNDItMTljYi03MmZlLWIxNTItNTNkMzMxZTBmYmU2.jpg\" alt=\"Binance cozies up to Trump’s crypto platform with USD1 stablecoin links\"\u003e\u003c/p\u003e\u003cp\u003eBinance added a host of zero-fee trading pairs for the Trump family’s stablecoin and used it to back its own stablecoin collateral.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 03:08:07 +0000",
+      "fetched_at": "2025-12-12T03:53:49.703682322Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.",
+      "published": "Fri, 12 Dec 2025 03:12:03 GMT",
+      "fetched_at": "2025-12-12T03:53:49.50662504Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin miners could boost corporate adoption as crypto treasury buys slow",
       "link": "https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3898,6 +3916,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 433,
-  "last_update": "2025-12-12T02:52:22.9978767Z"
+  "total_captured": 435,
+  "last_update": "2025-12-12T03:53:49.977620206Z"
 }
