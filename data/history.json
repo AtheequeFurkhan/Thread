@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Europe reconsiders crypto oversight as ESMA centralization gains momentum",
+      "link": "https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyZjItNDM2Mi03ZjY0LWJjNmEtZWM0OTAwZjI4MTliLmpwZw==.jpg\" alt=\"Europe reconsiders crypto oversight as ESMA centralization gains momentum\"\u003e\u003c/p\u003e\u003cp\u003eAs MiCA enters its implementation phase, uneven enforcement across the EU is reigniting debate over whether crypto supervision should move from national regulators to ESMA.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 15:53:06 +0000",
+      "fetched_at": "2025-12-12T16:15:03.276217079Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip",
       "link": "https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4330,6 +4339,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 481,
-  "last_update": "2025-12-12T15:52:01.300260908Z"
+  "total_captured": 482,
+  "last_update": "2025-12-12T16:15:03.933065959Z"
 }

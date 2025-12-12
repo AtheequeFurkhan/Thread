@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 15:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-481-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 16:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-482-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 15:52 UTC)*
+*(Updated: 12 Dec 16:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Europe reconsiders crypto oversight as ESMA centralization gains momentum](https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip](https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Thai PM dissolves parliament to 'return power to people'](https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Europe reconsiders crypto oversight as ESMA centralization gains momentum](https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip](https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Pakistan clears Binance and HTX to seek local crypto licenses](https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE](https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
