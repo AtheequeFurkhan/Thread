@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "'It was little kids': Taylor Swift breaks down as she talks of Southport attack",
+      "link": "https://www.bbc.com/news/videos/cy0ppq8yye4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The singer met met families and victims of the Southport stabbing attack, backstage during her Eras tour last year.",
+      "published": "Fri, 12 Dec 2025 10:28:09 GMT",
+      "fetched_at": "2025-12-12T11:12:44.112747599Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Binance hints at stock perps in push to join global tokenized equities race",
+      "link": "https://cointelegraph.com/news/binance-stock-perpetuals-tokenized-equities-api-update?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExY2MtZTEzNS03YzFjLTg2ZWMtYTMwMjdhMTNhZDE4.jpg\" alt=\"Binance hints at stock perps in push to join global tokenized equities race\"\u003e\u003c/p\u003e\u003cp\u003eBinance quietly rolled out API endpoints pointing to stock perpetual futures, signaling a renewed push into stock trading after a failed 2021 launch.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 11:06:16 +0000",
+      "fetched_at": "2025-12-12T11:12:44.095886555Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy",
       "link": "https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4114,6 +4132,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 457,
-  "last_update": "2025-12-12T10:54:04.257160536Z"
+  "total_captured": 459,
+  "last_update": "2025-12-12T11:12:44.112766424Z"
 }
