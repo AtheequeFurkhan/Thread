@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 11:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-459-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 11:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-465-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 11:12 UTC)*
+*(Updated: 12 Dec 11:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Thai PM dissolves parliament to 'return power to people'](https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Taylor Swift shown breaking down in tears after she met UK attack families](https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight](https://cointelegraph.com/news/sec-innovation-exemption-dtcc-tokenization-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | ['It was little kids': Taylor Swift breaks down as she talks of Southport attack](https://www.bbc.com/news/videos/cy0ppq8yye4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Binance hints at stock perps in push to join global tokenized equities race](https://cointelegraph.com/news/binance-stock-perpetuals-tokenized-equities-api-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy](https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **World** | [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Indiana Republicans defy Trump to reject new voting map](https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [CFTC gives prediction markets leeway on data and record-keeping rules](https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Maduro says Trump wants Venezuela's oil. But is that the real US goal?](https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight](https://cointelegraph.com/news/sec-innovation-exemption-dtcc-tokenization-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance hints at stock perps in push to join global tokenized equities race](https://cointelegraph.com/news/binance-stock-perpetuals-tokenized-equities-api-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy](https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Upbit hack puts Binance’s emergency freeze policy under scrutiny](https://cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia](https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase may debut prediction markets, tokenized stocks on Wednesday: Report](https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- ['It was little kids': Taylor Swift breaks down as she talks of Southport attack](https://www.bbc.com/news/videos/cy0ppq8yye4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Venezuelan Nobel winner tells BBC people risked their lives for her to come to Oslo](https://www.bbc.com/news/videos/ce91de8x9p1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [About 200 West African soldiers in Benin for 'clean-up' after failed coup](https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Famous crocodile wrangler jailed for evidence tampering](https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Thai PM dissolves parliament to 'return power to people'](https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Taylor Swift shown breaking down in tears after she met UK attack families](https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
