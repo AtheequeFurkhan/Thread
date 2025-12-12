@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE",
+      "link": "https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOTEtNmM2MC03YjI0LWEzNzUtYjFhMjMzYzRhNWEzLmpwZw==.jpg\" alt=\"Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE\"\u003e\u003c/p\u003e\u003cp\u003eThe cryptocurrency industry is riding on the tailwinds of regulatory clarity and newfound interest from institutional investors into the new year.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 13:34:47 +0000",
+      "fetched_at": "2025-12-12T13:45:47.078212386Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?",
+      "link": "https://cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWFmMjEtMjcyYS03ZDQzLTk5M2EtNjNiYzU4NjZjYTY5.jpg\" alt=\"Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?\"\u003e\u003c/p\u003e\u003cp\u003eA buying opportunity from Ethereum’s realized price projected a major rally, as analysts say a return to $5,000 in 2026 is plausible.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 13:40:40 +0000",
+      "fetched_at": "2025-12-12T13:45:47.078189224Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Phantom taps Kalshi to offer regulated prediction markets in wallet",
       "link": "https://cointelegraph.com/news/phantom-kalshi-prediction-markets-wallet-integration?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4249,6 +4267,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 472,
-  "last_update": "2025-12-12T13:08:47.220227291Z"
+  "total_captured": 474,
+  "last_update": "2025-12-12T13:45:48.271241062Z"
 }
