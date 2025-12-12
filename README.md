@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:39 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-508-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-511-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 21:39 UTC)*
+*(Updated: 12 Dec 21:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Bank of England warns of AI bubble risk](https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [Dell family to seed Trump accounts for kids with $250](https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [New homes delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Porn site fined £1m over age checks has never responded to Ofcom](https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Tools for Humanity expands World app toward super-app model](https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Pyth to launch reserve using buybacks from DAO treasury funds](https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Bank of England warns of AI bubble risk](https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Dell family to seed Trump accounts for kids with $250](https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [New homes delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Porn site fined £1m over age checks has never responded to Ofcom](https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

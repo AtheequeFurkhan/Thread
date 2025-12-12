@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
+      "link": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts.",
+      "published": "Wed, 03 Dec 2025 10:39:33 GMT",
+      "fetched_at": "2025-12-12T21:47:18.001117684Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bank of England warns of AI bubble risk",
+      "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The central bank says US stock price valuations are their most stretched since the dotcom bubble burst.",
+      "published": "Tue, 02 Dec 2025 12:11:17 GMT",
+      "fetched_at": "2025-12-12T21:47:18.001106904Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Dell family to seed Trump accounts for kids with $250",
+      "link": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The donation will help seed new Trump-branded investment accounts.",
+      "published": "Tue, 02 Dec 2025 20:00:08 GMT",
+      "fetched_at": "2025-12-12T21:47:18.001091324Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Production halted at Chinese factory making 'childlike' sex dolls",
       "link": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 01 Dec 2025 13:12:08 GMT",
       "fetched_at": "2025-12-07T22:39:31.029219+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'First of its kind' scanner to study blast trauma",
-      "link": "https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say.",
-      "published": "Tue, 02 Dec 2025 10:01:33 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029213+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
-      "link": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\".",
-      "published": "Tue, 02 Dec 2025 08:26:01 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029204+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
-      "link": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December.",
-      "published": "Tue, 02 Dec 2025 17:37:59 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029191+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 508,
-  "last_update": "2025-12-12T21:39:43.484458711Z"
+  "total_captured": 511,
+  "last_update": "2025-12-12T21:47:18.444039889Z"
 }
