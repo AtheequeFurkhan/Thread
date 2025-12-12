@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-515-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 23:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-516-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 23:12 UTC)*
+*(Updated: 12 Dec 23:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [SOL struggles as Solana TVL slides and memecoin demand fades](https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SOL struggles as Solana TVL slides and memecoin demand fades](https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

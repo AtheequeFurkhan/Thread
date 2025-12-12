@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG",
+      "link": "https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE0OWMtMTkxYS03MjA2LWI1ODEtZWE3YjcyZjYxYTgyLmpwZw==.jpg\" alt=\"Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG\"\u003e\u003c/p\u003e\u003cp\u003eRegulations must evolve for tokenized real-world assets to be better integrated with DeFi, so their immediate benefit won’t be significant, says NYDIG’s Greg Cipolaro.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 23:12:44 +0000",
+      "fetched_at": "2025-12-12T23:30:14.606231152Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US TikTok investors in limbo as deal set to be delayed again",
       "link": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 25 Nov 2025 11:51:18 GMT",
       "fetched_at": "2025-12-07T22:39:31.029262+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Nvidia plays down Google chip threat concerns",
-      "link": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The world's most valuable company said it was still \"a generation ahead of the industry\".",
-      "published": "Wed, 26 Nov 2025 12:36:24 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029249+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 515,
-  "last_update": "2025-12-12T23:12:30.611688492Z"
+  "total_captured": 516,
+  "last_update": "2025-12-12T23:30:14.861606775Z"
 }
