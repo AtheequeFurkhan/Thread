@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 19:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-491-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 19:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-492-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 19:11 UTC)*
+*(Updated: 12 Dec 19:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Pyth to launch reserve using buybacks from DAO treasury funds](https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE](https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Phantom taps Kalshi to offer regulated prediction markets in wallet](https://cointelegraph.com/news/phantom-kalshi-prediction-markets-wallet-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Pyth to launch reserve using buybacks from DAO treasury funds](https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tether may tokenize equity to ensure liquidity for investors: Report](https://cointelegraph.com/news/tether-tokenize-shares-liquidity-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Figure Technology files ‘second IPO’ to bring native equity issuance to Solana](https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto industry, trade unions clash over multi-trillion dollar retirement funds](https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
