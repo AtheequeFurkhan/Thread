@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 08:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-449-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 08:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-450-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 08:18 UTC)*
+*(Updated: 12 Dec 08:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Famous crocodile wrangler jailed for evidence tampering](https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin new year bear flag sparks $76K BTC price target next](https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin miners could boost corporate adoption as crypto treasury buys slow](https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [SEC clears DTCC to offer securities market tokenization service](https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Famous crocodile wrangler jailed for evidence tampering](https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Indiana Republicans defy Trump to reject new voting map](https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

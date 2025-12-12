@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Famous crocodile wrangler jailed for evidence tampering",
+      "link": "https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Former Netflix star Matt Wright was found guilty of lying to police over a fatal chopper crash in 2022.",
+      "published": "Fri, 12 Dec 2025 07:28:09 GMT",
+      "fetched_at": "2025-12-12T08:50:51.319223776Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin new year bear flag sparks $76K BTC price target next",
       "link": "https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4042,6 +4051,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 449,
-  "last_update": "2025-12-12T08:18:44.979082769Z"
+  "total_captured": 450,
+  "last_update": "2025-12-12T08:50:51.619422565Z"
 }
