@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 14:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-479-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 15:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-480-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 14:49 UTC)*
+*(Updated: 12 Dec 15:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Taylor Swift shown breaking down in tears after she met UK attack families](https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight](https://cointelegraph.com/news/sec-innovation-exemption-dtcc-tokenization-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela](https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Inside the Colombian cathedral built 180m underground](https://www.bbc.com/news/videos/cjwyy65ne62o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Germany accuses Russia of 2024 cyber-attack and disinformation](https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

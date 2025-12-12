@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ghanaian influencer charged over $8m scam targeting elderly Americans",
+      "link": "https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "He is accused of using romance scams to defraud $8m, with the profits flaunted on Instagram.",
+      "published": "Fri, 12 Dec 2025 11:47:29 GMT",
+      "fetched_at": "2025-12-12T15:14:26.126466766Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ripple expands European footprint with AMINA stablecoin payment partnership",
       "link": "https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4312,6 +4321,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 479,
-  "last_update": "2025-12-12T14:49:24.561095561Z"
+  "total_captured": 480,
+  "last_update": "2025-12-12T15:14:26.126481453Z"
 }
