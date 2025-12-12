@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 10:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-456-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 10:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-457-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 10:14 UTC)*
+*(Updated: 12 Dec 10:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy](https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Upbit hack puts Binance’s emergency freeze policy under scrutiny](https://cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia](https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase may debut prediction markets, tokenized stocks on Wednesday: Report](https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Flood misery for Gazans awaiting next stage of peace plan](https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges](https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy](https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Upbit hack puts Binance’s emergency freeze policy under scrutiny](https://cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia](https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase may debut prediction markets, tokenized stocks on Wednesday: Report](https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin new year bear flag sparks $76K BTC price target next](https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

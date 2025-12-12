@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy",
+      "link": "https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExYjYtY2U5Zi03M2Q5LWJmMjktZTI3NzFhM2IxZjE5.jpg\" alt=\"Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy\"\u003e\u003c/p\u003e\u003cp\u003eAbu Dhabi is anchoring Bitcoin for institutions, while Dubai builds payments, stablecoins and Web3 use cases into daily commerce.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 10:32:22 +0000",
+      "fetched_at": "2025-12-12T10:41:27.246025408Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Upbit hack puts Binance’s emergency freeze policy under scrutiny",
       "link": "https://cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4105,6 +4114,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 456,
-  "last_update": "2025-12-12T10:14:08.527694832Z"
+  "total_captured": 457,
+  "last_update": "2025-12-12T10:41:27.255482333Z"
 }
