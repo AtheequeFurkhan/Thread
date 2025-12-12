@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-505-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:39 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-508-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 21:30 UTC)*
+*(Updated: 12 Dec 21:39 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [New homes delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Technology** | [Porn site fined £1m over age checks has never responded to Ofcom](https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Pyth to launch reserve using buybacks from DAO treasury funds](https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Nobel laureate Narges Mohammadi arrested in Iran, supporters say](https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Tether may tokenize equity to ensure liquidity for investors: Report](https://cointelegraph.com/news/tether-tokenize-shares-liquidity-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [New homes delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Porn site fined £1m over age checks has never responded to Ofcom](https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

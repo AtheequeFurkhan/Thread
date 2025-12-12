@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
+      "link": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance.",
+      "published": "Wed, 03 Dec 2025 13:46:49 GMT",
+      "fetched_at": "2025-12-12T21:39:43.04557994Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "New homes delayed by 'energy-hungry' data centres",
+      "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022.",
+      "published": "Wed, 03 Dec 2025 15:37:59 GMT",
+      "fetched_at": "2025-12-12T21:39:43.045566214Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Porn site fined £1m over age checks has never responded to Ofcom",
+      "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July.",
+      "published": "Thu, 04 Dec 2025 11:10:10 GMT",
+      "fetched_at": "2025-12-12T21:39:43.045540807Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitnomial gains CFTC approval to launch prediction markets in the US",
       "link": "https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 02 Dec 2025 17:37:59 GMT",
       "fetched_at": "2025-12-07T22:39:31.029191+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Dell family to seed Trump accounts for kids with $250",
-      "link": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The donation will help seed new Trump-branded investment accounts.",
-      "published": "Tue, 02 Dec 2025 20:00:08 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029187+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bank of England warns of AI bubble risk",
-      "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The central bank says US stock price valuations are their most stretched since the dotcom bubble burst.",
-      "published": "Tue, 02 Dec 2025 12:11:17 GMT",
-      "fetched_at": "2025-12-07T22:39:31.02918+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
-      "link": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts.",
-      "published": "Wed, 03 Dec 2025 10:39:33 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029172+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 505,
-  "last_update": "2025-12-12T21:30:02.876401557Z"
+  "total_captured": 508,
+  "last_update": "2025-12-12T21:39:43.484458711Z"
 }
