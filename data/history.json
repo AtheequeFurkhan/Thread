@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined",
+      "link": "https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyYWItOTQ0Mi03Yzg2LWEzOWUtNzNiNmM2YWU0ODM4LmpwZw==.jpg\" alt=\"Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin briefly topped $94,000 following Strategy’s largest investment since July, but investor risk appetite remained muted even after the widely expected US interest rate cut.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 19:00:00 +0000",
+      "fetched_at": "2025-12-12T19:11:24.575300228Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Eritrea quits regional bloc as tensions rise with Ethiopia",
       "link": "https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4411,6 +4420,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 490,
-  "last_update": "2025-12-12T18:51:12.303251263Z"
+  "total_captured": 491,
+  "last_update": "2025-12-12T19:11:24.575341284Z"
 }
