@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "'It's amazing' – the wonder material very few can make",
+      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.",
+      "published": "Fri, 12 Dec 2025 00:03:10 GMT",
+      "fetched_at": "2025-12-12T00:59:28.522303338Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?",
+      "link": "https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The junta has been demolishing buildings in KK Park, one of the largest and most notorious scam compounds.",
+      "published": "Fri, 12 Dec 2025 00:04:44 GMT",
+      "fetched_at": "2025-12-12T00:59:28.138730692Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fears grow that world's rarest apes were swept away in Sumatran floods",
+      "link": "https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A carcass thought to belong to a Tapanuli orangutan, the world's rarest apes, has alarmed conservationists.",
+      "published": "Fri, 12 Dec 2025 00:08:17 GMT",
+      "fetched_at": "2025-12-12T00:59:28.138721475Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+      "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.",
+      "published": "Fri, 12 Dec 2025 00:21:41 GMT",
+      "fetched_at": "2025-12-12T00:59:28.138710445Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test",
+      "link": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Some critics say the questions were unnecessarily complex, while others argue that's their intended purpose.",
+      "published": "Thu, 11 Dec 2025 23:59:43 GMT",
+      "fetched_at": "2025-12-12T00:59:28.138699174Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
+      "link": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Young people tell the BBC that military-style schools deceive and abuse students they claim to help.",
+      "published": "Fri, 12 Dec 2025 00:13:16 GMT",
+      "fetched_at": "2025-12-12T00:59:28.138685628Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
       "link": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -3817,6 +3871,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 424,
-  "last_update": "2025-12-11T23:49:01.647840322Z"
+  "total_captured": 430,
+  "last_update": "2025-12-12T00:59:28.522344425Z"
 }

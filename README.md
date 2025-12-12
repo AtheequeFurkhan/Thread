@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-11 Dec 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-424-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 00:59 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-430-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 11 Dec 23:49 UTC)*
+*(Updated: 12 Dec 00:59 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?](https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Fears grow that world's rarest apes were swept away in Sumatran floods](https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Chief of S Korea's high-stakes exam quits over 'insane' English test](https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Tricked, abducted and abused: Inside China's schools for 'rebellious' teens](https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) | 🟢 Positive |
@@ -35,12 +41,6 @@
 | **Crypto** | [Ether price trend forecasts triple-digit rally as ETH ETF inflows resume](https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Vote on Trump’s CFTC chair pick could come today, US senator says](https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage](https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why](https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony](https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bhutan goes for gold, announces sovereign-backed RWA token](https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Trump calls affordability crisis a 'hoax.' The data tells a different story](https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms) | ⚪ Neutral |
-| **Crypto** | [US SEC's Crenshaw takes aim at crypto in final weeks at the agency](https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Texas grid is heating up again, this time from AI, not Bitcoin miners](https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The Swiss city that lets you pay for most things with bitcoin](https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Porn company starts age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
-- [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony](https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Cameras on killer whales record first evidence of joint hunt with dolphins](https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Thousands ready to evacuate as flooding hits Pacific Northwest](https://www.bbc.com/news/articles/ce91dergm00o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US judge orders Kilmar Abrego Garcia's release from ICE custody](https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?](https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Fears grow that world's rarest apes were swept away in Sumatran floods](https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Chief of S Korea's high-stakes exam quits over 'insane' English test](https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Tricked, abducted and abused: Inside China's schools for 'rebellious' teens](https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,6 +87,7 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-12.md | [View Log](data/2025-12-12.md) |
 | 2025-12-11.md | [View Log](data/2025-12-11.md) |
 | 2025-12-10.md | [View Log](data/2025-12-10.md) |
 | 2025-12-09.md | [View Log](data/2025-12-09.md) |
