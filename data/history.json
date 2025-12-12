@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip",
+      "link": "https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzMzAtOTk0ZC03NzhhLWJmZjUtMWU4YjhjYjA2MWE4LmpwZw==.jpg\" alt=\"Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin faced troublesome resistance levels to end the Wall Street trading week as new bullish BTC price forecasts reappeared.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 15:41:38 +0000",
+      "fetched_at": "2025-12-12T15:52:01.14016218Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ghanaian influencer charged over $8m scam targeting elderly Americans",
       "link": "https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4321,6 +4330,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 480,
-  "last_update": "2025-12-12T15:36:19.564306109Z"
+  "total_captured": 481,
+  "last_update": "2025-12-12T15:52:01.300260908Z"
 }
