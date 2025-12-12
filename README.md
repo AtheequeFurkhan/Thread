@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 19:29 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-492-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 19:39 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-493-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 19:29 UTC)*
+*(Updated: 12 Dec 19:39 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Pakistan clears Binance and HTX to seek local crypto licenses](https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE](https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Nobel laureate Narges Mohammadi arrested in Iran, supporters say](https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
