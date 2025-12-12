@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine",
+      "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russia's central bank says it is suing Belgium's Euroclear in court following an EU bid to use Russian assets to aid Ukraine.",
+      "published": "Fri, 12 Dec 2025 13:55:51 GMT",
+      "fetched_at": "2025-12-12T14:13:15.189569053Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Pakistan clears Binance and HTX to seek local crypto licenses",
+      "link": "https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOGYtY2FhMy03YTE2LWJkZjQtMGNjMmRlNjE5MzA1LmpwZw==.jpg\" alt=\"Pakistan clears Binance and HTX to seek local crypto licenses\"\u003e\u003c/p\u003e\u003cp\u003ePakistan gives a nod for crypto exchanges Binance and HTX to register local subsidiaries as regulators advance a phased crypto framework.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 13:41:18 +0000",
+      "fetched_at": "2025-12-12T14:13:15.125178165Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B",
+      "link": "https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItYThhZS03N2FmLWIyYzEtMDMzODhiZGJhODBlLmpwZw==.jpg\" alt=\"Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B\"\u003e\u003c/p\u003e\u003cp\u003eCrypto investor demand for memecoins remains at lows not seen since 2024, despite a growing speculative appetite that has boosted TradFi leveraged ETFs to a record $239 billion.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 14:02:54 +0000",
+      "fetched_at": "2025-12-12T14:13:15.125160121Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE",
       "link": "https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4267,6 +4294,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 474,
-  "last_update": "2025-12-12T13:45:48.271241062Z"
+  "total_captured": 477,
+  "last_update": "2025-12-12T14:13:15.555915517Z"
 }
