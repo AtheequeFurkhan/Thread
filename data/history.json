@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "About 200 West African soldiers in Benin for 'clean-up' after failed coup",
+      "link": "https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "This is the first time that officials have said how many foreign soldiers were deployed to help thwart the mutiny.",
+      "published": "Fri, 12 Dec 2025 09:02:20 GMT",
+      "fetched_at": "2025-12-12T09:17:27.727586527Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Famous crocodile wrangler jailed for evidence tampering",
       "link": "https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4051,6 +4060,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 450,
-  "last_update": "2025-12-12T08:50:51.619422565Z"
+  "total_captured": 451,
+  "last_update": "2025-12-12T09:17:28.071910196Z"
 }
