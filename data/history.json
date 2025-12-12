@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Indiana Republicans defy Trump to reject new voting map",
+      "link": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Some say they were targeted with death threats and other forms of intimidation over the vote.",
+      "published": "Fri, 12 Dec 2025 03:51:04 GMT",
+      "fetched_at": "2025-12-12T06:53:45.552693465Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Web3 gaming shifts to sustainability as confidence returns: BGA",
       "link": "https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3988,6 +3997,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 443,
-  "last_update": "2025-12-12T06:20:28.48323966Z"
+  "total_captured": 444,
+  "last_update": "2025-12-12T06:53:45.552716047Z"
 }
