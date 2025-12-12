@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals",
+      "link": "https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNWMtMWFiNC03OTNhLWEwMmMtOGNhMmY2MTBmNGNiLmpwZw==.jpg\" alt=\"Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals\"\u003e\u003c/p\u003e\u003cp\u003eThe conditional approvals clear a path for major crypto companies to operate as national trust banks under the supervision of the US OCC.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 16:26:44 +0000",
+      "fetched_at": "2025-12-12T16:42:34.603800566Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Europe reconsiders crypto oversight as ESMA centralization gains momentum",
       "link": "https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4339,6 +4348,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 482,
-  "last_update": "2025-12-12T16:15:03.933065959Z"
+  "total_captured": 483,
+  "last_update": "2025-12-12T16:42:34.929211134Z"
 }
