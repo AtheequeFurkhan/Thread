@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 16:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-484-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 17:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-485-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 16:54 UTC)*
+*(Updated: 12 Dec 17:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Figure Technology files ‘second IPO’ to bring native equity issuance to Solana](https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto industry, trade unions clash over multi-trillion dollar retirement funds](https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals](https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Europe reconsiders crypto oversight as ESMA centralization gains momentum](https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela](https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Inside the Colombian cathedral built 180m underground](https://www.bbc.com/news/videos/cjwyy65ne62o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Germany accuses Russia of 2024 cyber-attack and disinformation](https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Figure Technology files ‘second IPO’ to bring native equity issuance to Solana](https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto industry, trade unions clash over multi-trillion dollar retirement funds](https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals](https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Europe reconsiders crypto oversight as ESMA centralization gains momentum](https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip](https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
