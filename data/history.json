@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "YouTube enables PYUSD stablecoin payouts for US creators: Report",
+      "link": "https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwZDctMjFkYS03ZjRkLTg1ZTgtNzcwZTNlNTM0Zjll.jpg\" alt=\"YouTube enables PYUSD stablecoin payouts for US creators: Report\"\u003e\u003c/p\u003e\u003cp\u003eFortune reported that YouTube is allowing creators to be paid in PayPal's stablecoin, a potential boon for adoption due to the platform's size.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 04:59:30 +0000",
+      "fetched_at": "2025-12-12T05:14:45.396346963Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin bounces on Fed rate cut with bigger rally ahead predicted",
       "link": "https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3925,6 +3934,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 436,
-  "last_update": "2025-12-12T04:52:19.149207599Z"
+  "total_captured": 437,
+  "last_update": "2025-12-12T05:14:45.850339737Z"
 }

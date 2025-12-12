@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 04:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-436-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 05:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-437-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 04:52 UTC)*
+*(Updated: 12 Dec 05:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin bounces on Fed rate cut with bigger rally ahead predicted](https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Binance cozies up to Trump’s crypto platform with USD1 stablecoin links](https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin, blockchain should form Pakistan’s new financial rail, minister says](https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Terraform co-founder sentenced to 15 years in prison after guilty plea](https://cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [XRP buy signal flashes as funding rate turns deeply negative: Will bulls step in?](https://cointelegraph.com/news/xrp-funding-rate-turns-negative-will-bulls-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Netflix teases comedy movie about missing $35M crypto password](https://cointelegraph.com/news/netflix-comedy-movie-missing-crypto-password?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin bounces on Fed rate cut with bigger rally ahead predicted](https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Binance cozies up to Trump’s crypto platform with USD1 stablecoin links](https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin miners could boost corporate adoption as crypto treasury buys slow](https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SEC clears DTCC to offer securities market tokenization service](https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin, blockchain should form Pakistan’s new financial rail, minister says](https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
