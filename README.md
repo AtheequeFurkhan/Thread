@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 09:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-451-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 09:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-455-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 09:17 UTC)*
+*(Updated: 12 Dec 09:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia](https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Coinbase may debut prediction markets, tokenized stocks on Wednesday: Report](https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Venezuelan Nobel winner tells BBC people risked their lives for her to come to Oslo](https://www.bbc.com/news/videos/ce91de8x9p1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [About 200 West African soldiers in Benin for 'clean-up' after failed coup](https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Famous crocodile wrangler jailed for evidence tampering](https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin new year bear flag sparks $76K BTC price target next](https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Crypto** | [CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges](https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin bounces on Fed rate cut with bigger rally ahead predicted](https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Binance cozies up to Trump’s crypto platform with USD1 stablecoin links](https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin miners could boost corporate adoption as crypto treasury buys slow](https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [SEC clears DTCC to offer securities market tokenization service](https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia](https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Coinbase may debut prediction markets, tokenized stocks on Wednesday: Report](https://cointelegraph.com/news/coinbase-prediction-markets-tokenized-stocks-december-17-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin new year bear flag sparks $76K BTC price target next](https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC gives prediction markets leeway on data and record-keeping rules](https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges](https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Venezuelan Nobel winner tells BBC people risked their lives for her to come to Oslo](https://www.bbc.com/news/videos/ce91de8x9p1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [About 200 West African soldiers in Benin for 'clean-up' after failed coup](https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Famous crocodile wrangler jailed for evidence tampering](https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
