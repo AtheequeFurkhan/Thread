@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Senior Vanguard analyst says Bitcoin is no better than a plush toy",
+      "link": "https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxNzYtZWE2OC03YzhkLWExMmYtYTU4ZTViMDYwNzY5.jpg\" alt=\"Senior Vanguard analyst says Bitcoin is no better than a plush toy\"\u003e\u003c/p\u003e\u003cp\u003eThe comments followed the asset management company’s policy change allowing its clients to trade crypto exchange-traded funds.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 21:58:46 +0000",
+      "fetched_at": "2025-12-12T22:12:30.500094878Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "SOL struggles as Solana TVL slides and memecoin demand fades",
+      "link": "https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE0ODUtYzJiMS03MjAyLWJlM2ItZTdiOGMxMDVjN2YyLmpwZw==.jpg\" alt=\"SOL struggles as Solana TVL slides and memecoin demand fades\"\u003e\u003c/p\u003e\u003cp\u003eSOL demand cools as its total value locked drops by $10 billion and memecoin trading slumps. Traders’ lack of appetite for long leverage could further complicate the situation.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 22:11:41 +0000",
+      "fetched_at": "2025-12-12T22:12:30.500075652Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
+      "link": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December.",
+      "published": "Tue, 02 Dec 2025 17:37:59 GMT",
+      "fetched_at": "2025-12-12T22:12:30.198115826Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
       "link": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 27 Nov 2025 13:19:51 GMT",
       "fetched_at": "2025-12-07T22:39:31.029244+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Barcelona distances itself from sponsor's cryptocurrency after backlash",
-      "link": "https://www.bbc.com/news/articles/c20gkkl1546o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Experts say the deal may put fans at risk as the Catalan club tries to relieve its financial woes.",
-      "published": "Fri, 28 Nov 2025 14:02:44 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029239+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm'",
-      "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk.",
-      "published": "Mon, 01 Dec 2025 12:57:53 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029224+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Jorja Smith's record label hits out at 'AI clone' song",
-      "link": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The label claims Haven's dance hit I Run was made using AI trained on the award-winning singer's voice.",
-      "published": "Mon, 01 Dec 2025 13:12:08 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029219+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 511,
-  "last_update": "2025-12-12T21:47:18.444039889Z"
+  "total_captured": 514,
+  "last_update": "2025-12-12T22:12:30.998943948Z"
 }
