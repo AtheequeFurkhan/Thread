@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 05:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-441-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 06:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-443-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 05:52 UTC)*
+*(Updated: 12 Dec 06:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [CFTC gives prediction markets leeway on data and record-keeping rules](https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Maduro says Trump wants Venezuela's oil. But is that the real US goal?](https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Flood misery for Gazans awaiting next stage of peace plan](https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Chief of S Korea's high-stakes exam quits over 'insane' English test](https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Tricked, abducted and abused: Inside China's schools for 'rebellious' teens](https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Web3 gaming shifts to sustainability as confidence returns: BGA](https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [CFTC gives prediction markets leeway on data and record-keeping rules](https://cointelegraph.com/news/cftc-prediction-markets-event-contracts-relief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges](https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin bounces on Fed rate cut with bigger rally ahead predicted](https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Binance cozies up to Trump’s crypto platform with USD1 stablecoin links](https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin miners could boost corporate adoption as crypto treasury buys slow](https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
