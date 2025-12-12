@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Bitnomial gains CFTC approval to launch prediction markets in the US",
+      "link": "https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE0MjUtNzA4ZC03MGEwLWI2ZDYtZTFhYmRlYWRhYjY4LmpwZw==.jpg\" alt=\"Bitnomial gains CFTC approval to launch prediction markets in the US\"\u003e\u003c/p\u003e\u003cp\u003eThe US regulator's green light lets Bitnomial’s clearinghouse support prediction markets linked to crypto and economic events, expanding its regulated product and clearing offerings.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 21:22:54 +0000",
+      "fetched_at": "2025-12-12T21:30:02.876369217Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Twitch star QTCinderella says she wishes she never started streaming",
+      "link": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job.",
+      "published": "Fri, 05 Dec 2025 22:32:29 GMT",
+      "fetched_at": "2025-12-12T21:30:02.545992922Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
+      "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The European Commission says the social media site is opening its users up to scams and impersonations.",
+      "published": "Fri, 05 Dec 2025 17:58:27 GMT",
+      "fetched_at": "2025-12-12T21:30:02.545973936Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
       "link": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 03 Dec 2025 10:39:33 GMT",
       "fetched_at": "2025-12-07T22:39:31.029172+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
-      "link": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance.",
-      "published": "Wed, 03 Dec 2025 13:46:49 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029161+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "New homes delayed by 'energy-hungry' data centres",
-      "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022.",
-      "published": "Wed, 03 Dec 2025 15:37:59 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029156+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Porn site fined £1m over age checks has never responded to Ofcom",
-      "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July.",
-      "published": "Thu, 04 Dec 2025 11:10:10 GMT",
-      "fetched_at": "2025-12-07T22:39:31.028716+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 502,
-  "last_update": "2025-12-12T21:11:49.824186598Z"
+  "total_captured": 505,
+  "last_update": "2025-12-12T21:30:02.876401557Z"
 }

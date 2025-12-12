@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-502-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-505-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 21:11 UTC)*
+*(Updated: 12 Dec 21:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **World** | [Nobel laureate Narges Mohammadi arrested in Iran, supporters say](https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tether may tokenize equity to ensure liquidity for investors: Report](https://cointelegraph.com/news/tether-tokenize-shares-liquidity-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Figure Technology files ‘second IPO’ to bring native equity issuance to Solana](https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto industry, trade unions clash over multi-trillion dollar retirement funds](https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals](https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Tools for Humanity expands World app toward super-app model](https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
