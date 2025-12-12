@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 20:36 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-494-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 20:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-497-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 20:36 UTC)*
+*(Updated: 12 Dec 20:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tools for Humanity expands World app toward super-app model](https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Pakistan clears Binance and HTX to seek local crypto licenses](https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tools for Humanity expands World app toward super-app model](https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Pyth to launch reserve using buybacks from DAO treasury funds](https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Tether may tokenize equity to ensure liquidity for investors: Report](https://cointelegraph.com/news/tether-tokenize-shares-liquidity-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Nobel laureate Narges Mohammadi arrested in Iran, supporters say](https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
