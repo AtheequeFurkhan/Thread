@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 14:32 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-477-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 14:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-479-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 14:32 UTC)*
+*(Updated: 12 Dec 14:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **World** | [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Pakistan clears Binance and HTX to seek local crypto licenses](https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Taylor Swift shown breaking down in tears after she met UK attack families](https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight](https://cointelegraph.com/news/sec-innovation-exemption-dtcc-tokenization-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | ['It was little kids': Taylor Swift breaks down as she talks of Southport attack](https://www.bbc.com/news/videos/cy0ppq8yye4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Binance hints at stock perps in push to join global tokenized equities race](https://cointelegraph.com/news/binance-stock-perpetuals-tokenized-equities-api-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Pakistan clears Binance and HTX to seek local crypto licenses](https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B](https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE](https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?](https://cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Phantom taps Kalshi to offer regulated prediction markets in wallet](https://cointelegraph.com/news/phantom-kalshi-prediction-markets-wallet-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine](https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela](https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Inside the Colombian cathedral built 180m underground](https://www.bbc.com/news/videos/cjwyy65ne62o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Germany accuses Russia of 2024 cyber-attack and disinformation](https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

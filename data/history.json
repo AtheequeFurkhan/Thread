@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Ripple expands European footprint with AMINA stablecoin payment partnership",
+      "link": "https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItZTg2MC03ZGRhLWIzNTItZWQ2NWYwYzIxM2QwLmpwZw==.jpg\" alt=\"Ripple expands European footprint with AMINA stablecoin payment partnership\"\u003e\u003c/p\u003e\u003cp\u003eRipple Payments partnered with Swiss crypto bank Amina to plug its fiat-to-stablecoin payment infrastructure into the FINMA-regulated institution.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 14:31:37 +0000",
+      "fetched_at": "2025-12-12T14:49:24.561060488Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK",
+      "link": "https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The UK accuses Al-Fateh Abdullah Idris, also known as Abu Lulu, of committing acts of violence against civilians.",
+      "published": "Fri, 12 Dec 2025 14:32:30 GMT",
+      "fetched_at": "2025-12-12T14:49:23.433370685Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine",
       "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4294,6 +4312,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 477,
-  "last_update": "2025-12-12T14:32:44.849131797Z"
+  "total_captured": 479,
+  "last_update": "2025-12-12T14:49:24.561095561Z"
 }
