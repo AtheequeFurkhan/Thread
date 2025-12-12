@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-514-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 22:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-515-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 22:12 UTC)*
+*(Updated: 12 Dec 22:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [SOL struggles as Solana TVL slides and memecoin demand fades](https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [YouTuber Marques Brownlee shutting down phone wallpaper app](https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [YouTuber Marques Brownlee shutting down phone wallpaper app](https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bank of England warns of AI bubble risk](https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Dell family to seed Trump accounts for kids with $250](https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World

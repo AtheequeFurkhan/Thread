@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US TikTok investors in limbo as deal set to be delayed again",
+      "link": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done.",
+      "published": "Fri, 12 Dec 2025 22:25:18 GMT",
+      "fetched_at": "2025-12-12T22:34:40.856242201Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Senior Vanguard analyst says Bitcoin is no better than a plush toy",
       "link": "https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 26 Nov 2025 12:36:24 GMT",
       "fetched_at": "2025-12-07T22:39:31.029249+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "OBR calls in cyber expert over botched release of Budget analysis",
-      "link": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Rachel Reeves's statement was thrown into chaos after journalists were able to access the document early.",
-      "published": "Thu, 27 Nov 2025 13:19:51 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029244+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 514,
-  "last_update": "2025-12-12T22:12:30.998943948Z"
+  "total_captured": 515,
+  "last_update": "2025-12-12T22:34:41.249597782Z"
 }
