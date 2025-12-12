@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin bounces on Fed rate cut with bigger rally ahead predicted",
+      "link": "https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwN2YtNmQ1Zi03NmUzLTlmNzktMTlmMmIxZjRlN2E4.jpg\" alt=\"Bitcoin bounces on Fed rate cut with bigger rally ahead predicted\"\u003e\u003c/p\u003e\u003cp\u003eCrypto markets rebounded after the Fed’s third rate cut this year, with analysts predicting a larger bounce following the typical post-cut pattern.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 04:05:08 +0000",
+      "fetched_at": "2025-12-12T04:27:39.59303007Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Binance cozies up to Trump’s crypto platform with USD1 stablecoin links",
       "link": "https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3916,6 +3925,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 435,
-  "last_update": "2025-12-12T03:53:49.977620206Z"
+  "total_captured": 436,
+  "last_update": "2025-12-12T04:27:39.860338221Z"
 }
