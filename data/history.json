@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Upbit hack puts Binance’s emergency freeze policy under scrutiny",
+      "link": "https://cointelegraph.com/news/binance-upbit-hack-funds-freeze-kbs-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExYWQtZWRhNy03OWRmLWFkYjQtOGNjZmUwY2I0Y2Q5.jpg\" alt=\"Upbit hack puts Binance’s emergency freeze policy under scrutiny\"\u003e\u003c/p\u003e\u003cp\u003eBinance reportedly froze only about 17% of the funds that South Korean police linked to the Upbit hack, raising questions over how major exchanges act on cross-border law enforcement.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 10:00:05 +0000",
+      "fetched_at": "2025-12-12T10:14:08.4064611Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia",
       "link": "https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4096,6 +4105,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 455,
-  "last_update": "2025-12-12T09:54:41.245998843Z"
+  "total_captured": 456,
+  "last_update": "2025-12-12T10:14:08.527694832Z"
 }
