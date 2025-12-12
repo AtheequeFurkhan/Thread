@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tools for Humanity expands World app toward super-app model",
+      "link": "https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNmItZmRiZC03MWUwLTgwOTItMWUyNzhiNjU5NDZhLmpwZw==.jpg\" alt=\"Tools for Humanity expands World app toward super-app model\"\u003e\u003c/p\u003e\u003cp\u003eThe release introduces World Chat with end-to-end encryption, DeFi-powered yield via Morpho and QR-code payments at more than one million merchants in Argentina.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 20:20:43 +0000",
+      "fetched_at": "2025-12-12T20:36:13.421939214Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Farmers call for French blockades over cow disease cull",
       "link": "https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4438,6 +4447,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 493,
-  "last_update": "2025-12-12T20:14:01.410424908Z"
+  "total_captured": 494,
+  "last_update": "2025-12-12T20:36:13.96270644Z"
 }
