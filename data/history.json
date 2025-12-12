@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Maduro says Trump wants Venezuela's oil. But is that the real US goal?",
+      "link": "https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The South American nation's output has plummeted and restoring its former glory would be a heavy lift.",
+      "published": "Fri, 12 Dec 2025 05:42:29 GMT",
+      "fetched_at": "2025-12-12T05:52:23.427323875Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Eurovision winner Nemo to return trophy in protest of Israel",
+      "link": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Swiss singer says there is a \"clear conflict\" between Israel's continued participation in the event and the values Eurovision stands for.",
+      "published": "Fri, 12 Dec 2025 05:31:51 GMT",
+      "fetched_at": "2025-12-12T05:52:23.427308136Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan.",
+      "published": "Fri, 12 Dec 2025 05:43:02 GMT",
+      "fetched_at": "2025-12-12T05:52:23.427289982Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges",
       "link": "https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3943,6 +3970,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 438,
-  "last_update": "2025-12-12T05:37:52.09694233Z"
+  "total_captured": 441,
+  "last_update": "2025-12-12T05:52:23.911290978Z"
 }

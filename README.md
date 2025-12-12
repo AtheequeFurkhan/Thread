@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 05:37 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-438-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 05:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-441-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 05:37 UTC)*
+*(Updated: 12 Dec 05:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Maduro says Trump wants Venezuela's oil. But is that the real US goal?](https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Flood misery for Gazans awaiting next stage of peace plan](https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges](https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [YouTube enables PYUSD stablecoin payouts for US creators: Report](https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin bounces on Fed rate cut with bigger rally ahead predicted](https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [US sanctions six more ships after seizing oil tanker off Venezuela](https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | ['Catastrophe bonds' are gaining popularity as a response to climate change](https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change) | 🟢 Positive |
-| **Business** | [Farmers welcome Trump's $12 billion aid package, say additional relief is needed](https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed) | ⚪ Neutral |
-| **Crypto** | [Bitcoin, blockchain should form Pakistan’s new financial rail, minister says](https://cointelegraph.com/news/bitcoin-blockchain-pakistan-new-financial-rail-minister-mena-conference?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Terraform co-founder sentenced to 15 years in prison after guilty plea](https://cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Maduro says Trump wants Venezuela's oil. But is that the real US goal?](https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Eurovision winner Nemo to return trophy in protest of Israel](https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Flood misery for Gazans awaiting next stage of peace plan](https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?](https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Fears grow that world's rarest apes were swept away in Sumatran floods](https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Chief of S Korea's high-stakes exam quits over 'insane' English test](https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tricked, abducted and abused: Inside China's schools for 'rebellious' teens](https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
