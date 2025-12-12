@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
+      "link": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Russian ambassador is summoned over a cyber attack on air traffic control and attempted electoral interference.",
+      "published": "Fri, 12 Dec 2025 12:20:49 GMT",
+      "fetched_at": "2025-12-12T12:25:13.147127949Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Prada to launch $930 'Made in India' Kolhapuri sandals after backlash",
       "link": "https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4186,6 +4195,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 465,
-  "last_update": "2025-12-12T11:48:38.743832633Z"
+  "total_captured": 466,
+  "last_update": "2025-12-12T12:25:13.305612047Z"
 }

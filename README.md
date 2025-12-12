@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 11:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-465-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 12:25 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-466-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 11:48 UTC)*
+*(Updated: 12 Dec 12:25 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Germany accuses Russia of 2024 cyber-attack and disinformation](https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Thai PM dissolves parliament to 'return power to people'](https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin new year bear flag sparks $76K BTC price target next](https://cointelegraph.com/news/bitcoin-new-year-bear-flag-sparks-76k-btc-price-target-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Moment hiker is rescued from quicksand in Utah](https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Canadians and Americans on a social media ban for everyone under 16](https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Three things to know after US seizes Venezuelan oil tanker](https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Germany accuses Russia of 2024 cyber-attack and disinformation](https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Prada to launch $930 'Made in India' Kolhapuri sandals after backlash](https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Thai PM dissolves parliament to 'return power to people'](https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Geminid meteor shower set to light up sky during weekend peak](https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Russia could attack Nato within five years, says alliance chief in stark new warning](https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Taylor Swift shown breaking down in tears after she met UK attack families](https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
