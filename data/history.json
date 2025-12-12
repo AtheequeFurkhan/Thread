@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
+      "link": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included.",
+      "published": "Fri, 12 Dec 2025 20:45:06 GMT",
+      "fetched_at": "2025-12-12T21:11:49.673969809Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "More photos from Epstein estate show Trump, Clinton and former Prince Andrew",
+      "link": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The photos, which do not imply wrongdoing, are part of a trove of images the House Oversight Committee received from Epstein's estate.",
+      "published": "Fri, 12 Dec 2025 19:36:03 GMT",
+      "fetched_at": "2025-12-12T21:11:49.044947691Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Turkish car ferry damaged in strike at Ukrainian port",
+      "link": "https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ukraine's president has blamed Russia for the attack as Turkey called for a suspension of strikes on shipping and ports.",
+      "published": "Fri, 12 Dec 2025 21:06:30 GMT",
+      "fetched_at": "2025-12-12T21:11:49.04493144Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Crypto Biz: How Ripple quietly convinced Wall Street",
+      "link": "https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzODUtMDcyOC03YzRiLTk3NjgtMWNhZTk0N2Y3ODFhLmpwZw==.jpg\" alt=\"Crypto Biz: How Ripple quietly convinced Wall Street\"\u003e\u003c/p\u003e\u003cp\u003eRipple’s post-SEC rebound is drawing Wall Street backing, including a $40 billion valuation deal with downside protection— and some investors betting on XRP.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 21:00:00 +0000",
+      "fetched_at": "2025-12-12T21:11:48.287273539Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin miners turn to renewable energy amid profit margin squeeze",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5MzhlMzUtZGJhOC03YjRhLWIyYWMtOWQyNGJiZWRlZTJh.jpg\" alt=\"Bitcoin miners turn to renewable energy amid profit margin squeeze\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin mining hash price, a critical metric for determining profit margins in the industry, is hovering near record lows.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 21:06:00 +0000",
+      "fetched_at": "2025-12-12T21:11:48.287255955Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?",
       "link": "https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,26 +4499,8 @@
       "published": "Thu, 04 Dec 2025 11:10:10 GMT",
       "fetched_at": "2025-12-07T22:39:31.028716+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
-      "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The European Commission says the social media site is opening its users up to scams and impersonations.",
-      "published": "Fri, 05 Dec 2025 17:58:27 GMT",
-      "fetched_at": "2025-12-07T22:39:31.028664+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Twitch star QTCinderella says she wishes she never started streaming",
-      "link": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job.",
-      "published": "Fri, 05 Dec 2025 22:32:29 GMT",
-      "fetched_at": "2025-12-07T22:39:31.028101+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 497,
-  "last_update": "2025-12-12T20:51:59.251222584Z"
+  "total_captured": 502,
+  "last_update": "2025-12-12T21:11:49.824186598Z"
 }

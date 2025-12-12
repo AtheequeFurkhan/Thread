@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 20:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-497-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-12 Dec 21:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-502-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 20:51 UTC)*
+*(Updated: 12 Dec 21:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **Crypto** | [Figure Technology files ‘second IPO’ to bring native equity issuance to Solana](https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto industry, trade unions clash over multi-trillion dollar retirement funds](https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals](https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Europe reconsiders crypto oversight as ESMA centralization gains momentum](https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip](https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Ripple expands European footprint with AMINA stablecoin payment partnership](https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK](https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t](https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tools for Humanity expands World app toward super-app model](https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined](https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Nobel laureate Narges Mohammadi arrested in Iran, supporters say](https://www.bbc.com/news/articles/cly559exm87o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ghanaian influencer charged over $8m scam targeting elderly Americans](https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
