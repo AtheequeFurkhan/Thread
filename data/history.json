@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges",
+      "link": "https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwNGEtMjY4NS03NDk0LTg1NWItNGI4OTc3ZjE2MjUy.jpg\" alt=\"CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges\"\u003e\u003c/p\u003e\u003cp\u003eThe CFTC has scrapped its guidance on how crypto is delivered in a transaction, giving “way more flexibility for exchanges,” says StarkWare's Katherine Kirkpatrick Bos.\u003c/p\u003e",
+      "published": "Fri, 12 Dec 2025 05:20:26 +0000",
+      "fetched_at": "2025-12-12T05:37:52.096914348Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "YouTube enables PYUSD stablecoin payouts for US creators: Report",
       "link": "https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -3934,6 +3943,6 @@
       "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 437,
-  "last_update": "2025-12-12T05:14:45.850339737Z"
+  "total_captured": 438,
+  "last_update": "2025-12-12T05:37:52.09694233Z"
 }
