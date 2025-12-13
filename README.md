@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 11:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-540-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 12:22 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-542-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 11:47 UTC)*
+*(Updated: 13 Dec 12:22 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Furious fans invade pitch at Messi event in India](https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Strategy survives first Nasdaq 100 shakeup since entering the index](https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpr?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto groups slam Citadel for urging tighter DeFi tokenization rules](https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Witkoff to meet Zelensky for latest Ukraine war talks](https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in](https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Ukraine's health supplies hit in series of Russian strikes on medical warehouses](https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Strategy survives first Nasdaq 100 shakeup since entering the index](https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex](https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026](https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto groups slam Citadel for urging tighter DeFi tokenization rules](https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Furious fans invade pitch at Messi event in India](https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [A new Bollywood film is dividing opinions in India and Pakistan](https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Watch: A Niagara Falls wreck and the rescue that saved two Americans](https://www.bbc.com/news/videos/c9977k5jyr4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A Niagara Falls wreck and the joint rescue that saved two Americans](https://www.bbc.co.uk/programmes/p0mmjxb6?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Doorbell camera captures moment house explodes in Hayward, California](https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

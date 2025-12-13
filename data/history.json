@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: Furious fans invade pitch at Messi event in India",
+      "link": "https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Thousands of adoring supporters had paid up to 12,000 rupees (£100; $133) to catch a glimpse of the football star.",
+      "published": "Sat, 13 Dec 2025 11:20:50 GMT",
+      "fetched_at": "2025-12-13T12:22:03.434908795Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Strategy survives first Nasdaq 100 shakeup since entering the index",
+      "link": "https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg\" alt=\"Strategy survives first Nasdaq 100 shakeup since entering the index\"\u003e\u003c/p\u003e\u003cp\u003eStrategy remains in the Nasdaq 100 as MSCI considers excluding firms whose crypto holdings exceed 50% of total assets.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 12:07:05 +0000",
+      "fetched_at": "2025-12-13T12:22:03.393049389Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 24 Oct 2025 14:25:32 GMT",
       "fetched_at": "2025-12-07T22:39:31.029508+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpm?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Bots are driving down human traffic at the world's largest online encyclopedia.",
-      "published": "Tue, 28 Oct 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029502+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpn?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The issues around parents keeping an eye on their children using tracking technology.",
-      "published": "Tue, 04 Nov 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029493+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 540,
-  "last_update": "2025-12-13T11:47:45.755243966Z"
+  "total_captured": 542,
+  "last_update": "2025-12-13T12:22:03.825386427Z"
 }
