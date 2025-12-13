@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 11:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-539-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 11:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-540-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 11:34 UTC)*
+*(Updated: 13 Dec 11:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpr?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in](https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ukraine's health supplies hit in series of Russian strikes on medical warehouses](https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpr?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

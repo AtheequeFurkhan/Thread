@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Who are digital nomads, and why are more countries welcoming them ?",
+      "published": "Tue, 18 Nov 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-13T11:47:45.35271513Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 04 Nov 2025 20:30:00 GMT",
       "fetched_at": "2025-12-07T22:39:31.029493+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpp?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "We visit a royal palace to meet some of the pioneers of artificial intelligence.",
-      "published": "Tue, 11 Nov 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029488+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 539,
-  "last_update": "2025-12-13T11:34:33.565830389Z"
+  "total_captured": 540,
+  "last_update": "2025-12-13T11:47:45.755243966Z"
 }
