@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Should you use buy now, pay later? Experts share 4 tips to know",
+      "link": "https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping",
+      "category": "Business",
+      "summary": "The payment option is booming among online holiday shoppers this year. But like any form of credit, it comes with drawbacks. Here's how to use BNPL responsibly — and protect yourself from risk.",
+      "published": "Sat, 13 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-13T10:11:55.65192656Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "A new Bollywood film is dividing opinions in India and Pakistan",
       "link": "https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 18 Nov 2025 14:13:36 GMT",
       "fetched_at": "2025-12-07T22:39:31.029427+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Baby Shark: How a 90-second clip created a $400m business",
-      "link": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Shares in the firm behind the highly-addictive children's song rose by more than 9% in their stock market debut.",
-      "published": "Tue, 18 Nov 2025 23:00:46 GMT",
-      "fetched_at": "2025-12-07T22:39:31.02942+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 531,
-  "last_update": "2025-12-13T09:47:24.698271338Z"
+  "total_captured": 532,
+  "last_update": "2025-12-13T10:11:55.824881654Z"
 }
