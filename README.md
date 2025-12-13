@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 16:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-548-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 16:38 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-550-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 16:14 UTC)*
+*(Updated: 13 Dec 16:38 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Should you use buy now, pay later? Experts share 4 tips to know](https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping) | ⚪ Neutral |
 | **World** | [A new Bollywood film is dividing opinions in India and Pakistan](https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026](https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Street art festival sees Lagos turned into 'open-air gallery'](https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Belarus frees 123 prisoners as US lifts sanctions](https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Furious fans invade pitch at Messi event in India](https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [A new Bollywood film is dividing opinions in India and Pakistan](https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

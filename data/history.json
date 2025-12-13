@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "The contradiction at the heart of the trillion-dollar AI race",
+      "link": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting",
+      "published": "Wed, 19 Nov 2025 13:52:41 GMT",
+      "fetched_at": "2025-12-13T16:38:48.924745678Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Israel targets senior Hamas official in deadly Gaza strike",
+      "link": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Four people were killed and multiple passers-by injured in the strike, an official from Gaza's Hamas-run civil defence agency told the BBC.",
+      "published": "Sat, 13 Dec 2025 16:08:32 GMT",
+      "fetched_at": "2025-12-13T16:38:48.582404585Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "The entrepreneur connecting tourists to African hospitality",
       "link": "https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 14 Nov 2025 15:47:29 GMT",
       "fetched_at": "2025-12-07T22:39:31.029584+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Can technology fix fashion's sizing crisis?",
-      "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized.",
-      "published": "Sat, 15 Nov 2025 04:03:27 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029571+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
-      "link": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
-      "published": "Wed, 19 Nov 2025 00:23:14 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029554+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 548,
-  "last_update": "2025-12-13T16:14:00.95307841Z"
+  "total_captured": 550,
+  "last_update": "2025-12-13T16:38:49.230722232Z"
 }
