@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 22:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-562-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 22:32 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-563-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 22:11 UTC)*
+*(Updated: 13 Dec 22:32 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [BTC OGs selling covered calls is the main culprit suppressing price: Analyst](https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [BBC captures celebrations as Belarus frees political prisoners](https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [The Securities and Exchange Commission publishes crypto custody guide](https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Street art festival sees Lagos turned into 'open-air gallery'](https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Belarus frees 123 prisoners as US lifts sanctions](https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Exploring the underlying causes of corporate bankruptcies in the U.S.](https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [BTC OGs selling covered calls is the main culprit suppressing price: Analyst](https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The Securities and Exchange Commission publishes crypto custody guide](https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Solana ETFs record 7-day inflow streak despite price slump](https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy survives first Nasdaq 100 shakeup since entering the index](https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex](https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
