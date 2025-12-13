@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "A new Bollywood film is dividing opinions in India and Pakistan",
+      "link": "https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An espionage thriller set in Pakistan, Dhurandhar has provoked a sharp debate over its political messaging.",
+      "published": "Fri, 12 Dec 2025 23:27:55 GMT",
+      "fetched_at": "2025-12-13T09:47:24.128014701Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 18 Nov 2025 23:00:46 GMT",
       "fetched_at": "2025-12-07T22:39:31.02942+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Cloudflare apologises for outage which took down X and ChatGPT",
-      "link": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "\"We apologise to our customers and the Internet in general\" the web infrastructure company said.",
-      "published": "Tue, 18 Nov 2025 15:48:55 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029413+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 530,
-  "last_update": "2025-12-13T09:30:44.177467055Z"
+  "total_captured": 531,
+  "last_update": "2025-12-13T09:47:24.698271338Z"
 }
