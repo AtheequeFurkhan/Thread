@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Will boats be a breakthrough for 3D printing tech?",
+      "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
+      "published": "Fri, 28 Nov 2025 00:10:39 GMT",
+      "fetched_at": "2025-12-13T15:30:41.40577837Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Street art festival sees Lagos turned into 'open-air gallery'",
       "link": "https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 25 Nov 2025 00:02:30 GMT",
       "fetched_at": "2025-12-07T22:39:31.029539+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
-      "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online.",
-      "published": "Tue, 25 Nov 2025 04:58:08 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029532+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 545,
-  "last_update": "2025-12-13T15:11:36.3706525Z"
+  "total_captured": 546,
+  "last_update": "2025-12-13T15:30:41.545446643Z"
 }
