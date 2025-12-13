@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Adrienne Murray meets the engineers designing icebreaker ship technology for the Arctic.",
+      "published": "Sat, 29 Nov 2025 01:00:00 GMT",
+      "fetched_at": "2025-12-13T11:26:02.222882355Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "How AI is used in songwriting and fashion. Plus, a warning on how it’s used in toys.",
+      "published": "Tue, 02 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-13T11:26:02.222859993Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Is The Washington Post's new AI podcast a hallmark of the future?",
       "link": "https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 18 Nov 2025 20:30:00 GMT",
       "fetched_at": "2025-12-07T22:39:31.029465+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The scientists on a quest to improve our predictions of global sea level rise.",
-      "published": "Sat, 22 Nov 2025 01:00:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.02946+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpr?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Some children in the United States are learning with help from AI-powered apps at school.",
-      "published": "Tue, 25 Nov 2025 20:50:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029455+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 535,
-  "last_update": "2025-12-13T11:09:59.451006389Z"
+  "total_captured": 537,
+  "last_update": "2025-12-13T11:26:02.464189435Z"
 }

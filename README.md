@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 11:09 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-535-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 11:26 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-537-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 11:09 UTC)*
+*(Updated: 13 Dec 11:26 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Is The Washington Post's new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast) | 🟢 Positive |
 | **Crypto** | [Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex](https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [YouTuber Marques Brownlee shutting down phone wallpaper app](https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Bank of England warns of AI bubble risk](https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
