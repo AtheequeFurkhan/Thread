@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Belarus frees 123 prisoners as US lifts sanctions",
+      "link": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US.",
+      "published": "Sat, 13 Dec 2025 14:00:21 GMT",
+      "fetched_at": "2025-12-13T14:11:27.216132732Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Exploring the underlying causes of corporate bankruptcies in the U.S.",
       "link": "https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 28 Nov 2025 00:10:39 GMT",
       "fetched_at": "2025-12-07T22:39:31.029524+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpf?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "There are calls for AI to be prevented from carrying out actions which might harm humans.",
-      "published": "Tue, 21 Oct 2025 19:30:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029514+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 543,
-  "last_update": "2025-12-13T13:48:41.639495917Z"
+  "total_captured": 544,
+  "last_update": "2025-12-13T14:11:27.84649495Z"
 }
