@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Is The Washington Post's new AI podcast a hallmark of the future?",
+      "link": "https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast",
+      "category": "Business",
+      "summary": "The \u003cem\u003ePost\u003c/em\u003e calls the podcast an \"AI-powered tool\" that turns its articles into an audio news digest.",
+      "published": "Sat, 13 Dec 2025 06:01:00 -0500",
+      "fetched_at": "2025-12-13T11:09:59.450963539Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex",
+      "link": "https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZhNzktMzg0OS03YzVmLWIzZDAtMDRhOTE1M2NkNjNk.jpg\" alt=\"Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex\"\u003e\u003c/p\u003e\u003cp\u003eBitfinex said the recent 66% slide in spot trading volumes echoes lulls seen before next leg in the cycle.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 11:05:42 +0000",
+      "fetched_at": "2025-12-13T11:09:59.30618057Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Angry fans throw chairs and bottles at Messi event in India",
       "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 25 Nov 2025 20:50:00 GMT",
       "fetched_at": "2025-12-07T22:39:31.029455+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Adrienne Murray meets the engineers designing icebreaker ship technology for the Arctic.",
-      "published": "Sat, 29 Nov 2025 01:00:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029442+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "How AI is used in songwriting and fashion. Plus, a warning on how it’s used in toys.",
-      "published": "Tue, 02 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029434+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 533,
-  "last_update": "2025-12-13T10:49:12.695633416Z"
+  "total_captured": 535,
+  "last_update": "2025-12-13T11:09:59.451006389Z"
 }
