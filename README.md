@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-12 Dec 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-516-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 00:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-518-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 12 Dec 23:49 UTC)*
+*(Updated: 13 Dec 00:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin miners turn to renewable energy amid profit margin squeeze](https://cointelegraph.com/news/bitcoin-miners-renewable-energy-profit-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?](https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Farmers call for French blockades over cow disease cull](https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Eritrea quits regional bloc as tensions rise with Ethiopia](https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
@@ -87,6 +87,7 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-13.md | [View Log](data/2025-12-13.md) |
 | 2025-12-12.md | [View Log](data/2025-12-12.md) |
 | 2025-12-11.md | [View Log](data/2025-12-11.md) |
 | 2025-12-10.md | [View Log](data/2025-12-10.md) |

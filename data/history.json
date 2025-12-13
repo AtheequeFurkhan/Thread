@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
+      "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Experts say that Russian and Chinese support for Venezuela has largely dried up, with no prospect of real military or financial aid.",
+      "published": "Sat, 13 Dec 2025 00:35:21 GMT",
+      "fetched_at": "2025-12-13T00:55:59.504368519Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Facing one last fight, John Cena became a WWE legend for more than ability",
+      "link": "https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The man behind the \"You Can't See Me\" catchphrase is fighting one last time on Saturday night. But who is he, really?",
+      "published": "Sat, 13 Dec 2025 00:05:31 GMT",
+      "fetched_at": "2025-12-13T00:55:59.504345736Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG",
       "link": "https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 21 Nov 2025 02:34:57 GMT",
       "fetched_at": "2025-12-07T22:39:31.029278+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Teens plead not guilty over TfL cyber-attack",
-      "link": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Thalha Jubair, 19, and Owen Flowers, 18,  are charged with conspiring to commit unauthorised acts.",
-      "published": "Fri, 21 Nov 2025 14:09:56 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029267+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ofcom vows to name and shame platforms over online sexism",
-      "link": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "But critics say the regulator's new measures need to be the law rather than guidelines to make the internet safer for women and girls.",
-      "published": "Tue, 25 Nov 2025 11:51:18 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029262+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 516,
-  "last_update": "2025-12-12T23:49:07.985979164Z"
+  "total_captured": 518,
+  "last_update": "2025-12-13T00:55:59.872178823Z"
 }
