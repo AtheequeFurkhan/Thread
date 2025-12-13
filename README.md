@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 16:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-552-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 17:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-554-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 16:53 UTC)*
+*(Updated: 13 Dec 17:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Is The Washington Post's new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast) | 🟢 Positive |
-| **Crypto** | [Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex](https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

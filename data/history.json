@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "The Kenyan start-up aiming to electrify African transport",
+      "link": "https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "From fleets of e-bikes to individual riders, eWaka aims to sell across Africa's delivery market.",
+      "published": "Tue, 11 Nov 2025 00:03:14 GMT",
+      "fetched_at": "2025-12-13T17:10:29.240840063Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Call of Duty is back, and it's got a battle on its hands",
+      "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6.",
+      "published": "Fri, 14 Nov 2025 15:47:29 GMT",
+      "fetched_at": "2025-12-13T17:10:29.240827169Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Can technology fix fashion's sizing crisis?",
       "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 28 Oct 2025 00:07:11 GMT",
       "fetched_at": "2025-12-07T22:39:31.029619+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "'This is the big one' - tech firms bet on electrifying rail",
-      "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Railway operators have new options for electric trains including getting rid of locomotives altogether.",
-      "published": "Fri, 31 Oct 2025 00:14:09 GMT",
-      "fetched_at": "2025-12-07T22:39:31.02961+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fire-blocking chemicals promise safer buildings",
-      "link": "https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "New treatments promise to make buildings fire-resistant without using older, toxic chemicals.",
-      "published": "Fri, 07 Nov 2025 00:13:36 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029601+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 552,
-  "last_update": "2025-12-13T16:53:08.843645529Z"
+  "total_captured": 554,
+  "last_update": "2025-12-13T17:10:29.539507899Z"
 }
