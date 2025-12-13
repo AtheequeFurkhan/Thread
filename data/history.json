@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
+      "link": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Donald Trump's envoy will meet the Ukrainian president and European leaders in Berlin to discuss the latest peace plan.",
+      "published": "Sat, 13 Dec 2025 05:09:11 GMT",
+      "fetched_at": "2025-12-13T05:34:56.603662156Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
       "link": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 20 Nov 2025 12:44:59 GMT",
       "fetched_at": "2025-12-07T22:39:31.029349+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
-      "link": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Ford's UK boss says it is \"not the right time\" to tax electric vehicles when demand has already stalled.",
-      "published": "Thu, 20 Nov 2025 00:03:09 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029343+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 523,
-  "last_update": "2025-12-13T05:12:47.156931295Z"
+  "total_captured": 524,
+  "last_update": "2025-12-13T05:34:56.796085728Z"
 }
