@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 00:55 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-518-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 02:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-521-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 00:55 UTC)*
+*(Updated: 13 Dec 02:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SOL struggles as Solana TVL slides and memecoin demand fades](https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto Biz: How Ripple quietly convinced Wall Street](https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Turkish car ferry damaged in strike at Ukrainian port](https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Thailand and Cambodia agree to halt fighting, Trump says](https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

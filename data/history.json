@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing",
+      "link": "https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Prosecutors played dozens of body camera videos and interviewed witnesses from the day of his arrest.",
+      "published": "Sat, 13 Dec 2025 01:18:21 GMT",
+      "fetched_at": "2025-12-13T02:29:45.62498592Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city",
+      "link": "https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The recent Washington Accord was hailed as \"historic\" by the US president but the fighting continues.",
+      "published": "Sat, 13 Dec 2025 01:37:12 GMT",
+      "fetched_at": "2025-12-13T02:29:45.624965001Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Stablecoin giant Tether makes $1B bid to buy Juventus FC",
+      "link": "https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE1MDUtMTIzYi03ZTlmLTg1OTEtNDIwM2Y1NzA0NGIxLmpwZw==.jpg\" alt=\"Stablecoin giant Tether makes $1B bid to buy Juventus FC\"\u003e\u003c/p\u003e\u003cp\u003eTether says it will buy the controlling stake Exor has in Juventus, along with all remaining shares, an offer Exor has reportedly rebuffed.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 01:11:57 +0000",
+      "fetched_at": "2025-12-13T02:29:45.285235078Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
       "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 20 Nov 2025 11:35:57 GMT",
       "fetched_at": "2025-12-07T22:39:31.029328+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Vinted blocks 'sickening' sexually explicit ads",
-      "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene.",
-      "published": "Thu, 20 Nov 2025 18:10:50 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029321+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Streaming platform Twitch added to Australia's teen social media ban",
-      "link": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It joins other platforms including Facebook, Instagram, TikTok and Snapchat in the ban that starts next month.",
-      "published": "Fri, 21 Nov 2025 02:33:49 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029285+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Graduate jobs under threat from AI, PwC boss says",
-      "link": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm.",
-      "published": "Fri, 21 Nov 2025 02:34:57 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029278+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 518,
-  "last_update": "2025-12-13T00:55:59.872178823Z"
+  "total_captured": 521,
+  "last_update": "2025-12-13T02:29:45.911526255Z"
 }
