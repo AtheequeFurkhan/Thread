@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"\u003e\u003c/p\u003e\u003cp\u003eNeed to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 12:36:36 +0000",
+      "fetched_at": "2025-12-13T17:47:44.487293967Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Solana ETFs record 7-day inflow streak despite price slump",
+      "link": "https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE4N2QtM2M5Ny03OTUyLWJkZjQtYzFlYmQwNzVlMmY5LmpwZw==.jpg\" alt=\"Solana ETFs record 7-day inflow streak despite price slump\"\u003e\u003c/p\u003e\u003cp\u003eThe first SOL ETF was launched in July, followed by Bitwise’s SOL ETF in October, which recorded $57 million in first-day trading volume.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 17:44:25 +0000",
+      "fetched_at": "2025-12-13T17:47:44.487275622Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says",
       "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 07 Dec 2025 07:07:20 +0000",
       "fetched_at": "2025-12-07T22:39:32.00032+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "French banking giant BPCE to launch in-app crypto trading: Report",
-      "link": "https://cointelegraph.com/news/french-bank-bpce-launches-in-app-crypto-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MGYtYWY0ZS03NzJlLWI0OWYtMDAxZDdmOTFlNTFh.jpg\" alt=\"French banking giant BPCE to launch in-app crypto trading: Report\"\u003e\u003c/p\u003e\u003cp\u003eBPCE will let millions of customers buy and sell BTC, ETH, SOL and USDC directly inside its banking apps.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 09:09:17 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000286+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin Cash gains nearly 40% to become ‘best performing’ L1 of the year",
-      "link": "https://cointelegraph.com/news/bitcoin-cash-40-to-become-best-performing-l1?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4YTEtODU5YS03YzAwLWE4NTItODcwMzY5OTdmOTA0.jpg\" alt=\"Bitcoin Cash gains nearly 40% to become ‘best performing’ L1 of the year\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin Cash has outpaced every major L1 in 2025, boosted by clean supply dynamics and renewed investor demand.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 11:50:05 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000249+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 558,
-  "last_update": "2025-12-13T17:39:41.488383693Z"
+  "total_captured": 560,
+  "last_update": "2025-12-13T17:47:44.846469845Z"
 }

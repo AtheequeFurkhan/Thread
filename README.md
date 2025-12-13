@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 17:39 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-558-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 17:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-560-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 17:39 UTC)*
+*(Updated: 13 Dec 17:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Solana ETFs record 7-day inflow streak despite price slump](https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says](https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Business** | [Exploring the underlying causes of corporate bankruptcies in the U.S.](https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s) | ⚪ Neutral |
 | **World** | [Watch: Furious fans invade pitch at Messi event in India](https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Strategy survives first Nasdaq 100 shakeup since entering the index](https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpq?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002mt7t?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Solana ETFs record 7-day inflow streak despite price slump](https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy survives first Nasdaq 100 shakeup since entering the index](https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex](https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026](https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto groups slam Citadel for urging tighter DeFi tokenization rules](https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
