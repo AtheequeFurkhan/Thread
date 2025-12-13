@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "BBC captures celebrations as Belarus frees political prisoners",
+      "link": "https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Southern \u0026 Eastern Europe correspondent Sarah Rainsford reports from Lithuania, where some of the released prisoners were taken.",
+      "published": "Sat, 13 Dec 2025 20:06:27 GMT",
+      "fetched_at": "2025-12-13T20:12:50.956856496Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The Securities and Exchange Commission publishes crypto custody guide",
+      "link": "https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE5MzktMWZjMC03YzQ5LWI2NWQtYmFjZGFmY2IxNzU2LmpwZw==.jpg\" alt=\"The Securities and Exchange Commission publishes crypto custody guide\"\u003e\u003c/p\u003e\u003cp\u003eThe guide was a good-faith primer on crypto custody basics and best practices, including different forms of wallet storage and common risks.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 19:54:49 +0000",
+      "fetched_at": "2025-12-13T20:12:50.798273708Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 07 Dec 2025 04:24:35 +0000",
       "fetched_at": "2025-12-07T22:39:32.000392+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ether supply squeeze looms with exchanges holding lowest levels since 2015",
-      "link": "https://cointelegraph.com/news/ether-exchange-balance-falls-to-an-unprecedented-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3M2YtZDI1My03MDk3LWI1ZmQtOTg2YzkyYzNiYmRj.jpg\" alt=\"Ether supply squeeze looms with exchanges holding lowest levels since 2015\"\u003e\u003c/p\u003e\u003cp\u003eEther exchange balances dropped to a decade low of 8.7% as more ETH moved into staking and custody, setting up a potential supply squeeze.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 05:48:54 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000357+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "South Korea to impose bank-level liability on crypto exchanges after Upbit hack: Report",
-      "link": "https://cointelegraph.com/news/south-korea-upbit-hack-crypto-exchanges-bank-liability?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3OWYtY2RmMC03ZjgwLWE3ZWMtMWQ5ZTE2MzQ4NWJl.jpg\" alt=\"South Korea to impose bank-level liability on crypto exchanges after Upbit hack: Report\"\u003e\u003c/p\u003e\u003cp\u003eSouth Korea plans to hold crypto exchanges to the same no-fault compensation standards as banks after an Upbit hack exposed major gaps in consumer protection.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 07:07:20 +0000",
-      "fetched_at": "2025-12-07T22:39:32.00032+05:30",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 560,
-  "last_update": "2025-12-13T19:47:25.020809807Z"
+  "total_captured": 562,
+  "last_update": "2025-12-13T20:12:51.155222517Z"
 }
