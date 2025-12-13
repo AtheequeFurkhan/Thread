@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 06:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-527-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 07:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-528-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 06:49 UTC)*
+*(Updated: 13 Dec 07:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: A Niagara Falls wreck and the rescue that saved two Americans](https://www.bbc.com/news/videos/c9977k5jyr4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [A Niagara Falls wreck and the joint rescue that saved two Americans](https://www.bbc.co.uk/programmes/p0mmjxb6?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Doorbell camera captures moment house explodes in Hayward, California](https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto groups slam Citadel for urging tighter DeFi tokenization rules](https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [India scraps order to pre-install state-run cyber safety app on smartphones](https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Bank of England warns of AI bubble risk](https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Dell family to seed Trump accounts for kids with $250](https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [Production halted at Chinese factory making 'childlike' sex dolls](https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: A Niagara Falls wreck and the rescue that saved two Americans](https://www.bbc.com/news/videos/c9977k5jyr4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A Niagara Falls wreck and the joint rescue that saved two Americans](https://www.bbc.co.uk/programmes/p0mmjxb6?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Doorbell camera captures moment house explodes in Hayward, California](https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Witkoff to meet Zelensky for latest Ukraine war talks](https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in](https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ukraine's health supplies hit in series of Russian strikes on medical warehouses](https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
