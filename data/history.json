@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-13T09:30:43.900280359Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026",
       "link": "https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 18 Nov 2025 15:48:55 GMT",
       "fetched_at": "2025-12-07T22:39:31.029413+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Roblox blocks children from chatting to adult strangers",
-      "link": "https://www.bbc.com/news/articles/c2lp5pn9e1qo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "One of the world's most popular gaming platforms has faced criticism for its child safety record.",
-      "published": "Wed, 19 Nov 2025 01:16:47 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029403+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 529,
-  "last_update": "2025-12-13T09:11:54.156808656Z"
+  "total_captured": 530,
+  "last_update": "2025-12-13T09:30:44.177467055Z"
 }
