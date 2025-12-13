@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026",
+      "link": "https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE2OWQtMzVhNS03ZGViLTkyOWItZjRkZDQ1MDAwNDEzLmpwZw==.jpg\" alt=\"Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026\"\u003e\u003c/p\u003e\u003cp\u003eBrazil’s largest private bank says Bitcoin can improve portfolio diversification and hedge currency risk despite a volatile year for the asset.\u003c/p\u003e",
+      "published": "Sat, 13 Dec 2025 07:30:12 +0000",
+      "fetched_at": "2025-12-13T07:47:35.164935922Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Watch: A Niagara Falls wreck and the rescue that saved two Americans",
       "link": "https://www.bbc.com/news/videos/c9977k5jyr4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 19 Nov 2025 01:16:47 GMT",
       "fetched_at": "2025-12-07T22:39:31.029403+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Nvidia shares rise after strong results ease 'AI bubble' concerns",
-      "link": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The chip maker says revenue for the three months to October jumped 62% to $57bn.",
-      "published": "Thu, 20 Nov 2025 08:23:24 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029397+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 528,
-  "last_update": "2025-12-13T07:32:07.506428544Z"
+  "total_captured": 529,
+  "last_update": "2025-12-13T07:47:35.266230518Z"
 }
