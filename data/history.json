@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "A Niagara Falls wreck and the joint rescue that saved two Americans",
+      "link": "https://www.bbc.co.uk/programmes/p0mmjxb6?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Watch: A Niagara Falls wreck and the joint rescue that saved two Americans",
+      "published": "Fri, 12 Dec 2025 20:03:19 GMT",
+      "fetched_at": "2025-12-13T06:49:16.233896793Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Watch: Doorbell camera captures moment house explodes in Hayward, California",
+      "link": "https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A natural gas line leak triggered the house explosion, injuring six people and damaging several nearby properties.",
+      "published": "Sat, 13 Dec 2025 03:49:59 GMT",
+      "fetched_at": "2025-12-13T06:49:16.233880337Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto groups slam Citadel for urging tighter DeFi tokenization rules",
       "link": "https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 18 Nov 2025 20:58:19 GMT",
       "fetched_at": "2025-12-07T22:39:31.02939+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
-      "link": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Under-sixteens will be banned from major social media plaforms from 10 December.",
-      "published": "Wed, 19 Nov 2025 17:31:45 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029368+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Major League Baseball signs deals with Netflix, ESPN and NBCUniversal",
-      "link": "https://www.bbc.com/news/articles/c4gjg38zyd8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The media deals will allow the platforms to show select baseball games over upcoming seasons.",
-      "published": "Thu, 20 Nov 2025 02:23:41 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029359+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 525,
-  "last_update": "2025-12-13T06:18:02.773688079Z"
+  "total_captured": 527,
+  "last_update": "2025-12-13T06:49:16.932437537Z"
 }
