@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
+      "link": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The \"trashed panda\" is also suspected of burglarising snacks from the Department of Motor Vehicles.",
+      "published": "Sat, 13 Dec 2025 02:11:25 GMT",
+      "fetched_at": "2025-12-13T03:37:04.574502822Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
+      "link": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed over recent months.",
+      "published": "Sat, 13 Dec 2025 00:05:21 GMT",
+      "fetched_at": "2025-12-13T03:37:04.574491932Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing",
       "link": "https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 20 Nov 2025 00:03:09 GMT",
       "fetched_at": "2025-12-07T22:39:31.029343+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Deepfake 'nudify' site fined £55,000 over lack of age checks",
-      "link": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The regulator said it had also opened new investigations into 20 porn sites over suspected online safety breaches.",
-      "published": "Thu, 20 Nov 2025 13:19:23 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029333+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Why an AI 'godfather' is quitting Meta after 12 years",
-      "link": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "One of the pioneers in the current AI boom, he has had disagreements with fellow engineers over the future of the technology.",
-      "published": "Thu, 20 Nov 2025 11:35:57 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029328+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 521,
-  "last_update": "2025-12-13T02:29:45.911526255Z"
+  "total_captured": 523,
+  "last_update": "2025-12-13T03:37:04.61799933Z"
 }

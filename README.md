@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 02:29 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-521-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 03:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-523-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 02:29 UTC)*
+*(Updated: 13 Dec 03:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in](https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Ukraine's health supplies hit in series of Russian strikes on medical warehouses](https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Stablecoin giant Tether makes $1B bid to buy Juventus FC](https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Porn site fined £1m over age checks has never responded to Ofcom](https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitnomial gains CFTC approval to launch prediction markets in the US](https://cointelegraph.com/news/bitnomial-cftc-approval-launch-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Twitch star QTCinderella says she wishes she never started streaming](https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X](https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in](https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Ukraine's health supplies hit in series of Russian strikes on medical warehouses](https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing](https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city](https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [As Trump targets Venezuela, its allies Russia and China show little signs of support](https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Facing one last fight, John Cena became a WWE legend for more than ability](https://www.bbc.com/news/articles/cx2dp15zglxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [More photos from Epstein estate show Trump, Clinton and former Prince Andrew](https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
