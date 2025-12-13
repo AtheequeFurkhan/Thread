@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says",
+      "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Pentagon said three other service members were injured in the attack, during which the gunman was \"engaged and killed\".",
+      "published": "Sat, 13 Dec 2025 17:37:43 GMT",
+      "fetched_at": "2025-12-13T17:39:41.395953696Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "The South African start-up bringing tech to townships",
+      "link": "https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Entrepreneur Talifhani Banks has bought a modern delivery system to smaller firms in South Africa.",
+      "published": "Tue, 28 Oct 2025 00:07:11 GMT",
+      "fetched_at": "2025-12-13T17:39:41.210448561Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "'This is the big one' - tech firms bet on electrifying rail",
       "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 07 Dec 2025 11:50:05 +0000",
       "fetched_at": "2025-12-07T22:39:32.000249+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"\u003e\u003c/p\u003e\u003cp\u003eNeed to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 12:24:49 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000204+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin price dips below 88K as analysis blames FOMC nerves",
-      "link": "https://cointelegraph.com/news/bitcoin-dips-below-88k-analysis-blames-fomc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NDYtNWFkMy03YmZlLTg2MTMtZmY5Zjk3ZjFkNGZk.jpg\" alt=\"Bitcoin price dips below 88K as analysis blames FOMC nerves\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin saw snap downside toward the weekly close with $87,000 back on the radar ahead of an important Federal Reserve interest-rate decision.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 15:53:53 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000172+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 556,
-  "last_update": "2025-12-13T17:29:20.147024451Z"
+  "total_captured": 558,
+  "last_update": "2025-12-13T17:39:41.488383693Z"
 }
