@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Angry fans throw chairs and bottles at Messi event in India",
+      "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Inter Miami and Argentina forward is in India for his 'GOAT tour', taking in events in Kolkata, Hyderabad, Mumbai and New Delhi.",
+      "published": "Sat, 13 Dec 2025 10:22:24 GMT",
+      "fetched_at": "2025-12-13T10:34:34.333405105Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Should you use buy now, pay later? Experts share 4 tips to know",
       "link": "https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 02 Dec 2025 20:30:00 GMT",
       "fetched_at": "2025-12-07T22:39:31.029434+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Man who cryogenically froze late wife sparks debate by dating new partner",
-      "link": "https://www.bbc.com/news/articles/c78z2m43ykjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Gui Junmin froze his dead spouse as a sign of his devotion - but it's now emerged he is dating again.",
-      "published": "Tue, 18 Nov 2025 14:13:36 GMT",
-      "fetched_at": "2025-12-07T22:39:31.029427+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 532,
-  "last_update": "2025-12-13T10:11:55.824881654Z"
+  "total_captured": 533,
+  "last_update": "2025-12-13T10:34:35.209432592Z"
 }

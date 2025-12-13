@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-13 Dec 10:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-532-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-13 Dec 10:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-533-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 13 Dec 10:11 UTC)*
+*(Updated: 13 Dec 10:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Should you use buy now, pay later? Experts share 4 tips to know](https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping) | ⚪ Neutral |
 | **World** | [A new Bollywood film is dividing opinions in India and Pakistan](https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Tokenization benefits ‘light at first,’ but will expand if democratized: NYDIG](https://cointelegraph.com/news/tokenization-benefits-light-at-first-but-will-increase-if-democratized-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [US TikTok investors in limbo as deal set to be delayed again](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Senior Vanguard analyst says Bitcoin is no better than a plush toy](https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [SOL struggles as Solana TVL slides and memecoin demand fades](https://cointelegraph.com/news/sol-struggles-as-solana-tvl-slides-memecoin-demand-fades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Angry fans throw chairs and bottles at Messi event in India](https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [A new Bollywood film is dividing opinions in India and Pakistan](https://www.bbc.com/news/articles/c0q5pygel84o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Watch: A Niagara Falls wreck and the rescue that saved two Americans](https://www.bbc.com/news/videos/c9977k5jyr4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A Niagara Falls wreck and the joint rescue that saved two Americans](https://www.bbc.co.uk/programmes/p0mmjxb6?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Doorbell camera captures moment house explodes in Hayward, California](https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Witkoff to meet Zelensky for latest Ukraine war talks](https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
