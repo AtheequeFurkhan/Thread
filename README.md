@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 11:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-577-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 12:22 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-580-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 11:47 UTC)*
+*(Updated: 14 Dec 12:22 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How HashKey plans to become Hong Kong’s first crypto IPO](https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **World** | ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Eyewitness captures moment man tackles and disarms Bondi shooter](https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know so far about the Brown University shooting](https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Crypto** | [BTC OGs selling covered calls is the main culprit suppressing price: Analyst](https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [BBC captures celebrations as Belarus frees political prisoners](https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [The Securities and Exchange Commission publishes crypto custody guide](https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Solana ETFs record 7-day inflow streak despite price slump](https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says](https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How HashKey plans to become Hong Kong’s first crypto IPO](https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks](https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why Michael Saylor wants nations to build Bitcoin banks](https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Eyewitness captures moment man tackles and disarms Bondi shooter](https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [What we know so far about the Brown University shooting](https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Five arrested over plot to attack German Christmas market](https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
