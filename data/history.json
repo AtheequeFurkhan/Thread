@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
+      "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years.",
+      "published": "Sun, 14 Dec 2025 08:04:53 GMT",
+      "fetched_at": "2025-12-14T09:12:18.949679282Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Five arrested over plot to attack German Christmas market",
       "link": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 04:36:42 +0000",
       "fetched_at": "2025-12-07T22:39:32.001388+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin treasury firms enter a ‘Darwinian phase’ as premiums collapse: Galaxy",
-      "link": "https://cointelegraph.com/news/bitcoin-treasury-firms-enter-darwinian-phase-as-premiums-collapse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYyYTMtZWE3Ny03YmY4LTk5MDgtMzlhOTY5MzZhZDNm.jpg\" alt=\"Bitcoin treasury firms enter a ‘Darwinian phase’ as premiums collapse: Galaxy\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin treasury firms are entering a “Darwinian phase” as equity premiums collapse, leverage turns into downside and DAT stocks flip to discounts, Galaxy warns.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 07:58:03 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001359+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 571,
-  "last_update": "2025-12-14T08:55:08.037999886Z"
+  "total_captured": 572,
+  "last_update": "2025-12-14T09:12:19.254197425Z"
 }
