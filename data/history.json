@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+      "link": "https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjM2UtNzAzMC03ZmEzLTlhNGUtN2Q0ZGUyNDYzZjNiLmpwZw==.jpg\" alt=\"Why oil-rich investors are fueling Bitcoin’s next liquidity wave\"\u003e\u003c/p\u003e\u003cp\u003eFrom petrodollars to ETFs, oil-rich investors are entering Bitcoin via regulated rails, deepening liquidity while reshaping market structure.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 15:45:00 +0000",
+      "fetched_at": "2025-12-14T16:13:36.764860988Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target",
       "link": "https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 17:38:11 +0000",
       "fetched_at": "2025-12-07T22:39:32.001707+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Is Bitcoin shifting to a 2-year cycle?",
-      "link": "https://cointelegraph.com/news/bitcoin-shifting-2-year-cycle-video?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZmItM2YyNC03MTNhLTgwMGQtNjJjMjI0MTU1OGNi.jpg\" alt=\"Is Bitcoin shifting to a 2-year cycle?\"\u003e\u003c/p\u003e\u003cp\u003eProCap BTC’s Jeff Park reveals how institutional flows and ETFs could shorten Bitcoin’s market cycle — with major implications heading into 2026\u003c/p\u003e",
-      "published": "Fri, 05 Dec 2025 18:32:02 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001679+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 582,
-  "last_update": "2025-12-14T15:48:03.652728472Z"
+  "total_captured": 583,
+  "last_update": "2025-12-14T16:13:37.104257875Z"
 }
