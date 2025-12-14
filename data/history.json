@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Car prices hit a record high",
+      "link": "https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high",
+      "category": "Business",
+      "summary": "New car prices hit a record high, and President Trump blames fuel efficiency standards. NPR's Ayesha Rascoe speaks with Bloomberg Detroit bureau chief David Welch about what's behind the high prices.",
+      "published": "Sun, 14 Dec 2025 08:39:59 -0500",
+      "fetched_at": "2025-12-14T13:49:19.543290666Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "How HashKey plans to become Hong Kong’s first crypto IPO",
       "link": "https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 19:00:00 +0000",
       "fetched_at": "2025-12-07T22:39:32.001649+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin ‘risk off’ signals fire despite traders’ view that sub-$100K BTC is a discount",
-      "link": "https://cointelegraph.com/news/bitcoin-risk-off-signals-fire-but-traders-say-sub-dollar100k-btc-is-discounted?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVlY2QtNmE3MC03YWFhLWFlNjYtZGY3NjRiYjg0MWQw.jpg\" alt=\"Bitcoin ‘risk off’ signals fire despite traders’ view that sub-$100K BTC is a discount\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s bounce evaporated as the weekly close approaches and traders say multiple risk-off metrics point to a high correction risk for BTC. Is $100,000 by the end of 2025 possible?\u003c/p\u003e",
-      "published": "Fri, 05 Dec 2025 20:09:45 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001619+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 580,
-  "last_update": "2025-12-14T13:36:35.095269552Z"
+  "total_captured": 581,
+  "last_update": "2025-12-14T13:49:19.543312056Z"
 }
