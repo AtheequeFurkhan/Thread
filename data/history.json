@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "What we know so far about the Brown University shooting",
+      "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police are searching for the suspect after a gunman opened fire in a classroom, killing two and injuring nine others in Providence, Rhode Island.",
+      "published": "Sun, 14 Dec 2025 10:08:41 GMT",
+      "fetched_at": "2025-12-14T10:34:59.489258113Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts",
+      "link": "https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0ODMtZjJiMC03ZWFhLTliZTUtYTQ1NTVkY2YxNTMy.jpg\" alt=\"Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts\"\u003e\u003c/p\u003e\u003cp\u003eThe Bank of Japan is expected to increase its benchmark interest rates on Friday, a historically bearish signal for riskier assets like Bitcoin.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 10:29:23 +0000",
+      "fetched_at": "2025-12-14T10:34:59.480587139Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "John Cena takes his final bow, after last ever WWE fight",
       "link": "https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 05 Dec 2025 21:09:50 +0000",
       "fetched_at": "2025-12-07T22:39:32.001507+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Three Binance Bitcoin charts point to the direction of BTC’s next big move",
-      "link": "https://cointelegraph.com/news/3-binance-bitcoin-charts-point-to-direction-of-btc-s-next-big-move?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVlZTMtZGZiMi03ODZlLWJjOGUtODZmMTcwYzFiODZh.jpg\" alt=\"Three Binance Bitcoin charts point to the direction of BTC’s next big move\"\u003e\u003c/p\u003e\u003cp\u003eData from Binance points to shifting liquidity patterns and unique trader positioning that could influence the direction of Bitcoin’s next price move.\u003c/p\u003e",
-      "published": "Fri, 05 Dec 2025 22:00:00 +0000",
-      "fetched_at": "2025-12-07T22:39:32.00148+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Strategy raised $1.44B to dispel ‘FUD’ amid a crypto down cycle: CEO",
-      "link": "https://cointelegraph.com/news/strategy-raised-1-44-billion-beat-fud-amid-bitcoin-down-cycle?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYwYmMtMzE4OC03M2NjLWIyYmUtMGNhYmU5NjhkYzY3.jpg\" alt=\"Strategy raised $1.44B to dispel ‘FUD’ amid a crypto down cycle: CEO\"\u003e\u003c/p\u003e\u003cp\u003eStrategy CEO Phong Le said his firm raised 21 months of dividend runway in just eight days to head off investor unease.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 00:23:47 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001438+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 574,
-  "last_update": "2025-12-14T10:12:42.432401926Z"
+  "total_captured": 576,
+  "last_update": "2025-12-14T10:34:59.489273101Z"
 }
