@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Five arrested over plot to attack German Christmas market",
+      "link": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Local media says one of the suspects is an imam at a mosque, and police allege he \"called for a vehicle attack\".",
+      "published": "Sun, 14 Dec 2025 08:46:19 GMT",
+      "fetched_at": "2025-12-14T08:55:07.789664672Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia",
       "link": "https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 07:58:03 +0000",
       "fetched_at": "2025-12-07T22:39:32.001359+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Brokerage behind major crypto treasury deals eyes $10–12B public listing: FT",
-      "link": "https://cointelegraph.com/news/clear-street-prepares-10b-ipo-as-crypto-treasury-boom-falters?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYyZmItNzRmYi03N2RhLWI3YzQtZTg1ZTg3YTI0Mzk0.jpg\" alt=\"Brokerage behind major crypto treasury deals eyes $10–12B public listing: FT\"\u003e\u003c/p\u003e\u003cp\u003eNew York brokerage Clear Street, a key underwriter of the crypto-treasury boom, is planning a $10–12 billion public listing.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 09:35:03 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001334+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 570,
-  "last_update": "2025-12-14T08:44:30.254044004Z"
+  "total_captured": 571,
+  "last_update": "2025-12-14T08:55:08.037999886Z"
 }
