@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia",
+      "link": "https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "As some Somali migrants fear what might happen next, the BBC speaks to one deportee in Mogadishu.",
+      "published": "Sun, 14 Dec 2025 01:05:53 GMT",
+      "fetched_at": "2025-12-14T08:44:30.174570246Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down",
+      "link": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Interviews with dozens of actors, producers and camera crews reveal an industry attempting to weigh the lesser of two horrible choices.",
+      "published": "Sun, 14 Dec 2025 00:37:15 GMT",
+      "fetched_at": "2025-12-14T08:44:30.17453554Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why Michael Saylor wants nations to build Bitcoin banks",
       "link": "https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 09:35:03 +0000",
       "fetched_at": "2025-12-07T22:39:32.001334+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Western Union eyes inflation-resistant ‘stable cards’ as part of its stablecoin strategy",
-      "link": "https://cointelegraph.com/news/western-union-stable-card-stablecoin-strategy-emerging-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYzOGQtNTY3YS03ZjQxLTg0NmEtZDdiZGRjMDU0Y2U1.jpg\" alt=\"Western Union eyes inflation-resistant ‘stable cards’ as part of its stablecoin strategy\"\u003e\u003c/p\u003e\u003cp\u003eWestern Union will roll out a “stable card” for high-inflation economies and issue its own coin as part of a multi-pillar stablecoin and digital asset strategy.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 12:31:59 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001306+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why CFTC-approved spot Bitcoin, Ethereum trading is a 'massively huge deal'",
-      "link": "https://cointelegraph.com/news/why-cftc-approved-spot-crypto-trading-is-big-deal-for-bitcoin-ethereum?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYzMWItMDhmNS03MjIyLWJlNzItYjkwZGQ0ZDYxYjIw.jpg\" alt=\"Why CFTC-approved spot Bitcoin, Ethereum trading is a 'massively huge deal'\"\u003e\u003c/p\u003e\u003cp\u003eGold has popped 4,000% following CFTC's approval in the 1970s, leaving Bitcoin and Ethereum with a similar scaling setup.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 15:22:09 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001269+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 568,
-  "last_update": "2025-12-14T08:16:04.086129712Z"
+  "total_captured": 570,
+  "last_update": "2025-12-14T08:44:30.254044004Z"
 }

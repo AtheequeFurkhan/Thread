@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 08:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-568-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 08:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-570-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 08:16 UTC)*
+*(Updated: 14 Dec 08:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | ['A nightmare' - The battle over Warner Bros is turning Hollywood upside down](https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Why Michael Saylor wants nations to build Bitcoin banks](https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- ['A nightmare' - The battle over Warner Bros is turning Hollywood upside down](https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [BBC captures celebrations as Belarus frees political prisoners](https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says](https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Street art festival sees Lagos turned into 'open-air gallery'](https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
