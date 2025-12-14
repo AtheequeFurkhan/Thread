@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 10:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-576-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 10:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-577-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 10:34 UTC)*
+*(Updated: 14 Dec 10:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know so far about the Brown University shooting](https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Solana ETFs record 7-day inflow streak despite price slump](https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says](https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks](https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why Michael Saylor wants nations to build Bitcoin banks](https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [XRP bulls gain ground over bears on social media, ETF inflow streak continues](https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst",
+      "link": "https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTk1MDgtNGQxZS03YzYxLTk1OGEtMWU0ZmQ1YWIwMDMx.jpg\" alt=\"Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst\"\u003e\u003c/p\u003e\u003cp\u003e10x Research’s Markus Thielen says Bitcoin’s four-year cycle still exists but is now driven by politics, liquidity and elections rather than the halving.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 10:36:34 +0000",
+      "fetched_at": "2025-12-14T10:49:34.609284466Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "What we know so far about the Brown University shooting",
       "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 21:00:00 +0000",
       "fetched_at": "2025-12-07T22:39:32.001535+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tether solvency fears are ‘misplaced’ as company sits on large surplus: CoinShares",
-      "link": "https://cointelegraph.com/news/tether-solvency-fears-misplaced-coinshares-stablecoin-surplus?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmY2EtMzMxMC03NTcxLWIwMjYtZGI2NTg2ODQzYmM2.jpg\" alt=\"Tether solvency fears are ‘misplaced’ as company sits on large surplus: CoinShares\"\u003e\u003c/p\u003e\u003cp\u003eJames Butterfill counters claims about Tether’s solvency, pointing to a multibillion-dollar surplus despite new criticism from Arthur Hayes and S\u0026P Global.\u003c/p\u003e",
-      "published": "Fri, 05 Dec 2025 21:09:50 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001507+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 576,
-  "last_update": "2025-12-14T10:34:59.489273101Z"
+  "total_captured": 577,
+  "last_update": "2025-12-14T10:49:34.858585245Z"
 }
