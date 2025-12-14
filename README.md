@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 17:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-583-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 18:17 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-584-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 17:48 UTC)*
+*(Updated: 14 Dec 18:17 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why oil-rich investors are fueling Bitcoin’s next liquidity wave](https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target](https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Car prices hit a record high](https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [XRP bulls gain ground over bears on social media, ETF inflow streak continues](https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Stablecoin usage in Venezuela likely to keep expanding amid economic instability](https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why oil-rich investors are fueling Bitcoin’s next liquidity wave](https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target](https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How HashKey plans to become Hong Kong’s first crypto IPO](https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
