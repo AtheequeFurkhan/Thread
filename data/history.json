@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Stablecoin usage in Venezuela likely to keep expanding amid economic instability",
+      "link": "https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFhNzYtNzE5Yi03OWU0LTgyZmUtNjZmMjg3MTk5MmRjLmpwZw==.jpg\" alt=\"Stablecoin usage in Venezuela likely to keep expanding amid economic instability\"\u003e\u003c/p\u003e\u003cp\u003eThe crypto ecosystem in Venezuela is a product of ongoing economic collapse and international sanctions pressure, according to the TRM Labs team.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 01:39:18 +0000",
+      "fetched_at": "2025-12-14T03:04:39.84444537Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BTC OGs selling covered calls is the main culprit suppressing price: Analyst",
       "link": "https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 21:44:16 +0000",
       "fetched_at": "2025-12-07T22:39:32.00046+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Rising Bitcoin ‘liveliness’ indicator suggests bull market may continue: analysts",
-      "link": "https://cointelegraph.com/news/bitcoin-liveliness-metric-signals-bull-run-continuation-analysts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY2NmUtM2I3ZS03YjU5LWIxM2UtY2I3N2E2YWQ1ZmEy.jpg\" alt=\"Rising Bitcoin ‘liveliness’ indicator suggests bull market may continue: analysts\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s liveliness indicator reached new peaks, suggesting strong demand despite lower prices and signaling the bull market cycle may not be over yet.\u003c/p\u003e",
-      "published": "Sun, 07 Dec 2025 02:38:57 +0000",
-      "fetched_at": "2025-12-07T22:39:32.000424+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 563,
-  "last_update": "2025-12-14T01:03:40.329738614Z"
+  "total_captured": 564,
+  "last_update": "2025-12-14T03:04:40.048014817Z"
 }
