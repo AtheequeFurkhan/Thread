@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "XRP bulls gain ground over bears on social media, ETF inflow streak continues",
+      "link": "https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5MmEtMmQ2ZS03YjQ5LTllYTYtNzI3MmNjMzIyNTMz.jpg\" alt=\"XRP bulls gain ground over bears on social media, ETF inflow streak continues\"\u003e\u003c/p\u003e\u003cp\u003eSpot XRP exchange-traded funds continued a streak of positive flows, with over $20.1 million recorded on Friday, marking 19 consecutive days of net inflows.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 05:29:26 +0000",
+      "fetched_at": "2025-12-14T05:35:03.359264533Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Stablecoin usage in Venezuela likely to keep expanding amid economic instability",
       "link": "https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 17:41:20 +0000",
       "fetched_at": "2025-12-07T22:39:32.00113+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BitMine buys $199M in Ether as smart money traders bet on ETH decline",
-      "link": "https://cointelegraph.com/news/bitmine-buys-199m-eth-smart-money-traders-eth?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY1OWUtYTdkMS03ZjYwLWFhMzItN2I3YWUwMWZkZDcz.jpg\" alt=\"BitMine buys $199M in Ether as smart money traders bet on ETH decline\"\u003e\u003c/p\u003e\u003cp\u003eThe largest corporate Ether holder continues to buy the dip, as the industry’s most profitable traders continue to bet millions on ETH’s short-term decline.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 21:44:16 +0000",
-      "fetched_at": "2025-12-07T22:39:32.00046+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 564,
-  "last_update": "2025-12-14T05:13:18.036396577Z"
+  "total_captured": 565,
+  "last_update": "2025-12-14T05:35:03.359478876Z"
 }
