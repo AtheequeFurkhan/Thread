@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target",
+      "link": "https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjNjctZTg2Yy03MjM0LWFlMWEtY2FkNGJhZTllMGEzLmpwZw==.jpg\" alt=\"Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin traders braced for a major move “around the corner” after days of BTC price action sticking to a tight range around $90,000.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 14:20:00 +0000",
+      "fetched_at": "2025-12-14T14:32:00.978664542Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Car prices hit a record high",
       "link": "https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 18:32:02 +0000",
       "fetched_at": "2025-12-07T22:39:32.001679+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin treads water at $90K as whales eat the Ethereum dip: Finance Redefined",
-      "link": "https://cointelegraph.com/news/bitcoin-90k-whales-eat-ethereum-dip-finance-redefined?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzU5ZTItMmI3MS03OWE3LTllMWMtNTVjMTAyOTY0MjBl.jpg\" alt=\"Bitcoin treads water at $90K as whales eat the Ethereum dip: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eCorporate Ether acquisitions declined 81% in the past three months, but the largest corporate ETH holders continued to scoop up billions of dollars in Ether.\u003c/p\u003e",
-      "published": "Fri, 05 Dec 2025 19:00:00 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001649+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 581,
-  "last_update": "2025-12-14T14:11:17.204791151Z"
+  "total_captured": 582,
+  "last_update": "2025-12-14T14:32:01.584261149Z"
 }
