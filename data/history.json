@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Manhunt continues after two killed in shooting at Brown University",
+      "link": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The gunman is at large after opening fire in a building where exams were taking place at the campus in Providence, Rhode Island.",
+      "published": "Sun, 14 Dec 2025 05:34:25 GMT",
+      "fetched_at": "2025-12-14T07:12:20.006867228Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure",
+      "link": "https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFiOTgtNDEzMC03ZGY5LTgwOGEtOWU2YjhkNjMyMGQ1LmpwZw==.jpg\" alt=\"Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure\"\u003e\u003c/p\u003e\u003cp\u003eStandard Chartered and Coinbase are expanding their partnership to develop trading, custody and financing services aimed at institutional crypto clients.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 06:59:14 +0000",
+      "fetched_at": "2025-12-14T07:12:19.956426578Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "XRP bulls gain ground over bears on social media, ETF inflow streak continues",
       "link": "https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 16:51:22 +0000",
       "fetched_at": "2025-12-07T22:39:32.001238+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin profit metric eyes 2-year lows in 'complete reset:' BTC analysis",
-      "link": "https://cointelegraph.com/news/bitcoin-profit-metric-eyes-2-year-lows-in-complete-reset-btc-analysis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0NDQtNDdkYi03MWFiLThhM2UtZWMyZjQyNmE5YjRj.jpg\" alt=\"Bitcoin profit metric eyes 2-year lows in 'complete reset:' BTC analysis\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin long-term holders lost interest in selling at $90,000, new research showed, as profitability of their BTC supply dried up.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 17:05:00 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001213+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "‘European SEC’ proposal sparks licensing concerns, institutional ambitions",
-      "link": "https://cointelegraph.com/news/european-sec-proposal-licensing-concerns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0YWItZjFhYi03YWY1LThlM2QtODE0NTQyMDQ1OWNi.jpg\" alt=\"‘European SEC’ proposal sparks licensing concerns, institutional ambitions\"\u003e\u003c/p\u003e\u003cp\u003eLegal experts are concerned that transforming ESMA into the “European SEC” may hinder the licensing of crypto and fintech in the region.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 17:41:20 +0000",
-      "fetched_at": "2025-12-07T22:39:32.00113+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 565,
-  "last_update": "2025-12-14T06:49:32.811665178Z"
+  "total_captured": 567,
+  "last_update": "2025-12-14T07:12:20.346968095Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 06:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-565-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 07:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-567-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 06:49 UTC)*
+*(Updated: 14 Dec 07:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [XRP bulls gain ground over bears on social media, ETF inflow streak continues](https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Stablecoin usage in Venezuela likely to keep expanding amid economic instability](https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [BTC OGs selling covered calls is the main culprit suppressing price: Analyst](https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [XRP bulls gain ground over bears on social media, ETF inflow streak continues](https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Stablecoin usage in Venezuela likely to keep expanding amid economic instability](https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BTC OGs selling covered calls is the main culprit suppressing price: Analyst](https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The Securities and Exchange Commission publishes crypto custody guide](https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [BBC captures celebrations as Belarus frees political prisoners](https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says](https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Israel targets senior Hamas official in deadly Gaza strike](https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Street art festival sees Lagos turned into 'open-air gallery'](https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Belarus frees 123 prisoners as US lifts sanctions](https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
