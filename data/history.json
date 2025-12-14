@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks",
+      "link": "https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODc3ZDAtM2VjMi03N2IwLWI1MDAtM2EwYjY3OTAzOTQ1.jpg\" alt=\"Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital’s NYSE listing showed how tightly markets now price Bitcoin-heavy firms, with investors refusing to pay much beyond the underlying BTC value.\u003c/p\u003e",
+      "published": "Sun, 14 Dec 2025 09:10:00 +0000",
+      "fetched_at": "2025-12-14T09:31:20.838645146Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
       "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 02:34:56 +0000",
       "fetched_at": "2025-12-07T22:39:32.001408+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "2,000 Bitcoin on the move: Rare Casascius coins awaken after 13 years",
-      "link": "https://cointelegraph.com/news/dormant-casascius-coins-activate-179m-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYxYmQtOWE3Yy03ZDNhLWE4YTUtMTg5NzgxMzI3ZmZm.jpg\" alt=\"2,000 Bitcoin on the move: Rare Casascius coins awaken after 13 years\"\u003e\u003c/p\u003e\u003cp\u003eThe physical Bitcoin collectibles were minted when Bitcoin was trading for just $3.88 and $11.69 each, marking a massive potential return.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 04:36:42 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001388+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 572,
-  "last_update": "2025-12-14T09:12:19.254197425Z"
+  "total_captured": 573,
+  "last_update": "2025-12-14T09:31:21.697062636Z"
 }
