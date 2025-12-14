@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-14 Dec 09:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-573-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-14 Dec 09:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-574-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 14 Dec 09:31 UTC)*
+*(Updated: 14 Dec 09:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks](https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Five arrested over plot to attack German Christmas market](https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Five arrested over plot to attack German Christmas market](https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['A nightmare' - The battle over Warner Bros is turning Hollywood upside down](https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

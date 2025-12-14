@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "John Cena takes his final bow, after last ever WWE fight",
+      "link": "https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The actor and wrestler brought the curtain down on a 24-year career that saw him become one of wrestling's biggest stars.",
+      "published": "Sun, 14 Dec 2025 09:15:34 GMT",
+      "fetched_at": "2025-12-14T09:47:53.250159565Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks",
       "link": "https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 00:23:47 +0000",
       "fetched_at": "2025-12-07T22:39:32.001438+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Strive calls on MSCI to rethink its ‘unworkable’ Bitcoin blacklist",
-      "link": "https://cointelegraph.com/news/msci-exclusion-btc-firms-is-unworkable-strive-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYxNDUtOGE1Yy03YzE2LTg5NzMtYjYzNjdkN2U3Mjlk.jpg\" alt=\"Strive calls on MSCI to rethink its ‘unworkable’ Bitcoin blacklist\"\u003e\u003c/p\u003e\u003cp\u003eStrive CEO Matt Cole has urged the MSCI to “let the market decide” whether they want to include Bitcoin-holding companies in their passive investments.\u003c/p\u003e",
-      "published": "Sat, 06 Dec 2025 02:34:56 +0000",
-      "fetched_at": "2025-12-07T22:39:32.001408+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 573,
-  "last_update": "2025-12-14T09:31:21.697062636Z"
+  "total_captured": 574,
+  "last_update": "2025-12-14T09:47:53.250179914Z"
 }
