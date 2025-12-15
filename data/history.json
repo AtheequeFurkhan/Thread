@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How the Bondi Beach shooting unfolded",
+      "link": "https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Eleven minutes of video capture the moment Bondi beach turns into a scene of horror.\n\nEleven minutes of video capture the moment Bondi beach turns into a scene of horror. BBC Verify has analysed dozens of videos from the attack.",
+      "published": "Mon, 15 Dec 2025 19:15:17 GMT",
+      "fetched_at": "2025-12-15T19:31:35.23057105Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
       "link": "https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 15:35:40 GMT",
       "fetched_at": "2025-12-07T22:39:32.624333+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bethlehem Christmas tree illuminated for first time since Gaza war began",
-      "link": "https://www.bbc.com/news/videos/cjezyy2402po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Hundreds gathered in Manger Square to bask in the festivities that included music, dancing and Santas bearing sweet treats.",
-      "published": "Sun, 07 Dec 2025 07:13:42 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624319+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 612,
-  "last_update": "2025-12-15T19:13:59.880640898Z"
+  "total_captured": 613,
+  "last_update": "2025-12-15T19:31:35.842210832Z"
 }

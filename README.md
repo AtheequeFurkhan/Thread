@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 19:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-612-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 19:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-613-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 19:13 UTC)*
+*(Updated: 15 Dec 19:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | ['We were sacked from Rockstar North for trying to unionise'](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Dozens killed in Morocco flash floods](https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
