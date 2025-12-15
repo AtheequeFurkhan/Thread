@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Roomba vacuum cleaner firm files for bankruptcy",
+      "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm.",
+      "published": "Mon, 15 Dec 2025 06:57:41 GMT",
+      "fetched_at": "2025-12-15T07:18:19.185753272Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
       "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 07 Dec 2025 12:09:01 GMT",
       "fetched_at": "2025-12-07T22:39:32.623964+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Moment Hawaii volcano eruption engulfs camera",
-      "link": "https://www.bbc.com/news/videos/ckgm4yjl214o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Kilauea, one of the world's most active volcanoes, has been erupting intermittently since December last year.",
-      "published": "Sun, 07 Dec 2025 09:44:56 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623955+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 590,
-  "last_update": "2025-12-15T06:55:34.096835793Z"
+  "total_captured": 591,
+  "last_update": "2025-12-15T07:18:19.402186316Z"
 }
