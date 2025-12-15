@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Circle to acquire Interop Labs team and IP as Axelar remains independent",
+      "link": "https://cointelegraph.com/news/circle-acquire-interop-labs-ip-axelar-crosschain-independent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzYmQtZTE0MC03OTI1LWI1OGYtNTcwYTYzN2YyNDk2LmpwZw==.jpg\" alt=\"Circle to acquire Interop Labs team and IP as Axelar remains independent\"\u003e\u003c/p\u003e\u003cp\u003eThe agreement adds a key interoperability engineering team to Circle, strengthening its crosschain infrastructure and support for multichain applications.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 21:33:37 +0000",
+      "fetched_at": "2025-12-15T21:49:26.688670613Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Rob Reiner's son Nick arrested for murder after director and wife found dead",
       "link": "https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 13:05:23 -0500",
       "fetched_at": "2025-12-07T22:39:34.248557+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Netflix announces deal to acquire Warner Brothers Discovery",
-      "link": "https://www.npr.org/2025/12/05/nx-s1-5634667/netflix-announces-deal-to-acquire-warner-brothers-discovery",
-      "category": "Business",
-      "summary": "Streaming giant Netflix said it's buying Warner Bros. Discovery in a deal that would create a global entertainment behemoth. CNN and other cable channels Warner Bros. owns are not part of the deal.",
-      "published": "Fri, 05 Dec 2025 17:36:53 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248511+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 618,
-  "last_update": "2025-12-15T21:33:10.696034821Z"
+  "total_captured": 619,
+  "last_update": "2025-12-15T21:49:26.814737902Z"
 }
