@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "XRP sinks below $2 despite $1B in ETF inflows: How low can price go?",
+      "link": "https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyNzAtY2E1NS03Njc4LWEwMmEtZGZhM2QxMTgwYzk0LmpwZw==.jpg\" alt=\"XRP sinks below $2 despite $1B in ETF inflows: How low can price go?\"\u003e\u003c/p\u003e\u003cp\u003eXRP ETFs recorded inflows for 20 consecutive days, but its price lost key technical support levels, sparking fears of a drop to $1.40.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 15:12:46 +0000",
+      "fetched_at": "2025-12-15T18:52:55.003152011Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour",
+      "link": "https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzYtZjY0ZC03ZjFhLWE4ZmMtYzQ1OGNjOGQxOTU1LmpwZw==.jpg\" alt=\"Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin fell below $87,000 as Wall Street selling contrasted with Strategy’s announcement of a 10,000+ BTC buy over the past week.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 16:23:16 +0000",
+      "fetched_at": "2025-12-15T18:52:55.003127806Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Roomba maker files for bankruptcy, weighed down by debt and tariffs",
+      "link": "https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy",
+      "category": "Business",
+      "summary": "iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual.",
+      "published": "Mon, 15 Dec 2025 13:24:05 -0500",
+      "fetched_at": "2025-12-15T18:52:54.503587895Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Iranian Nobel laureate taken to hospital after 'violent arrest', family says",
       "link": "https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Sun, 07 Dec 2025 08:03:56 GMT",
       "fetched_at": "2025-12-07T22:39:32.624289+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Which European countries have mandatory or voluntary military service",
-      "link": "https://www.bbc.com/news/articles/cvgj4npzp53o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The issue of forcing citizens to serve in the military is back as the war between Russia and Ukraine grinds on.",
-      "published": "Fri, 05 Dec 2025 17:56:51 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624233+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "What should you do if you dislike your friend's partner?",
-      "link": "https://www.bbc.com/news/articles/cp858lmrn74o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Former friends Chrishell Stause and Emma Hernan have argued on and off-camera in the Netflix reality show.",
-      "published": "Sat, 06 Dec 2025 00:08:13 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624216+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Lured by lucrative job offers and sent to fight for Russia - Kenyans want their sons back",
-      "link": "https://www.bbc.com/news/articles/c20gn2d51l1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Kenyan families whose sons have been duped into fighting for Russia demand they be brought home.",
-      "published": "Sat, 06 Dec 2025 00:57:01 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624204+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 607,
-  "last_update": "2025-12-15T18:19:44.484759814Z"
+  "total_captured": 610,
+  "last_update": "2025-12-15T18:52:55.003175765Z"
 }

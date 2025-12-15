@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-607-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 18:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-610-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 18:19 UTC)*
+*(Updated: 15 Dec 18:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour](https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Business** | [Roomba maker files for bankruptcy, weighed down by debt and tariffs](https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy) | 🔴 Negative |
 | **World** | [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | ['We were sacked from Rockstar North for trying to unionise'](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Roomba maker files for bankruptcy, weighed down by debt and tariffs](https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy) (🔴 Negative)
 - [Car prices hit a record high](https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high) (🟢 Positive)
 - [Exploring the underlying causes of corporate bankruptcies in the U.S.](https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s) (⚪ Neutral)
 - [Is The Washington Post's new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast) (🟢 Positive)
 - [Should you use buy now, pay later? Experts share 4 tips to know](https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping) (⚪ Neutral)
-- [CNN has endured turmoil for years. With Warner Bros. sale, things will get bumpier](https://www.npr.org/2025/12/12/nx-s1-5640900/cnn-trump-warner-bros-netflix-paramount) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour](https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Bitcoin whales move markets, and the signals to ignore](https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Memecoins will rise from the dead, but in a new form: Crypto exec](https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
