@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-613-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 20:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-614-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 19:47 UTC)*
+*(Updated: 15 Dec 20:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitget tests TradFi trading with forex, gold and stock derivatives using USDt](https://cointelegraph.com/news/bitget-beta-forex-gold-commodities-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | ['This felt inevitable': Australian Jews say growing antisemitism made attack predictable](https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitget tests TradFi trading with forex, gold and stock derivatives using USDt](https://cointelegraph.com/news/bitget-beta-forex-gold-commodities-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour](https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
