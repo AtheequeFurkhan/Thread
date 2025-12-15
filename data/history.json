@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
+      "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "As peace talks continue in Berlin, what - if anything - could potentially change Putin's mind? And could Europe do anything differently?",
+      "published": "Mon, 15 Dec 2025 00:21:59 GMT",
+      "fetched_at": "2025-12-15T06:22:06.794360643Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Chile elects far-right José Antonio Kast as next president",
+      "link": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Many believe Kast will be the most right-wing president since Augusto Pinochet, who oversaw a 17-year dictatorship in Chile from 1973.",
+      "published": "Mon, 15 Dec 2025 00:15:01 GMT",
+      "fetched_at": "2025-12-15T06:22:06.794324586Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
+      "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "He directed classic films including The Princess Bride, This is Spinal Tap and When Harry Met Sally.",
+      "published": "Mon, 15 Dec 2025 06:11:24 GMT",
+      "fetched_at": "2025-12-15T06:22:06.794307844Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?",
+      "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
+      "published": "Mon, 15 Dec 2025 06:12:03 GMT",
+      "fetched_at": "2025-12-15T06:22:06.794291404Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Memecoins will rise from the dead, but in a new form: Crypto exec",
       "link": "https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Sun, 07 Dec 2025 06:45:47 GMT",
       "fetched_at": "2025-12-07T22:39:32.623948+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
-      "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Russia carried out strikes on Kremenchuk, while its defence ministry said it had shot down 77 Ukrainian drones in several locations.",
-      "published": "Sun, 07 Dec 2025 07:17:21 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623931+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Nightclub fire in India's Goa kills 25 staff and tourists",
-      "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Eyewitnesses described scenes of panic in one of Goa's bustling nightlife areas.",
-      "published": "Sun, 07 Dec 2025 15:45:42 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623924+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
-      "link": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location.",
-      "published": "Sun, 07 Dec 2025 16:42:46 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623916+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "New US security strategy aligns with Russia's vision, Moscow says",
-      "link": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Kremlin welcomes the starkly worded document, which does not cast Russia as a threat to the US.",
-      "published": "Sun, 07 Dec 2025 15:55:51 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623884+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 585,
-  "last_update": "2025-12-15T05:46:44.548094451Z"
+  "total_captured": 589,
+  "last_update": "2025-12-15T06:22:07.06684126Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 05:46 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-585-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 06:22 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-589-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 05:46 UTC)*
+*(Updated: 15 Dec 06:22 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?](https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Memecoins will rise from the dead, but in a new form: Crypto exec](https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why oil-rich investors are fueling Bitcoin’s next liquidity wave](https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Five arrested over plot to attack German Christmas market](https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['A nightmare' - The battle over Warner Bros is turning Hollywood upside down](https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Why Michael Saylor wants nations to build Bitcoin banks](https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Manhunt continues after two killed in shooting at Brown University](https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure](https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?](https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Eyewitness captures moment man tackles and disarms Bondi shooter](https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [What we know so far about the Brown University shooting](https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-15.md | [View Log](data/2025-12-15.md) |
 | 2025-12-14.md | [View Log](data/2025-12-14.md) |
 | 2025-12-13.md | [View Log](data/2025-12-13.md) |
 | 2025-12-12.md | [View Log](data/2025-12-12.md) |
 | 2025-12-11.md | [View Log](data/2025-12-11.md) |
 | 2025-12-10.md | [View Log](data/2025-12-10.md) |
 | 2025-12-09.md | [View Log](data/2025-12-09.md) |
-| 2025-12-08.md | [View Log](data/2025-12-08.md) |
 
 
 ---
