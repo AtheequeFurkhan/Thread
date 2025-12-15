@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Anchorage Digital deepens RIA market push by acquiring unit of Securitize",
+      "link": "https://cointelegraph.com/news/anchorage-digital-acquires-securitize-advisors-ria-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzNjAtNGJlZi03ZTFjLWJlZDMtNTFlOTJiZTdhMzM5LmpwZw==.jpg\" alt=\"Anchorage Digital deepens RIA market push by acquiring unit of Securitize\"\u003e\u003c/p\u003e\u003cp\u003eThe deal folds adviser-facing tools into Anchorage’s platform while allowing Securitize to remain focused on tokenizing real-world assets.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 20:14:08 +0000",
+      "fetched_at": "2025-12-15T20:38:14.512650211Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
+      "link": "https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzMWQtYjc0YS03Y2NhLWE4ZWEtYzFiMGYwYmRjZWEyLmpwZw==.jpg\" alt=\"Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers\"\u003e\u003c/p\u003e\u003cp\u003eData shows traders bought the Bitcoin price dip, but $2.78 billion in selling by larger entities completely overshadowed the bulls. Can BTC hold above $86,000?\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 20:30:00 +0000",
+      "fetched_at": "2025-12-15T20:38:14.512634161Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitget tests TradFi trading with forex, gold and stock derivatives using USDt",
       "link": "https://cointelegraph.com/news/bitget-beta-forex-gold-commodities-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 12:26:13 -0500",
       "fetched_at": "2025-12-07T22:39:34.248469+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Waymo will recall software after its self-driving cars passed stopped school buses",
-      "link": "https://www.npr.org/2025/12/06/nx-s1-5635614/waymo-school-buses-recall",
-      "category": "Business",
-      "summary": "Waymo is issuing a software recall for its self-driving cars after reports the company's autonomous vehicles failed to stop for school buses.",
-      "published": "Sat, 06 Dec 2025 14:53:42 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248426+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Watch: Flames and thick smoke surround plane in Brazil after fire breaks out",
-      "link": "https://www.bbc.com/news/videos/c20gw2xqp1wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Equipment on the tarmac at Brazil’s São Paulo airport caught fire, with the blaze rapidly surrounding a plane and forcing the evacuation of 169 passengers.",
-      "published": "Sat, 06 Dec 2025 04:19:53 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624351+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 614,
-  "last_update": "2025-12-15T20:14:37.304180194Z"
+  "total_captured": 616,
+  "last_update": "2025-12-15T20:38:14.881846553Z"
 }
