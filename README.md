@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 17:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-603-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 17:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-604-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 17:18 UTC)*
+*(Updated: 15 Dec 17:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How Bitcoin whales move markets, and the signals to ignore](https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Japan is facing a dementia crisis – can technology help?](https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?](https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Memecoins will rise from the dead, but in a new form: Crypto exec](https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Bitcoin whales move markets, and the signals to ignore](https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Memecoins will rise from the dead, but in a new form: Crypto exec](https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why oil-rich investors are fueling Bitcoin’s next liquidity wave](https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target](https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

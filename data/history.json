@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
+      "link": "https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYWYtM2NiMS03OGY1LWFhMDYtOGE1MmI4MjM2NDYwLmpwZw==.jpg\" alt=\"Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race\"\u003e\u003c/p\u003e\u003cp\u003eCorporate Bitcoin buying continues as American Bitcoin surpasses ProCap, even as proxy stocks decline and volatility grips the crypto market.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 17:24:53 +0000",
+      "fetched_at": "2025-12-15T17:46:15.925030435Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How Bitcoin whales move markets, and the signals to ignore",
       "link": "https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 20:26:35 GMT",
       "fetched_at": "2025-12-07T22:39:32.624157+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How the solar storms that cause the Northern Lights can wreak havoc on Earth",
-      "link": "https://www.bbc.com/weather/articles/c4g4ey8zxnzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The aurora borealis can bring stunning night skies, but hidden dangers can accompany the Northern Lights to disrupt life on Earth as Chris Fawkes explains.",
-      "published": "Sun, 07 Dec 2025 00:17:17 GMT",
-      "fetched_at": "2025-12-07T22:39:32.62414+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 603,
-  "last_update": "2025-12-15T17:18:47.49993106Z"
+  "total_captured": 604,
+  "last_update": "2025-12-15T17:46:15.935181924Z"
 }
