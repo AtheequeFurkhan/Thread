@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 06:22 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-589-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 06:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-590-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 06:22 UTC)*
+*(Updated: 15 Dec 06:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks](https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Five arrested over plot to attack German Christmas market](https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia](https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?](https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

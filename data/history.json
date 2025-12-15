@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
+      "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China.",
+      "published": "Mon, 15 Dec 2025 06:41:42 GMT",
+      "fetched_at": "2025-12-15T06:55:33.550639921Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
       "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 07 Dec 2025 09:44:56 GMT",
       "fetched_at": "2025-12-07T22:39:32.623955+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Hong Kong votes in election as city mourns deadly fire",
-      "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Legislative Council election is seen as a test of public sentiment following a deadly fire.",
-      "published": "Sun, 07 Dec 2025 06:45:47 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623948+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 589,
-  "last_update": "2025-12-15T06:22:07.06684126Z"
+  "total_captured": 590,
+  "last_update": "2025-12-15T06:55:34.096835793Z"
 }
