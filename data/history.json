@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Japan is facing a dementia crisis – can technology help?",
+      "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Elderly people aged 65 and over now make up nearly 30% of Japan's population.",
+      "published": "Mon, 08 Dec 2025 00:49:01 GMT",
+      "fetched_at": "2025-12-15T14:51:02.828719739Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?",
       "link": "https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 15:08:31 GMT",
       "fetched_at": "2025-12-07T22:39:32.624121+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Can you ban kids from social media? Australia is about to, but some teens are a step ahead",
-      "link": "https://www.bbc.com/news/articles/crk7xgzj8y8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The law comes into effect this week but critics worry it can't be enforced - and shouldn't be either.",
-      "published": "Sat, 06 Dec 2025 18:58:09 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624106+05:30",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 601,
-  "last_update": "2025-12-15T14:17:08.063913653Z"
+  "total_captured": 602,
+  "last_update": "2025-12-15T14:51:03.555670167Z"
 }

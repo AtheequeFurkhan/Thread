@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 14:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-601-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 14:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-602-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 14:17 UTC)*
+*(Updated: 15 Dec 14:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Japan is facing a dementia crisis – can technology help?](https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Memecoins will rise from the dead, but in a new form: Crypto exec](https://cointelegraph.com/news/memecoins-not-dead-will-return-new-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Firestorm erupts in Aave governance forum over CoW Swap fees](https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why oil-rich investors are fueling Bitcoin’s next liquidity wave](https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target](https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Japan is facing a dementia crisis – can technology help?](https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['We were sacked from Rockstar North for trying to unionise'](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
