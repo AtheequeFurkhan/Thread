@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 22:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-623-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 22:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-624-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 22:35 UTC)*
+*(Updated: 15 Dec 22:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Ford pulls the plug on the F-150 Lightning electric pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning) | 🟢 Positive |
 | **World** | [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

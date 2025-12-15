@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How the Maga world became divided - and what it means for Trump",
+      "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The next presidential election may seem a long way off, but current frictions within Trump’s coalition suggest the jockeying to succeed Trump is well under way",
+      "published": "Mon, 15 Dec 2025 22:11:03 GMT",
+      "fetched_at": "2025-12-15T22:51:41.779579386Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ford pulls the plug on the F-150 Lightning electric pickup truck",
       "link": "https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 04 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-07T22:39:34.248657+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "'New York Times' lawsuit creates a new headache for Pentagon chief Hegseth",
-      "link": "https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit",
-      "category": "Business",
-      "summary": "The \u003cem\u003eTimes\u003c/em\u003e accuses Pentagon chief Pete Hegseth of violating its constitutional rights with a press policy that, the paper says, deprives the public of access to critical national security information.",
-      "published": "Thu, 04 Dec 2025 05:29:36 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248639+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 623,
-  "last_update": "2025-12-15T22:35:29.093286198Z"
+  "total_captured": 624,
+  "last_update": "2025-12-15T22:51:41.967821301Z"
 }
