@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "'This felt inevitable': Australian Jews say growing antisemitism made attack predictable",
+      "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Many are asking why more wasn't done to prevent the shootings after a spate of antisemitism-related offences.",
+      "published": "Mon, 15 Dec 2025 11:28:37 GMT",
+      "fetched_at": "2025-12-15T13:13:39.741660235Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Smooth end to Messi India tour after Kolkata chaos",
+      "link": "https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Messi's India tour had a chaotic start after angry fans in Kolkata damaged a stadium after failing to catch a glimpse of him.",
+      "published": "Mon, 15 Dec 2025 11:57:31 GMT",
+      "fetched_at": "2025-12-15T13:13:39.741643575Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ukraine ceasefire talks continue as US says 'progress was made'",
+      "link": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The discussions are centred around the peace plan presented by Kyiv to the US last week.",
+      "published": "Mon, 15 Dec 2025 12:30:19 GMT",
+      "fetched_at": "2025-12-15T13:13:39.741630771Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
       "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Sat, 06 Dec 2025 18:39:19 GMT",
       "fetched_at": "2025-12-07T22:39:32.62404+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "A new museum in Doha celebrates Indian art legend MF Husain",
-      "link": "https://www.bbc.com/news/articles/c2em8wpkzkxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Lawh Wa Qalam is dedicated to the late Indian artist whose prolific paintings fascinated the world.",
-      "published": "Sun, 07 Dec 2025 02:58:14 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624026+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Olympics flame arrives in Rome ahead of Winter Games",
-      "link": "https://www.bbc.com/news/videos/czdg0598ry0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Olympic Winter Games Milano Cortina 2026 is set to take place in February.",
-      "published": "Sat, 06 Dec 2025 20:46:31 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624014+05:30",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Americans to get free entry to parks on Trump's birthday",
-      "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "At the same time, the Trump administration is  withdrawing free entry on Martin Luther King Jr Day and Juneteenth.",
-      "published": "Sat, 06 Dec 2025 19:32:41 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624006+05:30",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 594,
-  "last_update": "2025-12-15T12:27:38.918947841Z"
+  "total_captured": 597,
+  "last_update": "2025-12-15T13:13:40.264544203Z"
 }

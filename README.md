@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 12:27 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-594-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 13:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-597-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 12:27 UTC)*
+*(Updated: 15 Dec 13:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['This felt inevitable': Australian Jews say growing antisemitism made attack predictable](https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | ['We were sacked from Rockstar North for trying to unionise'](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [How HashKey plans to become Hong Kong’s first crypto IPO](https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Eyewitness captures moment man tackles and disarms Bondi shooter](https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin’s four-year cycle is intact, but driven by politics and liquidity: Analyst](https://cointelegraph.com/news/bitcoin-four-year-cycle-politics-liquidity-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [What we know so far about the Brown University shooting](https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['This felt inevitable': Australian Jews say growing antisemitism made attack predictable](https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
