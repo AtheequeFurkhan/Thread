@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?",
+      "link": "https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Lithuania has declared an emergency after the balloons started to cross the border.",
+      "published": "Mon, 15 Dec 2025 00:20:20 GMT",
+      "fetched_at": "2025-12-15T14:17:07.651296393Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+      "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The child's was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead.",
+      "published": "Mon, 15 Dec 2025 13:52:12 GMT",
+      "fetched_at": "2025-12-15T14:17:07.334536289Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Fear of crime and migration fuels Chile's swing to the right",
       "link": "https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 18:58:09 GMT",
       "fetched_at": "2025-12-07T22:39:32.624106+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Japan is facing a dementia crisis – can technology help?",
-      "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Japan's ageing population is putting strain on national budgets and society as a whole, but researchers are developing solutions to ease the pressure.",
-      "published": "Sun, 07 Dec 2025 01:04:33 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624081+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Deadly attack on kindergarten reported in Sudan",
-      "link": "https://www.bbc.com/news/articles/cpd61d0jl6no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Drone strikes on a town in South Kordofan on Thursday are said to have killed at least 50 people.",
-      "published": "Sat, 06 Dec 2025 17:59:05 GMT",
-      "fetched_at": "2025-12-07T22:39:32.62407+05:30",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 599,
-  "last_update": "2025-12-15T13:52:00.227631772Z"
+  "total_captured": 601,
+  "last_update": "2025-12-15T14:17:08.063913653Z"
 }
