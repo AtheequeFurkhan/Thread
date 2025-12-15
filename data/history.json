@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Iranian Nobel laureate taken to hospital after 'violent arrest', family says",
+      "link": "https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Narges Mohammadi told her family in a phone call that she was beaten on the head and neck by plainclothes agents in Mashhad last week.",
+      "published": "Mon, 15 Dec 2025 18:11:30 GMT",
+      "fetched_at": "2025-12-15T18:19:44.484738625Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
+      "link": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded.",
+      "published": "Mon, 15 Dec 2025 17:39:36 GMT",
+      "fetched_at": "2025-12-15T18:19:44.484718226Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Digital asset ETPs post third straight week of net inflows, led by US demand",
+      "link": "https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYjAtYmI0ZC03NWY4LWFkZDctMzkxMDhmZjc1MDczLmpwZw==.jpg\" alt=\"Digital asset ETPs post third straight week of net inflows, led by US demand\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and Ether accounted for the largest allocations, while short-Bitcoin products posted net outflows, according to CoinShares data.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 18:01:17 +0000",
+      "fetched_at": "2025-12-15T18:19:44.474910512Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
       "link": "https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Sat, 06 Dec 2025 00:57:01 GMT",
       "fetched_at": "2025-12-07T22:39:32.624204+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Shoppers loved the 'fabric queen'. Then, order by order, her story fell apart",
-      "link": "https://www.bbc.com/news/articles/c5y937w7xl7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Designer Nerida Hansen admits failing customers who ordered textiles worth thousands of dollars from her businesses.",
-      "published": "Fri, 05 Dec 2025 19:02:48 GMT",
-      "fetched_at": "2025-12-07T22:39:32.62419+05:30",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Single women risk rape and exploitation in search for better life in Europe",
-      "link": "https://www.bbc.com/news/articles/cd0k2r2jpg4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Esther says she faced sexual violence on her journey to Europe after fleeing abuse in Nigeria.",
-      "published": "Sat, 06 Dec 2025 00:07:27 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624171+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "From leaning glass tower to golden fish sculpture - Frank Gehry's most iconic work",
-      "link": "https://www.bbc.com/news/articles/c0qlgx275jqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "As one of architecture's most provocative and creative forces, Frank Gehry was behind intriguing buildings the world over.",
-      "published": "Fri, 05 Dec 2025 20:26:35 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624157+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 604,
-  "last_update": "2025-12-15T17:46:15.935181924Z"
+  "total_captured": 607,
+  "last_update": "2025-12-15T18:19:44.484759814Z"
 }
