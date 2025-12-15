@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 21:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-617-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 21:33 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-618-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 21:12 UTC)*
+*(Updated: 15 Dec 21:33 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Anchorage Digital deepens RIA market push by acquiring unit of Securitize](https://cointelegraph.com/news/anchorage-digital-acquires-securitize-advisors-ria-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers](https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Dozens killed in Morocco flash floods](https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
