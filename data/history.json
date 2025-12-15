@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
+      "link": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzctYjlmNy03NzE2LThjNzEtNDA0NmEyODFmZWY4LmpwZw==.jpg\" alt=\"SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report\"\u003e\u003c/p\u003e\u003cp\u003eThe financial regulator dropped several cases against crypto companies in 2025, and is reportedly “no longer actively pursuing a single case against a firm with known Trump ties.”\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 20:52:26 +0000",
+      "fetched_at": "2025-12-15T21:12:43.729741749Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Anchorage Digital deepens RIA market push by acquiring unit of Securitize",
       "link": "https://cointelegraph.com/news/anchorage-digital-acquires-securitize-advisors-ria-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 17:38:30 -0500",
       "fetched_at": "2025-12-07T22:39:34.248489+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors",
-      "link": "https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre",
-      "category": "Business",
-      "summary": "About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings.",
-      "published": "Sat, 06 Dec 2025 12:26:13 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248469+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 616,
-  "last_update": "2025-12-15T20:53:49.501648155Z"
+  "total_captured": 617,
+  "last_update": "2025-12-15T21:12:44.670699817Z"
 }
