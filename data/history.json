@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Ford pulls the plug on the F-150 Lightning electric pickup truck",
+      "link": "https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning",
+      "category": "Business",
+      "summary": "Ford says it is \"following the customer\" in discontinuing its large electric pickup, which was well-received but never profitable. Ford will keep the Lightning name alive as a plug-in hybrid.",
+      "published": "Mon, 15 Dec 2025 17:24:25 -0500",
+      "fetched_at": "2025-12-15T22:35:29.093268455Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Epstein's UK flights had alleged British abuse victims on board, BBC finds",
+      "link": "https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Lawyers representing victims say it is “shocking” there has never been a “full-scale” UK inquiry.",
+      "published": "Mon, 15 Dec 2025 22:00:24 GMT",
+      "fetched_at": "2025-12-15T22:35:28.2730339Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
+      "link": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert.",
+      "published": "Mon, 15 Dec 2025 18:26:26 GMT",
+      "fetched_at": "2025-12-15T22:35:28.273015455Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
       "link": "https://cointelegraph.com/news/sec-commissioner-crypto-financial-privacy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 04 Dec 2025 05:29:36 -0500",
       "fetched_at": "2025-12-07T22:39:34.248639+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "NPR battles Trump executive order in court",
-      "link": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court",
-      "category": "Business",
-      "summary": "NPR was in court for a pivotal hearing arguing that the Trump administration had broken the law with its treatment of public media.",
-      "published": "Fri, 05 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248622+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Netflix will buy Warner Bros' studio and streaming businesses for $72 billion",
-      "link": "https://www.npr.org/2025/12/05/g-s1-100873/netflix-buys-warner-bros-discovery-studio-streaming",
-      "category": "Business",
-      "summary": "The merger, announced Friday, would bring two of the industry's biggest players in film and TV under one roof. Beyond its television and motion picture division, Warner owns HBO Max and DC Studios.",
-      "published": "Fri, 05 Dec 2025 10:19:11 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248602+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "EU hits Elon Musk's X with $140 million fine over business practices",
-      "link": "https://www.npr.org/2025/12/05/nx-s1-5634694/x-musk-eu-fines",
-      "category": "Business",
-      "summary": "The fines were due to the platform's misleading use of blue check marks to identify verified users and a lack of transparency over ads and data access for researchers.\u003cbr\u003e\u003cbr\u003e",
-      "published": "Fri, 05 Dec 2025 13:01:17 -0500",
-      "fetched_at": "2025-12-07T22:39:34.248582+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 620,
-  "last_update": "2025-12-15T22:12:51.320292899Z"
+  "total_captured": 623,
+  "last_update": "2025-12-15T22:35:29.093286198Z"
 }

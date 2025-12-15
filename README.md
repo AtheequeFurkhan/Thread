@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-620-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 22:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-623-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 22:12 UTC)*
+*(Updated: 15 Dec 22:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Ford pulls the plug on the F-150 Lightning electric pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning) | 🟢 Positive |
+| **World** | [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy](https://cointelegraph.com/news/sec-commissioner-crypto-financial-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Circle to acquire Interop Labs team and IP as Axelar remains independent](https://cointelegraph.com/news/circle-acquire-interop-labs-ip-axelar-crosschain-independent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **World** | [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [How Bitcoin whales move markets, and the signals to ignore](https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Japan is facing a dementia crisis – can technology help?](https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Ford pulls the plug on the F-150 Lightning electric pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning) (🟢 Positive)
 - [Roomba maker files for bankruptcy, weighed down by debt and tariffs](https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy) (🔴 Negative)
 - [Car prices hit a record high](https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high) (🟢 Positive)
 - [Exploring the underlying causes of corporate bankruptcies in the U.S.](https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s) (⚪ Neutral)
 - [Is The Washington Post's new AI podcast a hallmark of the future?](https://www.npr.org/2025/12/13/nx-s1-5641047/washington-posts-ai-podcast) (🟢 Positive)
-- [Should you use buy now, pay later? Experts share 4 tips to know](https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Iranian Nobel laureate taken to hospital after 'violent arrest', family says](https://www.bbc.com/news/articles/c2dz15556l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How Bondi's Hanukkah festival turned from joy to horror within minutes](https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?](https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
