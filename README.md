@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 13:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-597-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 13:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-599-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 13:13 UTC)*
+*(Updated: 15 Dec 13:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Dozens killed in Morocco flash floods](https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['This felt inevitable': Australian Jews say growing antisemitism made attack predictable](https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target](https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Car prices hit a record high](https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high) | 🟢 Positive |
 | **Crypto** | [How HashKey plans to become Hong Kong’s first crypto IPO](https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | ['Person of interest' detained over Brown University shooting, police say](https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Eyewitness captures moment man tackles and disarms Bondi shooter](https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Fear of crime and migration fuels Chile's swing to the right](https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Dozens killed in Morocco flash floods](https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['This felt inevitable': Australian Jews say growing antisemitism made attack predictable](https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Smooth end to Messi India tour after Kolkata chaos](https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

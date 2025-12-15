@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Fear of crime and migration fuels Chile's swing to the right",
+      "link": "https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Chile has become the latest country in the region to elect a right-wing president.",
+      "published": "Mon, 15 Dec 2025 13:20:54 GMT",
+      "fetched_at": "2025-12-15T13:51:59.787514709Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Dozens killed in Morocco flash floods",
+      "link": "https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "At least 70 homes have been inundated in Safi's old city centre, officials say.",
+      "published": "Mon, 15 Dec 2025 12:18:41 GMT",
+      "fetched_at": "2025-12-15T13:51:59.787491857Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'This felt inevitable': Australian Jews say growing antisemitism made attack predictable",
       "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 17:59:05 GMT",
       "fetched_at": "2025-12-07T22:39:32.62407+05:30",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "National Guardsman 'slowly healing' after being shot in Washington DC",
-      "link": "https://www.bbc.com/news/articles/c0q5lejppeno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Andrew Wolfe, 24, is expected to remain in acute care with a head wound for a few more weeks, his family says.",
-      "published": "Sat, 06 Dec 2025 17:20:51 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624057+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Iran arrests marathon organisers over women not wearing hijab",
-      "link": "https://www.bbc.com/news/articles/c3e0z97qn3eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Images appeared online of unveiled women competing in the race on Friday.",
-      "published": "Sat, 06 Dec 2025 18:39:19 GMT",
-      "fetched_at": "2025-12-07T22:39:32.62404+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 597,
-  "last_update": "2025-12-15T13:13:40.264544203Z"
+  "total_captured": 599,
+  "last_update": "2025-12-15T13:52:00.227631772Z"
 }
