@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+      "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services.",
+      "published": "Mon, 15 Dec 2025 10:15:23 GMT",
+      "fetched_at": "2025-12-15T10:49:38.013148897Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "'We were sacked from Rockstar North for trying to unionise'",
       "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 06 Dec 2025 19:32:41 GMT",
       "fetched_at": "2025-12-07T22:39:32.624006+05:30",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Death toll from devastating Indonesia floods passes 900",
-      "link": "https://www.bbc.com/news/articles/cqjgydnwxrpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "More than 100,000 homes were destroyed when powerful rains lashed the South East Asian country last week.",
-      "published": "Sun, 07 Dec 2025 03:25:42 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623999+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 593,
-  "last_update": "2025-12-15T10:16:52.735669216Z"
+  "total_captured": 594,
+  "last_update": "2025-12-15T10:49:38.1026577Z"
 }
