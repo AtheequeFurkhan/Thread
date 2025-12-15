@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 18:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-610-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 19:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-612-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 18:52 UTC)*
+*(Updated: 15 Dec 19:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour](https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Roomba maker files for bankruptcy, weighed down by debt and tariffs](https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Ukraine ceasefire talks continue as US says 'progress was made'](https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | ['We were sacked from Rockstar North for trying to unionise'](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour](https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Digital asset ETPs post third straight week of net inflows, led by US demand](https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race](https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [How Bitcoin whales move markets, and the signals to ignore](https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

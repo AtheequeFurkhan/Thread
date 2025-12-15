@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
+      "link": "https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyNDEtOGNlOC03MDJjLTgyZDMtMzczMGMzN2RjMzRkLmpwZw==.jpg\" alt=\"Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader\"\u003e\u003c/p\u003e\u003cp\u003eThe Bitcoin parabola broke, leading some analysts to predict an 80% drawdown in BTC price. Will growing demand from traditional finance and strategic crypto reserves nullify all bearish predictions?\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 18:05:00 +0000",
+      "fetched_at": "2025-12-15T19:13:58.287675541Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+      "link": "https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyZjYtNTdjZC03ODI3LWI5YzctMmY0Y2MyZjc2MzFhLmpwZw==.jpg\" alt=\"Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin rallies continue to be capped by selling near the intra-day range highs, and the expectation of Bank of Japan interest rate cuts could amplify the downturn in BTC and altcoins.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 19:10:00 +0000",
+      "fetched_at": "2025-12-15T19:13:58.287650975Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "XRP sinks below $2 despite $1B in ETF inflows: How low can price go?",
       "link": "https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 07 Dec 2025 07:13:42 GMT",
       "fetched_at": "2025-12-07T22:39:32.624319+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'We've lost everything': Australia wildfire rips through homes",
-      "link": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Multiple homes were left damaged after a wildfire swept through a coastal area north of Sydney.",
-      "published": "Sat, 06 Dec 2025 15:43:08 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624303+05:30",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: BBC reports from scene of deadly Goa nightclub fire",
-      "link": "https://www.bbc.com/news/videos/cx2pqq15x85o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "India Editor Vikas Pandey visits the Indian nightclub where 25 people were killed in a blaze.",
-      "published": "Sun, 07 Dec 2025 08:03:56 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624289+05:30",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 610,
-  "last_update": "2025-12-15T18:52:55.003175765Z"
+  "total_captured": 612,
+  "last_update": "2025-12-15T19:13:59.880640898Z"
 }
