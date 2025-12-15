@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How Bitcoin whales move markets, and the signals to ignore",
+      "link": "https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg\" alt=\"How Bitcoin whales move markets, and the signals to ignore\"\u003e\u003c/p\u003e\u003cp\u003eIn this new Cointelegraph in-depth video, we delve into the world of Bitcoin whales, the evolving market structure and how to avoid the pitfalls they set for retail investors.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 17:10:46 +0000",
+      "fetched_at": "2025-12-15T17:18:47.499845109Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Japan is facing a dementia crisis – can technology help?",
       "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 07 Dec 2025 00:17:17 GMT",
       "fetched_at": "2025-12-07T22:39:32.62414+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
-      "link": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "For the past two years all public Christmas celebrations have been cancelled in Bethlehem in the occupied West Bank.",
-      "published": "Sat, 06 Dec 2025 15:08:31 GMT",
-      "fetched_at": "2025-12-07T22:39:32.624121+05:30",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 602,
-  "last_update": "2025-12-15T16:55:07.884098374Z"
+  "total_captured": 603,
+  "last_update": "2025-12-15T17:18:47.49993106Z"
 }
