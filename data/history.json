@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How Bondi Beach shooting unfolded minute by minute",
+      "link": "https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Correspondent Joe Inwood pieces together what verified footage reveals about how Australia's worst mass shooting in nearly three decades unfolded.",
+      "published": "Mon, 15 Dec 2025 00:02:53 GMT",
+      "fetched_at": "2025-12-15T09:23:03.168211931Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Roomba vacuum cleaner firm files for bankruptcy",
       "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 07 Dec 2025 11:33:23 GMT",
       "fetched_at": "2025-12-07T22:39:32.62398+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says",
-      "link": "https://www.bbc.com/news/articles/c98nldr06l2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The protective shield at the site of the 1986 disaster has lost its main safety function, the IAEA says.",
-      "published": "Sun, 07 Dec 2025 12:09:01 GMT",
-      "fetched_at": "2025-12-07T22:39:32.623964+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 591,
-  "last_update": "2025-12-15T08:52:58.782841464Z"
+  "total_captured": 592,
+  "last_update": "2025-12-15T09:23:03.575880092Z"
 }

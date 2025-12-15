@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-15 Dec 08:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-591-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-15 Dec 09:23 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-592-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 15 Dec 08:52 UTC)*
+*(Updated: 15 Dec 09:23 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts](https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [John Cena takes his final bow, after last ever WWE fight](https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks](https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | ['Never give up': Belarusian prisoners celebrate release after US lifts sanctions](https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [How Bondi Beach shooting unfolded minute by minute](https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces](https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The difficult question of what it would take to stop Putin fighting in Ukraine](https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Chile elects far-right José Antonio Kast as next president](https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Hollywood director Rob Reiner and wife Michele found dead in LA home](https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?](https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
