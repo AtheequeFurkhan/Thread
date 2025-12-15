@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'We were sacked from Rockstar North for trying to unionise'",
+      "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\".",
+      "published": "Mon, 15 Dec 2025 06:26:48 GMT",
+      "fetched_at": "2025-12-15T09:52:01.856659066Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How Bondi Beach shooting unfolded minute by minute",
       "link": "https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 07 Dec 2025 03:25:42 GMT",
       "fetched_at": "2025-12-07T22:39:32.623999+05:30",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Katy Perry goes Instagram official with Justin Trudeau",
-      "link": "https://www.bbc.com/news/articles/crmd44yz7nmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The pop star posted a string of photographs of herself and the former Canadian Prime Minster.",
-      "published": "Sun, 07 Dec 2025 11:33:23 GMT",
-      "fetched_at": "2025-12-07T22:39:32.62398+05:30",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 592,
-  "last_update": "2025-12-15T09:23:03.575880092Z"
+  "total_captured": 593,
+  "last_update": "2025-12-15T09:52:02.773712869Z"
 }
