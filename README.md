@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 14:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-672-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 14:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-674-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 14:16 UTC)*
+*(Updated: 16 Dec 14:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Crypto’s ‘super app’ race is on as industry enters aggregation era: Report](https://cointelegraph.com/news/crypto-superapp-race-on-industry-enters-aggregation-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing](https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market) | 🟢 Positive |
 | **World** | [Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say](https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Lizzo celebrates as fat-shaming claims dismissed](https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Business** | [The Warner Bros. Curse](https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse) | ⚪ Neutral |
 | **World** | [French court sentences ex-DR Congo rebel and politician to 30 years in jail](https://www.bbc.com/news/articles/c4ge7412evlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Best of our country': Australian PM visits Bondi hero in hospital](https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away](https://cointelegraph.com/news/alexander-ray-our-partner-within-the-ctdg-initiative-and-a-web3-entrepreneur-co-founder-of-albus-protocol-and-jpool-has-passed-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [Negotiations over 'historic' US-UK tech deal stall](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto’s ‘super app’ race is on as industry enters aggregation era: Report](https://cointelegraph.com/news/crypto-superapp-race-on-industry-enters-aggregation-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Visa launches USDC settlement for US banks on Solana blockchain](https://cointelegraph.com/news/visa-usdc-settlement-us-banks-solana-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ronin and ZKsync’s onchain metrics fell the most in 2025](https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Political tokens played key role in memecoin boom and bust: CoinGecko](https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Custodia renews bid for Fed master account in rehearing push at Tenth Circuit](https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’](https://cointelegraph.com/news/solana-ddos-attack-6-tbps-network-stays-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say](https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Lizzo celebrates as fat-shaming claims dismissed](https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ukraine struggling to keep lights on under Russian attack, says energy boss](https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [French court sentences ex-DR Congo rebel and politician to 30 years in jail](https://www.bbc.com/news/articles/c4ge7412evlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Best of our country': Australian PM visits Bondi hero in hospital](https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

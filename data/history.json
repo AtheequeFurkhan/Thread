@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bondi Beach gunman originally from India, police say",
+      "link": "https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Sajid Akram had \"limited\" contact with his family in Hyderabad since moving to Australia 27 years ago, a police official said.",
+      "published": "Tue, 16 Dec 2025 14:11:01 GMT",
+      "fetched_at": "2025-12-16T14:48:31.97526423Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto’s ‘super app’ race is on as industry enters aggregation era: Report",
+      "link": "https://cointelegraph.com/news/crypto-superapp-race-on-industry-enters-aggregation-era?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3NTItYTAzMS03NGY5LWFiZDEtZDY4MGNhMzgzNGMxLmpwZw==.jpg\" alt=\"Crypto’s ‘super app’ race is on as industry enters aggregation era: Report\"\u003e\u003c/p\u003e\u003cp\u003eAccording to Delphi Digital, Crypto exchanges are racing to become the home screen for trading, payments and Web3.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 14:22:42 +0000",
+      "fetched_at": "2025-12-16T14:48:31.968598471Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
       "link": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 16:09:29 +0000",
       "fetched_at": "2025-12-08T16:16:54.130918709Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US Supreme Court hears fight over Trump's power to fire federal agency official",
-      "link": "https://www.bbc.com/news/articles/c3e073pglvzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The court is hearing arguments in Trump v Slaughter - a case that could have major implications for the independence of some federal agencies.",
-      "published": "Mon, 08 Dec 2025 15:27:15 GMT",
-      "fetched_at": "2025-12-08T15:50:51.675954244Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "New DePIN protocol rolls out ZK-proof processing marketplace",
-      "link": "https://cointelegraph.com/news/depin-marketplace-decentralized-depin-zk-proofs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjItNmQ5MS03NjdkLWEwOWYtZDc3ZWY4ZWZjNmY3.jpg\" alt=\"New DePIN protocol rolls out ZK-proof processing marketplace\"\u003e\u003c/p\u003e\u003cp\u003eBrevis has launched ProverNet, a ZK-proof marketplace where provers can earn by computing proofs and apps can buy proving capacity.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 14:56:31 +0000",
-      "fetched_at": "2025-12-08T15:14:16.609588639Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 672,
-  "last_update": "2025-12-16T14:16:19.696863214Z"
+  "total_captured": 674,
+  "last_update": "2025-12-16T14:48:32.020730173Z"
 }
