@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing",
+      "link": "https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market",
+      "category": "Business",
+      "summary": "Hiring cooled this fall, according to delayed figures released by the Labor Department Tuesday. Employers added 64,000 jobs in November as the unemployment rate rose to 4.6%.",
+      "published": "Tue, 16 Dec 2025 09:01:09 -0500",
+      "fetched_at": "2025-12-16T14:16:19.69683959Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say",
+      "link": "https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Satellite images show the paramilitary force is burying and burning bodies, Yale University researchers say.",
+      "published": "Tue, 16 Dec 2025 13:02:26 GMT",
+      "fetched_at": "2025-12-16T14:16:19.485729527Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Lizzo celebrates as fat-shaming claims dismissed",
+      "link": "https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The star says the allegations \"haunted\" her, but she still faces allegations of sexual harassment.",
+      "published": "Tue, 16 Dec 2025 09:38:51 GMT",
+      "fetched_at": "2025-12-16T14:16:19.485700342Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Visa launches USDC settlement for US banks on Solana blockchain",
+      "link": "https://cointelegraph.com/news/visa-usdc-settlement-us-banks-solana-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3M2YtMTA3NC03YjAwLTllYzMtMzhjMDM2MzMzOGU1LmpwZw==.jpg\" alt=\"Visa launches USDC settlement for US banks on Solana blockchain\"\u003e\u003c/p\u003e\u003cp\u003eVisa launched USDC settlement for US financial institutions, starting with Cross River and Lead Bank on Solana, with a wider rollout planned for 2026.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 14:01:04 +0000",
+      "fetched_at": "2025-12-16T14:16:19.476292157Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ronin and ZKsync’s onchain metrics fell the most in 2025",
+      "link": "https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3NTQtNWVlNy03MzRkLTg3MmUtZDg5OTEwNmMxMTY3LmpwZw==.jpg\" alt=\"Ronin and ZKsync’s onchain metrics fell the most in 2025\"\u003e\u003c/p\u003e\u003cp\u003eSome of last year’s hottest blockchains saw the steepest declines in onchain activity after viral moments failed to drive sustained growth.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 14:03:41 +0000",
+      "fetched_at": "2025-12-16T14:16:19.476270867Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Political tokens played key role in memecoin boom and bust: CoinGecko",
       "link": "https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Mon, 08 Dec 2025 14:56:31 +0000",
       "fetched_at": "2025-12-08T15:14:16.609588639Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy",
-      "link": "https://cointelegraph.com/news/strategy-bitcoin-treasury-buy-billion-stock-decline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg\" alt=\"Strategy’s Bitcoin treasury swells past 660,000 BTC after fresh $962M buy\"\u003e\u003c/p\u003e\u003cp\u003eMichael Saylor said that he pitched Bitcoin as “digital capital” to wealth funds and banks, calling it the foundation for a new yield-bearing credit asset class.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 14:18:44 +0000",
-      "fetched_at": "2025-12-08T14:39:54.612324619Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP bulls grow louder: What will spark the breakout toward $2.65?",
-      "link": "https://cointelegraph.com/news/xrp-bulls-grow-louder-what-will-spark-breakout-2-65?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjYtYjg2YS03NzMwLTgyZDAtZWRlOTlkMTQ1YzRi.jpg\" alt=\"XRP bulls grow louder: What will spark the breakout toward $2.65?\"\u003e\u003c/p\u003e\u003cp\u003eXRP analysts highlighted the potential to rebound to $2.65 as institutional demand increased and derivatives traders flipped bullish.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 14:34:06 +0000",
-      "fetched_at": "2025-12-08T14:39:54.612308509Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Mantra CEO tells OM holders to withdraw from OKX over ‘inaccurate’ migration plan",
-      "link": "https://cointelegraph.com/news/mantra-ceo-urges-om-holders-exit-okx-migration-dispute?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlNDAtYWUxNi03NWNjLTg0ZjctMDQ4MzI1YmVlMjVk.jpg\" alt=\"Mantra CEO tells OM holders to withdraw from OKX over ‘inaccurate’ migration plan\"\u003e\u003c/p\u003e\u003cp\u003eJP Mullin urged OM token holders to withdraw from OKX, alleging the exchange had not communicated with Mantra about the incoming token migration, resulting in inaccurate dates.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 14:00:44 +0000",
-      "fetched_at": "2025-12-08T14:13:36.783901133Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "SEC ends Biden-era probe into tokenized equity platform Ondo Finance",
-      "link": "https://cointelegraph.com/news/sec-ends-ondo-investigation-tokenized-securities-reset?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMTUtMjIxNC03OGI2LWI5NTMtYTFkNTZkYjA3YzNh.jpg\" alt=\"SEC ends Biden-era probe into tokenized equity platform Ondo Finance\"\u003e\u003c/p\u003e\u003cp\u003eLaunched in 2023, the SEC probe into Ondo’s tokenized RWAs and ONDO token ended without charges, signaling a regulatory reset for onchain assets.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 14:08:11 +0000",
-      "fetched_at": "2025-12-08T14:13:36.783881707Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Binance suspends employee over using insider information for personal gain",
-      "link": "https://cointelegraph.com/news/binance-suspends-employee-whistleblower-insider-probe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMTMtMjJjZS03ZGZlLWIzYWMtYzdhZDNiNjFiMzBl.jpg\" alt=\"Binance suspends employee over using insider information for personal gain\"\u003e\u003c/p\u003e\u003cp\u003eBinance has suspended an employee and alerted authorities after an internal probe found the staffer allegedly used insider information to publish a post from an official account.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 13:34:49 +0000",
-      "fetched_at": "2025-12-08T13:46:19.956089679Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 667,
-  "last_update": "2025-12-16T13:50:02.745253124Z"
+  "total_captured": 672,
+  "last_update": "2025-12-16T14:16:19.696863214Z"
 }
