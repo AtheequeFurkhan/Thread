@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US designates Colombian cocaine gang a terrorist group",
+      "link": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America.",
+      "published": "Tue, 16 Dec 2025 19:17:06 GMT",
+      "fetched_at": "2025-12-16T19:30:36.361487315Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "SEC ends probe into Aave after four years, CEO says",
+      "link": "https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTktN2IyMS03MDlmLWEzODgtZWY0MWJjM2MzM2FmLmpwZw==.jpg\" alt=\"SEC ends probe into Aave after four years, CEO says\"\u003e\u003c/p\u003e\u003cp\u003eAccording to a letter posted by the protocol’s founder and CEO, the US agency does “not intend to recommend an enforcement action” against Aave.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 19:25:43 +0000",
+      "fetched_at": "2025-12-16T19:30:35.986070599Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
       "link": "https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 19:10:01 +0000",
       "fetched_at": "2025-12-08T19:28:05.383199378Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP needs a Solana-style strategy to keep up: Ripple executive",
-      "link": "https://cointelegraph.com/news/xrp-needs-a-solana-style-strategy-to-keep-up-ripple-executive?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2EtYmQzNy03MzkzLThjZDEtYzk2MmQyYzhkODM0.jpg\" alt=\"XRP needs a Solana-style strategy to keep up: Ripple executive\"\u003e\u003c/p\u003e\u003cp\u003eLuke Judges highlights how XRP Ledger’s tech and developer tools could take cues from Solana to stay competitive among layer-1 networks.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 18:40:00 +0000",
-      "fetched_at": "2025-12-08T18:50:24.61449658Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time",
-      "link": "https://cointelegraph.com/news/why-grayscale-thinks-bitcoin-will-ignore-the-4-year-cycle-this-time?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYzQtNjE0ZC03MjkxLWJlZTktMzVlODQ1NGM4NGFk.jpg\" alt=\"Why Grayscale thinks Bitcoin will ignore the 4-year cycle this time\"\u003e\u003c/p\u003e\u003cp\u003eGrayscale argues Bitcoin’s market structure has evolved beyond the old four-year rhythm. Institutional flows and macro dynamics have reshaped BTC’s price behavior.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 17:50:00 +0000",
-      "fetched_at": "2025-12-08T18:19:13.1324663Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 685,
-  "last_update": "2025-12-16T19:14:02.503043098Z"
+  "total_captured": 687,
+  "last_update": "2025-12-16T19:30:36.732766782Z"
 }

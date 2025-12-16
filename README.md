@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 19:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-685-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 19:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-687-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 19:14 UTC)*
+*(Updated: 16 Dec 19:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [SEC ends probe into Aave after four years, CEO says](https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why](https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Lizzo celebrates as fat-shaming claims dismissed](https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Visa launches USDC settlement for US banks on Solana blockchain](https://cointelegraph.com/news/visa-usdc-settlement-us-banks-solana-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ronin and ZKsync’s onchain metrics fell the most in 2025](https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Political tokens played key role in memecoin boom and bust: CoinGecko](https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [SEC ends probe into Aave after four years, CEO says](https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why](https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Solana enters Brazil’s main exchange as Valour expands regulated crypto access](https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [EU waters down plans to end petrol and diesel car sales by 2035](https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands of dinosaur footprints found on Italian mountain](https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say](https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
