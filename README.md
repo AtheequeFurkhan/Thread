@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-684-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 18:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-685-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 18:19 UTC)*
+*(Updated: 16 Dec 18:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why](https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Ronin and ZKsync’s onchain metrics fell the most in 2025](https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Political tokens played key role in memecoin boom and bust: CoinGecko](https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Custodia renews bid for Fed master account in rehearing push at Tenth Circuit](https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why](https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana enters Brazil’s main exchange as Valour expands regulated crypto access](https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [UK crypto ownership dropped to 8% in 2025: YouGov poll](https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology

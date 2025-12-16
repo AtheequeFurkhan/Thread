@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
+      "link": "https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2NGMtOTUxNC03NjkzLTk2ZjktMDQ4ZjcwNzUxMTZiLmpwZw==.jpg\" alt=\"The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why\"\u003e\u003c/p\u003e\u003cp\u003eGold strongly outperformed Bitcoin in 2025, resulting in a 50% decline in the BTC-to-gold ratio. Will the trend flip in BTC’s favor in 2026?\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 18:45:25 +0000",
+      "fetched_at": "2025-12-16T18:52:50.551819573Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why BitMine is accumulating Ether despite broader market fear",
       "link": "https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 17:50:00 +0000",
       "fetched_at": "2025-12-08T18:19:13.1324663Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tether's USDt awarded key regulatory status in Abu Dhabi",
-      "link": "https://cointelegraph.com/news/usdt-recognized-fiat-referenced-token-adgm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2QtYjQ4OS03Mzg0LThmNzMtMTQ5NDFmYzIzNzQ0.jpg\" alt=\"Tether's USDt awarded key regulatory status in Abu Dhabi\"\u003e\u003c/p\u003e\u003cp\u003eADGM’s recognition of USDT as an accepted fiat-referenced token lets licensed companies offer regulated custody, marking a step for stablecoins in the UAE.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 17:44:14 +0000",
-      "fetched_at": "2025-12-08T17:50:14.315136611Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 684,
-  "last_update": "2025-12-16T18:19:57.578097917Z"
+  "total_captured": 685,
+  "last_update": "2025-12-16T18:52:51.236959481Z"
 }
