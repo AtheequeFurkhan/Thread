@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
+      "link": "https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3YjktMmI1ZC03NjYxLTg2ZjQtMzZlOGMwZTNkOWJlLmpwZw==.jpg\" alt=\"Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin liquidity grabs continued at the Wall Street open, with traders hoping that a breakthrough of resistance would propel the BTC price toward the $100,000 zone.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 15:39:10 +0000",
+      "fetched_at": "2025-12-16T15:53:58.38901585Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Thousands of dinosaur footprints found on Italian mountain",
       "link": "https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 16:20:28 +0000",
       "fetched_at": "2025-12-08T16:49:55.49186067Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "China's trade surplus hits $1 trillion for first time ever",
-      "link": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs",
-      "category": "Business",
-      "summary": "China's exports to the U.S. have dropped sharply this year, in the face of President Trump's tariffs — but the country is still finding plenty of customers elsewhere around the world.",
-      "published": "Mon, 08 Dec 2025 10:55:39 -0500",
-      "fetched_at": "2025-12-08T16:16:54.708732718Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 676,
-  "last_update": "2025-12-16T15:42:52.030510562Z"
+  "total_captured": 677,
+  "last_update": "2025-12-16T15:53:58.959870015Z"
 }

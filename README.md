@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 15:42 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-676-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 15:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-677-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 15:42 UTC)*
+*(Updated: 16 Dec 15:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K](https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Thousands of dinosaur footprints found on Italian mountain](https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish](https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [FCA consults on UK crypto rules for exchanges, lending and DeFi](https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [The Warner Bros. Curse](https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K](https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish](https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto’s ‘super app’ race is on as industry enters aggregation era: Report](https://cointelegraph.com/news/crypto-superapp-race-on-industry-enters-aggregation-era?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Visa launches USDC settlement for US banks on Solana blockchain](https://cointelegraph.com/news/visa-usdc-settlement-us-banks-solana-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ronin and ZKsync’s onchain metrics fell the most in 2025](https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Political tokens played key role in memecoin boom and bust: CoinGecko](https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
