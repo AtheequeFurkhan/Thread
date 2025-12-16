@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Built to spill: The life of a crash test dummy",
+      "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
+      "category": "Business",
+      "summary": "Automotive crash test dummies are born in Ohio, brought to \"life\" near Detroit, and then sent around the world to make cars safer.",
+      "published": "Tue, 16 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-16T10:15:02.659610311Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Chain restaurants are hit by tariffs and inflation. How do they control costs?",
+      "link": "https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals",
+      "category": "Business",
+      "summary": "Inflation, rising food prices and the high cost of living has been top of mind for consumers all year. But then Olive Garden offers an unlimited pasta meal or a chain steakhouse restaurant sells a steak dinner with two sides for less than 30 bucks. So, how are chains are able to keep prices as low as they do in this economy?",
+      "published": "Tue, 16 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-16T10:15:02.659587769Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
+      "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Reiner was a longtime Democrat, liberal activist and outspoken opponent of the US president.",
+      "published": "Tue, 16 Dec 2025 09:49:57 GMT",
+      "fetched_at": "2025-12-16T10:15:02.475399477Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Winklevoss-led Gemini rolls out prediction markets in 50 US states",
+      "link": "https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MjMtNDM3OC03MDlmLTkyODctZTU4NjA4MGY2NTE0LmpwZw==.jpg\" alt=\"Winklevoss-led Gemini rolls out prediction markets in 50 US states\"\u003e\u003c/p\u003e\u003cp\u003eGemini’s prediction markets go live nationwide in the US following federal approval, joining a race among crypto companies to build “everything apps.”\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 09:44:42 +0000",
+      "fetched_at": "2025-12-16T10:15:02.343775441Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%",
       "link": "https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 08 Dec 2025 09:12:45 +0000",
       "fetched_at": "2025-12-08T09:19:38.358480612Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Coinbase mounts a cautious comeback in India, two years after exit",
-      "link": "https://cointelegraph.com/news/coinbase-india-relaunch-two-years-market-exit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjZDQtZGU4MS03MzFiLWE5ZDctMWYwMzk5OGY4NDNh.jpg\" alt=\"Coinbase mounts a cautious comeback in India, two years after exit\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase has reopened India app registrations, with local fiat on-ramps planned for 2026 following a rocky exit more than two years ago.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 08:36:49 +0000",
-      "fetched_at": "2025-12-08T08:51:21.79821504Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "One hundred abducted schoolchildren released in Nigeria",
-      "link": "https://www.bbc.com/news/articles/cvgjvg4ylwpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Details of the release of the schoolchildren are still unclear and 165 people remain unaccounted for.",
-      "published": "Mon, 08 Dec 2025 08:27:57 GMT",
-      "fetched_at": "2025-12-08T08:51:21.115015037Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Woman who blackmailed Son Heung-min gets four years in jail",
-      "link": "https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him.",
-      "published": "Mon, 08 Dec 2025 08:03:10 GMT",
-      "fetched_at": "2025-12-08T08:20:03.342127243Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Binance secures ADGM licenses to operate international platform",
-      "link": "https://cointelegraph.com/news/binance-abu-dhabi-fsra-licenses-exchange-clearing-broker-dealer?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjNDgtYjg2My03ODNlLTlhMmUtOTMwZjVkZWI5OTlj.jpg\" alt=\"Binance secures ADGM licenses to operate international platform\"\u003e\u003c/p\u003e\u003cp\u003eBinance’s international operations and liquidity will now be supervised end-to-end by the Financial Services Regulatory Authority in the financial free zone in Abu Dhabi.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 07:37:27 +0000",
-      "fetched_at": "2025-12-08T07:50:54.564070296Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 645,
-  "last_update": "2025-12-16T09:45:34.422088509Z"
+  "total_captured": 649,
+  "last_update": "2025-12-16T10:15:02.659628054Z"
 }
