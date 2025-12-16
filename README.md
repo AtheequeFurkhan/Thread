@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 22:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-696-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 23:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-697-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 22:50 UTC)*
+*(Updated: 16 Dec 23:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) | ⚪ Neutral |
 | **Business** | [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) | ⚪ Neutral |
 | **Crypto** | [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Solana enters Brazil’s main exchange as Valour expands regulated crypto access](https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [UK crypto ownership dropped to 8% in 2025: YouGov poll](https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K](https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) (⚪ Neutral)
 - [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) (⚪ Neutral)
 - [The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing](https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market) (🟢 Positive)
 - [The Warner Bros. Curse](https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse) (⚪ Neutral)
 - [Built to spill: The life of a crash test dummy](https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing) (🔴 Negative)
-- [Chain restaurants are hit by tariffs and inflation. How do they control costs?](https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals) (⚪ Neutral)
 
 
 ### 📂 Crypto

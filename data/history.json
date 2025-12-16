@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer",
+      "link": "https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair",
+      "category": "Business",
+      "summary": "Throughout the year, \u003cem\u003eVanity Fair\u003c/em\u003e writer Chris Whipple interviewed some of the people closest to President Trump. We speak with Whipple about his talks with White House chief of staff, Susie Wiles.",
+      "published": "Tue, 16 Dec 2025 17:05:51 -0500",
+      "fetched_at": "2025-12-16T23:12:06.314788233Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch",
       "link": "https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 22:28:38 GMT",
       "fetched_at": "2025-12-08T23:41:07.83211745Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "This NPR College Podcast Challenge finalist might change how you hear your commute",
-      "link": "https://www.npr.org/2025/12/08/nx-s1-5620898/this-npr-college-podcast-challenge-finalist-might-change-how-you-hear-your-commute",
-      "category": "Business",
-      "summary": "Student Bennett Cook recorded ambient sounds on his way to campus and found something surprising. His resulting podcast — a finalist in NPR's College Podcast Challenge — may change your commute.",
-      "published": "Mon, 08 Dec 2025 18:26:08 -0500",
-      "fetched_at": "2025-12-08T23:30:16.335924123Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 696,
-  "last_update": "2025-12-16T22:50:05.549233145Z"
+  "total_captured": 697,
+  "last_update": "2025-12-16T23:12:06.314950063Z"
 }
