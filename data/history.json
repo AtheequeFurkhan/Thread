@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "NSW premier defends police response to Bondi attack",
+      "link": "https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Chris Minns said two police officers were 'shot in the front' as they attempted to take on two gunmen.",
+      "published": "Tue, 16 Dec 2025 07:00:32 GMT",
+      "fetched_at": "2025-12-16T07:50:49.417284337Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit",
       "link": "https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 07:08:13 GMT",
       "fetched_at": "2025-12-08T07:41:46.895238339Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Japan protests after Chinese fighter jets lock radar on Japanese planes",
-      "link": "https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Tokyo has vowed a 'calm and resolute' response as tensions with Beijing continue to escalate.",
-      "published": "Mon, 08 Dec 2025 07:03:46 GMT",
-      "fetched_at": "2025-12-08T07:17:41.066911978Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 643,
-  "last_update": "2025-12-16T07:41:38.969016077Z"
+  "total_captured": 644,
+  "last_update": "2025-12-16T07:50:49.616595688Z"
 }

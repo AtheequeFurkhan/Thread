@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 07:41 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-643-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 07:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-644-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 07:41 UTC)*
+*(Updated: 16 Dec 07:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) | ⚪ Neutral |
 | **World** | [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets](https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
