@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 10:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-651-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 10:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-652-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 10:44 UTC)*
+*(Updated: 16 Dec 10:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026](https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Dashcam video shows couple trying to stop gunman before being killed in Bondi attack](https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?](https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Built to spill: The life of a crash test dummy](https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [MetaMask adds Bitcoin support after teasing it 10 months ago](https://cointelegraph.com/news/metamask-adds-bitcoin-support-after-teasing-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto urges SEC to see the good in blockchain privacy tools](https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin to hit new all-time high within 6 months: Grayscale](https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026](https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?](https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Winklevoss-led Gemini rolls out prediction markets in 50 US states](https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock](https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto ATM operator to expand to Texas, citing friendly regulation](https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
