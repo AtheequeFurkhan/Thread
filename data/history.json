@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "UK crypto ownership dropped to 8% in 2025: YouGov poll",
+      "link": "https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3OGUtMzE5OC03NDRiLWExNzMtNzg0NjQzMWFlMGIyLmpwZw==.jpg\" alt=\"UK crypto ownership dropped to 8% in 2025: YouGov poll\"\u003e\u003c/p\u003e\u003cp\u003eWhile a poll suggested that the percentage of crypto ownership dropped in the UK, the amount of digital assets held increased, with a majority reporting Bitcoin and Ether holdings.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 16:45:44 +0000",
+      "fetched_at": "2025-12-16T16:52:57.136158913Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
       "link": "https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 16:39:31 GMT",
       "fetched_at": "2025-12-08T16:49:55.76559071Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC",
-      "link": "https://cointelegraph.com/news/bitcoin-gives-up-90k-us-open-two-week-exchange-outflows-35k-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYmUtMTVhMC03NzVlLWExYzctMjBlMWYwMmE1ZDU4.jpg\" alt=\"Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin failed to successfully retest the yearly open after US sell-side pressure reentered to start the week, keeping volatility firmly in control.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 16:20:28 +0000",
-      "fetched_at": "2025-12-08T16:49:55.49186067Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 677,
-  "last_update": "2025-12-16T16:17:30.616893836Z"
+  "total_captured": 678,
+  "last_update": "2025-12-16T16:52:57.60686816Z"
 }
