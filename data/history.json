@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Why BitMine is accumulating Ether despite broader market fear",
+      "link": "https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MmYtZDYxMS03NzIzLWFiMzctZjFjZjYyMzY5ZTE0LmpwZw==.jpg\" alt=\"Why BitMine is accumulating Ether despite broader market fear\"\u003e\u003c/p\u003e\u003cp\u003eBitMine is building an Ether-heavy treasury as ETF flows wobble and exchange deposits rise, betting on Fusaka and staking to drive a longer-term thesis.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 18:10:00 +0000",
+      "fetched_at": "2025-12-16T18:19:57.332725453Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+      "link": "https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTQtZTc2ZC03ODI4LWI5M2EtZDFlNGM3YzU2YWFkLkpQRw==.jpg\" alt=\"US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Deposit Insurance Corp.'s proposal outlines how banks could seek approval to issue payment stablecoins as US regulators move from legislation to rule-making.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 18:15:27 +0000",
+      "fetched_at": "2025-12-16T18:19:57.332693443Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Rebels say they will withdraw from key DR Congo city at US request",
       "link": "https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 17:44:14 +0000",
       "fetched_at": "2025-12-08T17:50:14.315136611Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tsunami warning after earthquake strikes off Japan",
-      "link": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The 7.6 magnitude tremor prompts tsunami warnings and orders to evacuate residents.",
-      "published": "Mon, 08 Dec 2025 17:20:03 GMT",
-      "fetched_at": "2025-12-08T17:34:50.558218764Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "European leaders walk tightrope between backing Ukraine and keeping US on board",
-      "link": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Europe's leaders are trying to avoid alienating Donald Trump while fighting for Ukrainian sovereignty and future continental stability.",
-      "published": "Mon, 08 Dec 2025 17:01:30 GMT",
-      "fetched_at": "2025-12-08T17:34:50.558207313Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 682,
-  "last_update": "2025-12-16T17:45:35.15688991Z"
+  "total_captured": 684,
+  "last_update": "2025-12-16T18:19:57.578097917Z"
 }

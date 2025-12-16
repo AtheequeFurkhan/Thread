@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 17:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-682-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 18:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-684-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 17:45 UTC)*
+*(Updated: 16 Dec 18:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [EU waters down plans to end petrol and diesel car sales by 2035](https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Political tokens played key role in memecoin boom and bust: CoinGecko](https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Custodia renews bid for Fed master account in rehearing push at Tenth Circuit](https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’](https://cointelegraph.com/news/solana-ddos-attack-6-tbps-network-stays-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Ukraine struggling to keep lights on under Russian attack, says energy boss](https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Why BitMine is accumulating Ether despite broader market fear](https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act](https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana enters Brazil’s main exchange as Valour expands regulated crypto access](https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [UK crypto ownership dropped to 8% in 2025: YouGov poll](https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K](https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish](https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
