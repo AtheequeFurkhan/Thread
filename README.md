@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 07:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-644-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 08:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-645-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 07:50 UTC)*
+*(Updated: 16 Dec 08:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) | ⚪ Neutral |
 | **World** | [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Business** | [Ford pulls the plug on the all-electric F-150 Lightning pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning) | 🟢 Positive |
 | **Crypto** | [Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets](https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock](https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto ATM operator to expand to Texas, citing friendly regulation](https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ripple’s RLUSD stablecoin goes multichain in new pilot](https://cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Most crypto sectors lagged Bitcoin over past 3 months: Glassnode](https://cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Over 1 in 20 emails are malicious, warns internet giant Cloudflare](https://cointelegraph.com/news/over-1-in-20-emails-are-malicious-warns-internet-giant-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

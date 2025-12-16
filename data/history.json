@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%",
+      "link": "https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1ODYtMWViMi03ODA2LWE5M2ItOWVlMWNlNWU5MzI1LmpwZw==.jpg\" alt=\"Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%\"\u003e\u003c/p\u003e\u003cp\u003ePast record spikes in Bitcoin accumulation preceded major rallies, including a 900% surge in 2012 and a 350% rise in 2011.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 08:13:48 +0000",
+      "fetched_at": "2025-12-16T08:19:10.808841481Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "NSW premier defends police response to Bondi attack",
       "link": "https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 07:37:27 +0000",
       "fetched_at": "2025-12-08T07:50:54.564070296Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Man found guilty of Australian beach murder after hiding in India for years",
-      "link": "https://www.bbc.com/news/articles/c4g9lg7jvq7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The half-buried body of 24-year-old Toyah Cordingley was discovered by her father in October 2018.",
-      "published": "Mon, 08 Dec 2025 07:08:13 GMT",
-      "fetched_at": "2025-12-08T07:41:46.895238339Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 644,
-  "last_update": "2025-12-16T07:50:49.616595688Z"
+  "total_captured": 645,
+  "last_update": "2025-12-16T08:19:11.56915685Z"
 }
