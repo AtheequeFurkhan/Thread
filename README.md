@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 10:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-649-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 10:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-651-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 10:15 UTC)*
+*(Updated: 16 Dec 10:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Dashcam video shows couple trying to stop gunman before being killed in Bondi attack](https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?](https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Built to spill: The life of a crash test dummy](https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing) | 🔴 Negative |
 | **Business** | [Chain restaurants are hit by tariffs and inflation. How do they control costs?](https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals) | ⚪ Neutral |
 | **World** | [Trump repeats criticism of killed Hollywood director Rob Reiner](https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto urges SEC to see the good in blockchain privacy tools](https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin to hit new all-time high within 6 months: Grayscale](https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [US crypto market structure legislation to advance in early 2026](https://cointelegraph.com/news/us-crypto-market-structure-legislation-delayed-until-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Trump to ‘look into’ recently convicted Samurai Wallet co-founder](https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?](https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Winklevoss-led Gemini rolls out prediction markets in 50 US states](https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock](https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto ATM operator to expand to Texas, citing friendly regulation](https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ripple’s RLUSD stablecoin goes multichain in new pilot](https://cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Dashcam video shows couple trying to stop gunman before being killed in Bondi attack](https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump repeats criticism of killed Hollywood director Rob Reiner](https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

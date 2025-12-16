@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+      "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness says.",
+      "published": "Tue, 16 Dec 2025 10:39:27 GMT",
+      "fetched_at": "2025-12-16T10:44:17.133267883Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
+      "link": "https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTJiNmUtM2FjMC03NGUwLWIxZDctOTdjMWRjZGFlYjE2.jpg\" alt=\"Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?\"\u003e\u003c/p\u003e\u003cp\u003eThe amount of Bitcoin in long-term holder wallets hit cyclical lows, but is it enough to help the bulls avoid a decline toward $68,000?\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 10:14:31 +0000",
+      "fetched_at": "2025-12-16T10:44:17.113702405Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Built to spill: The life of a crash test dummy",
       "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 10:07:25 +0000",
       "fetched_at": "2025-12-08T10:15:01.074888308Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Circle and Bybit deepen USDC partnership as stablecoin nears $80B",
-      "link": "https://cointelegraph.com/news/bybit-partners-circle-usdc-supply-nears-80-billion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMjQtOTRiNi03OGM3LWFmNDYtZjg3MjNlNzcxNDA5.jpg\" alt=\"Circle and Bybit deepen USDC partnership as stablecoin nears $80B\"\u003e\u003c/p\u003e\u003cp\u003eBybit plans deeper USDC adoption for trading and payments, with the stablecoin “already embedded” across its ecosystem.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 09:37:16 +0000",
-      "fetched_at": "2025-12-08T09:47:14.477314986Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
-      "link": "https://cointelegraph.com/news/ethereum-smart-whales-open-426m-long-eth-price-chart-4k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMmMtZjlkZS03YTU5LWIzYmYtZGM3OGZjMzFiOTY4.jpg\" alt=\"Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K\"\u003e\u003c/p\u003e\u003cp\u003eETH price rising to $3,000 drove whales to open 136,433 ETH long bets, as technical indicators suggest a short-term ETH price rally toward $4,000.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 09:12:45 +0000",
-      "fetched_at": "2025-12-08T09:19:38.358480612Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 649,
-  "last_update": "2025-12-16T10:15:02.659628054Z"
+  "total_captured": 651,
+  "last_update": "2025-12-16T10:44:17.133293981Z"
 }
