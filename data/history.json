@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
+      "link": "https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIxY2QtNDg2Mi03OWU4LWI5MWMtMzhiODc4MGEwMjM3LmpwZw==.jpg\" alt=\"Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework\"\u003e\u003c/p\u003e\u003cp\u003eSBI Holdings and Startale plan a regulated yen stablecoin via Shinsei Trust, aiming for tokenized assets and cross-border settlement by Q2 2026.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 01:00:00 +0000",
+      "fetched_at": "2025-12-16T12:26:17.634142734Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Spain’s regulator sets out MiCA transition rules for crypto platforms",
+      "link": "https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2YjMtY2U5MS03MGUxLWI2NGYtM2FiYTAwZGY2NTQ1LmpwZw==.jpg\" alt=\"Spain’s regulator sets out MiCA transition rules for crypto platforms\"\u003e\u003c/p\u003e\u003cp\u003eSpain’s securities regulator, CNMV, has spelled out how it plans to run MiCA in practice, using a new Q\u0026A to tell crypto companies what to expect.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 12:17:12 +0000",
+      "fetched_at": "2025-12-16T12:26:17.634113079Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
+      "published": "Sat, 06 Dec 2025 01:00:18 GMT",
+      "fetched_at": "2025-12-16T12:26:17.544070791Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The unexpected history of those oh-so annoying internet popup ads",
+      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
+      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
+      "fetched_at": "2025-12-16T12:26:17.544056645Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "FCA consults on UK crypto rules for exchanges, lending and DeFi",
       "link": "https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 08 Dec 2025 10:36:30 GMT",
       "fetched_at": "2025-12-08T12:24:51.739134373Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Thousands flee Thai-Cambodia border after deadly clashes",
-      "link": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "At least five people have been killed in the most serious confrontation between both sides since July.",
-      "published": "Mon, 08 Dec 2025 11:10:30 GMT",
-      "fetched_at": "2025-12-08T12:24:51.739124174Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders",
-      "link": "https://cointelegraph.com/news/prediction-markets-arbitrage-arena-crypto-traders?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkYjAtNjk5Ny03NTMzLWFiNTctMTAzNWI3MmJmNTFk.jpg\" alt=\"Prediction markets emerge as speculative ‘arbitrage arena’ for crypto traders\"\u003e\u003c/p\u003e\u003cp\u003ePredictions markets offer traders more upside than holding the underlying spot crypto, but AI bots and accounts with a 100% win rate raise suspicions of insider trading.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 12:07:31 +0000",
-      "fetched_at": "2025-12-08T12:24:51.696519774Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Can panic wallets stop a wrench? Why crypto’s next security debate is physical",
-      "link": "https://cointelegraph.com/news/panic-wallets-crypto-physical-security?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MDctOGIxNy03NTZhLWIyN2QtMTczN2QyY2Q4YzUx.jpg\" alt=\"Can panic wallets stop a wrench? Why crypto’s next security debate is physical\"\u003e\u003c/p\u003e\u003cp\u003eJameson Lopp’s wrench attack data shows physical assaults on crypto holders surging in 2025, forcing a reckoning over whether self‑custody is worth the physical risk.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 11:13:48 +0000",
-      "fetched_at": "2025-12-08T11:30:39.202601478Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto funds log second week of inflows after massive $5.5B sell-off",
-      "link": "https://cointelegraph.com/news/crypto-etp-716-million-inflows-second-week-gains-coinshares?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkNjktYjZjYS03YmVmLWI5ZGItMTlmMDQwOWRiM2Mx.jpg\" alt=\"Crypto funds log second week of inflows after massive $5.5B sell-off\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin led the $716 million of inflows to crypto ETPs last week, while Chainlink saw record gains, accounting for more than 50% of its AUM.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 10:54:18 +0000",
-      "fetched_at": "2025-12-08T10:55:45.207453482Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 658,
-  "last_update": "2025-12-16T11:49:37.576416618Z"
+  "total_captured": 662,
+  "last_update": "2025-12-16T12:26:17.876038926Z"
 }

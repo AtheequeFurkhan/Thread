@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 11:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-658-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 12:26 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-662-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 11:49 UTC)*
+*(Updated: 16 Dec 12:26 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework](https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Spain’s regulator sets out MiCA transition rules for crypto platforms](https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [FCA consults on UK crypto rules for exchanges, lending and DeFi](https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [The Warner Bros. Curse](https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse) | ⚪ Neutral |
 | **World** | [French court sentences ex-DR Congo rebel and politician to 30 years in jail](https://www.bbc.com/news/articles/c4ge7412evlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) | ⚪ Neutral |
-| **World** | [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock](https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Crypto ATM operator to expand to Texas, citing friendly regulation](https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework](https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Spain’s regulator sets out MiCA transition rules for crypto platforms](https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [FCA consults on UK crypto rules for exchanges, lending and DeFi](https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away](https://cointelegraph.com/news/alexander-ray-our-partner-within-the-ctdg-initiative-and-a-web3-entrepreneur-co-founder-of-albus-protocol-and-jpool-has-passed-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026](https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?](https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Winklevoss-led Gemini rolls out prediction markets in 50 US states](https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Negotiations over 'historic' US-UK tech deal stall](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump says $72bn Netflix-Warner Bros deal 'could be a problem'](https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Japan is facing a dementia crisis – can technology help?](https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
