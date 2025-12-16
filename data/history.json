@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away",
+      "link": "https://cointelegraph.com/news/alexander-ray-our-partner-within-the-ctdg-initiative-and-a-web3-entrepreneur-co-founder-of-albus-protocol-and-jpool-has-passed-away?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2ZTMtYzZlOC03M2NlLWJlNDMtZjMzZTBlZDIzNTEwLkpQRw==.jpg\" alt=\"Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away\"\u003e\u003c/p\u003e\u003cp\u003eFor our team, this is not only the loss of a respected builder in the Web3 space, but the loss of a close and trusted partner.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 11:22:49 +0000",
+      "fetched_at": "2025-12-16T11:32:50.288542872Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Negotiations over 'historic' US-UK tech deal stall",
+      "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"",
+      "published": "Tue, 16 Dec 2025 11:29:32 GMT",
+      "fetched_at": "2025-12-16T11:32:50.1963136Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026",
       "link": "https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-08T10:15:01.344542616Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Syrians share their thoughts one year on from the fall of Assad",
-      "link": "https://www.bbc.com/news/videos/c3v132eq3vgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC's Middle East correspondent Hugo Bachega speaks to Syrians about how life has changed since the revolution.",
-      "published": "Mon, 08 Dec 2025 08:38:09 GMT",
-      "fetched_at": "2025-12-08T10:15:01.246289392Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US Treasurys lead tokenization wave as CoinShares predicts 2026 growth",
-      "link": "https://cointelegraph.com/news/coinshares-2026-outlook-tokenized-rwas-us-treasuries?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMjAtMWZjYy03NjY3LTlkM2UtMmQzNzZmNDgyZDFi.jpg\" alt=\"US Treasurys lead tokenization wave as CoinShares predicts 2026 growth\"\u003e\u003c/p\u003e\u003cp\u003eCoinShares said tokenized RWAs jumped 229% in 2025, led by US Treasurys, and it expects dollar-yield demand to keep driving onchain growth into 2026.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 10:00:42 +0000",
-      "fetched_at": "2025-12-08T10:15:01.07489984Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 652,
-  "last_update": "2025-12-16T11:14:55.634441148Z"
+  "total_captured": 654,
+  "last_update": "2025-12-16T11:32:50.52253832Z"
 }
