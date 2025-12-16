@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Political tokens played key role in memecoin boom and bust: CoinGecko",
+      "link": "https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3MDktYTUwNC03NjdjLTg0YTktMzdiMTA5Mjk1NWIyLmpwZw==.jpg\" alt=\"Political tokens played key role in memecoin boom and bust: CoinGecko\"\u003e\u003c/p\u003e\u003cp\u003eElection-linked speculation and viral political tokens reshaped memecoins in 2024 before confidence unraveled in early 2025, CoinGecko data shows.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 13:36:42 +0000",
+      "fetched_at": "2025-12-16T13:50:02.238223993Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
+      "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges.",
+      "published": "Mon, 08 Dec 2025 12:19:21 GMT",
+      "fetched_at": "2025-12-16T13:50:01.998180667Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit",
       "link": "https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 13:34:49 +0000",
       "fetched_at": "2025-12-08T13:46:19.956089679Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears",
-      "link": "https://cointelegraph.com/news/bitcoin-rallies-are-for-selling-top-arguments-btc-market-bears?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkYjEtZmU5ZC03M2VkLWJjMDEtOWE0MjNiMGJhNWZk.jpg\" alt=\"Bitcoin ’rallies are for selling‘: Top 3 arguments from BTC market bears\"\u003e\u003c/p\u003e\u003cp\u003eMany analysts say BTC’s rebound is a bull trap, warning its price could fall to as low as $40,000 over the coming months.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 13:35:02 +0000",
-      "fetched_at": "2025-12-08T13:46:19.956071585Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Hunt under way for Benin coup plotters and their hostages",
-      "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nigeria sent fighter jets to help oust the mutineers from the national broadcaster and a military camp.",
-      "published": "Mon, 08 Dec 2025 12:42:28 GMT",
-      "fetched_at": "2025-12-08T13:08:54.479061519Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 665,
-  "last_update": "2025-12-16T13:11:31.342142382Z"
+  "total_captured": 667,
+  "last_update": "2025-12-16T13:50:02.745253124Z"
 }
