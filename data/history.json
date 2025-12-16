@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin to hit new all-time high within 6 months: Grayscale",
+      "link": "https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0NjgtMGY1ZS03MTM3LTgxNTItMTMyMjJiMzVjMjNlLmpwZw==.jpg\" alt=\"Bitcoin to hit new all-time high within 6 months: Grayscale\"\u003e\u003c/p\u003e\u003cp\u003eGrayscale’s 2026 outlook cites institutional demand and clearer US regulation as key catalysts for Bitcoin’s surge in the first half of 2026. \u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 02:57:49 +0000",
+      "fetched_at": "2025-12-16T03:54:31.06661982Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "US crypto market structure legislation to advance in early 2026",
+      "link": "https://cointelegraph.com/news/us-crypto-market-structure-legislation-delayed-until-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0ZTItOTRhMi03OGQyLWIxNTMtM2FhZDFiMTJjZDg1LmpwZw==.jpg\" alt=\"US crypto market structure legislation to advance in early 2026\"\u003e\u003c/p\u003e\u003cp\u003eThe Senate Banking Committee delayed crypto market structure hearings until 2026 amid ongoing bipartisan negotiations.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 03:01:24 +0000",
+      "fetched_at": "2025-12-16T03:54:31.066602678Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Trump to ‘look into’ recently convicted Samurai Wallet co-founder",
       "link": "https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 03:25:20 +0000",
       "fetched_at": "2025-12-08T03:51:42.630150749Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO",
-      "link": "https://cointelegraph.com/news/jp-morgan-dimon-debanking-claims-strike-trump-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiNjMtOTBjYy03NmVjLWI5NzgtMmVjNDMzODg4NTM2.jpg\" alt=\"‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO\"\u003e\u003c/p\u003e\u003cp\u003eIt was only last month when Jack Mallers, CEO of Bitcoin payments company Strike, accused JPMorgan of closing his personal accounts without explanation.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 03:36:33 +0000",
-      "fetched_at": "2025-12-08T03:51:42.630132274Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
-      "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.",
-      "published": "Mon, 08 Dec 2025 02:16:15 GMT",
-      "fetched_at": "2025-12-08T02:49:28.166085382Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 630,
-  "last_update": "2025-12-16T02:53:48.408876961Z"
+  "total_captured": 632,
+  "last_update": "2025-12-16T03:54:31.066655597Z"
 }

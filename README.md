@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 02:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-630-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 03:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-632-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 02:53 UTC)*
+*(Updated: 16 Dec 03:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin to hit new all-time high within 6 months: Grayscale](https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [US crypto market structure legislation to advance in early 2026](https://cointelegraph.com/news/us-crypto-market-structure-legislation-delayed-until-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Trump to ‘look into’ recently convicted Samurai Wallet co-founder](https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Reddit challenges Australia's world-first law banning children under 16 from social media](https://www.npr.org/2025/12/12/g-s1-101828/reddit-challenges-australias-social-media-law) | 🔴 Negative |
 | **Business** | [Ford pulls the plug on the all-electric F-150 Lightning pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers](https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Bitget tests TradFi trading with forex, gold and stock derivatives using USDt](https://cointelegraph.com/news/bitget-beta-forex-gold-commodities-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin to hit new all-time high within 6 months: Grayscale](https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [US crypto market structure legislation to advance in early 2026](https://cointelegraph.com/news/us-crypto-market-structure-legislation-delayed-until-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Trump to ‘look into’ recently convicted Samurai Wallet co-founder](https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets](https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy](https://cointelegraph.com/news/sec-commissioner-crypto-financial-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Circle to acquire Interop Labs team and IP as Axelar remains independent](https://cointelegraph.com/news/circle-acquire-interop-labs-ip-axelar-crosschain-independent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
