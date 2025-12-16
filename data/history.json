@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto urges SEC to see the good in blockchain privacy tools",
+      "link": "https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0OGMtMzE5ZS03YzM3LWI3NWItMzM2ZWUzMTgwODA3LmpwZw==.jpg\" alt=\"Crypto urges SEC to see the good in blockchain privacy tools\"\u003e\u003c/p\u003e\u003cp\u003eSEC chair Paul Atkins says the agency must find how to allow people to use blockchain privacy tools “without immediately falling under suspicion.”\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 04:10:13 +0000",
+      "fetched_at": "2025-12-16T04:28:56.217328525Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
+      "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.",
+      "published": "Mon, 08 Dec 2025 10:44:44 GMT",
+      "fetched_at": "2025-12-16T04:28:55.996133315Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin to hit new all-time high within 6 months: Grayscale",
       "link": "https://cointelegraph.com/news/bitcoin-hit-new-ath-h1-2026-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 02:55:57 +0000",
       "fetched_at": "2025-12-08T03:51:42.630171738Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump’s national security strategy is silent on crypto, blockchain",
-      "link": "https://cointelegraph.com/news/trump-national-security-strategy-silent-crypto-blockchain?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiNTAtMzdkMy03YTczLTlkYzUtYTc0YTRlNDFhMGY2.jpg\" alt=\"Trump’s national security strategy is silent on crypto, blockchain\"\u003e\u003c/p\u003e\u003cp\u003eCryptocurrency and blockchain did not receive a mention in Donald Trump’s national security priorities, despite the president’s desire for the US to become a hub for crypto.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 03:07:52 +0000",
-      "fetched_at": "2025-12-08T03:51:42.630161048Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Robinhood set to enter Indonesia, targeting 17M crypto traders",
-      "link": "https://cointelegraph.com/news/robinhood-enters-indonesia-with-dual-acquisition-targeting-17m-crypto-traders?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiY2UtZTU2Ny03OWRmLTg3OTktZDQ1YjgwOTAwNzg0.jpg\" alt=\"Robinhood set to enter Indonesia, targeting 17M crypto traders\"\u003e\u003c/p\u003e\u003cp\u003eRobinhood acquired an Indonesian brokerage and digital asset trading firm to access a market with 17 million crypto investors.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 03:25:20 +0000",
-      "fetched_at": "2025-12-08T03:51:42.630150749Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 632,
-  "last_update": "2025-12-16T03:54:31.066655597Z"
+  "total_captured": 634,
+  "last_update": "2025-12-16T04:28:56.487043779Z"
 }
