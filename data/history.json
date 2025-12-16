@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Thousands of dinosaur footprints found on Italian mountain",
+      "link": "https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The footprints date back some 210 million years and show traces of toes and claws.",
+      "published": "Tue, 16 Dec 2025 15:09:21 GMT",
+      "fetched_at": "2025-12-16T15:42:51.928464111Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
+      "link": "https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3OGMtZWQ2OS03ZjI3LTgwOTEtMjY0NWIyZWIyZDNlLmpwZw==.jpg\" alt=\"Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish\"\u003e\u003c/p\u003e\u003cp\u003eEthereum price wobbled as weak onchain activity, low futures demand and aggressive selling by holders favored a potential ETH price drop to $2,300.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 15:23:07 +0000",
+      "fetched_at": "2025-12-16T15:42:51.565753Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bondi Beach gunman originally from India, police say",
       "link": "https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 10:55:39 -0500",
       "fetched_at": "2025-12-08T16:16:54.708732718Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ripple’s big Singapore win: What the expanded license allows now",
-      "link": "https://cointelegraph.com/news/ripple-s-big-singapore-win-what-the-expanded-license-allows-now?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYjQtOWM5Ny03Mzk2LTg0NzItOTg5MGRjYjRiZTBi.jpg\" alt=\"Ripple’s big Singapore win: What the expanded license allows now\"\u003e\u003c/p\u003e\u003cp\u003eSingapore’s MAS has widened Ripple’s MPI license scope, enabling regulated token services, end-to-end payments and major growth across Asia-Pacific.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 16:09:01 +0000",
-      "fetched_at": "2025-12-08T16:16:54.130947182Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation",
-      "link": "https://cointelegraph.com/news/ripple-500m-raise-wall-street-protected-deal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYTMtZmRjYy03NmY5LTg0OTgtMDU0NTM3NDc2M2Fh.jpg\" alt=\"Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation\"\u003e\u003c/p\u003e\u003cp\u003eRipple’s $500 million raise shows its post-SEC shift is working, as Wall Street piles in under a deal reportedly offering rare protections and guaranteed returns.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 16:09:29 +0000",
-      "fetched_at": "2025-12-08T16:16:54.130918709Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 674,
-  "last_update": "2025-12-16T15:15:31.814892726Z"
+  "total_captured": 676,
+  "last_update": "2025-12-16T15:42:52.030510562Z"
 }
