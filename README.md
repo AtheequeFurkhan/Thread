@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 12:26 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-662-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 13:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-665-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 12:26 UTC)*
+*(Updated: 16 Dec 13:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Custodia renews bid for Fed master account in rehearing push at Tenth Circuit](https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’](https://cointelegraph.com/news/solana-ddos-attack-6-tbps-network-stays-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **World** | [Ukraine struggling to keep lights on under Russian attack, says energy boss](https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework](https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Spain’s regulator sets out MiCA transition rules for crypto platforms](https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Business** | [Chain restaurants are hit by tariffs and inflation. How do they control costs?](https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals) | ⚪ Neutral |
 | **World** | [Trump repeats criticism of killed Hollywood director Rob Reiner](https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Winklevoss-led Gemini rolls out prediction markets in 50 US states](https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin sharks stack at the fastest pace in 13 years, with BTC down 30%](https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Business** | [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Custodia renews bid for Fed master account in rehearing push at Tenth Circuit](https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’](https://cointelegraph.com/news/solana-ddos-attack-6-tbps-network-stays-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework](https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Spain’s regulator sets out MiCA transition rules for crypto platforms](https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [FCA consults on UK crypto rules for exchanges, lending and DeFi](https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away](https://cointelegraph.com/news/alexander-ray-our-partner-within-the-ctdg-initiative-and-a-web3-entrepreneur-co-founder-of-albus-protocol-and-jpool-has-passed-away?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026](https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ukraine struggling to keep lights on under Russian attack, says energy boss](https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [French court sentences ex-DR Congo rebel and politician to 30 years in jail](https://www.bbc.com/news/articles/c4ge7412evlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Best of our country': Australian PM visits Bondi hero in hospital](https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Dashcam video shows couple trying to stop gunman before being killed in Bondi attack](https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump repeats criticism of killed Hollywood director Rob Reiner](https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [NSW premier defends police response to Bondi attack](https://www.bbc.com/news/articles/cde644367j0o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
