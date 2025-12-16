@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "FCA consults on UK crypto rules for exchanges, lending and DeFi",
+      "link": "https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2OGMtNjU3Yy03ZWZkLTkzZmItZDQ2ZDUwMDJlZTVjLmpwZw==.jpg\" alt=\"FCA consults on UK crypto rules for exchanges, lending and DeFi\"\u003e\u003c/p\u003e\u003cp\u003eThe UK's FCA launched three consultations on new crypto market rules covering exchanges, staking, lending and DeFi, with feedback due Feb. 12, 2026.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 11:30:13 +0000",
+      "fetched_at": "2025-12-16T11:49:37.576395398Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The Warner Bros. Curse",
+      "link": "https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse",
+      "category": "Business",
+      "summary": "Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it?",
+      "published": "Tue, 16 Dec 2025 06:30:00 -0500",
+      "fetched_at": "2025-12-16T11:49:37.224333256Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "French court sentences ex-DR Congo rebel and politician to 30 years in jail",
+      "link": "https://www.bbc.com/news/articles/c4ge7412evlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In a landmark trial, Roger Lumbala faced accusations about atrocities committed during the Second Congo war.",
+      "published": "Tue, 16 Dec 2025 11:23:46 GMT",
+      "fetched_at": "2025-12-16T11:49:37.018384257Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'Best of our country': Australian PM visits Bondi hero in hospital",
+      "link": "https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "\"Your heart is strong\", Anthony Albanese tells the father-of-two, calling him \"a true Australian hero\".",
+      "published": "Tue, 16 Dec 2025 11:43:27 GMT",
+      "fetched_at": "2025-12-16T11:49:37.018370732Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Alexander Ray, our partner within the CTDG initiative and a Web3 entrepreneur, co-founder of Albus Protocol and JPool, has passed away",
       "link": "https://cointelegraph.com/news/alexander-ray-our-partner-within-the-ctdg-initiative-and-a-web3-entrepreneur-co-founder-of-albus-protocol-and-jpool-has-passed-away?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 08 Dec 2025 10:54:18 +0000",
       "fetched_at": "2025-12-08T10:55:45.207453482Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
-      "published": "Sat, 06 Dec 2025 01:00:00 GMT",
-      "fetched_at": "2025-12-08T10:43:18.311315378Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The unexpected history of those oh-so annoying internet popup ads",
-      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
-      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
-      "fetched_at": "2025-12-08T10:43:18.311307153Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Netflix is buying Warner Bros. What it could mean for the entertainment industry",
-      "link": "https://www.npr.org/2025/12/08/nx-s1-5634685/netflix-is-buying-warner-bros-what-it-could-mean-for-the-entertainment-industry",
-      "category": "Business",
-      "summary": "NPR's Leila Fadel speaks with Matt Belloni of Puck News about Netflix's acquisition of Warner Bros. and the potential challenges ahead.",
-      "published": "Mon, 08 Dec 2025 04:46:32 -0500",
-      "fetched_at": "2025-12-08T10:15:01.344552745Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Supreme Court to hear case that could vastly expand presidential powers",
-      "link": "https://www.npr.org/2025/12/08/nx-s1-5626876/supreme-court-trump-ftc-unitary-executive",
-      "category": "Business",
-      "summary": "The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies.",
-      "published": "Mon, 08 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-08T10:15:01.344542616Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 654,
-  "last_update": "2025-12-16T11:32:50.52253832Z"
+  "total_captured": 658,
+  "last_update": "2025-12-16T11:49:37.576416618Z"
 }
