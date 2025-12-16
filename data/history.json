@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "BBC visits flower-lined Bondi Pavilion after attack",
+      "link": "https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Crowds of people have left flowers and candles as a tribute to the 15 people who were killed in the attack in Sydney.",
+      "published": "Tue, 16 Dec 2025 03:31:25 GMT",
+      "fetched_at": "2025-12-16T06:54:49.105095787Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock",
       "link": "https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 05:05:22 GMT",
       "fetched_at": "2025-12-08T06:21:51.568700846Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
-      "link": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "One year into his rule Syria's leader has won over Trump and much of the West, but at home people know his weaknesses.",
-      "published": "Mon, 08 Dec 2025 06:00:48 GMT",
-      "fetched_at": "2025-12-08T06:21:51.568691499Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 640,
-  "last_update": "2025-12-16T06:20:50.489848836Z"
+  "total_captured": 641,
+  "last_update": "2025-12-16T06:54:49.710124612Z"
 }
