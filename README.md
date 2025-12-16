@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 19:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-687-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 19:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-688-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 19:30 UTC)*
+*(Updated: 16 Dec 19:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'](https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [SEC ends probe into Aave after four years, CEO says](https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why](https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Sudan's RSF trying to cover up mass killings in el-Fasher, researchers say](https://www.bbc.com/news/articles/c75veyzz2g2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Lizzo celebrates as fat-shaming claims dismissed](https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Visa launches USDC settlement for US banks on Solana blockchain](https://cointelegraph.com/news/visa-usdc-settlement-us-banks-solana-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Ronin and ZKsync’s onchain metrics fell the most in 2025](https://cointelegraph.com/news/ronin-zksync-onchain-metrics-fell-most-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'](https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [EU waters down plans to end petrol and diesel car sales by 2035](https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands of dinosaur footprints found on Italian mountain](https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'",
+      "link": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In the interview, Wiles describes Donald Trump as having an \"alcoholic's personality\" and JD Vance as having been a \"conspiracy theorist\" for a decade.",
+      "published": "Tue, 16 Dec 2025 19:33:59 GMT",
+      "fetched_at": "2025-12-16T19:48:16.734750469Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US designates Colombian cocaine gang a terrorist group",
       "link": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 19:53:52 +0000",
       "fetched_at": "2025-12-08T20:14:15.072173329Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Watchdog asks for crypto industry feedback on UK investment reforms",
-      "link": "https://cointelegraph.com/news/uk-fca-watchdog-crypto-investment-reforms?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlZjUtNzZjMC03NWExLWFhNzAtY2VjNWQzODdhMjQz.jpg\" alt=\"Watchdog asks for crypto industry feedback on UK investment reforms\"\u003e\u003c/p\u003e\u003cp\u003eThe Financial Conduct Authority asked for companies linked to digital assets to weigh in on policy proposals in February and March 2026.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 19:10:01 +0000",
-      "fetched_at": "2025-12-08T19:28:05.383199378Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 687,
-  "last_update": "2025-12-16T19:30:36.732766782Z"
+  "total_captured": 688,
+  "last_update": "2025-12-16T19:48:17.071757252Z"
 }
