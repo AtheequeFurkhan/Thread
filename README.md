@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 21:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-693-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-694-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 21:49 UTC)*
+*(Updated: 16 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [RedotPay raises $107M Series B led by Goodwater for stablecoin payments](https://cointelegraph.com/news/redotpay-107m-seriesb-goodwater-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay](https://cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Second doctor sentenced in Matthew Perry overdose death](https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K](https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Thousands of dinosaur footprints found on Italian mountain](https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish](https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Bondi Beach gunman originally from India, police say](https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Second doctor sentenced in Matthew Perry overdose death](https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'](https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [EU waters down plans to end petrol and diesel car sales by 2035](https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

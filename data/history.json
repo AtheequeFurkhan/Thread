@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Murder charges filed against Nick Reiner for allegedly killing parents",
+      "link": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The suspect in the death of Rob and Michele Reiner was charged with two counts of first degree murder, and also was accused of using a deadly weapon.",
+      "published": "Tue, 16 Dec 2025 21:58:31 GMT",
+      "fetched_at": "2025-12-16T22:12:56.16619895Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "RedotPay raises $107M Series B led by Goodwater for stablecoin payments",
       "link": "https://cointelegraph.com/news/redotpay-107m-seriesb-goodwater-stablecoin-payments?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 08 Dec 2025 17:40:28 -0500",
       "fetched_at": "2025-12-08T22:49:51.97691918Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Saylor pitches Bitcoin-backed banking system to nation-states",
-      "link": "https://cointelegraph.com/news/michael-saylor-countries-bitcoin-backed-digital-banks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmOTctOTNhYS03YTA1LTg1NGQtZjVmNmVmNTQ5OGNm.jpg\" alt=\"Saylor pitches Bitcoin-backed banking system to nation-states\"\u003e\u003c/p\u003e\u003cp\u003eSpeaking in Abu Dhabi, the Strategy CEO said nations could use Bitcoin reserves and tokenized credit markets to offer regulated accounts with higher yields.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 21:51:01 +0000",
-      "fetched_at": "2025-12-08T22:12:13.069464528Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 693,
-  "last_update": "2025-12-16T21:49:29.752489091Z"
+  "total_captured": 694,
+  "last_update": "2025-12-16T22:12:56.496973478Z"
 }
