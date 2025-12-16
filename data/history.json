@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+      "link": "https://cointelegraph.com/news/over-1-in-20-emails-are-malicious-warns-internet-giant-cloudflare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1NTMtMjZiZi03MzIxLTg1NGQtYmQ2ZDA0NDk1YmE3LmpwZw==.jpg\" alt=\"Over 1 in 20 emails are malicious, warns internet giant Cloudflare\"\u003e\u003c/p\u003e\u003cp\u003eCloudflare found over 5% of global emails were malicious in 2025, peaking at nearly 10% in November, with more than half of them containing deceptive links.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 04:43:52 +0000",
+      "fetched_at": "2025-12-16T04:55:33.902138277Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "MetaMask adds Bitcoin support after teasing it 10 months ago",
+      "link": "https://cointelegraph.com/news/metamask-adds-bitcoin-support-after-teasing-february?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1NmYtZGI3NS03M2QzLTlhMjUtYjVhMDZjNzY4MTU4LmpwZw==.jpg\" alt=\"MetaMask adds Bitcoin support after teasing it 10 months ago\"\u003e\u003c/p\u003e\u003cp\u003eUsers can now buy, swap, send, and receive Bitcoin directly within the popular Ethereum-focused wallet, expanding its multichain reach.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 04:47:18 +0000",
+      "fetched_at": "2025-12-16T04:55:33.902119352Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto urges SEC to see the good in blockchain privacy tools",
       "link": "https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 06:15:00 +0000",
       "fetched_at": "2025-12-08T06:21:51.525966853Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Philippines’ fastest growing digital bank rolls out crypto services",
-      "link": "https://cointelegraph.com/news/gotyme-digital-bank-philippines-rolls-out-crypto-services?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjNzMtYzhmNy03YjA1LWJhZTctOGU4ZDRhNGQyZDhh.jpg\" alt=\"Philippines’ fastest growing digital bank rolls out crypto services\"\u003e\u003c/p\u003e\u003cp\u003eThe digital bank now offers BTC, ETH, SOL, and more via a secure app integration with US fintech firm Alpaca.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 05:40:01 +0000",
-      "fetched_at": "2025-12-08T05:52:05.653145521Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-floats-futures-market-allowing-users-prepay-gas-fees?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiMzEtYzI0YS03NzgxLWI5ZmEtOTE0YWM1M2QwZGIy.jpg\" alt=\"Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes\"\u003e\u003c/p\u003e\u003cp\u003eVitalik Buterin has proposed a system akin to prediction markets for gas fees, to provide Ethereum users with a means to hedge against future network fee volatility. \u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 02:55:57 +0000",
-      "fetched_at": "2025-12-08T03:51:42.630171738Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 634,
-  "last_update": "2025-12-16T04:28:56.487043779Z"
+  "total_captured": 636,
+  "last_update": "2025-12-16T04:55:34.085604868Z"
 }
