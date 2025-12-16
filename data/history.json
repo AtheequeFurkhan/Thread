@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Rebels say they will withdraw from key DR Congo city at US request",
+      "link": "https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US accuses Rwanda of backing the rebel advance in breach of a deal brokered by President Trump.",
+      "published": "Tue, 16 Dec 2025 17:12:31 GMT",
+      "fetched_at": "2025-12-16T17:45:35.156861015Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "EU waters down plans to end petrol and diesel car sales by 2035",
+      "link": "https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Carmakers, particularly in Germany, have lobbied heavily for concessions to the planned rules.",
+      "published": "Tue, 16 Dec 2025 17:10:57 GMT",
+      "fetched_at": "2025-12-16T17:45:35.156840187Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How scammers target crypto users during the holidays and how to stay protected",
+      "link": "https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MjQtMjRiMi03NjFmLWJiNDItMWM2MjcyZDkwYjk3LmpwZWc=.jpeg\" alt=\"How scammers target crypto users during the holidays and how to stay protected\"\u003e\u003c/p\u003e\u003cp\u003eFrom fake crypto investment offers to deepfake endorsements, here’s how criminals trick users and what you can do to stay one step ahead.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 17:19:22 +0000",
+      "fetched_at": "2025-12-16T17:45:34.982884706Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
       "link": "https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 08 Dec 2025 17:01:30 GMT",
       "fetched_at": "2025-12-08T17:34:50.558207313Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BlackRock files for listing staked Ether ETF",
-      "link": "https://cointelegraph.com/news/blackrock-sec-staked-ether-etf?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlNzQtMjQ5Ni03MjNlLWFlMTEtZDBkNzFiNTI3NDA0.jpg\" alt=\"BlackRock files for listing staked Ether ETF\"\u003e\u003c/p\u003e\u003cp\u003eThe fund, if approved by the SEC, would give BlackRock investors indirect exposure to staked Ether — one of the industry’s first following the 2024 approval of spot Ether ETFs.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 16:53:49 +0000",
-      "fetched_at": "2025-12-08T17:13:54.954889659Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The easiest and safest methods for gifting crypto at Christmas in 2025",
-      "link": "https://cointelegraph.com/explained/the-easiest-and-safest-methods-for-gifting-crypto-at-christmas-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlYmMtZDk5Yy03NDhmLThhNzktMDg4NTU1MTNiNTVi.jpg\" alt=\"The easiest and safest methods for gifting crypto at Christmas in 2025\"\u003e\u003c/p\u003e\u003cp\u003eDiscover safe ways to give crypto in 2025. Learn about gift cards, exchanges, hardware wallets and essential security and tax guidance.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 17:00:00 +0000",
-      "fetched_at": "2025-12-08T17:13:54.954876445Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery",
-      "link": "https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix",
-      "category": "Business",
-      "summary": "Paramount has launched a hostile bid for the company that's home to Casablanca, Batman and CNN. Just Friday, Netflix and Warner Brothers executives were celebrating a deal they had struck.",
-      "published": "Mon, 08 Dec 2025 11:36:39 -0500",
-      "fetched_at": "2025-12-08T16:49:56.176854558Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 679,
-  "last_update": "2025-12-16T17:17:30.346841954Z"
+  "total_captured": 682,
+  "last_update": "2025-12-16T17:45:35.15688991Z"
 }
