@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock",
+      "link": "https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyODEtZWNlYS03YjI2LTk2NTktZWU0ZWI1MTY2MGNhLmpwZw==.jpg\" alt=\"Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock\"\u003e\u003c/p\u003e\u003cp\u003eMichael Saylor’s company increased its Bitcoin holdings to 671,268 BTC following back-to-back weeks of purchases exceeding 10,000 BTC.\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 16:10:06 +0000",
+      "fetched_at": "2025-12-16T06:20:50.467569651Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto ATM operator to expand to Texas, citing friendly regulation",
+      "link": "https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyN2UtYzg5NS03MTM0LTg4MjQtZTdlZTdmZjIwNDkyLmpwZw==.jpg\" alt=\"Crypto ATM operator to expand to Texas, citing friendly regulation\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin Bancorp will join Bitcoin Depot, CoinFlip, and others in offering crypto ATMs to the Lone Star State, where the state has begun gaining Bitcoin exposure via ETFs\u003c/p\u003e",
+      "published": "Mon, 15 Dec 2025 16:13:42 +0000",
+      "fetched_at": "2025-12-16T06:20:50.467539885Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ripple’s RLUSD stablecoin goes multichain in new pilot",
+      "link": "https://cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1MWEtNjRkMC03Y2U3LWIwZjAtM2E1YTJiMTVjMmE1LmpwZw==.jpg\" alt=\"Ripple’s RLUSD stablecoin goes multichain in new pilot\"\u003e\u003c/p\u003e\u003cp\u003eRipple is testing RLUSD on layer 2s Optimism, Base, Ink, and Unichain, after the token initially launched on the XRP Ledger and Ethereum in 2024.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 05:53:18 +0000",
+      "fetched_at": "2025-12-16T06:20:50.46750503Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
+      "link": "https://cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1OWItNGU2Mi03NzJhLWIyMTktYWQ4OWZkYWEzMjJmLmpwZw==.jpg\" alt=\"Most crypto sectors lagged Bitcoin over past 3 months: Glassnode\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin fell 26% in three months but outperformed most crypto sectors as Ether dropped 36%, AI tokens fell 48%, and memecoins dipped 56%.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 06:10:26 +0000",
+      "fetched_at": "2025-12-16T06:20:50.46748387Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
       "link": "https://cointelegraph.com/news/over-1-in-20-emails-are-malicious-warns-internet-giant-cloudflare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 08 Dec 2025 06:00:48 GMT",
       "fetched_at": "2025-12-08T06:21:51.568691499Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Zelensky due at Downing Street for high-level Ukraine talks",
-      "link": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Sir Keir Starmer will also welcome the leaders of France and Germany as Europe looks to respond to a US-led push for a peace deal.",
-      "published": "Mon, 08 Dec 2025 04:03:33 GMT",
-      "fetched_at": "2025-12-08T06:21:51.568683493Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin bulls must defend key level to avoid $76K, say analysts",
-      "link": "https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTNkODQtNDkzNS03YTBhLTg0YjItNGNmYmRkOWE2YzE2.jpg\" alt=\"Bitcoin bulls must defend key level to avoid $76K, say analysts\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is holding a critical Fibonacci support level, but analysts warned that a break could trigger losses down to April lows of $76,000.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 05:48:38 +0000",
-      "fetched_at": "2025-12-08T06:21:51.526000475Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026",
-      "link": "https://cointelegraph.com/news/ethereum-zk-rollup-zksync-lite-sunset-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiZTctN2YxNi03ZWNlLWE2MjMtYmFiMWQxYWNjNmNm.jpg\" alt=\"Ethereum’s first ZK-rollup, ZKsync Lite, to be retired in 2026\"\u003e\u003c/p\u003e\u003cp\u003eZKsync says the first Ethereum zero-knowledge rollup blockchain will have an “orderly sunset” next year, as it has served its purpose.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 05:55:49 +0000",
-      "fetched_at": "2025-12-08T06:21:51.525983253Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The future of secure messaging: Why decentralization matters more than ever",
-      "link": "https://cointelegraph.com/explained/the-future-of-secure-messaging-why-decentralization-matters-more-than-ever?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjODQtMjY3YS03NjQyLTgzY2QtMTNkMTFlMTMwNDFl.jpg\" alt=\"The future of secure messaging: Why decentralization matters more than ever\"\u003e\u003c/p\u003e\u003cp\u003eDecentralized messengers shift security beyond encryption by reducing metadata, limiting data requests and preparing for post-quantum threats.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 06:15:00 +0000",
-      "fetched_at": "2025-12-08T06:21:51.525966853Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 636,
-  "last_update": "2025-12-16T05:53:54.835597599Z"
+  "total_captured": 640,
+  "last_update": "2025-12-16T06:20:50.489848836Z"
 }
