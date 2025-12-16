@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 01:00 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-629-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 02:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-630-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 01:00 UTC)*
+*(Updated: 16 Dec 02:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trump to ‘look into’ recently convicted Samurai Wallet co-founder](https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Reddit challenges Australia's world-first law banning children under 16 from social media](https://www.npr.org/2025/12/12/g-s1-101828/reddit-challenges-australias-social-media-law) | 🔴 Negative |
 | **Business** | [Ford pulls the plug on the all-electric F-150 Lightning pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning) | 🟢 Positive |
 | **Crypto** | [Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets](https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [How the Bondi Beach shooting unfolded](https://www.bbc.com/news/videos/c3e0wnv5zx2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader](https://cointelegraph.com/news/bitcoin-parabola-breakdown-raises-chance-for-80percent-correction-veteran-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-15-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [XRP sinks below $2 despite $1B in ETF inflows: How low can price go?](https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trump to ‘look into’ recently convicted Samurai Wallet co-founder](https://cointelegraph.com/news/trump-review-samourai-wallet-pardon-keonne-rodriguez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets](https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy](https://cointelegraph.com/news/sec-commissioner-crypto-financial-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Circle to acquire Interop Labs team and IP as Axelar remains independent](https://cointelegraph.com/news/circle-acquire-interop-labs-ip-axelar-crosschain-independent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Anchorage Digital deepens RIA market push by acquiring unit of Securitize](https://cointelegraph.com/news/anchorage-digital-acquires-securitize-advisors-ria-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
