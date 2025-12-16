@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit",
+      "link": "https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc",
+      "category": "Business",
+      "summary": "The British broadcaster apologized to Trump last month, calling the edit an \"error of judgment,\" but denies its reporting was defamatory.",
+      "published": "Tue, 16 Dec 2025 02:13:48 -0500",
+      "fetched_at": "2025-12-16T07:41:38.806157905Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Eight killed in latest strikes on alleged drug boats, US military says",
+      "link": "https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US has carried out more than 20 strikes in international waters on alleged drug vessels since September.",
+      "published": "Tue, 16 Dec 2025 07:30:16 GMT",
+      "fetched_at": "2025-12-16T07:41:38.43044964Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BBC visits flower-lined Bondi Pavilion after attack",
       "link": "https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 07:03:46 GMT",
       "fetched_at": "2025-12-08T07:17:41.066911978Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Water leak in Louvre damages hundreds of books",
-      "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The leak in the Egyptian department comes just weeks after a jewellery heist that put the museum's security infrastructure under scrutiny.",
-      "published": "Mon, 08 Dec 2025 03:07:17 GMT",
-      "fetched_at": "2025-12-08T07:17:41.066903122Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "White South Africans divided on US refugee offer",
-      "link": "https://www.bbc.com/news/articles/c2lvk2gql97o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Donald Trump says white South Africans are being persecuted and so qualify for asylum but black farmers are also being killed.",
-      "published": "Mon, 08 Dec 2025 05:05:22 GMT",
-      "fetched_at": "2025-12-08T06:21:51.568700846Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 641,
-  "last_update": "2025-12-16T07:17:10.716074769Z"
+  "total_captured": 643,
+  "last_update": "2025-12-16T07:41:38.969016077Z"
 }

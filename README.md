@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 07:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-641-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-16 Dec 07:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-643-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 07:17 UTC)*
+*(Updated: 16 Dec 07:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) | ⚪ Neutral |
+| **World** | [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock](https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto ATM operator to expand to Texas, citing friendly regulation](https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Ford pulls the plug on the F-150 Lightning electric pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning) | 🟢 Positive |
-| **World** | [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Trump sues BBC for $10 billion, accusing it of defamation over  Jan. 6 speech edit](https://www.npr.org/2025/12/16/nx-s1-5645649/trump-sues-bbc) (⚪ Neutral)
 - [Reddit challenges Australia's world-first law banning children under 16 from social media](https://www.npr.org/2025/12/12/g-s1-101828/reddit-challenges-australias-social-media-law) (🔴 Negative)
 - [Ford pulls the plug on the all-electric F-150 Lightning pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning) (🟢 Positive)
 - [Ford pulls the plug on the F-150 Lightning electric pickup truck](https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning) (🟢 Positive)
 - [Roomba maker files for bankruptcy, weighed down by debt and tariffs](https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy) (🔴 Negative)
-- [Car prices hit a record high](https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high) (🟢 Positive)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Eight killed in latest strikes on alleged drug boats, US military says](https://www.bbc.com/news/articles/c3e0wd7110vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [BBC visits flower-lined Bondi Pavilion after attack](https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How the Maga world became divided - and what it means for Trump](https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Epstein's UK flights had alleged British abuse victims on board, BBC finds](https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [FBI foils New Year's Eve terror plot across southern California, officials say](https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Rob Reiner's son Nick arrested for murder after director and wife found dead](https://www.bbc.com/news/articles/ce8qnzd680ro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
