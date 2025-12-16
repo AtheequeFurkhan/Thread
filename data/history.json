@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Second doctor sentenced in Matthew Perry overdose death",
+      "link": "https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Dr Mark Chavez, one of five people who pleaded guilty in the Friends star's death, was sentenced to eight months of home detention.",
+      "published": "Tue, 16 Dec 2025 20:10:45 GMT",
+      "fetched_at": "2025-12-16T20:15:08.811889479Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "3 reasons why trader demand for XRP evaporated: Is $1 next?",
+      "link": "https://cointelegraph.com/news/3-reasons-why-trader-demand-for-xrp-evaporated-is-dollar1-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmMTYtMzE1Ni03ODk2LWE0NzktNzljZTdhMzQxZGY0.jpg\" alt=\"3 reasons why trader demand for XRP evaporated: Is $1 next?\"\u003e\u003c/p\u003e\u003cp\u003eXRP fails to find demand under $2 as futures volume on Binance fell by 96% and traders’ use of leverage hits new lows. Is $1 XRP the next stop?\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-16T20:15:08.788092463Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+      "link": "https://cointelegraph.com/news/bitcoin-treasury-kindly-md-nasdaq-price-notice?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4NzktY2Y2Zi03MzIzLWFkNTQtMDMyMzAyMjQ2Nzc5LmpwZw==.jpg\" alt=\"Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice\"\u003e\u003c/p\u003e\u003cp\u003eThe company has 180 days to regain compliance with Nasdaq’s minimum bid price requirement after its shares traded below $1 for 30 consecutive business days.\u003c/p\u003e",
+      "published": "Tue, 16 Dec 2025 20:01:27 +0000",
+      "fetched_at": "2025-12-16T20:15:08.788067244Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'",
       "link": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 08 Dec 2025 20:52:57 +0000",
       "fetched_at": "2025-12-08T21:11:30.342766845Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Three-year-old girl killed in Gaza by Israeli forces, local sources say",
-      "link": "https://www.bbc.com/news/articles/cqxqz4227x7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The child was reportedly playing near her family's tent in Mawasi Rafah when she was shot.",
-      "published": "Mon, 08 Dec 2025 20:24:46 GMT",
-      "fetched_at": "2025-12-08T20:36:43.981402195Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US judge asks for clarification on Do Kwon’s foreign charges",
-      "link": "https://cointelegraph.com/news/judge-do-kwon-south-korea-montenegro-charges-sentencing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmNWEtOTU0ZS03NzFhLThkZDgtNjA0ZTQ3OWYzZjE5.jpg\" alt=\"US judge asks for clarification on Do Kwon’s foreign charges\"\u003e\u003c/p\u003e\u003cp\u003eThe Terraform Labs co-founder could face up to 40 years in prison in South Korea, but a judge questioned whether the country would ignore his US sentence.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 20:16:37 +0000",
-      "fetched_at": "2025-12-08T20:36:43.915547684Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "StableChain launches mainnet with USDT gas fees, dedicated governance token",
-      "link": "https://cointelegraph.com/news/stablechain-mainnet-stable-governance-foundation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlY2MtMmY5Ny03OGJmLTg4N2ItMzc5YmZjMmY1ZTJi.jpg\" alt=\"StableChain launches mainnet with USDT gas fees, dedicated governance token\"\u003e\u003c/p\u003e\u003cp\u003eThe USDT-powered network launches with support from Bitfinex, Hack VC, Tether executives and other investors following a $28 million seed round.\u003c/p\u003e",
-      "published": "Mon, 08 Dec 2025 19:53:52 +0000",
-      "fetched_at": "2025-12-08T20:14:15.072173329Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 688,
-  "last_update": "2025-12-16T19:48:17.071757252Z"
+  "total_captured": 691,
+  "last_update": "2025-12-16T20:15:08.811918528Z"
 }
