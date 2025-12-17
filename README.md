@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 15:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-753-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 15:57 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-754-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 15:44 UTC)*
+*(Updated: 17 Dec 15:57 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets](https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Warner Bros favours Netflix offer over $108bn Paramount bid](https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC](https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [How YouTube’s stablecoin payouts could change creator monetization](https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report](https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets](https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How YouTube’s stablecoin payouts could change creator monetization](https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Did Bitcoin's 4-year cycle break, and is the bull market really over?](https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?](https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Securitize announces ‘real’ tokenized stocks, touts DeFi integration](https://cointelegraph.com/news/stocks-reach-web3-as-securitize-announces-real-regulated-shares-stocks-for-on-chain-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
