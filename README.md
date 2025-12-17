@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 08:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-720-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 09:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-722-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 08:50 UTC)*
+*(Updated: 17 Dec 09:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Former chancellor George Osborne joins OpenAI](https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise](https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Tether leads $8M funding for Lightning startup focused on stablecoins](https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Aave founder outlines 2026 ‘master plan’ after end to SEC probe](https://cointelegraph.com/news/aave-outlines-2026-roadmap-following-end-sec-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump expands US travel ban to five more countries](https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces](https://cointelegraph.com/news/sec-lawsuit-puts-shima-capital-s-future-in-question-as-wind-down-message-surfaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’](https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Lightning Network hits record capacity on crypto exchange adoption](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
