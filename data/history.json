@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Warner Bros favours Netflix offer over $108bn Paramount bid",
+      "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Warner Brothers says the offer for its film and streaming businesses is inferior to Netflix's.",
+      "published": "Wed, 17 Dec 2025 14:38:34 GMT",
+      "fetched_at": "2025-12-17T15:44:42.82701022Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
+      "link": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\".",
+      "published": "Wed, 17 Dec 2025 15:25:58 GMT",
+      "fetched_at": "2025-12-17T15:44:42.826993929Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "How YouTube’s stablecoin payouts could change creator monetization",
       "link": "https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 18:15:32 +0000",
       "fetched_at": "2025-12-09T18:17:06.564625388Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Lithuania declares emergency situation over Belarus balloons",
-      "link": "https://www.bbc.com/news/articles/c39pr3d10wlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Prime Minister Inga Ruginiene says the \"hybrid attack\" poses a real risk to national security and civil aviation.",
-      "published": "Tue, 09 Dec 2025 16:08:44 GMT",
-      "fetched_at": "2025-12-09T17:51:28.98977333Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Senator Lummis anticipates crypto market structure markup next week",
-      "link": "https://cointelegraph.com/news/cynthia-lummis-market-structure-markup-before-holidays?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzYWMtMGNmYy03MWZiLTk0YTItZTQ1NjRhM2JjYmRj.jpg\" alt=\"Senator Lummis anticipates crypto market structure markup next week\"\u003e\u003c/p\u003e\u003cp\u003e“Our staffs are exhausted,” said the Wyoming senator at the Blockchain Association Policy Summit on Tuesday, speaking on the progress of the crypto bill.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 16:28:59 +0000",
-      "fetched_at": "2025-12-09T16:48:40.302538169Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 751,
-  "last_update": "2025-12-17T15:18:36.165316Z"
+  "total_captured": 753,
+  "last_update": "2025-12-17T15:44:42.965628497Z"
 }
