@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
+      "link": "https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhYTAtOTIxNy03YjAwLThhYmQtNzhhMGRmNzFjZjM1LmpwZw==.jpg\" alt=\"Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole\"\u003e\u003c/p\u003e\u003cp\u003eQuantitative Bitcoin and digital asset fund Capriole says the price of Bitcoin could plummet if the network doesn’t develop resistance to quantum computing.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 06:18:19 +0000",
+      "fetched_at": "2025-12-17T06:53:35.078402187Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Alleged Bondi gunman charged with 15 counts of murder",
       "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 05:52:41 +0000",
       "fetched_at": "2025-12-09T06:20:13.742239474Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Goa nightclub owners fled to Thailand hours after deadly fire, police say",
-      "link": "https://www.bbc.com/news/articles/c23e7p40y04o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Indian authorities confirmed the two brothers boarded a flight to Phuket in Thailand shortly after the incident.",
-      "published": "Tue, 09 Dec 2025 05:14:59 GMT",
-      "fetched_at": "2025-12-09T05:35:32.81689251Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 713,
-  "last_update": "2025-12-17T06:20:25.505122142Z"
+  "total_captured": 714,
+  "last_update": "2025-12-17T06:53:35.592430618Z"
 }
