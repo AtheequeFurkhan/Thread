@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 14:57 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-750-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 15:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-751-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 14:57 UTC)*
+*(Updated: 17 Dec 15:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How YouTube’s stablecoin payouts could change creator monetization](https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Did Bitcoin's 4-year cycle break, and is the bull market really over?](https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?](https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Securitize announces ‘real’ tokenized stocks, touts DeFi integration](https://cointelegraph.com/news/stocks-reach-web3-as-securitize-announces-real-regulated-shares-stocks-for-on-chain-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) | 🔴 Negative |
 | **Crypto** | [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How YouTube’s stablecoin payouts could change creator monetization](https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Did Bitcoin's 4-year cycle break, and is the bull market really over?](https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?](https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Securitize announces ‘real’ tokenized stocks, touts DeFi integration](https://cointelegraph.com/news/stocks-reach-web3-as-securitize-announces-real-regulated-shares-stocks-for-on-chain-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [New protocol targets redemption delays in $20B tokenized market](https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

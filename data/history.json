@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How YouTube’s stablecoin payouts could change creator monetization",
+      "link": "https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjY2MtOWI1MS03ZTFkLTlkYTMtNmFhZDcwODFhZDUxLmpwZw==.jpg\" alt=\"How YouTube’s stablecoin payouts could change creator monetization\"\u003e\u003c/p\u003e\u003cp\u003eYouTube has added an opt-in option allowing eligible US creators to receive payouts in PayPal’s dollar-backed stablecoin, PYUSD.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 14:57:46 +0000",
+      "fetched_at": "2025-12-17T15:18:35.798812426Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
       "link": "https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 16:28:59 +0000",
       "fetched_at": "2025-12-09T16:48:40.302538169Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Circle moves toward privacy-focused stablecoin with USDCx project",
-      "link": "https://cointelegraph.com/news/circle-usdcx-privacy-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzZTItYzMyMy03Y2JjLTg1YmYtZmVjNzAyZWJlZWU4.jpg\" alt=\"Circle moves toward privacy-focused stablecoin with USDCx project\"\u003e\u003c/p\u003e\u003cp\u003eA new Circle–Aleo stablecoin project highlights the growing demand for privacy features as firms weigh blockchain use against the risks of transparency.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 16:40:00 +0000",
-      "fetched_at": "2025-12-09T16:48:40.30251193Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 750,
-  "last_update": "2025-12-17T14:57:10.911357239Z"
+  "total_captured": 751,
+  "last_update": "2025-12-17T15:18:36.165316Z"
 }
