@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+      "link": "https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNmQtYzc4OC03NDE2LWE5OWYtNDdhNzk2ZGQzNDMwLmpwZw==.jpg\" alt=\"Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and altcoin rallies are being capped by heavy selling near the intraday range highs, leading some analysts to revise their end-of-year price estimates. What do technical charts say?\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 20:26:21 +0000",
+      "fetched_at": "2025-12-17T20:38:59.083941462Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The Oscars to leave ABC and stream on YouTube starting in 2029",
       "link": "https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 21:30:13 +0000",
       "fetched_at": "2025-12-09T21:41:20.286862613Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ethereum network sees 62% drop in fees: Is ETH price at risk?",
-      "link": "https://cointelegraph.com/news/eth-network-sees-62percent-fee-drop-is-ether-price-at-risk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0ZmItNWFjYS03ZWQ2LTgwYTgtYTZkNTBjMmY3YjZl.jpg\" alt=\"Ethereum network sees 62% drop in fees: Is ETH price at risk?\"\u003e\u003c/p\u003e\u003cp\u003eEthereum’s base layer demand softened in November, but ETH’s underlying price supports and strong layer-2 growth show the network still has momentum despite a drop in fees and TVL.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 21:21:38 +0000",
-      "fetched_at": "2025-12-09T21:30:09.305214856Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 762,
-  "last_update": "2025-12-17T20:14:44.930684992Z"
+  "total_captured": 763,
+  "last_update": "2025-12-17T20:38:59.083958564Z"
 }
