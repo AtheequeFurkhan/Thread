@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
+      "link": "https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhYWMtMDc2OC03ZWEyLTlmNmQtNThmYmJlNGZlODYz.jpg\" alt=\"Did Bitcoin's 4-year cycle break, and is the bull market really over?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin ETFs, corporate treasuries, and macro tailwinds are challenging BTC’s traditional four-year cycle, which could result in new all-time highs in 2026.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 14:55:34 +0000",
+      "fetched_at": "2025-12-17T14:57:10.911335639Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?",
       "link": "https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 16:40:00 +0000",
       "fetched_at": "2025-12-09T16:48:40.30251193Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Google unveils plans to try again with smart glasses in 2026",
-      "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015.",
-      "published": "Tue, 09 Dec 2025 16:34:53 GMT",
-      "fetched_at": "2025-12-09T16:48:40.141860796Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 749,
-  "last_update": "2025-12-17T14:42:20.872708243Z"
+  "total_captured": 750,
+  "last_update": "2025-12-17T14:57:10.911357239Z"
 }
