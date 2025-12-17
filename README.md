@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 07:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-715-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 08:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-716-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 07:50 UTC)*
+*(Updated: 17 Dec 08:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Business** | [Student Podcast Challenge: Nonconformity](https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity) | ⚪ Neutral |
 | **Crypto** | [Bank of Canada lays out criteria for ‘good money’ stablecoins](https://cointelegraph.com/news/canada-reveals-standard-good-money-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) | ⚪ Neutral |
-| **Business** | [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump expands US travel ban to five more countries](https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump orders blockade of sanctioned oil tankers in and out of Venezuela](https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
