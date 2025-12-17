@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Fallout and the secret of the perfect video game adaptation",
+      "link": "https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Masterminds behind the classic video game series tell us how they created a successful TV show.",
+      "published": "Wed, 17 Dec 2025 11:30:36 GMT",
+      "fetched_at": "2025-12-17T12:25:50.573607458Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges",
+      "link": "https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMmItNGQ5Ni03M2MxLTgyNmQtM2NjMjBjNDdkOTZiLmpwZw==.jpg\" alt=\"Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges\"\u003e\u003c/p\u003e\u003cp\u003eA whale moved 4,000 Bitcoin to Binance, sparking fresh fears of a deeper BTC price drop if the $81,500 support level is lost.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 12:08:40 +0000",
+      "fetched_at": "2025-12-17T12:25:50.385907791Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
+      "link": "https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiZjktMTA3MS03NWM4LThjNDEtMjBhYjViNmJhYTljLmpwZw==.jpg\" alt=\"CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report\"\u003e\u003c/p\u003e\u003cp\u003eA new report warns that the Central African Republic’s crypto push favored elites and exposed the country to foreign criminal networks, rather than boosting financial inclusion.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 12:17:51 +0000",
+      "fetched_at": "2025-12-17T12:25:50.385885759Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "'It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial",
       "link": "https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 09 Dec 2025 13:43:25 +0000",
       "fetched_at": "2025-12-09T13:47:07.443962242Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
-      "link": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "US lawmakers could withhold Pentagon travel funds until unedited video of a controversial incident is made public.",
-      "published": "Tue, 09 Dec 2025 12:41:57 GMT",
-      "fetched_at": "2025-12-09T13:10:20.246261666Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack",
-      "link": "https://cointelegraph.com/news/dogecoin-etf-demand-cools-bitcoin-ether-dominate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyZDctOTRlNy03Mzg3LWI2NTktNzQ1MDY5Yzk5OTVh.jpg\" alt=\"Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack\"\u003e\u003c/p\u003e\u003cp\u003eThe total value traded for spot DOGE ETFs reached its lowest point since launch, signaling a fading of the early hype as liquidity and flows lag well behind those of major crypto ETFs.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 12:48:48 +0000",
-      "fetched_at": "2025-12-09T13:10:20.088008741Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Japan plans tough new rules for crypto exchanges: What liability reserves actually mean",
-      "link": "https://cointelegraph.com/explained/japan-plans-tough-new-rules-for-crypto-exchanges-what-liability-reserves-actually-mean?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzMjktYmYxNS03ZDlkLThkOTgtZTFkZTI3MDg0OTFl.jpg\" alt=\"Japan plans tough new rules for crypto exchanges: What liability reserves actually mean\"\u003e\u003c/p\u003e\u003cp\u003eJapan’s FSA is set to mandate liability reserves for crypto exchanges to boost consumer protection. The new rules are set to change the market.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 12:56:21 +0000",
-      "fetched_at": "2025-12-09T13:10:20.0879976Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 735,
-  "last_update": "2025-12-17T11:49:05.096422234Z"
+  "total_captured": 738,
+  "last_update": "2025-12-17T12:25:50.982036969Z"
 }

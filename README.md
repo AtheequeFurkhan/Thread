@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 11:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-735-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 12:25 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-738-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 11:49 UTC)*
+*(Updated: 17 Dec 12:25 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Fallout and the secret of the perfect video game adaptation](https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report](https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Crypto** | [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Former chancellor George Osborne joins OpenAI](https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces](https://cointelegraph.com/news/sec-lawsuit-puts-shima-capital-s-future-in-question-as-wind-down-message-surfaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report](https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans](https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Fallout and the secret of the perfect video game adaptation](https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
