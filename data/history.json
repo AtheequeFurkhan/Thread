@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
+      "link": "https://cointelegraph.com/news/safe-crypto-act-could-scare-crypto-fraudsters?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhODctMDIxNS03ODRjLTkxNjUtNjljZTE3YzA4MTdiLmpwZw==.jpg\" alt=\"SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer\"\u003e\u003c/p\u003e\u003cp\u003eNewly proposed legislation could see the US Treasury, FinCEN, the Secret Service, and law enforcement coordinate to catch crypto scammers and fraudsters.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 04:30:59 +0000",
+      "fetched_at": "2025-12-17T04:51:31.939128957Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "US government ‘tech force’ gets backup from Coinbase, Robinhood",
       "link": "https://cointelegraph.com/news/us-tech-force-backup-coinbase-robinhood?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 03:53:58 GMT",
       "fetched_at": "2025-12-09T04:21:24.164865035Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Polymarket trading figures are being ‘double-counted ’: Paradigm",
-      "link": "https://cointelegraph.com/news/polymarket-trading-volume-double-counted-research?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg\" alt=\"Polymarket trading figures are being ‘double-counted ’: Paradigm\"\u003e\u003c/p\u003e\u003cp\u003eParadigm researchers found that major analytics dashboards are double-counting Polymarket’s trading volume due to redundant blockchain events.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 04:02:43 +0000",
-      "fetched_at": "2025-12-09T04:21:24.110309435Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 708,
-  "last_update": "2025-12-17T04:26:00.827830405Z"
+  "total_captured": 709,
+  "last_update": "2025-12-17T04:51:32.364950308Z"
 }
