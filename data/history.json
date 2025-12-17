@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "The Oscars to leave ABC and stream on YouTube starting in 2029",
+      "link": "https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The show was hosted by ABC for more than a half-century and reveals the latest major shakeup in Hollywood.",
+      "published": "Wed, 17 Dec 2025 19:07:13 GMT",
+      "fetched_at": "2025-12-17T19:14:13.359748618Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Binance mulls new US strategy, CZ potentially reducing stake: Report",
+      "link": "https://cointelegraph.com/news/binance-us-strategy-cz-reduce-stake?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNWEtNzliYS03NTBmLWE2MjktN2Q0NDIzNGE5MTg1LmpwZw==.jpg\" alt=\"Binance mulls new US strategy, CZ potentially reducing stake: Report\"\u003e\u003c/p\u003e\u003cp\u003eBinance exited the United States in 2019, and a separate company, Binance.US, has been serving US customers since that time.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 18:50:29 +0000",
+      "fetched_at": "2025-12-17T19:14:13.145609731Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Spain to open network of climate shelters",
       "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 21:21:38 +0000",
       "fetched_at": "2025-12-09T21:30:09.305214856Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "New ETF proposal bets Bitcoin returns are made after hours",
-      "link": "https://cointelegraph.com/news/bitcoin-afterdark-etf-overnight-market-hours?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0NzItYjMxYS03MDQ4LTlmMDYtYWQ0M2ZlNDIwZTU0.jpg\" alt=\"New ETF proposal bets Bitcoin returns are made after hours\"\u003e\u003c/p\u003e\u003cp\u003eETF analyst Eric Balchuas said there was a chance that such an investment vehicle “could put up better [returns]” based on BTC price moves after trading hours.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 20:55:16 +0000",
-      "fetched_at": "2025-12-09T21:11:04.758736865Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US bank regulator clears national banks to facilitate crypto transactions",
-      "link": "https://cointelegraph.com/news/us-bank-regulator-national-banks-facilitate-crypto-transactions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0NTctN2FkYy03MTdlLWIyOWUtNjk5MjkwYzQ3NTc3.jpg\" alt=\"US bank regulator clears national banks to facilitate crypto transactions\"\u003e\u003c/p\u003e\u003cp\u003eThe guidance confirms that facilitating customer crypto trades falls within the “business of banking,” expanding the range of activities that national banks may offer under existing law.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 20:37:37 +0000",
-      "fetched_at": "2025-12-09T20:47:38.170621534Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 760,
-  "last_update": "2025-12-17T18:53:05.930494862Z"
+  "total_captured": 762,
+  "last_update": "2025-12-17T19:14:14.693451437Z"
 }
