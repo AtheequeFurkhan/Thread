@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "'It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial",
+      "link": "https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The mother of 10-year-old Matilda, the youngest victim of the Bondi Beach attack, paid tribute to her daughter at a flower memorial on Tuesday evening.",
+      "published": "Wed, 17 Dec 2025 10:23:55 GMT",
+      "fetched_at": "2025-12-17T11:32:26.932820041Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "What are the 'ghost ships' Venezuela is using to evade oil sanctions?",
+      "link": "https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A tanker seized by the US is believed to be part of a \"ghost fleet\" used by Venezuela to evade oil sanctions.",
+      "published": "Wed, 17 Dec 2025 11:16:17 GMT",
+      "fetched_at": "2025-12-17T11:32:26.932797579Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump's BBC lawsuit: A botched report, BritBox, and porn",
       "link": "https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 12:56:21 +0000",
       "fetched_at": "2025-12-09T13:10:20.0879976Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hong Kong launches CARF crypto tax consultation to combat evasion",
-      "link": "https://cointelegraph.com/news/hong-kong-carf-crypto-tax-consultation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYzctNDUyYy03MmIzLTllOTgtYjBlNzQwNDJjNTE3.jpg\" alt=\"Hong Kong launches CARF crypto tax consultation to combat evasion\"\u003e\u003c/p\u003e\u003cp\u003eHong Kong has launched a public consultation on adopting the OECD’s crypto account tax data sharing program, CARF, and revising its tax reporting standards.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 13:07:37 +0000",
-      "fetched_at": "2025-12-09T13:10:20.087979566Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump to address affordability. And, the significance of Indiana's redistricting fight",
-      "link": "https://www.npr.org/2025/12/09/g-s1-101285/up-first-newsletter-trump-affordability-problem-scotus-rebecca-slaughter-indiana-redistricting",
-      "category": "Business",
-      "summary": "Trump travels to Pennsylvania to discuss America's affordability. And, Indiana lawmakers to vote on a congressional map that may eliminate the state's last two Democratic seats.",
-      "published": "Tue, 09 Dec 2025 06:47:44 -0500",
-      "fetched_at": "2025-12-09T12:25:15.887972682Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 733,
-  "last_update": "2025-12-17T11:14:03.951100953Z"
+  "total_captured": 735,
+  "last_update": "2025-12-17T11:32:27.188599559Z"
 }

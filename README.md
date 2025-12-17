@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 11:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-733-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 11:32 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-735-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 11:14 UTC)*
+*(Updated: 17 Dec 11:32 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) | 🔴 Negative |
 | **Crypto** | [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces](https://cointelegraph.com/news/sec-lawsuit-puts-shima-capital-s-future-in-question-as-wind-down-message-surfaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
