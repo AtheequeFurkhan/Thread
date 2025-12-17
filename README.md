@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 21:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-764-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 21:32 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-766-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 21:13 UTC)*
+*(Updated: 17 Dec 21:32 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Ex-Alameda CEO won’t be spending the holidays in federal prison](https://cointelegraph.com/news/caroline-ellison-alameda-transferred-prison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Acting CFTC chair to join MoonPay after leaving agency](https://cointelegraph.com/news/caroline-pham-cftc-chair-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?](https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Securitize announces ‘real’ tokenized stocks, touts DeFi integration](https://cointelegraph.com/news/stocks-reach-web3-as-securitize-announces-real-regulated-shares-stocks-for-on-chain-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) | ⚪ Neutral |
-| **Crypto** | [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [New protocol targets redemption delays in $20B tokenized market](https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ex-Alameda CEO won’t be spending the holidays in federal prison](https://cointelegraph.com/news/caroline-ellison-alameda-transferred-prison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Acting CFTC chair to join MoonPay after leaving agency](https://cointelegraph.com/news/caroline-pham-cftc-chair-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance mulls new US strategy, CZ potentially reducing stake: Report](https://cointelegraph.com/news/binance-us-strategy-cz-reduce-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement](https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin tags $90K as crypto market spike liquidates $120M shorts](https://cointelegraph.com/news/bitcoin-returns-90k-btc-price-impulse-liquidates-shorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets](https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

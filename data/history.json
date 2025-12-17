@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Ex-Alameda CEO won’t be spending the holidays in federal prison",
+      "link": "https://cointelegraph.com/news/caroline-ellison-alameda-transferred-prison?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNjQtOWFlYi03ZGE5LWEwZDItZDY5YThjYmFkZWJkLmpwZw==.jpg\" alt=\"Ex-Alameda CEO won’t be spending the holidays in federal prison\"\u003e\u003c/p\u003e\u003cp\u003eWith about two months remaining until her expected release date, former Alameda Research CEO Caroline Ellison has been transferred out of federal prison.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 21:15:45 +0000",
+      "fetched_at": "2025-12-17T21:32:47.165485918Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Acting CFTC chair to join MoonPay after leaving agency",
+      "link": "https://cointelegraph.com/news/caroline-pham-cftc-chair-moonpay?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkZmMtZGI5NS03ZDJiLTlhOWEtNDgyMGJjOGQyYjQ2LmpwZw==.jpg\" alt=\"Acting CFTC chair to join MoonPay after leaving agency\"\u003e\u003c/p\u003e\u003cp\u003eThe sole remaining CFTC commissioner, Caroline Pham, said earlier this year that she would leave the agency after the US Senate confirms a replacement.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 21:21:36 +0000",
+      "fetched_at": "2025-12-17T21:32:47.165467974Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
       "link": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 22:18:12 GMT",
       "fetched_at": "2025-12-09T23:47:48.491587901Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys",
-      "link": "https://cointelegraph.com/news/canton-network-second-onchain-treasury-financing-collateral-reuse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0ZWEtYzkzYS03M2I0LWFlYTYtM2U0NTg4YmRhMTUy.jpg\" alt=\"Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys\"\u003e\u003c/p\u003e\u003cp\u003eThe latest trial explored multiple stablecoins and showed tokenized US Treasurys can be reused instantly across counterparties on shared infrastructure.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 22:02:56 +0000",
-      "fetched_at": "2025-12-09T22:13:04.587093422Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Czech billionaire becomes PM with promise to cut ties to business empire",
-      "link": "https://www.bbc.com/news/articles/c5yqvrewz45o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "If he honours his pledge, he will no longer benefit from the sale of any Agrofert product, from frankfurters to fertiliser.",
-      "published": "Tue, 09 Dec 2025 19:00:56 GMT",
-      "fetched_at": "2025-12-09T21:48:32.383380932Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 764,
-  "last_update": "2025-12-17T21:13:04.632550348Z"
+  "total_captured": 766,
+  "last_update": "2025-12-17T21:32:47.165514331Z"
 }
