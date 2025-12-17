@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Binance names alleged fake listing agents, offers up to $5M whistleblower reward",
+      "link": "https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMmEtMWI1Zi03YjY4LWE2ZjEtY2YyODUzZmY5MTY4LmpwZw==.jpg\" alt=\"Binance names alleged fake listing agents, offers up to $5M whistleblower reward\"\u003e\u003c/p\u003e\u003cp\u003eBinance has warned users to avoid token listing agents at all costs, offering up to $5 million to whistleblowers who report listing frauds.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 13:21:36 +0000",
+      "fetched_at": "2025-12-17T13:45:46.59883555Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Starmer tells Abramovich to 'pay up now' or face court",
+      "link": "https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Prime Minister said Roman Abramovich should make good on his pledge that money from the sale of Chelsea FC would go to benefit Ukrainians",
+      "published": "Wed, 17 Dec 2025 13:22:50 GMT",
+      "fetched_at": "2025-12-17T13:45:46.164536189Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Solana tests quantum-resistant transactions in new Project Eleven pilot",
       "link": "https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 14:45:34 +0000",
       "fetched_at": "2025-12-09T14:55:35.408840996Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "A coup too far: Why Benin's rebel soldiers failed where others in the region succeeded",
-      "link": "https://www.bbc.com/news/articles/c9vj7xjxwypo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Plotters misjudged the national mood and Benin's neighbours learnt from past errors, says analyst Paul Melly.",
-      "published": "Tue, 09 Dec 2025 14:20:38 GMT",
-      "fetched_at": "2025-12-09T14:41:38.098455287Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Sacked agents sue FBI, saying they were punished for taking the knee",
-      "link": "https://www.bbc.com/news/articles/cjezd4ednn3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The group say adopting a gesture used by protesters helped to defuse tensions during a 2020 demonstration.",
-      "published": "Tue, 09 Dec 2025 14:28:47 GMT",
-      "fetched_at": "2025-12-09T14:41:38.098436972Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 742,
-  "last_update": "2025-12-17T13:11:09.95983826Z"
+  "total_captured": 744,
+  "last_update": "2025-12-17T13:45:46.598858944Z"
 }

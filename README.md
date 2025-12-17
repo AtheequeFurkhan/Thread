@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 13:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-742-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 13:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-744-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 13:11 UTC)*
+*(Updated: 17 Dec 13:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Binance names alleged fake listing agents, offers up to $5M whistleblower reward](https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Starmer tells Abramovich to 'pay up now' or face court](https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) | ⚪ Neutral |
 | **Business** | [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) | 🟢 Positive |
-| **Business** | [Trump's rush to build nuclear reactors across the U.S. raises safety worries](https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns) | 🟢 Positive |
-| **World** | [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Binance names alleged fake listing agents, offers up to $5M whistleblower reward](https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease](https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Starmer tells Abramovich to 'pay up now' or face court](https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Fallout and the secret of the perfect video game adaptation](https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial](https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [What are the 'ghost ships' Venezuela is using to evade oil sanctions?](https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
