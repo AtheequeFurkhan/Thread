@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-16 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-697-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 00:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-699-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 16 Dec 23:48 UTC)*
+*(Updated: 17 Dec 00:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Student Podcast Challenge: Nonconformity](https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity) | ⚪ Neutral |
+| **Crypto** | [Bank of Canada lays out criteria for ‘good money’ stablecoins](https://cointelegraph.com/news/canada-reveals-standard-good-money-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) | ⚪ Neutral |
 | **Business** | [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) | ⚪ Neutral |
 | **Crypto** | [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Rebels say they will withdraw from key DR Congo city at US request](https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [EU waters down plans to end petrol and diesel car sales by 2035](https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How scammers target crypto users during the holidays and how to stay protected](https://cointelegraph.com/explained/how-scammers-target-crypto-users-during-the-holidays-and-how-to-stay-protected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Solana enters Brazil’s main exchange as Valour expands regulated crypto access](https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [UK crypto ownership dropped to 8% in 2025: YouGov poll](https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Student Podcast Challenge: Nonconformity](https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity) (⚪ Neutral)
 - [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) (⚪ Neutral)
 - [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) (⚪ Neutral)
 - [The U.S. added just 64,000 jobs in November -- a sign the labor market is slowing](https://www.npr.org/2025/12/16/nx-s1-5645023/jobs-employment-labor-market) (🟢 Positive)
 - [The Warner Bros. Curse](https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse) (⚪ Neutral)
-- [Built to spill: The life of a crash test dummy](https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing) (🔴 Negative)
 
 
 ### 📂 Crypto
+- [Bank of Canada lays out criteria for ‘good money’ stablecoins](https://cointelegraph.com/news/canada-reveals-standard-good-money-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [RedotPay raises $107M Series B led by Goodwater for stablecoin payments](https://cointelegraph.com/news/redotpay-107m-seriesb-goodwater-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay](https://cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [3 reasons why trader demand for XRP evaporated: Is $1 next?](https://cointelegraph.com/news/3-reasons-why-trader-demand-for-xrp-evaporated-is-dollar1-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://cointelegraph.com/news/bitcoin-treasury-kindly-md-nasdaq-price-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
 | 2025-12-15.md | [View Log](data/2025-12-15.md) |
 | 2025-12-14.md | [View Log](data/2025-12-14.md) |
 | 2025-12-13.md | [View Log](data/2025-12-13.md) |
 | 2025-12-12.md | [View Log](data/2025-12-12.md) |
 | 2025-12-11.md | [View Log](data/2025-12-11.md) |
-| 2025-12-10.md | [View Log](data/2025-12-10.md) |
 
 
 ---

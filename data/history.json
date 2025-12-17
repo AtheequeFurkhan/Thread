@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Student Podcast Challenge: Nonconformity",
+      "link": "https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity",
+      "category": "Business",
+      "summary": "It's every teenager's dilemma: How do you blend in but stay different enough to still stand out? Two Colorado middle schoolers share their secret to what they call \"strategic nonconformity.\"",
+      "published": "Mon, 15 Dec 2025 17:29:34 -0500",
+      "fetched_at": "2025-12-17T00:55:10.549931294Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bank of Canada lays out criteria for ‘good money’ stablecoins",
+      "link": "https://cointelegraph.com/news/canada-reveals-standard-good-money-stablecoins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5MmQtMDZmZC03Nzg4LWFjNmMtZjc2NDMwNmE5YTVlLmpwZw==.jpg\" alt=\"Bank of Canada lays out criteria for ‘good money’ stablecoins\"\u003e\u003c/p\u003e\u003cp\u003eCanada’s central bank will approve only fiat-backed, high-quality stablecoins to ensure they are “good money” as part of the country’s plan to modernize its financial system.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 00:03:00 +0000",
+      "fetched_at": "2025-12-17T00:55:10.479264972Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer",
       "link": "https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 00:10:31 GMT",
       "fetched_at": "2025-12-09T00:58:00.205809074Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-      "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.",
-      "published": "Mon, 08 Dec 2025 23:55:20 GMT",
-      "fetched_at": "2025-12-09T00:58:00.205798414Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How Australia found itself battling big tech over social media for children",
-      "link": "https://www.bbc.com/news/articles/ce86381p70eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Australia's policy is the culmination of years of pressure on tech companies over online safety, experts say.",
-      "published": "Mon, 08 Dec 2025 22:28:38 GMT",
-      "fetched_at": "2025-12-08T23:41:07.83211745Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 697,
-  "last_update": "2025-12-16T23:48:17.303102781Z"
+  "total_captured": 699,
+  "last_update": "2025-12-17T00:55:10.549942946Z"
 }
