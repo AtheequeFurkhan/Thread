@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 20:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-763-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 21:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-764-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 20:52 UTC)*
+*(Updated: 17 Dec 21:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Binance mulls new US strategy, CZ potentially reducing stake: Report](https://cointelegraph.com/news/binance-us-strategy-cz-reduce-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Business** | [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) | ⚪ Neutral |
 | **Crypto** | [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [New protocol targets redemption delays in $20B tokenized market](https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Binance names alleged fake listing agents, offers up to $5M whistleblower reward](https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jack Smith defends Trump prosecutions in testimony to Congress](https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Polar bear mother adopts cub in rarely documented case](https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Warner Bros favours Netflix offer over $108bn Paramount bid](https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
