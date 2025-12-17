@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement",
+      "link": "https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjZDktMTZlMS03MWQwLTgzM2UtOGJlMWZmNmY5NWQyLmpwZw==.jpg\" alt=\"Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement\"\u003e\u003c/p\u003e\u003cp\u003eMore than 46,000 claimants could potentially receive a payout from a court-approved settlement involving the FTX-tied Silvergate Bank, which shuttered in 2023.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 17:43:34 +0000",
+      "fetched_at": "2025-12-17T17:55:04.390718878Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Jack Smith defends Trump prosecutions in testimony to Congress",
       "link": "https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 20:06:12 GMT",
       "fetched_at": "2025-12-09T20:13:20.720858363Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "These young Australians grew up with social media - what do they think of the ban?",
-      "link": "https://www.bbc.com/news/videos/ckg9qqw94g1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC took to the streets of Sydney to find out what young people aged between 18 and 20 think of Australia’s under-16s social media ban.",
-      "published": "Tue, 09 Dec 2025 19:00:08 GMT",
-      "fetched_at": "2025-12-09T19:09:40.883462431Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 757,
-  "last_update": "2025-12-17T17:44:45.470928194Z"
+  "total_captured": 758,
+  "last_update": "2025-12-17T17:55:04.576025414Z"
 }
