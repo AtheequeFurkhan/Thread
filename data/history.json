@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Jack Smith defends Trump prosecutions in testimony to Congress",
+      "link": "https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former US Special Counsel is facing questions about his two defunct criminal investigations into President Donald Trump.",
+      "published": "Wed, 17 Dec 2025 15:57:29 GMT",
+      "fetched_at": "2025-12-17T16:23:41.621085691Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Polar bear mother adopts cub in rarely documented case",
+      "link": "https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It's only the 13th known case of adoption out of the 4,600 bears studied for nearly five decades in the northern Canadian area.",
+      "published": "Wed, 17 Dec 2025 15:55:24 GMT",
+      "fetched_at": "2025-12-17T16:23:41.621072186Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
+      "link": "https://cointelegraph.com/news/bitcoin-returns-90k-btc-price-impulse-liquidates-shorts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzYjItZjU2OS03ZjMxLWFkZDktZjVkMjIwNTEwMDFl.jpg\" alt=\"Bitcoin tags $90K as crypto market spike liquidates $120M shorts\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin took out liquidity at the Wall Street open as a move above $90,000 was followed by a snap retracement, liquidating late long and short entries.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 15:56:20 +0000",
+      "fetched_at": "2025-12-17T16:23:41.57468757Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets",
       "link": "https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 09 Dec 2025 19:00:08 GMT",
       "fetched_at": "2025-12-09T19:09:40.883462431Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "UK crypto lobbying group joins Digital Chamber in cross-border policy push",
-      "link": "https://cointelegraph.com/news/cryptouk-joins-digital-chamber-us-uk-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxYjYtOGVkZi03ZjRjLTk4NDQtYWEyMTljNTIwNzU5.jpg\" alt=\"UK crypto lobbying group joins Digital Chamber in cross-border policy push\"\u003e\u003c/p\u003e\u003cp\u003eThe partnership between the two advocacy groups was the latest move in efforts by US and UK policymakers to work closer together on crypto regulation.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 18:50:00 +0000",
-      "fetched_at": "2025-12-09T19:09:40.845697495Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading",
-      "link": "https://cointelegraph.com/news/bitwise-crypto-index-fund-nyse-arca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0MDUtYTYyYy03MzMzLWIyMGEtOTVlNDQ0YjdiMDE0.jpg\" alt=\"Bitwise crypto index fund moves from over-the-counter to NYSE Arca for trading\"\u003e\u003c/p\u003e\u003cp\u003eBitwise’s crypto index fund moves from OTC markets to NYSE Arca, marking another step in bringing diversified digital asset products onto regulated exchanges.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 18:24:26 +0000",
-      "fetched_at": "2025-12-09T18:49:01.516377965Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin’s back above $94K: Is the BTC bull run back on?",
-      "link": "https://cointelegraph.com/news/bitcoin-s-back-above-dollar94k-is-the-btc-bull-run-back-on?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzYjItZjU2OS03ZjMxLWFkZDktZjVkMjIwNTEwMDFl.jpg\" alt=\"Bitcoin’s back above $94K: Is the BTC bull run back on?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin bulls recaptured the $94,000 level, but BTC volume data raises doubts about the duration of the upmove. Will bulls provide the necessary momentum?\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 18:32:23 +0000",
-      "fetched_at": "2025-12-09T18:49:01.516358869Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 754,
-  "last_update": "2025-12-17T15:57:35.579530585Z"
+  "total_captured": 757,
+  "last_update": "2025-12-17T16:23:41.963614519Z"
 }
