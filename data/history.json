@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Jewish Australians on why Bondi is a 'sanctuary' for them",
+      "link": "https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC spoke to Jewish people at Bondi Beach about why the suburb is significant to their community.",
+      "published": "Tue, 16 Dec 2025 23:17:38 GMT",
+      "fetched_at": "2025-12-17T09:46:52.506563576Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO",
       "link": "https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 10:46:17 +0000",
       "fetched_at": "2025-12-09T10:55:15.732499741Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Will Zcash's ZEC return to $500 or higher before 2026?",
-      "link": "https://cointelegraph.com/news/will-zcash-zec-return-500-dollars-or-higher-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyNTEtYTlmMS03NTVkLWJjYjEtYWI2NDFmNjhjYmZj.jpg\" alt=\"Will Zcash's ZEC return to $500 or higher before 2026?\"\u003e\u003c/p\u003e\u003cp\u003eBullish reversal signals and rising whale demand increase ZEC’s chances of hitting $500 in December, though some caution remains warranted.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 10:26:40 +0000",
-      "fetched_at": "2025-12-09T10:42:59.37308231Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 722,
-  "last_update": "2025-12-17T09:19:43.099531339Z"
+  "total_captured": 723,
+  "last_update": "2025-12-17T09:46:52.765250182Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 09:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-722-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 09:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-723-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 09:19 UTC)*
+*(Updated: 17 Dec 09:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise](https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Tether leads $8M funding for Lightning startup focused on stablecoins](https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Aave founder outlines 2026 ‘master plan’ after end to SEC probe](https://cointelegraph.com/news/aave-outlines-2026-roadmap-following-end-sec-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump expands US travel ban to five more countries](https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
