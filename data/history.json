@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Warner Bros. rejects Paramount's $108 billion bid",
+      "link": "https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid",
+      "category": "Business",
+      "summary": "Warner Bros has formally rejected Paramount's $108 billion hostile bid.",
+      "published": "Wed, 17 Dec 2025 08:44:55 -0500",
+      "fetched_at": "2025-12-17T14:14:38.628197507Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Former SEC counsel explains what it takes to make RWAs compliant",
+      "link": "https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMWUtOGRmZC03YzE5LTkzZjctMTFlZDNjYWNmMmJiLmpwZw==.jpg\" alt=\"Former SEC counsel explains what it takes to make RWAs compliant\"\u003e\u003c/p\u003e\u003cp\u003eThe SEC’s changing approach to crypto is supporting RWA growth, but jurisdictional and yield constraints continue to limit compliant models.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 13:45:00 +0000",
+      "fetched_at": "2025-12-17T14:14:38.243373438Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "New protocol targets redemption delays in $20B tokenized market",
+      "link": "https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4YmYtNmNhYS03OGVlLTk0NTAtOGEyM2JlNTkzYTliLmpwZw==.jpg\" alt=\"New protocol targets redemption delays in $20B tokenized market\"\u003e\u003c/p\u003e\u003cp\u003eUniform Labs’ Multiliquid aims to bridge the gap between tokenized funds and stablecoins, targeting liquidity constraints that have slowed institutional adoption.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-17T14:14:38.243349533Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Binance names alleged fake listing agents, offers up to $5M whistleblower reward",
       "link": "https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 09 Dec 2025 15:16:22 +0000",
       "fetched_at": "2025-12-09T15:38:05.70270689Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "French feminists outraged by Brigitte Macron's comment about activists",
-      "link": "https://www.bbc.com/news/articles/cdd5mn8yd2mo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "There has been pushback to the term used by France's first lady to describe activists who interrupted comedian Ary Abittan's show.",
-      "published": "Tue, 09 Dec 2025 14:55:24 GMT",
-      "fetched_at": "2025-12-09T15:15:18.031380922Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Jack Maller’s Twenty One Capital debuts on NYSE",
-      "link": "https://cointelegraph.com/news/jack-mallers-twenty-one-capital-begins-trading-nyse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAxNzItYzY2Yi03NjUyLWIwNGUtZmE0MTMwMjA3OWUz.jpg\" alt=\"Jack Maller’s Twenty One Capital debuts on NYSE\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital launched on the NYSE with strong institutional backing and a massive Bitcoin treasury.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 15:00:24 +0000",
-      "fetched_at": "2025-12-09T15:15:18.006137745Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Securitize hires former PayPal exec as US tokenization gains traction",
-      "link": "https://cointelegraph.com/news/securitize-hires-ex-paypal-exec-tokenized-equity-us-investors?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzNWItZWUyZC03MmU1LWIwZjktMmExY2ZkYmE2YzFh.jpg\" alt=\"Securitize hires former PayPal exec as US tokenization gains traction\"\u003e\u003c/p\u003e\u003cp\u003eSecuritize hires former PayPal executive Jerome Roche as it expands regulated tokenized securities for US investors and builds on fresh approvals in Europe.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 14:45:34 +0000",
-      "fetched_at": "2025-12-09T14:55:35.408840996Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 744,
-  "last_update": "2025-12-17T13:45:46.598858944Z"
+  "total_captured": 747,
+  "last_update": "2025-12-17T14:14:38.804926741Z"
 }

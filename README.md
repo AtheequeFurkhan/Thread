@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 13:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-744-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 14:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-747-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 13:45 UTC)*
+*(Updated: 17 Dec 14:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) | ⚪ Neutral |
+| **Crypto** | [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [New protocol targets redemption delays in $20B tokenized market](https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Binance names alleged fake listing agents, offers up to $5M whistleblower reward](https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Starmer tells Abramovich to 'pay up now' or face court](https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans](https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) | ⚪ Neutral |
-| **Business** | [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) | 🟢 Positive |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) (⚪ Neutral)
 - [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) (🔴 Negative)
 - [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) (⚪ Neutral)
 - [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) (🟢 Positive)
 - [Trump's rush to build nuclear reactors across the U.S. raises safety worries](https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns) (🟢 Positive)
-- [Student Podcast Challenge: Nonconformity](https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Former SEC counsel explains what it takes to make RWAs compliant](https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [New protocol targets redemption delays in $20B tokenized market](https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Binance names alleged fake listing agents, offers up to $5M whistleblower reward](https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease](https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
