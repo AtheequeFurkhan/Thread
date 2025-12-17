@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Spain to open network of climate shelters",
+      "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country.",
+      "published": "Wed, 17 Dec 2025 17:50:37 GMT",
+      "fetched_at": "2025-12-17T18:53:05.608506732Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fifa video game to return after four years in Netflix exclusive",
+      "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup.",
+      "published": "Wed, 17 Dec 2025 18:20:44 GMT",
+      "fetched_at": "2025-12-17T18:53:05.215317067Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement",
       "link": "https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 20:37:37 +0000",
       "fetched_at": "2025-12-09T20:47:38.170621534Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Millions of borrowers in Biden's SAVE plan would start paying under new settlement",
-      "link": "https://www.npr.org/2025/12/09/nx-s1-5638567/save-plan-student-loan-settlement",
-      "category": "Business",
-      "summary": "Legal challenges put SAVE borrowers in limbo for months, a time during which they were not required to make payments on their loans. That would change if the proposed settlement is approved.",
-      "published": "Tue, 09 Dec 2025 15:14:19 -0500",
-      "fetched_at": "2025-12-09T20:32:17.366274767Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Nobel officials unsure when Peace Prize winner will arrive for ceremony",
-      "link": "https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Venezuela's opposition leader María Corina Machado is in hiding, and her current whereabouts are still unknown.",
-      "published": "Tue, 09 Dec 2025 20:06:12 GMT",
-      "fetched_at": "2025-12-09T20:13:20.720858363Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 758,
-  "last_update": "2025-12-17T18:19:52.446274181Z"
+  "total_captured": 760,
+  "last_update": "2025-12-17T18:53:05.930494862Z"
 }

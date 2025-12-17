@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-758-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 18:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-760-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 18:19 UTC)*
+*(Updated: 17 Dec 18:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement](https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Jack Smith defends Trump prosecutions in testimony to Congress](https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Polar bear mother adopts cub in rarely documented case](https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Starmer tells Abramovich to 'pay up now' or face court](https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease](https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Former chancellor George Osborne joins OpenAI](https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
+- [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jack Smith defends Trump prosecutions in testimony to Congress](https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Polar bear mother adopts cub in rarely documented case](https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Warner Bros favours Netflix offer over $108bn Paramount bid](https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC](https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Starmer tells Abramovich to 'pay up now' or face court](https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
