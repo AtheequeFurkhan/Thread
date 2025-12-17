@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+      "link": "https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5MWEtNjM3Yy03NTMyLTllZjgtMzdjM2IyOTI2ZmRkLmpwZw==.jpg\" alt=\"Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise\"\u003e\u003c/p\u003e\u003cp\u003eThe number of crypto exchange-traded products is going to “accelerate forward at ridiculous speed” in 2026, according to Bitwise researcher Ryan Rasmussen.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 01:06:48 +0000",
+      "fetched_at": "2025-12-17T02:45:24.839050009Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tether leads $8M funding for Lightning startup focused on stablecoins",
+      "link": "https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5YTUtYmRkNS03Njk1LWIyNmItZjZjMWNkYzFlNjgyLmpwZw==.jpg\" alt=\"Tether leads $8M funding for Lightning startup focused on stablecoins\"\u003e\u003c/p\u003e\u003cp\u003eSpeed, which leverages the Bitcoin Lightning Network to facilitate USDT transfers, has secured $8 million from Tether and Ego Death Capital.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 01:28:07 +0000",
+      "fetched_at": "2025-12-17T02:45:24.839035943Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Aave founder outlines 2026 ‘master plan’ after end to SEC probe",
+      "link": "https://cointelegraph.com/news/aave-outlines-2026-roadmap-following-end-sec-probe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhMGEtNjM0MS03ZTQyLTgwZWItYTEwYmM4ZThlODVjLmpwZw==.jpg\" alt=\"Aave founder outlines 2026 ‘master plan’ after end to SEC probe\"\u003e\u003c/p\u003e\u003cp\u003eAave’s 2026 plan focuses on scaling via v4's Hub and Spoke architecture, $1 billion in real-world assets, and growing its new mobile app. \u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 02:12:59 +0000",
+      "fetched_at": "2025-12-17T02:45:24.839016717Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
+      "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.",
+      "published": "Tue, 09 Dec 2025 02:13:58 GMT",
+      "fetched_at": "2025-12-17T02:45:24.521370144Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump expands US travel ban to five more countries",
+      "link": "https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US will restrict entry of people from Burkina Faso, Mali, Niger, South Sudan and Syria as well as holders of Palestinian Authority passports.",
+      "published": "Wed, 17 Dec 2025 02:02:33 GMT",
+      "fetched_at": "2025-12-17T02:45:23.73759841Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Trump orders blockade of sanctioned oil tankers in and out of Venezuela",
+      "link": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It comes a week after the US seized an oil tanker off the coast of Venezuela, in a move that intensified pressure on its government.",
+      "published": "Wed, 17 Dec 2025 01:01:48 GMT",
+      "fetched_at": "2025-12-17T02:45:23.737585907Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Student Podcast Challenge: Nonconformity",
       "link": "https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity",
       "category": "Business",
@@ -4445,62 +4499,8 @@
       "published": "Tue, 09 Dec 2025 02:19:19 GMT",
       "fetched_at": "2025-12-09T02:46:32.825338985Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fitch Ratings flags risk for US banks with high crypto exposure",
-      "link": "https://cointelegraph.com/news/fitch-ratings-warns-reassess-banks-with-high-crypto-exposure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwNGUtYWIwZS03NTM2LThmMzYtMjJmYTA1ZWRjNzk1.jpg\" alt=\"Fitch Ratings flags risk for US banks with high crypto exposure\"\u003e\u003c/p\u003e\u003cp\u003eWhile crypto offers banks an opportunity to generate new sources of revenue, Fitch warns it could bring risks that could lead to rating revisions.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 01:38:44 +0000",
-      "fetched_at": "2025-12-09T02:46:32.798034855Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "CFTC pilot opens path for crypto as collateral in derivative markets",
-      "link": "https://cointelegraph.com/news/cftc-pilot-crypto-collateral-derivative-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMzctN2NkNS03N2I5LWJmNGUtYTJjMGFhOTI2MTM3.jpg\" alt=\"CFTC pilot opens path for crypto as collateral in derivative markets\"\u003e\u003c/p\u003e\u003cp\u003eThe pilot program allows futures commission merchants to accept Bitcoin, Ether and USDC for margin collateral, provided strict reporting criteria are followed.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 01:42:20 +0000",
-      "fetched_at": "2025-12-09T02:46:32.798019428Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "OCC boss says ‘no justification’ to judge banks and crypto differently",
-      "link": "https://cointelegraph.com/news/occ-jonathan-gould-banks-crypto-shouldnt-be-treated-differently?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwMTAtZTRlNC03MWJkLTk2YTYtMDhhOWEzZWQ4NDY1.jpg\" alt=\"OCC boss says ‘no justification’ to judge banks and crypto differently\"\u003e\u003c/p\u003e\u003cp\u003eOffice of the Comptroller of the Currency’s Jonathan Gould says crypto companies should have a path to supervision in the banking system, which can evolve to embrace blockchain.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 01:58:05 +0000",
-      "fetched_at": "2025-12-09T02:46:32.797993844Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "A wage for housework? India's sweeping experiment in paying women",
-      "link": "https://www.bbc.com/news/articles/c5y9ez3kzrdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Some 118 million women in 12 Indian states receive unconditional cash transfers, one of the world’s largest experiments.",
-      "published": "Tue, 09 Dec 2025 00:29:08 GMT",
-      "fetched_at": "2025-12-09T00:58:00.589730863Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Sudan air force bombing of towns, markets and schools has killed hundreds, report says",
-      "link": "https://www.bbc.com/news/articles/cd0k7g202l2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A detailed study highlights the military's aerial campaign and how civilians have been its victims.",
-      "published": "Tue, 09 Dec 2025 00:21:12 GMT",
-      "fetched_at": "2025-12-09T00:58:00.589714302Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Is AI in recruitment a 'race to the bottom'?",
-      "link": "https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.",
-      "published": "Tue, 09 Dec 2025 00:10:31 GMT",
-      "fetched_at": "2025-12-09T00:58:00.205809074Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 699,
-  "last_update": "2025-12-17T00:55:10.549942946Z"
+  "total_captured": 705,
+  "last_update": "2025-12-17T02:45:24.839065658Z"
 }
