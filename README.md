@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 02:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-705-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 03:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-708-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 02:45 UTC)*
+*(Updated: 17 Dec 03:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [US government ‘tech force’ gets backup from Coinbase, Robinhood](https://cointelegraph.com/news/us-tech-force-backup-coinbase-robinhood?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush](https://cointelegraph.com/news/exodus-moonpay-join-stablecoin-gold-rush-with-latest-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise](https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Tether leads $8M funding for Lightning startup focused on stablecoins](https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Aave founder outlines 2026 ‘master plan’ after end to SEC probe](https://cointelegraph.com/news/aave-outlines-2026-roadmap-following-end-sec-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [Second doctor sentenced in Matthew Perry overdose death](https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [3 reasons why trader demand for XRP evaporated: Is $1 next?](https://cointelegraph.com/news/3-reasons-why-trader-demand-for-xrp-evaporated-is-dollar1-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice](https://cointelegraph.com/news/bitcoin-treasury-kindly-md-nasdaq-price-notice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'](https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [US designates Colombian cocaine gang a terrorist group](https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [SEC ends probe into Aave after four years, CEO says](https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [US government ‘tech force’ gets backup from Coinbase, Robinhood](https://cointelegraph.com/news/us-tech-force-backup-coinbase-robinhood?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush](https://cointelegraph.com/news/exodus-moonpay-join-stablecoin-gold-rush-with-latest-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise](https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether leads $8M funding for Lightning startup focused on stablecoins](https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Aave founder outlines 2026 ‘master plan’ after end to SEC probe](https://cointelegraph.com/news/aave-outlines-2026-roadmap-following-end-sec-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bank of Canada lays out criteria for ‘good money’ stablecoins](https://cointelegraph.com/news/canada-reveals-standard-good-money-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Is AI in recruitment a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's X bans European Commission from making ads after €120m fine](https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Negotiations over 'historic' US-UK tech deal stall](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
