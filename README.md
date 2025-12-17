@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 10:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-728-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 10:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-731-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 10:14 UTC)*
+*(Updated: 17 Dec 10:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans](https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’](https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Lightning Network hits record capacity on crypto exchange adoption](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer](https://cointelegraph.com/news/safe-crypto-act-could-scare-crypto-fraudsters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Shock as popular South African DJ shot dead in Johannesburg](https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

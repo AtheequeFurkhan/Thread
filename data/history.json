@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "F1's Kimi Antonelli goes incognito while go-karting",
+      "link": "https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The driver gets two penalty points but manages to clock the fastest lap of the session.",
+      "published": "Wed, 17 Dec 2025 07:51:10 GMT",
+      "fetched_at": "2025-12-17T10:43:23.441961777Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US accused of using illegal workers at centre processing refugee claims in South Africa",
+      "link": "https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The seven Kenyans had previously been denied working visas and will now be deported, South Africa says.",
+      "published": "Wed, 17 Dec 2025 10:08:52 GMT",
+      "fetched_at": "2025-12-17T10:43:23.441945196Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting",
+      "link": "https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "UK-born Rabbi Schlanger mourned as someone beloved by his community and who spread \"love and joy\".",
+      "published": "Wed, 17 Dec 2025 08:25:50 GMT",
+      "fetched_at": "2025-12-17T10:43:23.441928435Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
       "link": "https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 09 Dec 2025 12:20:53 GMT",
       "fetched_at": "2025-12-09T12:25:15.765743115Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tanzania crackdown on planned protest leaves streets deserted",
-      "link": "https://www.bbc.com/news/articles/cx2e3j819eqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "There is a large police presence in major cities and the authorities have encouraged people to stay home.",
-      "published": "Tue, 09 Dec 2025 11:55:29 GMT",
-      "fetched_at": "2025-12-09T12:25:15.765735862Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Jakarta office fire kills at least 22, police confirm",
-      "link": "https://www.bbc.com/news/articles/cwyp98vxk78o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The blaze in the Indonesian capital breaks out as office workers take their lunch break.",
-      "published": "Tue, 09 Dec 2025 11:33:31 GMT",
-      "fetched_at": "2025-12-09T12:25:15.765726424Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps",
-      "link": "https://cointelegraph.com/news/bitcoin-bear-flag-pattern-targets-67k-btc-spot-demand-slumps?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyZGUtMzhjZi03OWFlLWEwMjAtNmY5N2RjOTFmZTdk.jpg\" alt=\"Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps\"\u003e\u003c/p\u003e\u003cp\u003eThe absence of new buyers and weakening ETF demand are factors likely to keep the Bitcoin price pinned below $93,000 as a bear flag targets $67,000.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 12:15:00 +0000",
-      "fetched_at": "2025-12-09T12:25:15.693062962Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 728,
-  "last_update": "2025-12-17T10:14:58.371173349Z"
+  "total_captured": 731,
+  "last_update": "2025-12-17T10:43:23.76472161Z"
 }
