@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 10:56 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-731-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 11:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-733-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 10:56 UTC)*
+*(Updated: 17 Dec 11:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) | 🔴 Negative |
+| **Crypto** | [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [F1's Kimi Antonelli goes incognito while go-karting](https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US accused of using illegal workers at centre processing refugee claims in South Africa](https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting](https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [BBC outside Rabbi Schlanger's funeral as mourners pay tribute](https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm](https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole](https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’](https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) (🔴 Negative)
 - [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) (⚪ Neutral)
 - [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) (🟢 Positive)
 - [Trump's rush to build nuclear reactors across the U.S. raises safety worries](https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns) (🟢 Positive)
 - [Student Podcast Challenge: Nonconformity](https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity) (⚪ Neutral)
-- [What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer](https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans](https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces](https://cointelegraph.com/news/sec-lawsuit-puts-shima-capital-s-future-in-question-as-wind-down-message-surfaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

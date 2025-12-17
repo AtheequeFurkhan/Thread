@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trump's BBC lawsuit: A botched report, BritBox, and porn",
+      "link": "https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn",
+      "category": "Business",
+      "summary": "President Trump's lawsuit alleges that the BBC's fall 2024 documentary was \"a brazen attempt\" to harm his re-election. The BBC has apologized but rejects his claim.",
+      "published": "Wed, 17 Dec 2025 06:00:00 -0500",
+      "fetched_at": "2025-12-17T11:14:03.951085173Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Polymarket shows stronger retention than most DeFi, wallets and exchanges",
+      "link": "https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1MWMtYzgwNC03NWE3LTgyNDUtY2QxNGY5ZjI5MzYy.jpg\" alt=\"Polymarket shows stronger retention than most DeFi, wallets and exchanges\"\u003e\u003c/p\u003e\u003cp\u003eAs crypto platforms explore prediction market integrations, retention data reveals why sustaining user engagement remains one of the industry’s most challenging tasks.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 10:56:48 +0000",
+      "fetched_at": "2025-12-17T11:14:03.421423422Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "F1's Kimi Antonelli goes incognito while go-karting",
       "link": "https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 06:47:44 -0500",
       "fetched_at": "2025-12-09T12:25:15.887972682Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Sudan militia chief sentenced to 20 years for war crimes during Darfur conflict",
-      "link": "https://www.bbc.com/news/articles/cx257gr3yjmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ali Kushayb led the Janjaweed, a group whose campaign of terror led to hundreds of thousands of deaths.",
-      "published": "Tue, 09 Dec 2025 12:02:57 GMT",
-      "fetched_at": "2025-12-09T12:25:15.765758173Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Burkina Faso accuses Nigerian Air Force of violating its airspace",
-      "link": "https://www.bbc.com/news/articles/cpvdl74gxz9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nigeria denies the violation saying the aircraft made an emergency landing due to a technical issue.",
-      "published": "Tue, 09 Dec 2025 12:20:53 GMT",
-      "fetched_at": "2025-12-09T12:25:15.765743115Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 731,
-  "last_update": "2025-12-17T10:56:12.637919432Z"
+  "total_captured": 733,
+  "last_update": "2025-12-17T11:14:03.951100953Z"
 }
