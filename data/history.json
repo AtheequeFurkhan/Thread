@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Alleged Bondi gunman charged with 15 counts of murder",
+      "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Naveed Akram, 24, faces 59 charges in total following the attack at Sydney's Bondi Beach on Sunday.",
+      "published": "Wed, 17 Dec 2025 06:07:28 GMT",
+      "fetched_at": "2025-12-17T06:20:25.505076037Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’",
+      "link": "https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIxZTQtZWExMi03MDdiLThjMmQtYTExOTRmMzc3YjUwLmpwZw==.jpg\" alt=\"Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’\"\u003e\u003c/p\u003e\u003cp\u003eIt’s estimated that Bhutan has around 11,286 Bitcoin in total, a stash worth over $986 million, making it the fifth-largest known holder among countries.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 06:00:00 +0000",
+      "fetched_at": "2025-12-17T06:20:25.47638705Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
       "link": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 05:14:59 GMT",
       "fetched_at": "2025-12-09T05:35:32.81689251Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin peeled off exchanges this year in ‘positive long-term sign’",
-      "link": "https://cointelegraph.com/news/bitcoin-exchange-outflows-etf-accumulation-supply-shift?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwMWEtYzg4ZS03YzdjLTk5NzItOTI3NjI4ZjgyODYw.jpg\" alt=\"Bitcoin peeled off exchanges this year in ‘positive long-term sign’\"\u003e\u003c/p\u003e\u003cp\u003eSome of the Bitcoin outflows from exchanges are going to individual users’ storage wallets, but ETFs and institutions are accumulating coins too.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 05:28:52 +0000",
-      "fetched_at": "2025-12-09T05:35:32.791768131Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-      "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia.",
-      "published": "Tue, 09 Dec 2025 05:05:31 GMT",
-      "fetched_at": "2025-12-09T05:13:08.606220509Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 711,
-  "last_update": "2025-12-17T05:53:41.72215711Z"
+  "total_captured": 713,
+  "last_update": "2025-12-17T06:20:25.505122142Z"
 }

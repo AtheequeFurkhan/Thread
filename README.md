@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 05:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-711-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 06:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-713-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 05:53 UTC)*
+*(Updated: 17 Dec 06:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’](https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Lightning Network hits record capacity on crypto exchange adoption](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer](https://cointelegraph.com/news/safe-crypto-act-could-scare-crypto-fraudsters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Business** | [After outcry over prices, FIFA to sell $60 tickets for the World Cup -- with a catch](https://www.npr.org/2025/12/16/nx-s1-5646548/fifa-world-cup-ticket-prices) | ⚪ Neutral |
 | **Crypto** | [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [RedotPay raises $107M Series B led by Goodwater for stablecoin payments](https://cointelegraph.com/news/redotpay-107m-seriesb-goodwater-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay](https://cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bhutan pledges 10K Bitcoin to develop its ‘mindfulness city’](https://cointelegraph.com/news/bhutan-pledges-10000-bitcoin-gelephu-mindfulness-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp](https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Lightning Network hits record capacity on crypto exchange adoption](https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer](https://cointelegraph.com/news/safe-crypto-act-could-scare-crypto-fraudsters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US government ‘tech force’ gets backup from Coinbase, Robinhood](https://cointelegraph.com/news/us-tech-force-backup-coinbase-robinhood?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush](https://cointelegraph.com/news/exodus-moonpay-join-stablecoin-gold-rush-with-latest-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Alleged Bondi gunman charged with 15 counts of murder](https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump expands US travel ban to five more countries](https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump orders blockade of sanctioned oil tankers in and out of Venezuela](https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Murder charges filed against Nick Reiner for allegedly killing parents](https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Second doctor sentenced in Matthew Perry overdose death](https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'](https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
