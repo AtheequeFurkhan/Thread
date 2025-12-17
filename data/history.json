@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm",
+      "link": "https://www.bbc.com/news/articles/cde657xj3pxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ex- Miss Universe contestant Sarah Dzafce has drawn backlash in East Asia and in her own country.",
+      "published": "Wed, 17 Dec 2025 04:34:05 GMT",
+      "fetched_at": "2025-12-17T07:16:25.441139412Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
       "link": "https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 08:08:46 +0000",
       "fetched_at": "2025-12-09T08:18:49.89256339Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO",
-      "link": "https://cointelegraph.com/news/crypto-index-funds-big-deal-market-complexity-grows-bitwise-cio?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwZTgtODBlMi03ODdjLWExMjYtNzM2NjMyNTk5M2Vj.jpg\" alt=\"Crypto index funds ‘a big deal’ as market complexity grows: Bitwise CIO\"\u003e\u003c/p\u003e\u003cp\u003eWide crypto-tracking funds will become more popular as investors will seek exposure as the market becomes more complex, says Bitwise’s Matt Hougan.\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 05:52:41 +0000",
-      "fetched_at": "2025-12-09T06:20:13.742239474Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 714,
-  "last_update": "2025-12-17T06:53:35.592430618Z"
+  "total_captured": 715,
+  "last_update": "2025-12-17T07:16:25.660059589Z"
 }
