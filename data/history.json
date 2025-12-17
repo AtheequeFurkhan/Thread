@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
+      "link": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5ZmEtZmZlOS03MWNjLWE0NDUtM2ViOTgzMzViYzVlLmpwZw==.jpg\" alt=\"Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp\"\u003e\u003c/p\u003e\u003cp\u003eWhile it may be possible for a public company to catch up to Michael Saylor’s Strategy Bitcoin holdings, it is probably unlikely, Bitcoin entrepreneur Anthony Pompliano says.\u003c/p\u003e",
+      "published": "Wed, 17 Dec 2025 05:44:51 +0000",
+      "fetched_at": "2025-12-17T05:53:41.722128346Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Lightning Network hits record capacity on crypto exchange adoption",
       "link": "https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 05:05:31 GMT",
       "fetched_at": "2025-12-09T05:13:08.606220509Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tether deepens AI bet, backs Italian firm’s humanoid robots",
-      "link": "https://cointelegraph.com/news/tether-backs-funding-round-italian-humanoid-robots?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwZGQtOGVkNi03N2EzLThiYWYtZTM1Y2UzNjA2ODgz.jpg\" alt=\"Tether deepens AI bet, backs Italian firm’s humanoid robots\"\u003e\u003c/p\u003e\u003cp\u003eThe funding will support the development of humanoid robots for industrial use, aiming for “industrial scale performance.”\u003c/p\u003e",
-      "published": "Tue, 09 Dec 2025 04:41:34 +0000",
-      "fetched_at": "2025-12-09T04:47:18.765796064Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 710,
-  "last_update": "2025-12-17T05:43:54.177317986Z"
+  "total_captured": 711,
+  "last_update": "2025-12-17T05:53:41.72215711Z"
 }
