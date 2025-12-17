@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-770-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 22:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-771-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 22:12 UTC)*
+*(Updated: 17 Dec 22:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Rob Reiner's family breaks silence as son Nick faces court for murder charges](https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) | ⚪ Neutral |
 | **Crypto** | [Jito Foundation to return to US amid 'clearer rules' for digital assets](https://cointelegraph.com/news/jito-foundation-return-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase gets nod from Indian regulators to acquire CoinDCX stake](https://cointelegraph.com/news/coinbase-indian-regulators-coindcx-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets](https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Warner Bros favours Netflix offer over $108bn Paramount bid](https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC](https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [How YouTube’s stablecoin payouts could change creator monetization](https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Rob Reiner's family breaks silence as son Nick faces court for murder charges](https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jack Smith defends Trump prosecutions in testimony to Congress](https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Polar bear mother adopts cub in rarely documented case](https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

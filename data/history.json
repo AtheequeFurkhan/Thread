@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Rob Reiner's family breaks silence as son Nick faces court for murder charges",
+      "link": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death.",
+      "published": "Wed, 17 Dec 2025 20:31:10 GMT",
+      "fetched_at": "2025-12-17T22:35:40.244008679Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Are Americans letting go of 'slop bowls?'",
       "link": "https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 00:14:08 GMT",
       "fetched_at": "2025-12-10T00:59:19.719151712Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How long Britain could really fight for if war broke out tomorrow",
-      "link": "https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "In the event of a war, one expert suggests the British Army could be incapable of fighting effectively on land within weeks, once committed - though  'much depends on the form of the conflict'.",
-      "published": "Wed, 10 Dec 2025 00:11:37 GMT",
-      "fetched_at": "2025-12-10T00:59:19.719140191Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 770,
-  "last_update": "2025-12-17T22:12:32.806385895Z"
+  "total_captured": 771,
+  "last_update": "2025-12-17T22:35:40.455091528Z"
 }
