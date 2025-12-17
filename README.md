@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 12:25 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-738-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-17 Dec 13:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-742-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 12:25 UTC)*
+*(Updated: 17 Dec 13:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease](https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Fallout and the secret of the perfect video game adaptation](https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report](https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Business** | [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) | 🟢 Positive |
 | **Business** | [Trump's rush to build nuclear reactors across the U.S. raises safety worries](https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns) | 🟢 Positive |
 | **World** | [Jewish Australians on why Bondi is a 'sanctuary' for them](https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO](https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund](https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Former chancellor George Osborne joins OpenAI](https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Solana tests quantum-resistant transactions in new Project Eleven pilot](https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [New Coinbase report points to ‘broken’ traditional finance system: Armstrong](https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys](https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease](https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges](https://cointelegraph.com/news/bitcoin-price-critical-point-whale-moves-348m-btc-to-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report](https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Polymarket shows stronger retention than most DeFi, wallets and exchanges](https://cointelegraph.com/news/polymarket-retention-prediction-markets-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans](https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin institutional buys flip new supply for the first time in 6 weeks](https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
