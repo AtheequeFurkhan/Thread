@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 19:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-830-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 19:27 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-831-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 19:13 UTC)*
+*(Updated: 18 Dec 19:27 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['She's a superhero': The acts of bravery as Bondi horror unfolded](https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion](https://cointelegraph.com/news/bitcoin-policy-institute-de-minimis-tax-exclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Intuit to use Circle’s stablecoin for financial platforms](https://cointelegraph.com/news/intuit-circle-usdc-stablecoin-tax-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why Bitcoin’s popular narratives don’t match the data: James Check on 2026](https://cointelegraph.com/news/debunking-bitcoin-narrative-onchain-data-james-check-outlook-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) | ⚪ Neutral |
-| **World** | [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['She's a superhero': The acts of bravery as Bondi horror unfolded](https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump Media to merge with nuclear fusion firm in $6bn deal](https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
