@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
+      "link": "https://www.npr.org/2025/12/18/nx-s1-5645034-e1/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
+      "category": "Business",
+      "summary": "Shrimpers along the South Carolina coast are still waiting for a positive impact from President Trump's tariffs on imported shrimp that are meant to help them compete.",
+      "published": "Thu, 18 Dec 2025 16:39:09 -0500",
+      "fetched_at": "2025-12-18T21:47:59.549705211Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Brazilian stock exchange to launch tokenization platform and stablecoin",
+      "link": "https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMDMtMDVkYi03M2RiLTliYzItZjU4MjA5NGZlMTExLmpwZw==.jpg\" alt=\"Brazilian stock exchange to launch tokenization platform and stablecoin\"\u003e\u003c/p\u003e\u003cp\u003eA representative from Brazil's stock exchange, B3, said the stablecoin would be “a tool to enable trading in tokens,\" which it planned to offer in 2026.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:46:52 +0000",
+      "fetched_at": "2025-12-18T21:47:59.16715435Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Cypherpunk values are dying, but they’re not dead yet",
       "link": "https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 18:43:10 GMT",
       "fetched_at": "2025-12-10T20:40:35.453794668Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "ChronoForge to shut down amid funding collapse and Web3 gaming turmoil",
-      "link": "https://cointelegraph.com/news/chronoforge-shut-down-collapse-web3-gaming-turmoil?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5NjEtM2E2MC03OTdiLWFiZTAtYzllZjUxMjA1ZDE3.jpg\" alt=\"ChronoForge to shut down amid funding collapse and Web3 gaming turmoil\"\u003e\u003c/p\u003e\u003cp\u003eChronoForge’s shutdown highlights mounting financial strain across Web3 gaming as shrinking budgets and dismal market sentiment take their toll.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 20:20:46 +0000",
-      "fetched_at": "2025-12-10T20:40:35.436245438Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Italian cooking awarded Unesco cultural heritage status",
-      "link": "https://www.bbc.com/news/articles/c80x3p331lxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "An Eyptian snack, Icelandic pool culture, Cuban music and Albanian lahuta music also get recognition.",
-      "published": "Wed, 10 Dec 2025 19:54:04 GMT",
-      "fetched_at": "2025-12-10T20:14:50.544953694Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 839,
-  "last_update": "2025-12-18T21:38:17.188021128Z"
+  "total_captured": 841,
+  "last_update": "2025-12-18T21:47:59.54972882Z"
 }
