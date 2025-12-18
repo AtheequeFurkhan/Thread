@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'We are not from Bangladesh, we are Indian. Why did they do this to us?'",
+      "link": "https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Sunali Khatun was pregnant when she was deported to Bangladesh for allegedly being an illegal immigrant.",
+      "published": "Thu, 18 Dec 2025 23:43:42 GMT",
+      "fetched_at": "2025-12-18T23:48:26.31502735Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "President's proposal to subsidise hair loss treatment splits South Korea",
       "link": "https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 00:24:49 GMT",
       "fetched_at": "2025-12-11T01:00:00.329758202Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying",
-      "link": "https://cointelegraph.com/news/asian-millionaires-bullish-crypto-60-percent-raise-allocations-survey?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2YTAtNGFiNS03ZTMxLWE4NDEtM2UxNDJkMDFkZmE4.jpg\" alt=\"Survey finds 6 in 10 of Asia’s rich plan to ramp up crypto buying\"\u003e\u003c/p\u003e\u003cp\u003eSygnum’s APAC HNWI Report 2025 found that 87% of Asia’s high-net-worth individuals are already exposed to crypto, with an average allocation of approximately 17%.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 00:00:00 +0000",
-      "fetched_at": "2025-12-11T00:59:59.963288312Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 850,
-  "last_update": "2025-12-18T23:31:20.386259605Z"
+  "total_captured": 851,
+  "last_update": "2025-12-18T23:48:26.315043159Z"
 }

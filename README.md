@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 23:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-850-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 23:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-851-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 23:31 UTC)*
+*(Updated: 18 Dec 23:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job](https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?](https://cointelegraph.com/news/bitcoin-trips-at-dollar90k-despite-cpi-showing-curbed-us-inflation-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why the ‘great China Bitcoin mining crackdown’ fell short of early claims](https://cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | ['She's a superhero': The acts of bravery as Bondi horror unfolded](https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Pope Leo names Ronald Hicks next archbishop of New York](https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Democrats release latest batch of Epstein photos as justice department deadline looms](https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Ex-Nascar driver and family believed to be among seven killed in US aircrash](https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
