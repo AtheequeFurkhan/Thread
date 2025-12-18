@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 21:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-841-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-844-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 21:47 UTC)*
+*(Updated: 18 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ex-Nascar driver and family believed to be among seven killed in US aircrash](https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Violence breaks out in Bangladesh after death of youth protest leader](https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Coinbase appoints former UK minister George Osborne to chair advisory council](https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034-e1/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) | ⚪ Neutral |
 | **Crypto** | [Brazilian stock exchange to launch tokenization platform and stablecoin](https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Cypherpunk values are dying, but they’re not dead yet](https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Crypto** | [SoFi rolls out US dollar stablecoin issued by bank subsidiary](https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [MEV trading returns to court in Pump.fun class-action lawsuit](https://cointelegraph.com/news/mev-trading-returns-court-pump-fun-class-action-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm](https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Coinbase appoints former UK minister George Osborne to chair advisory council](https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Brazilian stock exchange to launch tokenization platform and stablecoin](https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Cypherpunk values are dying, but they’re not dead yet](https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [SOL price action lags the wider altcoin market: Is Solana’s heyday over?](https://cointelegraph.com/news/sol-lags-wider-altcoin-market-is-solanas-heyday-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Global debt markets show dollar dominance moves in cycles, US Fed says](https://cointelegraph.com/news/global-debt-markets-dollar-dominance-cycles-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [NYSE parent in talks to invest in crypto company MoonPay: Report](https://cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ex-Nascar driver and family believed to be among seven killed in US aircrash](https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Violence breaks out in Bangladesh after death of youth protest leader](https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Wiz Khalifa sentenced to nine months jail in Romania for smoking cannabis on stage](https://www.bbc.com/news/articles/c93wxp2p05xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job](https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['She's a superhero': The acts of bravery as Bondi horror unfolded](https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump Media to merge with nuclear fusion firm in $6bn deal](https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

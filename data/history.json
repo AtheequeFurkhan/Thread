@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Ex-Nascar driver and family believed to be among seven killed in US aircrash",
+      "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Officials confirm racer Greg Biffle was among those who boarded the small aircraft that crashed at a regional airport in North Carolina.",
+      "published": "Thu, 18 Dec 2025 22:06:27 GMT",
+      "fetched_at": "2025-12-18T22:12:13.79270704Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Violence breaks out in Bangladesh after death of youth protest leader",
+      "link": "https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Sharif Osman Hadi was a prominent figure in the movement that ousted former prime minister Sheik Hasina.",
+      "published": "Thu, 18 Dec 2025 21:55:57 GMT",
+      "fetched_at": "2025-12-18T22:12:13.792688717Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Coinbase appoints former UK minister George Osborne to chair advisory council",
+      "link": "https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzUtNGJlNy03Zjc3LWE3NzItZWEzMGFmMGFiYWI4LmpwZw==.jpg\" alt=\"Coinbase appoints former UK minister George Osborne to chair advisory council\"\u003e\u003c/p\u003e\u003cp\u003eOsborne began advising Coinbase in 2024 and has been critical of the UK government's lack of robust digital asset regulations.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:59:06 +0000",
+      "fetched_at": "2025-12-18T22:12:13.779215458Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
       "link": "https://www.npr.org/2025/12/18/nx-s1-5645034-e1/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
       "category": "Business",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 21:38:32 +0000",
       "fetched_at": "2025-12-10T21:49:48.271054049Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
-      "link": "https://cointelegraph.com/news/gamestop-misses-q3-estimates-519m-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5ZTEtMjcwOC03OWRhLWEyOGUtNTk2YzNhMmIwMTQ1.jpg\" alt=\"GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains\"\u003e\u003c/p\u003e\u003cp\u003eFalling sales and diminished Bitcoin gains pressured earnings, with the stock continuing to retrace its brief rally in March.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 21:23:18 +0000",
-      "fetched_at": "2025-12-10T21:35:49.945508798Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tether launches privacy-focused health platform with on-device AI",
-      "link": "https://cointelegraph.com/news/tether-privacy-health-platform-device-ai?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5YWItNjVmNS03NWFlLThiMjAtOTBiZWY1M2VkYmFl.jpg\" alt=\"Tether launches privacy-focused health platform with on-device AI\"\u003e\u003c/p\u003e\u003cp\u003eTether says the system is designed to give users control over biometric data by keeping analysis and storage off the cloud.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 20:50:03 +0000",
-      "fetched_at": "2025-12-10T20:54:44.392044247Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Sarkozy releases prison diaries about his 20 days behind bars",
-      "link": "https://www.bbc.com/news/articles/c8r30py751mo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The former French president was jailed for taking part in an election campaign funding conspiracy.",
-      "published": "Wed, 10 Dec 2025 18:43:10 GMT",
-      "fetched_at": "2025-12-10T20:40:35.453794668Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 841,
-  "last_update": "2025-12-18T21:47:59.54972882Z"
+  "total_captured": 844,
+  "last_update": "2025-12-18T22:12:13.792734051Z"
 }
