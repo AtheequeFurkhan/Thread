@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Cypherpunk values are dying, but they’re not dead yet",
+      "link": "https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyZjktNTgzZC03ZmZlLTgzMzEtOTBhM2I4ODcwYWEwLmpwZw==.jpg\" alt=\"Cypherpunk values are dying, but they’re not dead yet\"\u003e\u003c/p\u003e\u003cp\u003eThe values that are baked into the foundations of crypto — privacy, self-sovereignty, decentralization — are eroding, and we’re running out of time to address the problem.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:30:46 +0000",
+      "fetched_at": "2025-12-18T21:38:16.302464121Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "SOL price action lags the wider altcoin market: Is Solana’s heyday over?",
+      "link": "https://cointelegraph.com/news/sol-lags-wider-altcoin-market-is-solanas-heyday-over?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMmMtMDFiZi03ZjhkLTgyN2ItOTgzNzQ0ZTU1ODMxLmpwZw==.jpg\" alt=\"SOL price action lags the wider altcoin market: Is Solana’s heyday over?\"\u003e\u003c/p\u003e\u003cp\u003eSOL falls behind multiple altcoin competitors as its onchain activity, fee and DApp revenues slump. Cointelegraph explains why.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:33:57 +0000",
+      "fetched_at": "2025-12-18T21:38:16.302434626Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Global debt markets show dollar dominance moves in cycles, US Fed says",
+      "link": "https://cointelegraph.com/news/global-debt-markets-dollar-dominance-cycles-fed?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMDktZTE2Yi03ZGQ5LTgzNDgtZmY3MjVlOWE0MTg5LmpwZw==.jpg\" alt=\"Global debt markets show dollar dominance moves in cycles, US Fed says\"\u003e\u003c/p\u003e\u003cp\u003eA recent study by the US Federal Reserve argues that despite periodic challenges, a lack of credible alternatives has kept the dollar at the center of global bond markets.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:35:37 +0000",
+      "fetched_at": "2025-12-18T21:38:16.302415901Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "NYSE parent in talks to invest in crypto company MoonPay: Report",
       "link": "https://cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 19:54:04 GMT",
       "fetched_at": "2025-12-10T20:14:50.544953694Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K",
-      "link": "https://cointelegraph.com/news/conflicted-fed-cuts-rates-but-bitcoin-s-fragile-range-pins-btc-under-100k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4ZTUtNTk2Zi03NWE1LWJjOTMtYWExNjU1MTJiNTJm.jpg\" alt=\"Conflicted Fed cuts rates but Bitcoin’s ‘fragile range’ pins BTC under $100K\"\u003e\u003c/p\u003e\u003cp\u003eA divided Federal Reserve approved a 0.25% rate cut, but concerns over inflation and growth, as well as Glassnode data highlighting BTC’s “fragile range,” may keep it under $100,000.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 19:36:41 +0000",
-      "fetched_at": "2025-12-10T19:48:15.305757017Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "ETHZilla moves into onchain housing finance with 15% Zippy acquisition",
-      "link": "https://cointelegraph.com/news/ethzilla-zippy-acquisition-home-loans-onchain?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MzMtZjI0ZC03ZjEzLWJmYTgtYjg5NzQ3NTkzZWE5.jpg\" alt=\"ETHZilla moves into onchain housing finance with 15% Zippy acquisition\"\u003e\u003c/p\u003e\u003cp\u003eThe company’s second acquisition in a week brings manufactured-home chattel loans onchain as Ether treasury stocks continue to slide.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 19:14:48 +0000",
-      "fetched_at": "2025-12-10T19:29:07.683091661Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Galaxy expands to UAE as part of Middle East push",
-      "link": "https://cointelegraph.com/news/galaxy-expands-uae-middle-east-adgm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MjUtY2I0YS03Nzc3LTkyNzAtZmNkOGMxMjliZmM5.jpg\" alt=\"Galaxy expands to UAE as part of Middle East push\"\u003e\u003c/p\u003e\u003cp\u003eThe digital assets company is one of many to seek regulatory approval from UAE authorities or attempt to expand their services into a region drawing them in.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 18:40:20 +0000",
-      "fetched_at": "2025-12-10T18:50:32.151660831Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 836,
-  "last_update": "2025-12-18T21:28:00.489495979Z"
+  "total_captured": 839,
+  "last_update": "2025-12-18T21:38:17.188021128Z"
 }
