@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwNzUtZjk4OC03OTU4LTgzOWQtOGVhNzczNTA3YjlhLmpwZw==.jpg\" alt=\"Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push\"\u003e\u003c/p\u003e\u003cp\u003eSpot Bitcoin ETFs logged their strongest inflows in over a month amid renewed institutional demand tied to shifting macro expectations.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 08:32:56 +0000",
+      "fetched_at": "2025-12-18T08:50:06.683145907Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ethereum needs simple explanation to see true trustlessness: Buterin",
       "link": "https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 08:08:32 GMT",
       "fetched_at": "2025-12-10T08:18:26.570575476Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Animoca, Solv to help Japanese Bitcoin companies generate yield",
-      "link": "https://cointelegraph.com/news/japan-companies-bitcoin-yield-solv-animoca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2OTctZDA2Ni03NDczLTk0MTEtNDQ3YmFhOThlNzJi.jpg\" alt=\"Animoca, Solv to help Japanese Bitcoin companies generate yield\"\u003e\u003c/p\u003e\u003cp\u003eSolv generates Bitcoin yield through lending markets, liquidity provisioning to automated market maker pools, and participation in structured staking programs.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 06:19:55 +0000",
-      "fetched_at": "2025-12-10T06:53:27.971769927Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 788,
-  "last_update": "2025-12-18T08:18:32.667009171Z"
+  "total_captured": 789,
+  "last_update": "2025-12-18T08:50:07.173163959Z"
 }

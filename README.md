@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 08:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-788-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 08:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-789-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 08:18 UTC)*
+*(Updated: 18 Dec 08:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ethereum needs simple explanation to see true trustlessness: Buterin](https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [MSCI’s crypto treasury rules could spur $15B of forced selling](https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Coinbase adds stock trading, prediction markets in ‘everything app’ push](https://cointelegraph.com/news/coinbase-stock-trading-prediction-markets-in-everything-app-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Rob Reiner's family breaks silence as son Nick faces court for murder charges](https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) | ⚪ Neutral |
-| **Crypto** | [Jito Foundation to return to US amid 'clearer rules' for digital assets](https://cointelegraph.com/news/jito-foundation-return-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum needs simple explanation to see true trustlessness: Buterin](https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [MSCI’s crypto treasury rules could spur $15B of forced selling](https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto ETPs could see a flood of liquidations by 2027: Analyst](https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up](https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
