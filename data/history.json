@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Pulitzer Prize-winning correspondent Peter Arnett has died",
+      "link": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
+      "category": "Business",
+      "summary": "Peter Arnett, the Pulitzer Prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from Vietnam to Iraq, has died. He was 91.",
+      "published": "Thu, 18 Dec 2025 01:44:49 -0500",
+      "fetched_at": "2025-12-18T15:43:04.243256979Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump Media to merge with nuclear fusion firm in $6bn deal",
+      "link": "https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The company behind President Trump's Truth Social platform makes a surprising move into the energy sector.",
+      "published": "Thu, 18 Dec 2025 15:11:11 GMT",
+      "fetched_at": "2025-12-18T15:43:03.777914359Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
       "link": "https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 13:02:20 GMT",
       "fetched_at": "2025-12-10T13:48:39.593209364Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits",
-      "link": "https://www.bbc.com/news/articles/cedx6lqy967o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The friends were warned their clothing was \"in conflict with Afghan and Islamic values\", a Taliban spokesman told the BBC.",
-      "published": "Wed, 10 Dec 2025 13:31:40 GMT",
-      "fetched_at": "2025-12-10T13:48:39.593198283Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "US jets tracked circling Gulf of Venezuela as tensions mount",
-      "link": "https://www.bbc.com/news/articles/c0edxgx31zdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The F/A-18 Super Hornets appear on flight tracking sites near Maracaibo, Venezuela's second-largest city.",
-      "published": "Wed, 10 Dec 2025 12:34:44 GMT",
-      "fetched_at": "2025-12-10T13:48:39.593184548Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 817,
-  "last_update": "2025-12-18T15:16:27.459252654Z"
+  "total_captured": 819,
+  "last_update": "2025-12-18T15:43:04.243273701Z"
 }
