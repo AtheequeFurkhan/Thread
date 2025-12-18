@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Why the ‘great China Bitcoin mining crackdown’ fell short of early claims",
+      "link": "https://cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyM2QtYTgyOC03M2ExLTg5ZGYtNTdiMTUzN2FmYTBlLmpwZw==.jpg\" alt=\"Why the ‘great China Bitcoin mining crackdown’ fell short of early claims\"\u003e\u003c/p\u003e\u003cp\u003eData suggests that fears about Xinjiang-related Bitcoin mining have overstated the impact, with hashrate losses proving brief and driven partly by US power curtailments.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 19:25:00 +0000",
+      "fetched_at": "2025-12-18T19:35:02.423312277Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "'She's a superhero': The acts of bravery as Bondi horror unfolded",
       "link": "https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 17:30:00 +0000",
       "fetched_at": "2025-12-10T17:44:28.294033982Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant",
-      "link": "https://cointelegraph.com/news/vanguard-s-50m-clients-will-soon-gain-access-to-crypto-etfs-why-this-is-significant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5M2MtMzc3Ny03Y2ZlLTk3ZjgtYjEyODllMDQ5Yzgy.jpg\" alt=\"Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant\"\u003e\u003c/p\u003e\u003cp\u003eVanguard is opening crypto ETF access to millions of investors. The move reflects a broader 2025 trend of crypto finding its way into investor portfolios.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 17:30:00 +0000",
-      "fetched_at": "2025-12-10T17:44:28.293933855Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 831,
-  "last_update": "2025-12-18T19:27:03.880737966Z"
+  "total_captured": 832,
+  "last_update": "2025-12-18T19:35:02.842854558Z"
 }
