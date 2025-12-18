@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-813-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:42 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-814-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 14:15 UTC)*
+*(Updated: 18 Dec 14:42 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) | ⚪ Neutral |
 | **World** | [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained](https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump announces 'warriors dividend' for troops as he defends economic record](https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

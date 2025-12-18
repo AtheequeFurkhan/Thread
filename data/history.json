@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Peter Arnett, Pulitzer-winning war reporter, dies aged 91",
+      "link": "https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "He was known for covering the Vietnam and Gulf Wars - and for interviewing both Saddam Hussein and Osama bin Laden.",
+      "published": "Thu, 18 Dec 2025 14:07:44 GMT",
+      "fetched_at": "2025-12-18T14:42:02.883008051Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
       "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 13:35:05 +0000",
       "fetched_at": "2025-12-10T13:48:39.388166681Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Superstate opens onchain capital raises for SEC-registered public companies",
-      "link": "https://cointelegraph.com/news/superstate-stablecoin-stock-offerings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ZjItNzdhOS03NTM4LWE4YzYtN2MwY2UxOGQyZjBh.jpg\" alt=\"Superstate opens onchain capital raises for SEC-registered public companies\"\u003e\u003c/p\u003e\u003cp\u003eSuperstate’s Direct Issuance Programs let SEC-registered companies raise capital on Ethereum and Solana, taking stablecoin payments and issuing tokenized shares instantly.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-10T13:10:48.882166452Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 813,
-  "last_update": "2025-12-18T14:15:14.591938436Z"
+  "total_captured": 814,
+  "last_update": "2025-12-18T14:42:03.122259129Z"
 }
