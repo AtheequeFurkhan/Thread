@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "MSCI’s crypto treasury rules could spur $15B of forced selling",
+      "link": "https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmOTktNGFjMy03OGEzLWJlNDctYjdkYzc2OWIyMjFjLmpwZw==.jpg\" alt=\"MSCI’s crypto treasury rules could spur $15B of forced selling\"\u003e\u003c/p\u003e\u003cp\u003eAnalysts estimated that crypto treasury firms face up to $11.6 billion in outflows if MSCI excluded them from its indexes.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 05:40:34 +0000",
+      "fetched_at": "2025-12-18T05:44:12.067087005Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch Australian teens test out social media on first day of ban",
       "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 06:13:22 +0000",
       "fetched_at": "2025-12-10T06:20:38.425745052Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'It's insulting they think we can't handle it': The Australian teens banned from social media",
-      "link": "https://www.bbc.com/news/articles/ckg9e1nl40wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Millions of Australian teens will no longer be allowed to use social media. Who wins and who loses out?",
-      "published": "Wed, 10 Dec 2025 05:45:45 GMT",
-      "fetched_at": "2025-12-10T05:51:32.277135018Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 786,
-  "last_update": "2025-12-18T05:16:03.706284653Z"
+  "total_captured": 787,
+  "last_update": "2025-12-18T05:44:12.405908581Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 05:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-786-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 05:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-787-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 05:16 UTC)*
+*(Updated: 18 Dec 05:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [MSCI’s crypto treasury rules could spur $15B of forced selling](https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Crypto ETPs could see a flood of liquidations by 2027: Analyst](https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Australian PM announces crackdown on hate speech after Bondi shooting](https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Business** | [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) | ⚪ Neutral |
 | **Crypto** | [Jito Foundation to return to US amid 'clearer rules' for digital assets](https://cointelegraph.com/news/jito-foundation-return-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase gets nod from Indian regulators to acquire CoinDCX stake](https://cointelegraph.com/news/coinbase-indian-regulators-coindcx-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst](https://cointelegraph.com/news/bitcoin-dollar70k-flush-would-reset-cycle-not-confirm-new-bear-market-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [MSCI’s crypto treasury rules could spur $15B of forced selling](https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto ETPs could see a flood of liquidations by 2027: Analyst](https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up](https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ethereum could get faster in January with gas limit rise to 80M](https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
