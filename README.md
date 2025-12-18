@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-17 Dec 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-773-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 00:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-776-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 17 Dec 23:49 UTC)*
+*(Updated: 18 Dec 00:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [In this secret missile factory, Ukraine is ramping up its domestic arms industry](https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Dan Bongino stepping down as FBI deputy director](https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine](https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Moment Nick Reiner is arrested after being seen in convenience store](https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase adds stock trading, prediction markets in ‘everything app’ push](https://cointelegraph.com/news/coinbase-stock-trading-prediction-markets-in-everything-app-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Rob Reiner's family breaks silence as son Nick faces court for murder charges](https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement](https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Jack Smith defends Trump prosecutions in testimony to Congress](https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Polar bear mother adopts cub in rarely documented case](https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin tags $90K as crypto market spike liquidates $120M shorts](https://cointelegraph.com/news/bitcoin-returns-90k-btc-price-impulse-liquidates-shorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Kyrgyzstan’s USDKG shows how real-asset stablecoins are evolving in emerging markets](https://cointelegraph.com/news/kyrgyzstan-s-usdkg-shows-how-real-asset-stablecoins-are-evolving-in-emerging-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [In this secret missile factory, Ukraine is ramping up its domestic arms industry](https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Dan Bongino stepping down as FBI deputy director](https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine](https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Moment Nick Reiner is arrested after being seen in convenience store](https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rob Reiner's family breaks silence as son Nick faces court for murder charges](https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
 | 2025-12-15.md | [View Log](data/2025-12-15.md) |
 | 2025-12-14.md | [View Log](data/2025-12-14.md) |
 | 2025-12-13.md | [View Log](data/2025-12-13.md) |
 | 2025-12-12.md | [View Log](data/2025-12-12.md) |
-| 2025-12-11.md | [View Log](data/2025-12-11.md) |
 
 
 ---

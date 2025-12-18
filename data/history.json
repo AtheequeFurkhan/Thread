@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "In this secret missile factory, Ukraine is ramping up its domestic arms industry",
+      "link": "https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC goes to a secret Ukrainian factory, where they are manufacturing new long-range missiles.",
+      "published": "Thu, 18 Dec 2025 00:00:22 GMT",
+      "fetched_at": "2025-12-18T00:56:35.402595275Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Dan Bongino stepping down as FBI deputy director",
+      "link": "https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The ex-podcaster's announcement comes after US President Donald Trump said he \"wants to go back to his show\".",
+      "published": "Thu, 18 Dec 2025 00:12:25 GMT",
+      "fetched_at": "2025-12-18T00:56:35.402579055Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
+      "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The leaders are to decide whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs.",
+      "published": "Thu, 18 Dec 2025 00:43:59 GMT",
+      "fetched_at": "2025-12-18T00:56:35.402564478Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
       "link": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 01:34:08 +0000",
       "fetched_at": "2025-12-10T02:51:39.361632435Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin",
-      "link": "https://cointelegraph.com/news/vivek-ramaswamy-strive-raise-500m-buy-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ZGUtOGExZS03ZWI3LWE3YjUtNWIwMmUyYjg3OWZl.jpg\" alt=\"Vivek Ramaswamy’s Strive to raise $500M to buy Bitcoin\"\u003e\u003c/p\u003e\u003cp\u003eStrive, co-founded in 2022 by American entrepreneur Vivek Ramaswamy, launched a $500 million preferred stock offering to acquire more Bitcoin and Bitcoin-related products.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 01:44:16 +0000",
-      "fetched_at": "2025-12-10T02:51:39.361614913Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin firm Twenty One Capital drops 20% on first day of trading",
-      "link": "https://cointelegraph.com/news/twenty-one-capital-drops-20-percent-trading-debut?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1NjAtNTcwOC03MDYzLWFhN2YtNThmMzNhZDIyYWY5.jpg\" alt=\"Bitcoin firm Twenty One Capital drops 20% on first day of trading\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital came to market with over $4 billion in Bitcoin, but its lack of publicly shared business plans appears to have led some investors to the exit.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 02:27:01 +0000",
-      "fetched_at": "2025-12-10T02:51:39.361600626Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Watch: Ozzy the dog sets Guinness World record for longest canine tongue",
-      "link": "https://www.bbc.com/news/videos/c0q57j99zpno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The mastiff mix from Oklahoma City broke the previous record with his tongue measuring in at 7.83in (19.89cm).",
-      "published": "Tue, 09 Dec 2025 23:42:25 GMT",
-      "fetched_at": "2025-12-10T00:59:19.719176379Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 773,
-  "last_update": "2025-12-17T23:49:12.153655368Z"
+  "total_captured": 776,
+  "last_update": "2025-12-18T00:56:36.114299452Z"
 }
