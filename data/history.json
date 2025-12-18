@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
+      "link": "https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxOTUtMTUwZS03MDZjLWI5MTAtMGNlZjdiNTY0OWEwLmpwZw==.jpg\" alt=\"Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026\"\u003e\u003c/p\u003e\u003cp\u003eTether CEO Paolo Ardoino says an AI-driven bubble could shake Bitcoin, and shares his outlook on Europe, DATs and tokenization in 2026.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 15:00:00 +0000",
+      "fetched_at": "2025-12-18T15:16:26.654364752Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+      "link": "https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxZjEtZDY1ZC03OWE1LTljOWUtYzkxNzA1ZTgzMDkwLmpwZw==.jpg\" alt=\"Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin tagged $89,500 as US CPI data revealed sudden multiyear lows in inflation, but liquidations stayed high as the BTC price spiked.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 15:01:43 +0000",
+      "fetched_at": "2025-12-18T15:16:26.654345066Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Ethereum down 42% from all-time high: Where will ETH price bottom?",
       "link": "https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 12:34:44 GMT",
       "fetched_at": "2025-12-10T13:48:39.593184548Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Japan plans major shift as crypto moves from payments to securities law",
-      "link": "https://cointelegraph.com/news/japan-rewrites-crypto-rules-investment-not-payment-tool?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4NDUtYmFjYi03ZDE0LTk4MDAtMTNmNjMwMGNmM2Iw.jpg\" alt=\"Japan plans major shift as crypto moves from payments to securities law\"\u003e\u003c/p\u003e\u003cp\u003eJapan plans to move crypto regulation from payments law to securities rules, tightening disclosures for IEOs and cracking down on unregistered platforms.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 13:23:07 +0000",
-      "fetched_at": "2025-12-10T13:48:39.388193271Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?",
-      "link": "https://cointelegraph.com/news/ethereum-rising-3-3k-proves-bottom-is-in-is-eth-price-rally-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTYtM2U0ZS03ZDljLWJiZDEtNjNhMjc4YmI3YWE4.jpg\" alt=\"Ethereum rising to $3.3K proves bottom is in: Is 100% ETH rally next?\"\u003e\u003c/p\u003e\u003cp\u003eEthereum gained between 97% and 147% after ETH price flipped the 50-week MA into support. A similar scenario is unfolding this week.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 13:29:46 +0000",
-      "fetched_at": "2025-12-10T13:48:39.388181369Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 815,
-  "last_update": "2025-12-18T14:56:19.369819128Z"
+  "total_captured": 817,
+  "last_update": "2025-12-18T15:16:27.459252654Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:56 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-815-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 15:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-817-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 14:56 UTC)*
+*(Updated: 18 Dec 15:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021](https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump announces 'warriors dividend' for troops as he defends economic record](https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021](https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’](https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
