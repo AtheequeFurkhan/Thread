@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 09:46 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-791-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 10:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-793-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 09:46 UTC)*
+*(Updated: 18 Dec 10:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) | ⚪ Neutral |
+| **Business** | [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) | ⚪ Neutral |
 | **World** | [French anaesthetist who poisoned 12 patients to death jailed for life](https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [In this secret missile factory, Ukraine is ramping up its domestic arms industry](https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Dan Bongino stepping down as FBI deputy director](https://www.bbc.com/news/articles/cvgj0p5yl92o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine](https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Watch: Moment Nick Reiner is arrested after being seen in convenience store](https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Coinbase adds stock trading, prediction markets in ‘everything app’ push](https://cointelegraph.com/news/coinbase-stock-trading-prediction-markets-in-everything-app-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) (⚪ Neutral)
+- [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) (⚪ Neutral)
 - [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) (⚪ Neutral)
 - [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) (⚪ Neutral)
 - [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) (🔴 Negative)
-- [Is the viral cheese pull saving chain restaurants?](https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media) (⚪ Neutral)
-- [Trump's economic approval hits a new low at 36%, poll finds](https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval) (🟢 Positive)
 
 
 ### 📂 Crypto

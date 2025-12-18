@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
+      "link": "https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
+      "category": "Business",
+      "summary": "Shrimpers along the South Carolina coast are still waiting for a positive impact from President Trump's tariffs on imported shrimp that are meant to help them compete.",
+      "published": "Thu, 18 Dec 2025 04:43:36 -0500",
+      "fetched_at": "2025-12-18T10:14:14.595187655Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "These federal workers proudly served the American people. Then came Trump's upheaval",
+      "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
+      "category": "Business",
+      "summary": "Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December.",
+      "published": "Thu, 18 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-18T10:14:14.595174239Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
       "link": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 05:05:52 GMT",
       "fetched_at": "2025-12-10T08:53:08.674148932Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "South Korea protests Chinese and Russian warplanes in its airspace",
-      "link": "https://www.bbc.com/news/articles/cqxq38028djo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Seoul says it will \"actively respond\" to  neighbouring countries' activities in its air defence zone.",
-      "published": "Wed, 10 Dec 2025 08:17:07 GMT",
-      "fetched_at": "2025-12-10T08:53:08.451379066Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A popular streamer tells us about the downsides of making online content.",
-      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-10T08:18:27.101115599Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 791,
-  "last_update": "2025-12-18T09:46:11.244962489Z"
+  "total_captured": 793,
+  "last_update": "2025-12-18T10:14:14.985639519Z"
 }
