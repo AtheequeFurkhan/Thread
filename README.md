@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-827-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 18:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-829-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 18:19 UTC)*
+*(Updated: 18 Dec 18:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Intuit to use Circle’s stablecoin for financial platforms](https://cointelegraph.com/news/intuit-circle-usdc-stablecoin-tax-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Why Bitcoin’s popular narratives don’t match the data: James Check on 2026](https://cointelegraph.com/news/debunking-bitcoin-narrative-onchain-data-james-check-outlook-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [SoFi rolls out US dollar stablecoin issued by bank subsidiary](https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [MEV trading returns to court in Pump.fun class-action lawsuit](https://cointelegraph.com/news/mev-trading-returns-court-pump-fun-class-action-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Business** | [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) | ⚪ Neutral |
 | **World** | [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Intuit to use Circle’s stablecoin for financial platforms](https://cointelegraph.com/news/intuit-circle-usdc-stablecoin-tax-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Why Bitcoin’s popular narratives don’t match the data: James Check on 2026](https://cointelegraph.com/news/debunking-bitcoin-narrative-onchain-data-james-check-outlook-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SoFi rolls out US dollar stablecoin issued by bank subsidiary](https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [MEV trading returns to court in Pump.fun class-action lawsuit](https://cointelegraph.com/news/mev-trading-returns-court-pump-fun-class-action-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm](https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Aptos introduces post-quantum signatures before they’re urgently needed](https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
