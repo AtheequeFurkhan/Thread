@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Pope Leo names Ronald Hicks next archbishop of New York",
+      "link": "https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 58-year-old from Chicago will replace Cardinal Timothy Dolan to lead New York's 2.5 million Catholics.",
+      "published": "Thu, 18 Dec 2025 22:25:49 GMT",
+      "fetched_at": "2025-12-18T22:34:38.838695974Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Democrats release latest batch of Epstein photos as justice department deadline looms",
+      "link": "https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The materials include photos of women's passports, and Lolita quotes written across a woman's body.",
+      "published": "Thu, 18 Dec 2025 20:29:19 GMT",
+      "fetched_at": "2025-12-18T22:34:38.838679704Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Crypto CLARITY Act set for Senate markup in January, says Sacks",
+      "link": "https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzYtMzNiMC03YjRjLWI3MDktZDg4MjdhMjEwYzhlLmpwZw==.jpg\" alt=\"Crypto CLARITY Act set for Senate markup in January, says Sacks\"\u003e\u003c/p\u003e\u003cp\u003eWhite House AI and crypto czar David Sacks said the CLARITY Act will reach the Senate next month for debate and amendment before a full vote.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 22:32:29 +0000",
+      "fetched_at": "2025-12-18T22:34:38.641692284Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ex-Nascar driver and family believed to be among seven killed in US aircrash",
       "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 22:11:49 +0000",
       "fetched_at": "2025-12-10T22:35:33.228372054Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why news organizations are suing AI companies, and what they hope to win",
-      "link": "https://www.npr.org/2025/12/10/nx-s1-5637429/why-news-organizations-are-suing-ai-companies-and-what-they-hope-to-win",
-      "category": "Business",
-      "summary": "\u003cem\u003eThe New York Times\u003c/em\u003e and \u003cem\u003eChicago Tribune\u003c/em\u003e sued Perplexity last week, the latest in a series of publishers suing AI companies in a bid to set boundaries around a new technology powered by information.",
-      "published": "Wed, 10 Dec 2025 16:48:13 -0500",
-      "fetched_at": "2025-12-10T22:13:26.7141906Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January",
-      "link": "https://cointelegraph.com/news/fed-rate-cut-qe-could-pump-stocks-but-bitcoin-options-call-sub-100k-in-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmY2YtZDJmYS03MmQ4LWFiYzEtNWExYjlhOTM1ZjQ0.jpg\" alt=\"Fed rate cut may pump stocks but Bitcoin options call sub-$100K in January\"\u003e\u003c/p\u003e\u003cp\u003eFederal Reserve monetary policy could benefit stocks, but BTC options show the short-term odds of Bitcoin rallying to $100,000 remain slim.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 22:08:38 +0000",
-      "fetched_at": "2025-12-10T22:13:26.223282763Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
-      "link": "https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZmYjMtYmM0Yi03YTI1LTllZjYtMjFhYmRiZDYwOTNi.jpg\" alt=\"Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models\"\u003e\u003c/p\u003e\u003cp\u003eThe funding will support Surf’s next AI model aimed at delivering deeper onchain analysis and automating research for crypto companies and traders.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 21:38:32 +0000",
-      "fetched_at": "2025-12-10T21:49:48.271054049Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 844,
-  "last_update": "2025-12-18T22:12:13.792734051Z"
+  "total_captured": 847,
+  "last_update": "2025-12-18T22:34:39.231557444Z"
 }
