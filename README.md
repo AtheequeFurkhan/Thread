@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 13:09 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-807-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 13:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-811-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 13:09 UTC)*
+*(Updated: 18 Dec 13:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained](https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’](https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -37,10 +41,6 @@
 | **Crypto** | [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) | ⚪ Neutral |
 | **Business** | [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) | ⚪ Neutral |
-| **World** | [French anaesthetist who poisoned 12 patients to death jailed for life](https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Ethereum needs simple explanation to see true trustlessness: Buterin](https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’](https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up](https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained](https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump announces 'warriors dividend' for troops as he defends economic record](https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [French anaesthetist who poisoned 12 patients to death jailed for life](https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

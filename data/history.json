@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Rebels start to withdraw from key DR Congo city, leaders say",
+      "link": "https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "DR Congo's government say the announced withdrawal is intended to distract the US mediation team.",
+      "published": "Thu, 18 Dec 2025 12:23:08 GMT",
+      "fetched_at": "2025-12-18T13:48:16.031661719Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Thailand bombs near Cambodia's Poipet border crossing",
+      "link": "https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The bombings come as renewed border clashes show no sign of letting up between the two countries.",
+      "published": "Thu, 18 Dec 2025 13:08:10 GMT",
+      "fetched_at": "2025-12-18T13:48:16.031644757Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Attacker takes over multisig minutes after creation, drains up to $40M slowly",
+      "link": "https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4ZDQtM2Q5My03ZmJjLThhYjktZGExMDdiYjI2NmY5.jpg\" alt=\"Attacker takes over multisig minutes after creation, drains up to $40M slowly\"\u003e\u003c/p\u003e\u003cp\u003eForensic analysis suggests an attacker took control of a whale’s multisig wallet minutes after creation and has been slowly draining funds since.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 13:12:47 +0000",
+      "fetched_at": "2025-12-18T13:48:15.782113146Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO",
+      "link": "https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxMjYtNDVhNC03OGQ5LWEwYmItYjFlNGIwYTdiNzUxLmpwZw==.jpg\" alt=\"DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO\"\u003e\u003c/p\u003e\u003cp\u003e“Pure play” digital asset treasury companies will have to contend with volatility tied to the net asset value of their token holdings if they don’t build successful business ventures.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 13:34:30 +0000",
+      "fetched_at": "2025-12-18T13:48:15.782087558Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained",
       "link": "https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Wed, 10 Dec 2025 12:21:12 GMT",
       "fetched_at": "2025-12-10T12:25:33.583919349Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Nobel Peace Prize winner will be in Oslo but won't make awards ceremony",
-      "link": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly safe and on her way to Oslo.",
-      "published": "Wed, 10 Dec 2025 12:00:19 GMT",
-      "fetched_at": "2025-12-10T12:25:33.583895384Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "McDonald's pulls AI Christmas ad after backlash",
-      "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\".",
-      "published": "Wed, 10 Dec 2025 12:14:14 GMT",
-      "fetched_at": "2025-12-10T12:25:33.407210953Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US could ask foreign tourists for five-year social media history before entry",
-      "link": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The plan would affect people from countries, including the UK, which can fill out a form in lieu of a visa.",
-      "published": "Wed, 10 Dec 2025 11:26:19 GMT",
-      "fetched_at": "2025-12-10T11:49:01.626033208Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Vitalik Buterin says Ethereum can handle temporary loss of finality",
-      "link": "https://cointelegraph.com/news/vitalik-ethereum-finality-bug-experts-bridges?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NTAtMGZhMC03YWFlLThhYzUtZmJhMDdmOTllYzYy.jpg\" alt=\"Vitalik Buterin says Ethereum can handle temporary loss of finality\"\u003e\u003c/p\u003e\u003cp\u003eVitalik Buterin downplayed Ethereum’s recent brush with finality loss, saying temporary delays are fine if the wrong block is not finalized, and experts mostly agree.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 11:45:24 +0000",
-      "fetched_at": "2025-12-10T11:49:01.604199199Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 807,
-  "last_update": "2025-12-18T13:09:37.466003003Z"
+  "total_captured": 811,
+  "last_update": "2025-12-18T13:48:16.623492867Z"
 }
