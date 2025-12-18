@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Lone FCC Democrat warns of political pressure on media if agency loses independence",
+      "link": "https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration",
+      "category": "Business",
+      "summary": "The only Democrat on the Federal Communications Commission says chairman Brendan Carr's belief that the FCC isn't independent leaves news media vulnerable to political pressure.",
+      "published": "Thu, 18 Dec 2025 04:42:21 -0500",
+      "fetched_at": "2025-12-18T15:54:44.947906985Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Pulitzer Prize-winning correspondent Peter Arnett has died",
       "link": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 20:30:00 GMT",
       "fetched_at": "2025-12-10T13:48:39.755967472Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ex-president's daughter sworn in as South African MP after half-sister quits",
-      "link": "https://www.bbc.com/news/articles/cvgrkev9erpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Brumelda Zuma will represent the party led by her father in parliament after her half-sister resigned.",
-      "published": "Wed, 10 Dec 2025 13:02:20 GMT",
-      "fetched_at": "2025-12-10T13:48:39.593209364Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 819,
-  "last_update": "2025-12-18T15:43:04.243273701Z"
+  "total_captured": 820,
+  "last_update": "2025-12-18T15:54:44.947921422Z"
 }

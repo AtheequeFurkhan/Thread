@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 15:43 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-819-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 15:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-820-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 15:43 UTC)*
+*(Updated: 18 Dec 15:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Lone FCC Democrat warns of political pressure on media if agency loses independence](https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration) | 🟢 Positive |
 | **Business** | [Pulitzer Prize-winning correspondent Peter Arnett has died](https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died) | 🟢 Positive |
 | **World** | [Trump Media to merge with nuclear fusion firm in $6bn deal](https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up](https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Lone FCC Democrat warns of political pressure on media if agency loses independence](https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration) (🟢 Positive)
 - [Pulitzer Prize-winning correspondent Peter Arnett has died](https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died) (🟢 Positive)
 - [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) (⚪ Neutral)
 - [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) (⚪ Neutral)
 - [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) (⚪ Neutral)
-- [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) (⚪ Neutral)
 
 
 ### 📂 Crypto
