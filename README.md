@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 16:21 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-820-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 16:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-822-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 16:21 UTC)*
+*(Updated: 18 Dec 16:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Aptos introduces post-quantum signatures before they’re urgently needed](https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Lone FCC Democrat warns of political pressure on media if agency loses independence](https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration) | 🟢 Positive |
 | **Business** | [Pulitzer Prize-winning correspondent Peter Arnett has died](https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died) | 🟢 Positive |
 | **World** | [Trump Media to merge with nuclear fusion firm in $6bn deal](https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up](https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Aptos introduces post-quantum signatures before they’re urgently needed](https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021](https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump Media to merge with nuclear fusion firm in $6bn deal](https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained](https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trump expected to expand access to  cannabis in a major shift in drug policy",
+      "link": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The order to place cannabis in the same category as Tylenol with codeine would mark the most significant change in US drug policy since 1971.",
+      "published": "Thu, 18 Dec 2025 16:01:32 GMT",
+      "fetched_at": "2025-12-18T16:52:09.685343009Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Aptos introduces post-quantum signatures before they’re urgently needed",
+      "link": "https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMTAtZTFiNS03NGRhLTgxYjQtNGQ2ZDEzYWY4OTU5LmpwZw==.jpg\" alt=\"Aptos introduces post-quantum signatures before they’re urgently needed\"\u003e\u003c/p\u003e\u003cp\u003eAptos has proposed an optional post-quantum signature scheme, citing long-term risks that advances in quantum computing could pose to existing cryptography.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 16:40:32 +0000",
+      "fetched_at": "2025-12-18T16:52:09.670418069Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Lone FCC Democrat warns of political pressure on media if agency loses independence",
       "link": "https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 15:08:50 +0000",
       "fetched_at": "2025-12-10T15:15:43.617937675Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Porn company starts age checks after £1m Ofcom fine",
-      "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites.",
-      "published": "Wed, 10 Dec 2025 14:05:23 GMT",
-      "fetched_at": "2025-12-10T14:15:40.412734531Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A popular streamer tells us about the downsides of making online content.",
-      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-10T13:48:39.755967472Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 820,
-  "last_update": "2025-12-18T16:21:54.723196018Z"
+  "total_captured": 822,
+  "last_update": "2025-12-18T16:52:09.815222531Z"
 }
