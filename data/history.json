@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up",
+      "link": "https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlYWUtYmFjZC03ZGU1LTkyNDItMWZiODE0OThjMWQwLmpwZw==.jpg\" alt=\"Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase shared a slate of new offerings at its System Update conference, including prediction markets, robo-advisers and custom stablecoins.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 02:55:04 +0000",
+      "fetched_at": "2025-12-18T03:51:32.501332916Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "US Fed pulls guidance blocking its banks from engaging with crypto",
+      "link": "https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlYzQtZmIzMC03MmIxLTk0ZGQtNzYwMGEyZWJlMDdmLmpwZw==.jpg\" alt=\"US Fed pulls guidance blocking its banks from engaging with crypto\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Reserve says it has withdrawn its old guidance around crypto as it was outdated, and its understanding has evolved.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 03:05:48 +0000",
+      "fetched_at": "2025-12-18T03:51:32.501315263Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+      "link": "https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmNDItOTQzMi03OWIyLThkZDEtN2ZlZjg0OTA4ZTBmLmpwZw==.jpg\" alt=\"Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise\"\u003e\u003c/p\u003e\u003cp\u003eBitwise predicted Bitcoin's volatility will stay below Nvidia's in 2026, citing institutional adoption and ETFs as drivers of the asset’s maturation.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 03:40:52 +0000",
+      "fetched_at": "2025-12-18T03:51:32.501290217Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Indian scientists predict how bird flu could spread to humans",
       "link": "https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 03:09:33 GMT",
       "fetched_at": "2025-12-10T03:52:11.400941776Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Man who grabbed Ariana Grande kicked out of Lady Gaga concert",
-      "link": "https://www.bbc.com/news/articles/cx2e0n3p9vvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The incident in Australia comes after the man was jailed for nine days and deported from Singapore for public nuisance.",
-      "published": "Wed, 10 Dec 2025 03:03:53 GMT",
-      "fetched_at": "2025-12-10T03:52:11.400932228Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
-      "link": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers.",
-      "published": "Wed, 10 Dec 2025 03:37:06 GMT",
-      "fetched_at": "2025-12-10T03:52:11.400920426Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
-      "link": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term.",
-      "published": "Wed, 10 Dec 2025 03:34:48 GMT",
-      "fetched_at": "2025-12-10T03:52:11.400905628Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 779,
-  "last_update": "2025-12-18T02:46:39.52966656Z"
+  "total_captured": 782,
+  "last_update": "2025-12-18T03:51:32.564909844Z"
 }

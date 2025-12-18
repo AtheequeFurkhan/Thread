@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 02:46 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-779-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 03:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-782-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 02:46 UTC)*
+*(Updated: 18 Dec 03:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up](https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Ethereum could get faster in January with gas limit rise to 80M](https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [World Liberty proposes using 5% of treasury to boost its stablecoin](https://cointelegraph.com/news/world-liberty-proposes-using-5-treasury-grow-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Acting CFTC chair to join MoonPay after leaving agency](https://cointelegraph.com/news/caroline-pham-cftc-chair-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Heavy rains worsen conditions for displaced Gazans, UN warns](https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [The Oscars to leave ABC and stream on YouTube starting in 2029](https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Binance mulls new US strategy, CZ potentially reducing stake: Report](https://cointelegraph.com/news/binance-us-strategy-cz-reduce-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Spain to open network of climate shelters](https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up](https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum could get faster in January with gas limit rise to 80M](https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [World Liberty proposes using 5% of treasury to boost its stablecoin](https://cointelegraph.com/news/world-liberty-proposes-using-5-treasury-grow-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase adds stock trading, prediction markets in ‘everything app’ push](https://cointelegraph.com/news/coinbase-stock-trading-prediction-markets-in-everything-app-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Jito Foundation to return to US amid 'clearer rules' for digital assets](https://cointelegraph.com/news/jito-foundation-return-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase gets nod from Indian regulators to acquire CoinDCX stake](https://cointelegraph.com/news/coinbase-indian-regulators-coindcx-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
