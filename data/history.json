@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-18T10:41:47.519607564Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "XRP’s ‘bearish’ setup may crash price below $1: Analyst",
+      "link": "https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwYjYtMjQ3ZS03ZmMwLTk4OWEtMmRmZjU4OThmMmVjLmpwZw==.jpg\" alt=\"XRP’s ‘bearish’ setup may crash price below $1: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eXRP looked increasingly bearish below $2, with multiple indicators suggesting that a downward move toward $1 was possible in the coming weeks.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 10:25:11 +0000",
+      "fetched_at": "2025-12-18T10:41:47.112139446Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Tokenized stocks may be onchain, but the SEC still wants the keys",
+      "link": "https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwOTQtZGFlNy03ODQ3LWE0NWYtNGRjODc5MmQyZGMwLmpwZw==.jpg\" alt=\"Tokenized stocks may be onchain, but the SEC still wants the keys\"\u003e\u003c/p\u003e\u003cp\u003eThe US Securities and Exchange Commission outlined how tokenized equities can exist inside US market safeguards, favoring broker-led custody over crypto-native self-custody.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 10:29:13 +0000",
+      "fetched_at": "2025-12-18T10:41:47.112121312Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
       "link": "https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
       "category": "Business",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 09:03:34 +0000",
       "fetched_at": "2025-12-10T09:16:24.591202686Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Key Bitcoin price levels to watch ahead of 2025’s last FOMC meeting",
-      "link": "https://cointelegraph.com/news/bitcoin-price-levels-to-watch-2025-last-fomc-meeting?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NjctYzI1Ni03NjZmLTk2NzgtNmY3ZDljNzI2MDg2.jpg\" alt=\"Key Bitcoin price levels to watch ahead of 2025’s last FOMC meeting\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin remains volatile ahead of the FOMC, with big overhead resistance at $94,000 in place and several key support levels below.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 09:03:50 +0000",
-      "fetched_at": "2025-12-10T09:16:24.591184242Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Amazon, Microsoft pledge mega AI investments in India",
-      "link": "https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.",
-      "published": "Wed, 10 Dec 2025 07:50:12 GMT",
-      "fetched_at": "2025-12-10T08:53:08.674158861Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Kids locked out of social media apps after Australia's world-first ban",
-      "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The new law requires tech platforms to ensure that Australians aged under 16 don't hold accounts.",
-      "published": "Wed, 10 Dec 2025 05:05:52 GMT",
-      "fetched_at": "2025-12-10T08:53:08.674148932Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 793,
-  "last_update": "2025-12-18T10:14:14.985639519Z"
+  "total_captured": 796,
+  "last_update": "2025-12-18T10:41:47.652179618Z"
 }
