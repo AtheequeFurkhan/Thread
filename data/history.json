@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+      "link": "https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmMGMtYjBlMi03MWIwLWE1NzYtMjU3YWM2NDcxZGQ5LmpwZw==.jpg\" alt=\"Crypto ETPs could see a flood of liquidations by 2027: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eMany of the crypto ETP applications awaiting SEC approval will launch in 2026, but a lot of those won’t survive beyond 2027, says Bloomberg analyst James Seyffart.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 04:09:48 +0000",
+      "fetched_at": "2025-12-18T04:27:07.920164024Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
+      "link": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Measures include fresh penalties for 'those who spread hate' as well as new powers to cancel or refuse visas.",
+      "published": "Thu, 18 Dec 2025 02:47:07 GMT",
+      "fetched_at": "2025-12-18T04:27:06.837114264Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+      "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went.",
+      "published": "Thu, 18 Dec 2025 04:15:30 GMT",
+      "fetched_at": "2025-12-18T04:27:06.83709501Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up",
       "link": "https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 05:06:53 GMT",
       "fetched_at": "2025-12-10T05:37:29.262556003Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch Australian teens test out social media on first day of ban",
-      "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.",
-      "published": "Wed, 10 Dec 2025 04:38:55 GMT",
-      "fetched_at": "2025-12-10T05:14:49.946590567Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Make crypto games great again? ‘Trump Billionaires Club’ launches this month",
-      "link": "https://cointelegraph.com/news/trump-crypto-mobile-game-launch-december?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2MWItY2MwMy03OTQwLTk5OTEtMWIwNDg2ZjI2N2E0.jpg\" alt=\"Make crypto games great again? ‘Trump Billionaires Club’ launches this month\"\u003e\u003c/p\u003e\u003cp\u003eThe Trump Billionaires Club demo video on its website appears to feature a digital version of New York and show a player token using dice rolls to move around a gameboard.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 05:00:47 +0000",
-      "fetched_at": "2025-12-10T05:14:49.841225222Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump touts upbeat message on economy as Americans feel the pinch",
-      "link": "https://www.bbc.com/news/articles/ckgl63lrpkmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The president says he is focused on \"making America affordable again\", as cost of living becomes a campaign issue.",
-      "published": "Wed, 10 Dec 2025 03:09:33 GMT",
-      "fetched_at": "2025-12-10T03:52:11.400941776Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 782,
-  "last_update": "2025-12-18T03:51:32.564909844Z"
+  "total_captured": 785,
+  "last_update": "2025-12-18T04:27:07.920204063Z"
 }
