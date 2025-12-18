@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Watch Australian teens test out social media on first day of ban",
+      "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.",
+      "published": "Wed, 10 Dec 2025 04:38:55 GMT",
+      "fetched_at": "2025-12-18T04:53:00.175229912Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
       "link": "https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 05:45:45 GMT",
       "fetched_at": "2025-12-10T05:51:32.277135018Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
-      "link": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.",
-      "published": "Wed, 10 Dec 2025 05:06:53 GMT",
-      "fetched_at": "2025-12-10T05:37:29.262556003Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 785,
-  "last_update": "2025-12-18T04:27:07.920204063Z"
+  "total_captured": 786,
+  "last_update": "2025-12-18T04:53:00.374552967Z"
 }
