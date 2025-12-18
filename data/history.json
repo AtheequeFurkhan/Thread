@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "ETHGas raises $12M as Buterin spotlights onchain gas futures",
+      "link": "https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwOWYtYTQ5OS03NGE5LWIwZWUtZDE0MjY4NGE3YTRmLmpwZw==.jpg\" alt=\"ETHGas raises $12M as Buterin spotlights onchain gas futures\"\u003e\u003c/p\u003e\u003cp\u003eEthereum blockspace trading platform ETHGas announced a $12 million raise shortly after ETH co-founder Vitalik Buterin endorsed the idea, promising 50ms transaction times.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 11:58:03 +0000",
+      "fetched_at": "2025-12-18T12:25:08.870759255Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxMTUtZmM3Ni03MTA1LWEwNDgtZGY4ZTMyNTdkY2U3LmpwZw==.jpg\" alt=\"Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s Taproot usage is declining, signaling wider concerns around its quantum future, as the leading cryptographers race to solve the quantum threat in 2026.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 12:19:16 +0000",
+      "fetched_at": "2025-12-18T12:25:08.870737484Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ecuador defender Pineida killed in shooting",
+      "link": "https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ecuador defender Mario Pineida dies at the age of 33 after being shot outside a shop in Guayaquil.",
+      "published": "Thu, 18 Dec 2025 10:17:26 GMT",
+      "fetched_at": "2025-12-18T12:25:08.383775706Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump announces 'warriors dividend' for troops as he defends economic record",
+      "link": "https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In an address, Trump touted his achievements during 11 months back in office, and blamed Democrats for lingering economic pain.",
+      "published": "Thu, 18 Dec 2025 11:25:12 GMT",
+      "fetched_at": "2025-12-18T12:25:08.383764345Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Family release video of Matilda at beach as aunt calls for 'happiness and love'",
       "link": "https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Wed, 10 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-10T10:15:21.084130365Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "A divided Fed is expected to cut rates for a 3rd straight time",
-      "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/federal-reserve-interest-rates-inflation-jobs",
-      "category": "Business",
-      "summary": "The Fed is expected to lower its benchmark interest rate by a quarter percentage point — but with inflation stubbornly high and mixed signals from the job market, it could be a split decision.",
-      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-10T10:15:21.08411151Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Feeling burned out? There's a word for that in Mandarin Chinese",
-      "link": "https://www.npr.org/2025/12/10/nx-s1-5633319/word-of-week-involution-mandarin",
-      "category": "Business",
-      "summary": "How an obscure term used in anthropology leaped from the pages of academia into the Chinese meme world and then became part of Chinese government policymaking.",
-      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-10T10:15:21.084096582Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fed expected to cut rates for a 3rd straight time",
-      "link": "https://www.npr.org/2025/12/10/nx-s1-5633393/fed-expected-to-cut-rates-for-a-3rd-straight-time",
-      "category": "Business",
-      "summary": "The Federal Reserve is expected to cut its benchmark interest rate by a quarter point today. But there could more disagreement than usual among the rate-setting committee.",
-      "published": "Wed, 10 Dec 2025 04:48:32 -0500",
-      "fetched_at": "2025-12-10T09:54:33.650940472Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "French far-right leader tells BBC he shares US warnings on Europe 'for most part'",
-      "link": "https://www.bbc.com/news/articles/cz7nrze7g8wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US's new National Security Strategy suggests Europe is facing \"civilisational erasure\".",
-      "published": "Wed, 10 Dec 2025 06:00:08 GMT",
-      "fetched_at": "2025-12-10T09:44:22.765731849Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 798,
-  "last_update": "2025-12-18T11:50:46.817109799Z"
+  "total_captured": 802,
+  "last_update": "2025-12-18T12:25:08.870785033Z"
 }

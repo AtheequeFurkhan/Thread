@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 11:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-798-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 12:25 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-802-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 11:50 UTC)*
+*(Updated: 18 Dec 12:25 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up](https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump announces 'warriors dividend' for troops as he defends economic record](https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [Crypto ETPs could see a flood of liquidations by 2027: Analyst](https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Australian PM announces crackdown on hate speech after Bondi shooting](https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | ['Maybe she's an angel now' says aunt of 10-year-old Bondi victim](https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up](https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up](https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ethereum needs simple explanation to see true trustlessness: Buterin](https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ecuador defender Pineida killed in shooting](https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump announces 'warriors dividend' for troops as he defends economic record](https://www.bbc.com/news/articles/c8e9j84008jo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French anaesthetist who poisoned 12 patients to death jailed for life](https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian PM announces crackdown on hate speech after Bondi shooting](https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- ['Maybe she's an angel now' says aunt of 10-year-old Bondi victim](https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
