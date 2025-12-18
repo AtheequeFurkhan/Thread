@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained",
+      "link": "https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The air force personnel have been released but have not yet returned home, Nigeria says.",
+      "published": "Thu, 18 Dec 2025 11:42:23 GMT",
+      "fetched_at": "2025-12-18T13:09:37.18319096Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’",
+      "link": "https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxNDAtZGJiMy03YmM2LWFjMWUtNmFlMTFhNTlhMWUxLmpwZw==.jpg\" alt=\"Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’\"\u003e\u003c/p\u003e\u003cp\u003eThe rollout provides Telegram users with access to tokenized US stocks via a self-custodial wallet, but it will not be available in the US at launch.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 12:35:47 +0000",
+      "fetched_at": "2025-12-18T13:09:37.165736142Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto losses near $3.4B as hackers went ‘big game hunting’",
+      "link": "https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5OGUtMmExZS03NDA5LTk2NjQtNzJhOTliMDljZThkLmpwZw==.jpg\" alt=\"Crypto losses near $3.4B as hackers went ‘big game hunting’\"\u003e\u003c/p\u003e\u003cp\u003eThree major incidents accounted for the majority of crypto losses in 2025, while upgraded security across DeFi protocols managed to keep hackers at bay, according to Chainalysis.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 13:00:00 +0000",
+      "fetched_at": "2025-12-18T13:09:37.165710383Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
+      "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts.",
+      "published": "Thu, 18 Dec 2025 12:13:14 GMT",
+      "fetched_at": "2025-12-18T13:09:36.963038761Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "One in three using AI for emotional support and conversation, UK says",
+      "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.",
+      "published": "Thu, 18 Dec 2025 12:37:46 GMT",
+      "fetched_at": "2025-12-18T13:09:36.963020908Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "ETHGas raises $12M as Buterin spotlights onchain gas futures",
       "link": "https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Wed, 10 Dec 2025 11:45:24 +0000",
       "fetched_at": "2025-12-10T11:49:01.604199199Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Elon Musk says Doge was 'somewhat successful' but he would not do it again",
-      "link": "https://www.bbc.com/news/articles/c80x35dek82o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Tesla boss says instead of leading the Department of Government Efficiency, he could have been working for his companies.",
-      "published": "Wed, 10 Dec 2025 11:12:30 GMT",
-      "fetched_at": "2025-12-10T11:31:45.125692133Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Gunfire as rebels target key DR Congo city despite Trump peace deal",
-      "link": "https://www.bbc.com/news/articles/cly59283d7ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Schools and shops remain closed in Uvira amid fears that rebels have seized some administrative buildings.",
-      "published": "Wed, 10 Dec 2025 10:26:34 GMT",
-      "fetched_at": "2025-12-10T10:44:00.472099973Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP price may grow ‘from $2 to $10’ in less than a year: Analyst",
-      "link": "https://cointelegraph.com/news/xrp-price-may-grow-from-2-to-10-in-less-than-a-year-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ODEtNWJhMC03NjY0LTkyNmYtNDA5MGZhYTc4Mjdj.jpg\" alt=\"XRP price may grow ‘from $2 to $10’ in less than a year: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eXRP ETFs absorbed 506 million tokens in under a month, strengthening the case that price discovery is likely on the table for 2026.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 10:24:02 +0000",
-      "fetched_at": "2025-12-10T10:44:00.455790779Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Abu Dhabi’s Mubadala Capital explores tokenized private market access",
-      "link": "https://cointelegraph.com/news/mubadala-capital-kaio-tokenized-private-markets-rwa?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3ODAtNGNjMy03YjJmLWE4MDgtNWM5NzM1NmY5MDY5.jpg\" alt=\"Abu Dhabi’s Mubadala Capital explores tokenized private market access\"\u003e\u003c/p\u003e\u003cp\u003eMubadala Capital teams up with Kaio to test tokenized access to private market strategies, signaling growing sovereign interest in onchain real-world assets.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 10:41:17 +0000",
-      "fetched_at": "2025-12-10T10:44:00.455753339Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Brett Cooper says she makes up her own mind —  about Trump and everything else",
-      "link": "https://www.npr.org/2025/12/10/nx-s1-5630495/brett-cooper-youtube-conservative-gen-z-influencers",
-      "category": "Business",
-      "summary": "NPR's Steve Inskeep asks conservative commentator Brett Cooper about her YouTube following, her recent criticisms of President Trump and her opinion of Nick Fuentes.",
-      "published": "Wed, 10 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-10T10:15:21.084130365Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 802,
-  "last_update": "2025-12-18T12:25:08.870785033Z"
+  "total_captured": 807,
+  "last_update": "2025-12-18T13:09:37.466003003Z"
 }
