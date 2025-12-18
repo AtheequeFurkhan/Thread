@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Wiz Khalifa sentenced to nine months jail in Romania for smoking cannabis on stage",
+      "link": "https://www.bbc.com/news/articles/c93wxp2p05xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The rapper, who has been sentenced in absentia, had admitted to smoking a cannabis joint on stage at a festival last year.",
+      "published": "Thu, 18 Dec 2025 20:00:55 GMT",
+      "fetched_at": "2025-12-18T20:13:38.814946894Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
+      "link": "https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former tech executive says she was bombarded with abusive and threatening messages after being filmed with her boss on the 'kiss-cam'.",
+      "published": "Thu, 18 Dec 2025 20:07:40 GMT",
+      "fetched_at": "2025-12-18T20:13:38.814930694Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
+      "link": "https://cointelegraph.com/news/bitcoin-trips-at-dollar90k-despite-cpi-showing-curbed-us-inflation-what-gives?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3YzgtOTgxZC03M2IzLWFmOGUtOWNiZGIwY2YyNTdk.jpg\" alt=\"Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin briefly clinched $90,000 after the November Consumer Price Index report showed a drop in US inflation, but the essential components for an extended rally remain elusive.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 19:57:22 +0000",
+      "fetched_at": "2025-12-18T20:13:38.635741101Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why the ‘great China Bitcoin mining crackdown’ fell short of early claims",
       "link": "https://cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 17:56:23 +0000",
       "fetched_at": "2025-12-10T18:19:52.622489254Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ukraine at critical moment, European leaders say after Trump call",
-      "link": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump.",
-      "published": "Wed, 10 Dec 2025 17:45:14 GMT",
-      "fetched_at": "2025-12-10T17:54:44.146834697Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Benin coup plot leader hiding in Togo, official tells BBC",
-      "link": "https://www.bbc.com/news/articles/cwyln60219qo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The coup was thwarted after Nigeria sent warplanes to dislodge the mutineers from the offices of state TV.",
-      "published": "Wed, 10 Dec 2025 17:09:21 GMT",
-      "fetched_at": "2025-12-10T17:44:28.559655845Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE",
-      "link": "https://cointelegraph.com/news/price-predictions-12-10-btc-eth-xrp-bnb-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MjAtNzcxMC03ODE4LWE5OWYtZTg3NzlkNmY0YWYx.jpg\" alt=\"Price predictions 12/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is attempting a recovery, but the short-term trend depends on the Federal Reserve’s upcoming interest rate decision. Meanwhile, ETH leads the altcoin recovery.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 17:30:00 +0000",
-      "fetched_at": "2025-12-10T17:44:28.294033982Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 832,
-  "last_update": "2025-12-18T19:48:00.263300922Z"
+  "total_captured": 835,
+  "last_update": "2025-12-18T20:13:38.844736189Z"
 }
