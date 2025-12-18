@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "NYSE parent in talks to invest in crypto company MoonPay: Report",
+      "link": "https://cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMjYtZTU0NS03ZGY5LTgyODMtNWZmN2M5OTAwMjQ4LmpwZw==.jpg\" alt=\"NYSE parent in talks to invest in crypto company MoonPay: Report\"\u003e\u003c/p\u003e\u003cp\u003eThe discussions follow Intercontinental Exchange's $2 billion investment in prediction platform Polymarket in October.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 21:21:57 +0000",
+      "fetched_at": "2025-12-18T21:28:00.025943547Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Wiz Khalifa sentenced to nine months jail in Romania for smoking cannabis on stage",
       "link": "https://www.bbc.com/news/articles/c93wxp2p05xo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 18:40:20 +0000",
       "fetched_at": "2025-12-10T18:50:32.151660831Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Strategy responds to MSCI letter, makes case for index inclusion",
-      "link": "https://cointelegraph.com/news/strategy-response-msci-letter-index-inclusion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA5MmYtMGZhNi03NjRjLWI1ZDgtMTUwNTVkODk0Nzcy.jpg\" alt=\"Strategy responds to MSCI letter, makes case for index inclusion\"\u003e\u003c/p\u003e\u003cp\u003eThe company argued that digital asset treasuries are operating companies and that MSCI indexes include businesses with a single-asset focus.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 17:56:23 +0000",
-      "fetched_at": "2025-12-10T18:19:52.622489254Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 835,
-  "last_update": "2025-12-18T21:11:49.527568558Z"
+  "total_captured": 836,
+  "last_update": "2025-12-18T21:28:00.489495979Z"
 }
