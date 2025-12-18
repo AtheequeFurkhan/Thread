@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Indian scientists predict how bird flu could spread to humans",
+      "link": "https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Scientists have warned H5N1 bird flu could make a dangerous leap to humans, triggering a global health crisis.",
+      "published": "Wed, 17 Dec 2025 23:56:02 GMT",
+      "fetched_at": "2025-12-18T02:46:39.451604184Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ethereum could get faster in January with gas limit rise to 80M",
+      "link": "https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlNzAtMjMzZS03Mzc2LWI3ZmItNzQ3ZjEyOTY2OTY5LmpwZw==.jpg\" alt=\"Ethereum could get faster in January with gas limit rise to 80M\"\u003e\u003c/p\u003e\u003cp\u003eEthereum could see another rise in transaction speed in January, with developers considering raising the gas limit to 80 million after the next blob parameter-only hard fork.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 01:54:59 +0000",
+      "fetched_at": "2025-12-18T02:46:39.432318017Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "World Liberty proposes using 5% of treasury to boost its stablecoin",
+      "link": "https://cointelegraph.com/news/world-liberty-proposes-using-5-treasury-grow-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNTUtNTM4ZC03NGY0LWE4YzAtZjk2N2Y5ZTg0ZWRl.jpg\" alt=\"World Liberty proposes using 5% of treasury to boost its stablecoin\"\u003e\u003c/p\u003e\u003cp\u003eThe Trump-linked firm is considering using $120 million from its treasury to boost USD1 stablecoin adoption and challenge larger rivals.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 02:04:20 +0000",
+      "fetched_at": "2025-12-18T02:46:39.432301055Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "In this secret missile factory, Ukraine is ramping up its domestic arms industry",
       "link": "https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 10 Dec 2025 03:34:48 GMT",
       "fetched_at": "2025-12-10T03:52:11.400905628Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump to begin interviews with Fed chair finalists this week: FT",
-      "link": "https://cointelegraph.com/news/trump-begin-interviews-fed-chair-finalists?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ZDktZWRhYy03MmM1LTg2MTYtY2RmODM2YjIwNmEw.jpg\" alt=\"Trump to begin interviews with Fed chair finalists this week: FT\"\u003e\u003c/p\u003e\u003cp\u003eTreasury Secretary Scott Bessent has presented a list of four names to the White House. Former Fed governor Kevin Warsh and frontrunner Kevin Hassett are reportedly on the list.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 03:38:55 +0000",
-      "fetched_at": "2025-12-10T03:52:11.346524625Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin FOMO trickles back at $94K, but Fed could spoil the party",
-      "link": "https://cointelegraph.com/news/bitcoin-much-needed-rebound-94k-ahead-fed-meeting?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA2MWMtNDE1NC03M2U5LWEyZDYtNTk4OGU3NDdlM2Q3.jpg\" alt=\"Bitcoin FOMO trickles back at $94K, but Fed could spoil the party\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin surged to $94,625, its highest in three weeks, as positive social sentiment returned, but comments from the Fed on Wednesday could put it back on shaky ground.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 03:46:52 +0000",
-      "fetched_at": "2025-12-10T03:52:11.346508645Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Stripe’s stablecoin blockchain Tempo launches public testnet",
-      "link": "https://cointelegraph.com/news/stripe-blockchain-tempo-launches-public-testnet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1NTktY2VkYi03MzExLTljNTEtYzI3NDk1Y2NlYzYy.jpg\" alt=\"Stripe’s stablecoin blockchain Tempo launches public testnet \"\u003e\u003c/p\u003e\u003cp\u003ePublic testnet for the Stripe-and-Paradigm-built payments blockchain is now live, featuring tools for developer onboarding and stablecoin testing.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 01:34:08 +0000",
-      "fetched_at": "2025-12-10T02:51:39.361632435Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 776,
-  "last_update": "2025-12-18T00:56:36.114299452Z"
+  "total_captured": 779,
+  "last_update": "2025-12-18T02:46:39.52966656Z"
 }
