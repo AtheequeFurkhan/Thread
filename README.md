@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 13:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-811-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-813-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 13:48 UTC)*
+*(Updated: 18 Dec 14:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Business** | [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) | ⚪ Neutral |
 | **World** | [Rebels start to withdraw from key DR Congo city, leaders say](https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thailand bombs near Cambodia's Poipet border crossing](https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) | ⚪ Neutral |
-| **Business** | [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) (⚪ Neutral)
 - [Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief](https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief) (⚪ Neutral)
 - [These federal workers proudly served the American people. Then came Trump's upheaval](https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants) (⚪ Neutral)
 - [Are Americans letting go of 'slop bowls?'](https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls) (⚪ Neutral)
 - [Warner Bros. rejects Paramount's $108 billion bid](https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid) (⚪ Neutral)
-- [Trump's BBC lawsuit: A botched report, BritBox, and porn](https://www.npr.org/2025/12/17/nx-s1-5646697/trump-sues-bbc-florida-britbox-porn) (🔴 Negative)
 
 
 ### 📂 Crypto
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
