@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 16:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-822-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 17:17 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-824-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 16:52 UTC)*
+*(Updated: 18 Dec 17:17 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm](https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Trump expected to expand access to  cannabis in a major shift in drug policy](https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Aptos introduces post-quantum signatures before they’re urgently needed](https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Lone FCC Democrat warns of political pressure on media if agency loses independence](https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained](https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’](https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm](https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Aptos introduces post-quantum signatures before they’re urgently needed](https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026](https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021](https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

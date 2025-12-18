@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm",
+      "link": "https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1NDktMjk4OS03Njg0LThmNWUtZDg4NDkyZjMyNzMy.jpg\" alt=\"ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm\"\u003e\u003c/p\u003e\u003cp\u003eETH rebounded toward $3,000 as stocks reacted positively to a cooler-than-anticipated CPI print, but this week’s $553 million spot ETHER ETF outflow could keep a cap on prices.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 17:07:05 +0000",
+      "fetched_at": "2025-12-18T17:17:06.876970636Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Porn company starts new age checks after £1m Ofcom fine",
+      "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites.",
+      "published": "Wed, 10 Dec 2025 14:05:23 GMT",
+      "fetched_at": "2025-12-18T17:17:06.631465516Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Trump expected to expand access to  cannabis in a major shift in drug policy",
       "link": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 15:42:07 GMT",
       "fetched_at": "2025-12-10T15:43:34.896747904Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US sanctions network it says recruits Colombian fighters for Sudan civil war",
-      "link": "https://www.bbc.com/news/articles/c93nxqw00xxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US Treasury said the network of four entities and four individuals is primarily Colombian.",
-      "published": "Wed, 10 Dec 2025 14:50:53 GMT",
-      "fetched_at": "2025-12-10T15:15:43.846253583Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails",
-      "link": "https://cointelegraph.com/news/bitcoin-hikes-volatility-fomc-93-5k-yearly-open-fails?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4YzUtNTA4YS03ZGI2LWJmNWMtOWU0MWQwNzMzNzZl.jpg\" alt=\"Bitcoin hikes volatility into ‘tricky’ FOMC as $93.5K yearly open fails\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin whipsawed around the key yearly open level into the Fed interest-rate announcement as traders waited for a reliable move.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 15:08:50 +0000",
-      "fetched_at": "2025-12-10T15:15:43.617937675Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 822,
-  "last_update": "2025-12-18T16:52:09.815222531Z"
+  "total_captured": 824,
+  "last_update": "2025-12-18T17:17:07.042577038Z"
 }
