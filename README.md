@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:42 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-814-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 14:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-815-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 14:42 UTC)*
+*(Updated: 18 Dec 14:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Peter Arnett, Pulitzer-winning war reporter, dies aged 91](https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Inflation cools slightly in November as worries about affordability grip Americans](https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum down 42% from all-time high: Where will ETH price bottom?](https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Attacker takes over multisig minutes after creation, drains up to $40M slowly](https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO](https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’](https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto losses near $3.4B as hackers went ‘big game hunting’](https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [ETHGas raises $12M as Buterin spotlights onchain gas futures](https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

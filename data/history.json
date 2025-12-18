@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ethereum down 42% from all-time high: Where will ETH price bottom?",
+      "link": "https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxYzMtZjNlMC03MTEyLWIwYjgtZTdkYzFjNzQ0MDAwLmpwZWc=.jpeg\" alt=\"Ethereum down 42% from all-time high: Where will ETH price bottom?\"\u003e\u003c/p\u003e\u003cp\u003eEthereum has dropped below $3,000 and is down 42% from its record high, prompting traders to question where the next bounce zone for the ETH price might be.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 14:46:24 +0000",
+      "fetched_at": "2025-12-18T14:56:19.251129934Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Peter Arnett, Pulitzer-winning war reporter, dies aged 91",
       "link": "https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 10 Dec 2025 13:29:46 +0000",
       "fetched_at": "2025-12-10T13:48:39.388181369Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report",
-      "link": "https://cointelegraph.com/news/stablecoins-break-into-top-3-growth-drivers-for-web3-gaming-bga-2025-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4M2EtNjkyNC03ZDcwLThlYjItZmQ5MTJiOTYyZmYy.jpg\" alt=\"Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report\"\u003e\u003c/p\u003e\u003cp\u003eStablecoins rank among the top catalysts for Web3 gaming growth, signaling a shift toward fundamentals, monetization and payment infrastructure.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 13:35:05 +0000",
-      "fetched_at": "2025-12-10T13:48:39.388166681Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 814,
-  "last_update": "2025-12-18T14:42:03.122259129Z"
+  "total_captured": 815,
+  "last_update": "2025-12-18T14:56:19.369819128Z"
 }
