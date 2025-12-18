@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Family release video of Matilda at beach as aunt calls for 'happiness and love'",
+      "link": "https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The aunt of the youngest victim of the Bondi shooting says those who are angry should \"plant a seed of happiness\" in their heart in memory of her niece Matilda..",
+      "published": "Thu, 18 Dec 2025 10:38:11 GMT",
+      "fetched_at": "2025-12-18T11:12:33.201071158Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Coinbase expands in Poland with Blik mobile payments integration",
+      "link": "https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE3YTctNjhkMC03YzViLWJjOWUtYmRiZmJiNjNmNzcx.jpg\" alt=\"Coinbase expands in Poland with Blik mobile payments integration\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase expands in Poland with PPro to support Blik, making crypto transactions faster and easier amid stalled local regulations.\u003c/p\u003e",
+      "published": "Thu, 18 Dec 2025 10:55:45 +0000",
+      "fetched_at": "2025-12-18T11:12:33.020191472Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 06:00:08 GMT",
       "fetched_at": "2025-12-10T09:44:22.765731849Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Silk Road-linked Bitcoin wallets move $3M to new address",
-      "link": "https://cointelegraph.com/news/silk-road-wallets-transfer-3m-bitcoin-new-address?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3NmUtOWZkNy03MTdlLThhMTctMjEzYTU3NWIyMGNl.jpg\" alt=\"Silk Road-linked Bitcoin wallets move $3M to new address\"\u003e\u003c/p\u003e\u003cp\u003eSilk Road-linked wallets still hold about $38.4 million worth of BTC, with millions potentially sitting in other unseized wallets.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 09:23:54 +0000",
-      "fetched_at": "2025-12-10T09:44:22.748970945Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs",
-      "link": "https://cointelegraph.com/news/yi-he-wechat-hack-raises-web2-security-risks-for-crypto-leaders?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA3MTctZjg4Yi03MjZkLTg3NmQtOGVlM2Y4ZmYzYTdm.jpg\" alt=\"Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs\"\u003e\u003c/p\u003e\u003cp\u003eSlowMist’s Yu Xuan advised high-profile users to prune contacts, rotate passwords and act fast on alerts to reduce WeChat takeover risks.\u003c/p\u003e",
-      "published": "Wed, 10 Dec 2025 09:03:34 +0000",
-      "fetched_at": "2025-12-10T09:16:24.591202686Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 796,
-  "last_update": "2025-12-18T10:54:26.986361779Z"
+  "total_captured": 798,
+  "last_update": "2025-12-18T11:12:33.389669459Z"
 }

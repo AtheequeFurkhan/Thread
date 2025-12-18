@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 10:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-796-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-18 Dec 11:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-798-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 10:54 UTC)*
+*(Updated: 18 Dec 11:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [US Fed pulls guidance blocking its banks from engaging with crypto](https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Ethereum could get faster in January with gas limit rise to 80M](https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [World Liberty proposes using 5% of treasury to boost its stablecoin](https://cointelegraph.com/news/world-liberty-proposes-using-5-treasury-grow-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Coinbase expands in Poland with Blik mobile payments integration](https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [XRP’s ‘bearish’ setup may crash price below $1: Analyst](https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Tokenized stocks may be onchain, but the SEC still wants the keys](https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push](https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum needs simple explanation to see true trustlessness: Buterin](https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [MSCI’s crypto treasury rules could spur $15B of forced selling](https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Family release video of Matilda at beach as aunt calls for 'happiness and love'](https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French anaesthetist who poisoned 12 patients to death jailed for life](https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian PM announces crackdown on hate speech after Bondi shooting](https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['Maybe she's an angel now' says aunt of 10-year-old Bondi victim](https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Indian scientists predict how bird flu could spread to humans](https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [In this secret missile factory, Ukraine is ramping up its domestic arms industry](https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
