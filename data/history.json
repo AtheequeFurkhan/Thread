@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle",
+      "link": "https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBjYWMtNmU1NS03NzBhLWJmYjktMDQwYmYzY2I1YTE2.jpg\" alt=\"Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle\"\u003e\u003c/p\u003e\u003cp\u003eFidelity’s director of macro is predicting a Bitcoin bottom near $65,000 in 2026, but remains a “secular bull” despite predicting an end to the current four-year cycle.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 10:51:10 +0000",
+      "fetched_at": "2025-12-19T10:53:38.727778222Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bybit relaunches UK platform via Archax under FCA promotion rules",
       "link": "https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 11:22:09 +0000",
       "fetched_at": "2025-12-11T11:31:07.11435602Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UAE telco giant e\u0026 taps dirham stablecoin for bill payments pilot",
-      "link": "https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjZDAtZjUxNS03YTMzLWFlNGItMjlhMjU2NjY5M2Fl.jpg\" alt=\"UAE telco giant e\u0026 taps dirham stablecoin for bill payments pilot\"\u003e\u003c/p\u003e\u003cp\u003eThe MoU marks a cautious step toward real-world stablecoin payments in the UAE, with e\u0026 assessing how AE Coin may integrate into its digital channels.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 10:59:15 +0000",
-      "fetched_at": "2025-12-11T11:12:03.706468286Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 880,
-  "last_update": "2025-12-19T10:39:39.966725205Z"
+  "total_captured": 881,
+  "last_update": "2025-12-19T10:53:38.959680212Z"
 }

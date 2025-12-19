@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 10:39 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-880-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 10:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-881-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 10:39 UTC)*
+*(Updated: 19 Dec 10:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [Meet the new WaPo food critic who won't dine in anonymity](https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Metaplanet to debut US trading with Deutsche Bank under MPJPY](https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fragmentation drains up to $1.3B a year from tokenized assets: Report](https://cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://cointelegraph.com/news/bitcoin-rebounds-japan-rate-hike-arthur-hayes-dollar-200-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
