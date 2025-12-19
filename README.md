@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 02:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-862-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 03:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-863-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 02:53 UTC)*
+*(Updated: 19 Dec 03:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks](https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Democrats release latest batch of Epstein photos as justice department deadline looms](https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Crypto CLARITY Act set for Senate markup in January, says Sacks](https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ex-Nascar driver and family believed to be among seven killed in US aircrash](https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Violence breaks out in Bangladesh after death of youth protest leader](https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks](https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto has everything needed for a bull market, so why is the market down?](https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitwise files with SEC to offer spot SUI ETF](https://cointelegraph.com/news/bitwise-submits-spot-sui-etf-proposal-to-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [XRP’s familiarity helps push ETFs past $1B assets: Exec](https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

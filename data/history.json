@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
+      "link": "https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzYzktYzU0ZS03Zjg1LTk1NzgtNTI4MjdjZjU0M2JlLmpwZw==.jpg\" alt=\"SEC flags Bitcoin miner hosting services as subject to securities laws\"\u003e\u003c/p\u003e\u003cp\u003eIn a lawsuit, the SEC says some hosted Bitcoin mining services could trigger US securities laws, but an industry executive says most providers have nothing to worry about.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 03:23:48 +0000",
+      "fetched_at": "2025-12-19T03:53:56.095007429Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Australia announces gun buyback scheme in wake of Bondi attack",
       "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 04:01:58 +0000",
       "fetched_at": "2025-12-11T04:28:42.874276451Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Big tech bets big on AI - but can India keep pace in the global race?",
-      "link": "https://www.bbc.com/news/articles/cd74gjw1j11o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Experts have called India a hedge against AI - reflecting the absence of Indian companies in the global boom.",
-      "published": "Thu, 11 Dec 2025 02:46:08 GMT",
-      "fetched_at": "2025-12-11T02:54:35.083288371Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 862,
-  "last_update": "2025-12-19T02:53:01.107220795Z"
+  "total_captured": 863,
+  "last_update": "2025-12-19T03:53:57.124692124Z"
 }
