@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze",
+      "link": "https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The fresh protests are sparked by the death of one of the leaders of protests that ousted ex-PM Sheikh Hasina.",
+      "published": "Fri, 19 Dec 2025 10:54:05 GMT",
+      "fetched_at": "2025-12-19T11:11:55.518829896Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle",
       "link": "https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 12:14:03 +0000",
       "fetched_at": "2025-12-11T12:26:42.410595294Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed",
-      "link": "https://cointelegraph.com/news/poland-resubmits-vetoed-crypto-bill-mica-debate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMmMtYTQ5Yi03YmU4LTk1ZjAtMjQ0Y2E3YTkyMmUw.jpg\" alt=\"Poland resubmits vetoed crypto bill: ‘Not even a comma’ changed\"\u003e\u003c/p\u003e\u003cp\u003eThe Polish government reintroduced an identical version of an 84-page crypto bill that was vetoed by the president, raising questions about local versus centralized EU oversight.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 11:22:09 +0000",
-      "fetched_at": "2025-12-11T11:31:07.11435602Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 881,
-  "last_update": "2025-12-19T10:53:38.959680212Z"
+  "total_captured": 882,
+  "last_update": "2025-12-19T11:11:56.016557925Z"
 }
