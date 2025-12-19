@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price",
+      "link": "https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YTktZjc1Yi03N2E2LTk2Y2UtNzA0ZmEyOGJjNGRhLmpwZw==.jpg\" alt=\"Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s 36% drawdown from its all-time highs resulted in the relative strength index flashing a potential bottom signal not seen since early 2023.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 13:12:06 +0000",
+      "fetched_at": "2025-12-19T13:44:45.144736242Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money",
+      "link": "https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YmEtZjg5Mi03Njg1LWJjZmUtMTc0YTFlODdmMDc4LmpwZWc=.jpeg\" alt=\"What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money\"\u003e\u003c/p\u003e\u003cp\u003eMalaysia’s RMJDT shows how Asia is pulling stablecoins into regulated finance, linking tokenized assets with local-currency onchain settlement.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 13:13:16 +0000",
+      "fetched_at": "2025-12-19T13:44:45.144614802Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "4 common scams to watch out for this holiday season",
+      "link": "https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season",
+      "category": "Business",
+      "summary": "Don't get swindled while buying those last-minute gifts. Amy Nofziger, a fraud specialist with AARP, shares top schemes she's been seeing this season — and tips on how to protect yourself.",
+      "published": "Fri, 19 Dec 2025 08:12:19 -0500",
+      "fetched_at": "2025-12-19T13:44:44.872120836Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
       "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 11 Dec 2025 13:14:09 +0000",
       "fetched_at": "2025-12-11T13:51:00.20606243Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis",
-      "link": "https://cointelegraph.com/news/bitcoin-due-2026-bottom-exchange-volumes-grind-lower-analysis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkODYtOGYyOC03ZjY4LWFlMjQtNGU4ZTVkMDczMmJm.jpg\" alt=\"Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin analysis warned that the next BTC price bottom may appear in 2026 as exchange trading volume enters a long grind lower.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 13:18:57 +0000",
-      "fetched_at": "2025-12-11T13:51:00.206048504Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'Architects of AI' named Time Magazine's Person of the Year",
-      "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
-      "published": "Thu, 11 Dec 2025 13:34:03 GMT",
-      "fetched_at": "2025-12-11T13:51:00.018533295Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled",
-      "link": "https://cointelegraph.com/news/pepe-memecoin-launch-insider-wallet-concentration-bubblemaps?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5YzYtZGU3Ni03NjVhLWEwN2UtZDllZWI4NjZhM2Yz.jpg\" alt=\"Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled\"\u003e\u003c/p\u003e\u003cp\u003eAbout 30% of the initial PEPE supply was bundled under the same entity, which sold $2 million worth of tokens the day after launch, according to Bubblemaps.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 11:57:44 +0000",
-      "fetched_at": "2025-12-11T12:26:42.410618527Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 883,
-  "last_update": "2025-12-19T13:07:45.542674396Z"
+  "total_captured": 886,
+  "last_update": "2025-12-19T13:44:45.145020268Z"
 }
