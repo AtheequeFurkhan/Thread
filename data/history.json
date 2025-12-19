@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Surfers and swimmers pay tribute to victims of Bondi shooting",
+      "link": "https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Hundreds paddle out at Bondi beach to commemorate the shooting victims from Sunday's attack.",
+      "published": "Fri, 19 Dec 2025 02:43:13 GMT",
+      "fetched_at": "2025-12-19T05:15:05.072885365Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC",
+      "link": "https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkMmUtZWViZC03Y2E5LWE3ZGItYWZjZDljMzk1NzA2.jpg\" alt=\"US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC\"\u003e\u003c/p\u003e\u003cp\u003eMike Selig pledged to make crypto a priority when he was picked to lead the CFTC in October, while Travis Hill has been speaking out against crypto debanking.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 05:01:28 +0000",
+      "fetched_at": "2025-12-19T05:15:05.06350808Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How cheap power turned Libya into a Bitcoin mining hotspot",
       "link": "https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 05:40:23 +0000",
       "fetched_at": "2025-12-11T05:54:07.918996032Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Australian regulator eases rules for stablecoins and wrapped tokens",
-      "link": "https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiZGQtMTMwMi03ZmQ5LWJmZDctMTQzOGU2Y2U5MzEy.jpg\" alt=\"Australian regulator eases rules for stablecoins and wrapped tokens\"\u003e\u003c/p\u003e\u003cp\u003eAustralia’s securities regulator has removed licensing requirements for stablecoin intermediaries and approved omnibus accounts, reducing compliance costs.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 05:42:00 +0000",
-      "fetched_at": "2025-12-11T05:54:07.918972318Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Mexico approves up to 50% tariffs on China and other countries",
-      "link": "https://www.bbc.com/news/articles/c36z43ll06zo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.",
-      "published": "Thu, 11 Dec 2025 04:52:52 GMT",
-      "fetched_at": "2025-12-11T05:15:47.894099806Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 867,
-  "last_update": "2025-12-19T04:53:03.371149232Z"
+  "total_captured": 869,
+  "last_update": "2025-12-19T05:15:05.438508841Z"
 }

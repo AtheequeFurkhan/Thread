@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 04:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-867-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 05:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-869-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 04:53 UTC)*
+*(Updated: 19 Dec 05:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Surfers and swimmers pay tribute to victims of Bondi shooting](https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC](https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How cheap power turned Libya into a Bitcoin mining hotspot](https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [TikTok owner signs deal to sell US business](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC](https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How cheap power turned Libya into a Bitcoin mining hotspot](https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Surfers and swimmers pay tribute to victims of Bondi shooting](https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Stigma of Ukraine's forgotten soldiers who 'died the wrong way'](https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
