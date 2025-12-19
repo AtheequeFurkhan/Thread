@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Knife attacker kills three after smoke bombing Taiwan metro",
+      "link": "https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The suspect's spree began at Taipei's main metro station before he moved to another station nearby.",
+      "published": "Fri, 19 Dec 2025 16:02:59 GMT",
+      "fetched_at": "2025-12-19T16:15:23.659722179Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Norway's crown princess likely needs lung transplant, palace says",
       "link": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 14:13:13 +0000",
       "fetched_at": "2025-12-11T14:43:32.267298435Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin treasuries stall in Q4, but largest holders keep stacking sats",
-      "link": "https://cointelegraph.com/news/bitcoin-treasuries-stall-q4-biggest-companies-buying?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkNTgtYTQyZC03ZjQyLThjYmEtMWEzNjljOGI3YTVm.jpg\" alt=\"Bitcoin treasuries stall in Q4, but largest holders keep stacking sats\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin treasury adoption slowed during the fourth quarter, but the largest firms continued to accumulate BTC, with public companies now holding over 4.7% of the total Bitcoin supply.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 14:27:24 +0000",
-      "fetched_at": "2025-12-11T14:43:32.267281433Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 893,
-  "last_update": "2025-12-19T15:52:03.229521208Z"
+  "total_captured": 894,
+  "last_update": "2025-12-19T16:15:23.782702433Z"
 }
