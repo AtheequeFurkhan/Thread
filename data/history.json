@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Norway's crown princess likely needs lung transplant, palace says",
+      "link": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Mette-Marit has pulmonary fibrosis, a disease that stiffens the lungs, making it hard to breathe.",
+      "published": "Fri, 19 Dec 2025 15:33:29 GMT",
+      "fetched_at": "2025-12-19T15:35:26.35500522Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Uganda prison officer sacked for 'politicking' on TikTok",
       "link": "https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 14:27:24 +0000",
       "fetched_at": "2025-12-11T14:43:32.267281433Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Moment skydiver's parachute wraps around plane wing",
-      "link": "https://www.bbc.com/news/videos/cx2ey15l4zro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Footage shows the skydiver stuck on the wing before cutting himself free and continuing with dive.",
-      "published": "Thu, 11 Dec 2025 07:38:28 GMT",
-      "fetched_at": "2025-12-11T14:16:41.567355893Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 892,
-  "last_update": "2025-12-19T15:13:51.291947388Z"
+  "total_captured": 893,
+  "last_update": "2025-12-19T15:35:26.964391464Z"
 }
