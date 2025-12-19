@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Pro-crypto US Senator Lummis won't seek reelection in 2026",
+      "link": "https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4NjMtZjQ4MC03NGNlLWI3Y2EtYjQzZjUzOTU3MzY5LmpwZw==.jpg\" alt=\"Pro-crypto US Senator Lummis won't seek reelection in 2026\"\u003e\u003c/p\u003e\u003cp\u003eCynthia Lummis is one of the key Republicans responsible for pushing members of Congress to pass a crypto market structure bill under consideration in the Senate.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 21:17:38 +0000",
+      "fetched_at": "2025-12-19T21:30:00.780827485Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Galaxy predicts stablecoins will overtake ACH transaction volume in 2026",
       "link": "https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 21:47:52 +0000",
       "fetched_at": "2025-12-11T22:12:33.527470334Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Terraform co-founder sentenced to 15 years in prison after guilty plea",
-      "link": "https://cointelegraph.com/news/do-kwon-sentenced-prison-guilty-plea?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkZmYtNmQyOC03ZGM4LWFmOGQtNjdhODhkOWM1ZmM5.jpg\" alt=\"Terraform co-founder sentenced to 15 years in prison after guilty plea\"\u003e\u003c/p\u003e\u003cp\u003eA federal judge heard statements from some of Terraform Labs’ and Do Kwon’s victims for hours before deciding on the co-founder’s sentence.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 22:00:04 +0000",
-      "fetched_at": "2025-12-11T22:12:33.527450888Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 918,
-  "last_update": "2025-12-19T21:12:01.646657452Z"
+  "total_captured": 919,
+  "last_update": "2025-12-19T21:30:01.11925028Z"
 }
