@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
+      "link": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Visitors who don't live in Rome will have to pay to view the Baroque monument up close from February.",
+      "published": "Fri, 19 Dec 2025 20:05:52 GMT",
+      "fetched_at": "2025-12-19T20:13:55.844006414Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Samourai co-founder claims Biden-era lawfare in calling for Trump pardon",
+      "link": "https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ODctN2M2My03YWMzLTg2YjktM2M3MjBkODMwZmE0LmpwZw==.jpg\" alt=\"Samourai co-founder claims Biden-era lawfare in calling for Trump pardon\"\u003e\u003c/p\u003e\u003cp\u003eKeonne Rodriguez said on social media that he will report to prison on Friday to begin his five-year sentence for operating an illegal money transmitter.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 19:46:21 +0000",
+      "fetched_at": "2025-12-19T20:13:55.789138065Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality",
       "link": "https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 20:35:07 +0000",
       "fetched_at": "2025-12-11T20:50:00.812935597Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ether price trend forecasts triple-digit rally as ETH ETF inflows resume",
-      "link": "https://cointelegraph.com/news/ether-price-trend-predicts-mega-rally-as-etf-inflows-resume?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlYjUtZWIxMC03NTE2LWE2MTctOTFjMzBjZTUxN2Ey.jpg\" alt=\"Ether price trend forecasts triple-digit rally as ETH ETF inflows resume\"\u003e\u003c/p\u003e\u003cp\u003eSpot ETH ETF inflows resumed, while demand for taker volume improved. Will Ether’s futures markets follow the trend and kickstart a rally toward new all-time highs?\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 20:41:08 +0000",
-      "fetched_at": "2025-12-11T20:50:00.812913095Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Vote on Trump’s CFTC chair pick could come today, US senator says",
-      "link": "https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNmMtMDdhZC03NGIxLWE5ZTYtMTUyZDg3NTg4MzM0.jpg\" alt=\"Vote on Trump’s CFTC chair pick could come today, US senator says\"\u003e\u003c/p\u003e\u003cp\u003eSenators could vote on Michael Selig's nomination to head the CFTC, which, if successful, is expected to lead to the departure of acting Chair Caroline Pham.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 19:12:02 +0000",
-      "fetched_at": "2025-12-11T19:13:53.591671206Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 911,
-  "last_update": "2025-12-19T19:47:50.149086509Z"
+  "total_captured": 913,
+  "last_update": "2025-12-19T20:13:56.247649646Z"
 }
