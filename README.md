@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 18:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-902-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 18:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-906-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 18:18 UTC)*
+*(Updated: 19 Dec 18:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Putin tells BBC Western leaders deceived Russia](https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Michael Saylor’s Bitcoin thesis: Money or commodity?](https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point](https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price](https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money](https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) | 🟢 Positive |
-| **World** | [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Michael Saylor’s Bitcoin thesis: Money or commodity?](https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point](https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy](https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Putin tells BBC Western leaders deceived Russia](https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French court rejects Shein website suspension over childlike sex dolls](https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Putin vows no more wars if West treats Russia with respect](https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

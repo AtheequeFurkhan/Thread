@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Putin tells BBC Western leaders deceived Russia",
+      "link": "https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "BBC Russia editor Steve Rosenberg had the opportunity to ask Vladimir Putin about his plans for the future of the country.",
+      "published": "Fri, 19 Dec 2025 18:15:04 GMT",
+      "fetched_at": "2025-12-19T18:50:13.934027098Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "UK crypto regulation is coming: What the FCA’s new consultation means",
+      "link": "https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3Y2EtNWNmOC03OTVhLTk3MzQtZWQwOTQzNTZmMWU2LmpwZw==.jpg\" alt=\"UK crypto regulation is coming: What the FCA’s new consultation means\"\u003e\u003c/p\u003e\u003cp\u003eThe UK’s financial watchdog has launched a sweeping consultation that could reshape how crypto exchanges, staking services and DeFi operate ahead of a 2027 rollout.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 18:30:52 +0000",
+      "fetched_at": "2025-12-19T18:50:13.685283804Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "New Bitcoin whales are rewriting BTC’s market structure: Data",
+      "link": "https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2ZjYtZTNjZS03NDliLWFmYjQtMjViMDQ1YWZjMTAxLmpwZw==.jpg\" alt=\"New Bitcoin whales are rewriting BTC’s market structure: Data\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin's onchain data reveals new BTC whales with 50% of the realized capital, highlighting a shift in how capital is shaping the market.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 18:31:18 +0000",
+      "fetched_at": "2025-12-19T18:50:13.685269938Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Michael Saylor’s Bitcoin thesis: Money or commodity?",
+      "link": "https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ODQtNjI0OS03MmJjLWI4NWYtY2JhMDg0Y2JmN2Ew.jpg\" alt=\"Michael Saylor’s Bitcoin thesis: Money or commodity?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin advocates have been divided over Michael Saylor’s updated BTC thesis, leaving question marks over how the Strategy CEO views the cryptocurrency.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 18:35:58 +0000",
+      "fetched_at": "2025-12-19T18:50:13.685248849Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point",
       "link": "https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Thu, 11 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-11T17:19:24.547592498Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US SEC's Crenshaw takes aim at crypto in final weeks at the agency",
-      "link": "https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMTQtMmUwOS03MmE5LWIyNDAtNDYzYjQ4MzY5NDBm.jpg\" alt=\"US SEC's Crenshaw takes aim at crypto in final weeks at the agency\"\u003e\u003c/p\u003e\u003cp\u003eCaroline Crenshaw, the financial agency’s sole remaining Democratic commissioner, is expected to depart in January, 18 months after her official term ended.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 16:53:28 +0000",
-      "fetched_at": "2025-12-11T17:19:24.170808137Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Texas grid is heating up again, this time from AI, not Bitcoin miners",
-      "link": "https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMjctN2Q5Mi03YmY0LThkOTktOGZhZmQ3NjU0NjY1.jpg\" alt=\"Texas grid is heating up again, this time from AI, not Bitcoin miners\"\u003e\u003c/p\u003e\u003cp\u003eERCOT reported a record surge in large-load requests, with AI data centers surpassing Bitcoin miners and reshaping Texas’s grid planning and reliability outlook.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 17:15:00 +0000",
-      "fetched_at": "2025-12-11T17:19:24.170785475Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
-      "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters.",
-      "published": "Thu, 11 Dec 2025 16:00:08 GMT",
-      "fetched_at": "2025-12-11T16:53:55.874856954Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area",
-      "link": "https://cointelegraph.com/news/belarus-blocks-bybit-bitget-okx-russia-retail-crypto-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkYTUtZGQ4My03OWMyLTk4YzUtNzQwZDdjM2Y3MWZj.jpg\" alt=\"Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area\"\u003e\u003c/p\u003e\u003cp\u003eBelarus blocked major crypto exchange domains the same day Russia signaled it may ease regulated crypto access requirements while clamping down on the gray market.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 16:34:41 +0000",
-      "fetched_at": "2025-12-11T16:53:55.373816206Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 902,
-  "last_update": "2025-12-19T18:18:24.773516726Z"
+  "total_captured": 906,
+  "last_update": "2025-12-19T18:50:14.472308066Z"
 }
