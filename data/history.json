@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Ros Atkins on… The alleged links between the UAE and Sudan's civil war",
+      "link": "https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "BBC Analysis Editor Ros Atkins examines allegations of links between the UAE and Sudan’s RSF in the civil war, as international efforts continue to seek an end to the fighting.",
+      "published": "Fri, 19 Dec 2025 16:16:15 GMT",
+      "fetched_at": "2025-12-19T16:44:14.425496498Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US justice department to release thousands of Epstein files later, top official says",
+      "link": "https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Friday deadline was mandated by a bill that got near-unanimous support in Congress, and was later signed into law by President Donald Trump.",
+      "published": "Fri, 19 Dec 2025 16:42:02 GMT",
+      "fetched_at": "2025-12-19T16:44:14.425333934Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Putin vows no more wars if West treats Russia with respect",
+      "link": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russia's leader said during a four-hour TV marathon that claims that an attack on Europe was planned were \"nonsense\".",
+      "published": "Fri, 19 Dec 2025 16:06:31 GMT",
+      "fetched_at": "2025-12-19T16:44:14.425311141Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy",
+      "link": "https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ZDMtNGQwYy03YjNlLWJlMDctMWYyY2NmMGY3MzAzLmpwZw==.jpg\" alt=\"ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy\"\u003e\u003c/p\u003e\u003cp\u003eThe European Central Bank plans to enable DLT transactions in 2026 as it prepares for the digital euro issuance and lawmakers establish rules on privacy.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 16:22:05 +0000",
+      "fetched_at": "2025-12-19T16:44:14.183759489Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Knife attacker kills three after smoke bombing Taiwan metro",
       "link": "https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Thu, 11 Dec 2025 15:40:25 GMT",
       "fetched_at": "2025-12-11T16:20:24.112262332Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bulgarian PM and government resign after mass protests",
-      "link": "https://www.bbc.com/news/articles/cn09g640659o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Rosen Zhelyazkov's dramatic move came ahead of a vote of no confidence in parliament, and 20 days before Bulgaria joins the euro.",
-      "published": "Thu, 11 Dec 2025 14:32:11 GMT",
-      "fetched_at": "2025-12-11T16:20:24.112250781Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "From Iran to China to Venezuela - how tanker seized by US hid true location",
-      "link": "https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A seized tanker accused of smuggling sanctioned oil has long hidden its true location. BBC Verify examines how.",
-      "published": "Thu, 11 Dec 2025 15:03:30 GMT",
-      "fetched_at": "2025-12-11T16:20:24.112236394Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Prediction markets bet Bitcoin won’t reach $100K before year’s end",
-      "link": "https://cointelegraph.com/news/prediction-markets-bet-bitcoin-wont-reach-100k-before-year-end?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0YzctYzA1MS03MmMxLWE2ZjctYjQ0MGM0ODcyZjYy.jpg\" alt=\"Prediction markets bet Bitcoin won’t reach $100K before year’s end\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin bull market optimism has suffered since the Oct. 10 crash, as chances of a short-term BTC price rally above $100,000 appeared to be fading.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 15:30:00 +0000",
-      "fetched_at": "2025-12-11T15:41:50.134588781Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Trust Wallet taps Revolut for crypto purchases in Europe",
-      "link": "https://cointelegraph.com/news/trust-wallet-revolut-crypto-purchases-eea?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkODctNmU5Yi03ZDExLWFmMjgtNzhiYzZjMzViMTBm.jpg\" alt=\"Trust Wallet taps Revolut for crypto purchases in Europe\"\u003e\u003c/p\u003e\u003cp\u003eTrust Wallet’s “zero-fee” crypto purchases through Revolut arrive weeks after the fintech unicorn hit a $75 billion valuation in a private share sale.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 14:13:13 +0000",
-      "fetched_at": "2025-12-11T14:43:32.267298435Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 894,
-  "last_update": "2025-12-19T16:15:23.782702433Z"
+  "total_captured": 898,
+  "last_update": "2025-12-19T16:44:14.768709941Z"
 }

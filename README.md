@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 16:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-894-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 16:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-898-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 16:15 UTC)*
+*(Updated: 19 Dec 16:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Putin vows no more wars if West treats Russia with respect](https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy](https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Knife attacker kills three after smoke bombing Taiwan metro](https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Norway's crown princess likely needs lung transplant, palace says](https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Uganda prison officer sacked for 'politicking' on TikTok](https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Business** | [Meet the new WaPo food critic who won't dine in anonymity](https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria) | 🟢 Positive |
-| **Business** | [In the shadow of U.S. export controls, China rallies its own chip industry](https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions) | ⚪ Neutral |
-| **World** | [Parents in India devastated as children with thalassemia test HIV positive](https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Metaplanet to debut US trading with Deutsche Bank under MPJPY](https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy](https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price](https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money](https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Putin vows no more wars if West treats Russia with respect](https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Knife attacker kills three after smoke bombing Taiwan metro](https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Norway's crown princess likely needs lung transplant, palace says](https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Uganda prison officer sacked for 'politicking' on TikTok](https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
