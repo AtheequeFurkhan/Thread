@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 03:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-863-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 04:27 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-866-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 03:53 UTC)*
+*(Updated: 19 Dec 04:27 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Pope Leo names Ronald Hicks next archbishop of New York](https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Democrats release latest batch of Epstein photos as justice department deadline looms](https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Crypto CLARITY Act set for Senate markup in January, says Sacks](https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Ex-Nascar driver and family believed to be among seven killed in US aircrash](https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks](https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto has everything needed for a bull market, so why is the market down?](https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitwise files with SEC to offer spot SUI ETF](https://cointelegraph.com/news/bitwise-submits-spot-sui-etf-proposal-to-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Stigma of Ukraine's forgotten soldiers who 'died the wrong way'](https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

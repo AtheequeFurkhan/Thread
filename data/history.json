@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "EU agree €90bn loan for Ukraine but without using Russian assets",
+      "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ukrainian had wanted the EU to use €200 billion of frozen Russian assets but Belgium opposed the move.",
+      "published": "Fri, 19 Dec 2025 03:55:45 GMT",
+      "fetched_at": "2025-12-19T04:27:31.224583095Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Raoul Pal says capital rotation could be fuelling Zcash boom",
+      "link": "https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0YjUtZjUxYS03NjNmLTg4ZTItZjhiYTZlZGY5Y2VjLmpwZw==.jpg\" alt=\"Raoul Pal says capital rotation could be fuelling Zcash boom\"\u003e\u003c/p\u003e\u003cp\u003eReal Vision CEO Raoul Pal said the key signal indicating whether Zcash shows the start of a rally is if it can hold up during a broader market uptrend.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 04:11:30 +0000",
+      "fetched_at": "2025-12-19T04:27:31.211055408Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto market cap falls to 8-month low, analysts see more pain ahead",
+      "link": "https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0OTAtMDVhNC03MzZkLWEyMzktZjU5ZjhiNmEzMjY1LmpwZw==.jpg\" alt=\"Crypto market cap falls to 8-month low, analysts see more pain ahead\"\u003e\u003c/p\u003e\u003cp\u003eThe total crypto market cap fell to $2.93 trillion, its lowest since April, erasing yearly gains as analysts anticipated further declines.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 04:15:16 +0000",
+      "fetched_at": "2025-12-19T04:27:31.21103524Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
       "link": "https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 11 Dec 2025 04:33:11 GMT",
       "fetched_at": "2025-12-11T05:15:47.894088846Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO",
-      "link": "https://cointelegraph.com/news/msci-bitcoin-restriction-like-penalizing-chevron-for-oil-strategy-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg\" alt=\"MSCI’s Bitcoin snub is like penalizing Chevron for oil: Strategy CEO\"\u003e\u003c/p\u003e\u003cp\u003eThe MSCI Index is consulting on whether to exclude Bitcoin and other digital asset treasury companies that have a balance sheet with more than 50% of their assets in crypto.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 04:34:12 +0000",
-      "fetched_at": "2025-12-11T04:54:59.487273764Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "A16z Crypto opens office in South Korea as it bets on Asia",
-      "link": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzMtYjllNS03MDA5LWEzN2ItMTg4NjUzNzMxMjhl.jpg\" alt=\"A16z Crypto opens office in South Korea as it bets on Asia\"\u003e\u003c/p\u003e\u003cp\u003eA16z Crypto opened its first Asian office in Seoul, South Korea, led by SungMo Park, citing the region’s dominance in global adoption and onchain activity.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 04:48:28 +0000",
-      "fetched_at": "2025-12-11T04:54:59.487247325Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
-      "link": "https://cointelegraph.com/news/cftc-innovation-council-adds-prediction-markets-crypto-and-stock-exchange-ceos?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzUtY2JlMi03NzJkLWFkYWUtNDIzMjliNjA5YWJk.jpg\" alt=\"CFTC Innovation Council adds prediction market, exchange CEOs\"\u003e\u003c/p\u003e\u003cp\u003eThe CFTC's new CEO Innovation Council includes leaders from crypto exchanges like Kraken and traditional stock exchanges such as Nasdaq to discuss market structure reforms.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 04:01:58 +0000",
-      "fetched_at": "2025-12-11T04:28:42.874276451Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 863,
-  "last_update": "2025-12-19T03:53:57.124692124Z"
+  "total_captured": 866,
+  "last_update": "2025-12-19T04:27:31.497680218Z"
 }
