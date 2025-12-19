@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 21:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-920-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-922-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 21:48 UTC)*
+*(Updated: 19 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Palestinians tell BBC they were sexually abused in Israeli prisons](https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Michael Saylor’s Bitcoin thesis: Money or commodity?](https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point](https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Palestinians tell BBC they were sexually abused in Israeli prisons](https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Putin tells BBC Western leaders deceived Russia](https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

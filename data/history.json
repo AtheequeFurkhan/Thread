@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Removed Ben \u0026 Jerry's chair says Magnum aimed to 'smear' her",
+      "link": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Anuradha Mittal was ejected from the board of the ice cream maker this week.",
+      "published": "Fri, 19 Dec 2025 20:48:44 GMT",
+      "fetched_at": "2025-12-19T22:12:49.816617112Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Palestinians tell BBC they were sexually abused in Israeli prisons",
+      "link": "https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Two men say they experienced the kind of abuse highlighted in recent reports on Israel's treatment of prisoners, which Israel denies.",
+      "published": "Fri, 19 Dec 2025 22:01:20 GMT",
+      "fetched_at": "2025-12-19T22:12:49.816598948Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "SEC confirms years-long director bans for former Alameda, FTX executives",
       "link": "https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 23:35:19 GMT",
       "fetched_at": "2025-12-11T23:49:00.969129639Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'Catastrophe bonds' are gaining popularity as a response to climate change",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5597981/catastrophe-bonds-are-gaining-popularity-as-a-response-to-climate-change",
-      "category": "Business",
-      "summary": "After the hurricane in Jamaica, the government had a pot of money to help rebuild. A Catastrophe Bonds payout. We explain how it works and why Cat Bond popularity is on the rise as a response to climate change.",
-      "published": "Thu, 11 Dec 2025 17:41:07 -0500",
-      "fetched_at": "2025-12-11T22:50:55.888603523Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Farmers welcome Trump's $12 billion aid package, say additional relief is needed",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5640049/farmers-welcome-trumps-12-billion-aid-package-say-additional-relief-is-needed",
-      "category": "Business",
-      "summary": "President Trump says he's sending $12 billion in aid to American farmers who are reeling from global trade disruptions. Those include inflation and Trump's tariffs that are making fertilizer and farm equipment more expensive, and the President's trade war with China  which closed a huge market for American soybean exports.",
-      "published": "Thu, 11 Dec 2025 12:52:58 -0500",
-      "fetched_at": "2025-12-11T22:12:33.654659448Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 920,
-  "last_update": "2025-12-19T21:48:32.219041094Z"
+  "total_captured": 922,
+  "last_update": "2025-12-19T22:12:49.816638722Z"
 }
