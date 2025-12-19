@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Stigma of Ukraine's forgotten soldiers who 'died the wrong way'",
+      "link": "https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "There are no official statistics surrounding suicide among Ukrainian soldiers, but they are thought to count in the hundreds.",
+      "published": "Fri, 19 Dec 2025 00:00:10 GMT",
+      "fetched_at": "2025-12-19T00:59:39.571204656Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "XRP’s familiarity helps push ETFs past $1B assets: Exec",
+      "link": "https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzZWEtODFlNC03ODk0LTllMGMtMmIzMzRkZGE0MWU3LmpwZw==.jpg\" alt=\"XRP’s familiarity helps push ETFs past $1B assets: Exec\"\u003e\u003c/p\u003e\u003cp\u003eXRP has a “number of reasons” that are attracting traditional investor dollars, which has helped to push XRP ETFs over $1 billion in assets, says CF Benchmarks CEO Sui Chung.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 00:08:00 +0000",
+      "fetched_at": "2025-12-19T00:59:39.510651243Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Will tech trump tradition at bakers and biscuit makers?",
+      "link": "https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Introducing robots and automation to the food industry involves extra hurdles.",
+      "published": "Fri, 19 Dec 2025 00:07:27 GMT",
+      "fetched_at": "2025-12-19T00:59:39.329156854Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "£100 contactless card limit to be lifted",
+      "link": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Card providers can decide whether to offer unlimited payments on contactless cards.",
+      "published": "Fri, 19 Dec 2025 00:04:39 GMT",
+      "fetched_at": "2025-12-19T00:59:39.32910103Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "TikTok owner signs deal to sell US business",
+      "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The deal would end years of efforts by Washington to force ByteDance to sell its US operations.",
+      "published": "Fri, 19 Dec 2025 00:41:28 GMT",
+      "fetched_at": "2025-12-19T00:59:39.329087646Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'We are not from Bangladesh, we are Indian. Why did they do this to us?'",
       "link": "https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4454,53 +4499,8 @@
       "published": "Thu, 11 Dec 2025 01:33:43 +0000",
       "fetched_at": "2025-12-11T02:54:34.841993231Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Payments giant Stripe acquires team from crypto wallet app Valora",
-      "link": "https://cointelegraph.com/news/stripe-acquires-self-custody-crypto-wallet-app?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhOGEtZjc5Ny03OGY2LTlkOGQtYzNkY2U3OGY5NTg2.jpg\" alt=\"Payments giant Stripe acquires team from crypto wallet app Valora\"\u003e\u003c/p\u003e\u003cp\u003eStripe has hired Valora’s builders to work on its crypto initiatives, as the wallet’s app shifts ownership back to Celo’s cLabs. \u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 02:31:09 +0000",
-      "fetched_at": "2025-12-11T02:54:34.841969256Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The Swiss city that lets you pay for most things with bitcoin",
-      "link": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Shops, restaurants and even the local council in Lugano now accept the cryptocurrency.",
-      "published": "Thu, 11 Dec 2025 00:22:58 GMT",
-      "fetched_at": "2025-12-11T01:00:00.840971279Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "String of celebrity scandals renews debate on South Korea's 'cancel culture'",
-      "link": "https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "In a matter of days, three big entertainers in South Korea have made headlines in separate scandals.",
-      "published": "Thu, 11 Dec 2025 00:05:47 GMT",
-      "fetched_at": "2025-12-11T01:00:00.329798888Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
-      "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The cloud computing giant's revenue miss renews questions about its financial health.",
-      "published": "Thu, 11 Dec 2025 00:19:20 GMT",
-      "fetched_at": "2025-12-11T01:00:00.329774051Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Portugal braced for mass disruption in first general strike for 12 years",
-      "link": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "PM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms.",
-      "published": "Thu, 11 Dec 2025 00:24:49 GMT",
-      "fetched_at": "2025-12-11T01:00:00.329758202Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 851,
-  "last_update": "2025-12-18T23:48:26.315043159Z"
+  "total_captured": 856,
+  "last_update": "2025-12-19T00:59:39.88900144Z"
 }

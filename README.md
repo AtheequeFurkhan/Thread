@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-18 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-851-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 00:59 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-856-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 18 Dec 23:48 UTC)*
+*(Updated: 19 Dec 00:59 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Stigma of Ukraine's forgotten soldiers who 'died the wrong way'](https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [XRP’s familiarity helps push ETFs past $1B assets: Exec](https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [TikTok owner signs deal to sell US business](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -36,11 +41,6 @@
 | **Crypto** | [Cypherpunk values are dying, but they’re not dead yet](https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [SOL price action lags the wider altcoin market: Is Solana’s heyday over?](https://cointelegraph.com/news/sol-lags-wider-altcoin-market-is-solanas-heyday-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Global debt markets show dollar dominance moves in cycles, US Fed says](https://cointelegraph.com/news/global-debt-markets-dollar-dominance-cycles-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [NYSE parent in talks to invest in crypto company MoonPay: Report](https://cointelegraph.com/news/intercontinental-exchange-ice-investment-moonpay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Wiz Khalifa sentenced to nine months jail in Romania for smoking cannabis on stage](https://www.bbc.com/news/articles/c93wxp2p05xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job](https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?](https://cointelegraph.com/news/bitcoin-trips-at-dollar90k-despite-cpi-showing-curbed-us-inflation-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Why the ‘great China Bitcoin mining crackdown’ fell short of early claims](https://cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [XRP’s familiarity helps push ETFs past $1B assets: Exec](https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto CLARITY Act set for Senate markup in January, says Sacks](https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase appoints former UK minister George Osborne to chair advisory council](https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Brazilian stock exchange to launch tokenization platform and stablecoin](https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Cypherpunk values are dying, but they’re not dead yet](https://cointelegraph.com/news/cypherpunk-values-dying-but-not-dead-yet-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [TikTok owner signs deal to sell US business](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Stigma of Ukraine's forgotten soldiers who 'died the wrong way'](https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['We are not from Bangladesh, we are Indian. Why did they do this to us?'](https://www.bbc.com/news/articles/cze80j943zlo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Pope Leo names Ronald Hicks next archbishop of New York](https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Democrats release latest batch of Epstein photos as justice department deadline looms](https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-19.md | [View Log](data/2025-12-19.md) |
 | 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
 | 2025-12-15.md | [View Log](data/2025-12-15.md) |
 | 2025-12-14.md | [View Log](data/2025-12-14.md) |
 | 2025-12-13.md | [View Log](data/2025-12-13.md) |
-| 2025-12-12.md | [View Log](data/2025-12-12.md) |
 
 
 ---
