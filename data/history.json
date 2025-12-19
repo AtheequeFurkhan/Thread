@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "French court rejects Shein website suspension over childlike sex dolls",
+      "link": "https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The fast-fashion giant welcomed the judgement and said its priority remains protecting French consumers.",
+      "published": "Fri, 19 Dec 2025 15:49:16 GMT",
+      "fetched_at": "2025-12-19T17:17:39.182419801Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ros Atkins on… The alleged links between the UAE and Sudan's civil war",
       "link": "https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 15:49:31 GMT",
       "fetched_at": "2025-12-11T16:20:24.112273072Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ukraine hands US revised peace plan proposal, Germany says",
-      "link": "https://www.bbc.com/news/articles/cgjnd9y52pno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The latest draft includes proposals on territorial concessions, Germany's chancellor says.",
-      "published": "Thu, 11 Dec 2025 15:40:25 GMT",
-      "fetched_at": "2025-12-11T16:20:24.112262332Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 898,
-  "last_update": "2025-12-19T16:58:00.76501761Z"
+  "total_captured": 899,
+  "last_update": "2025-12-19T17:17:39.507648082Z"
 }
