@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Polish parliament approves revived crypto bill, heads to Senate",
+      "link": "https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3MzEtZWM1NS03NzY2LTkyOWQtMDNlMTI5ZjhmODYyLmpwZw==.jpg\" alt=\"Polish parliament approves revived crypto bill, heads to Senate\"\u003e\u003c/p\u003e\u003cp\u003eThe legislation, which many have criticized for being overly restrictive for the digital asset market, was reintroduced with “not even a comma” changed, according to one lawmaker.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 17:31:06 +0000",
+      "fetched_at": "2025-12-19T17:37:00.753354523Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French court rejects Shein website suspension over childlike sex dolls",
       "link": "https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 12:53:15 GMT",
       "fetched_at": "2025-12-11T16:20:24.11228783Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US judge orders Kilmar Abrego Garcia's release from ICE custody",
-      "link": "https://www.bbc.com/news/articles/c78vz2v85mpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The judge rules Abrego Garcia was \"without lawful authority\", and will now at least temporarily be allowed to return to his Maryland home.",
-      "published": "Thu, 11 Dec 2025 15:49:31 GMT",
-      "fetched_at": "2025-12-11T16:20:24.112273072Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 899,
-  "last_update": "2025-12-19T17:17:39.507648082Z"
+  "total_captured": 900,
+  "last_update": "2025-12-19T17:37:01.49540879Z"
 }

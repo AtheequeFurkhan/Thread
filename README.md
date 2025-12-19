@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 17:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-899-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 17:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-900-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 17:17 UTC)*
+*(Updated: 19 Dec 17:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [French court rejects Shein website suspension over childlike sex dolls](https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy](https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price](https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money](https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
