@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "'Architects of AI' named Time Magazine's Person of the Year",
+      "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
+      "published": "Thu, 11 Dec 2025 13:52:11 GMT",
+      "fetched_at": "2025-12-19T13:55:08.37923259Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps",
+      "link": "https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YWEtZGZhYi03YjEyLWFlYzMtYzQxMjRiZTBlNmQwLmpwZw==.jpg\" alt=\"Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps\"\u003e\u003c/p\u003e\u003cp\u003eBubblemaps says 23 wallets tied to the Ava deployer sniped 40% of the AVA supply at launch. The Solana AI token later fell 96% from its peak.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 13:44:21 +0000",
+      "fetched_at": "2025-12-19T13:55:07.916585314Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Blockchains quietly prepare for quantum threat as Bitcoin debates timeline",
+      "link": "https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2NjEtODQ1ZS03NDllLWE4OTctMzYxYTRmM2Y3MWVlLmpwZw==.jpg\" alt=\"Blockchains quietly prepare for quantum threat as Bitcoin debates timeline\"\u003e\u003c/p\u003e\u003cp\u003eAltcoin blockchains are preparing for long-term quantum risk, while influential Bitcoin voices disagree over how and when it should be addressed.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 13:45:00 +0000",
+      "fetched_at": "2025-12-19T13:55:07.916566556Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price",
       "link": "https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 11 Dec 2025 11:00:09 GMT",
       "fetched_at": "2025-12-11T13:51:00.222147032Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Austria bans headscarves in schools for under-14s",
-      "link": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A similar ban for girls under 10 was struck down by the Constitutional Court for specifically targeting Muslims.",
-      "published": "Thu, 11 Dec 2025 13:15:47 GMT",
-      "fetched_at": "2025-12-11T13:51:00.222136061Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Poland arrests Russian archaeologist wanted in Ukraine",
-      "link": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The allegations against the suspect includes the illegal excavation of an ancient city in Crimea.",
-      "published": "Thu, 11 Dec 2025 13:41:23 GMT",
-      "fetched_at": "2025-12-11T13:51:00.222122827Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "UK FCA makes pound stablecoin payments 2026 priority",
-      "link": "https://cointelegraph.com/news/uk-fca-pound-stablecoin-payments?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkNjAtNjZmOS03MDUwLTg5ZjgtOTRiYWU1N2Y4YTZi.jpg\" alt=\"UK FCA makes pound stablecoin payments 2026 priority\"\u003e\u003c/p\u003e\u003cp\u003eThe UK’s financial watchdog has put British pound‑pegged stablecoin payments on its 2026 growth agenda, as London scrambles to keep its edge in digital finance.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 13:14:09 +0000",
-      "fetched_at": "2025-12-11T13:51:00.20606243Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 886,
-  "last_update": "2025-12-19T13:44:45.145020268Z"
+  "total_captured": 889,
+  "last_update": "2025-12-19T13:55:08.379280716Z"
 }

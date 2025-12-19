@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 13:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-886-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 13:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-889-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 13:44 UTC)*
+*(Updated: 19 Dec 13:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price](https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money](https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [US suspends green card lottery scheme after Brown shooting](https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://cointelegraph.com/news/bitcoin-rebounds-japan-rate-hike-arthur-hayes-dollar-200-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Coinbase borrows Kalshi’s playbook, sues three states over prediction markets](https://cointelegraph.com/news/coinbase-sues-states-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Surfers and swimmers pay tribute to victims of Bondi shooting](https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC](https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [How cheap power turned Libya into a Bitcoin mining hotspot](https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price](https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money](https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [TikTok owner signs deal to sell US business](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
