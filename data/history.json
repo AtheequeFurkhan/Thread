@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
+      "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "South Africa has accused the US of employing Kenyans without work permits to process refugee applications.",
+      "published": "Fri, 19 Dec 2025 11:59:56 GMT",
+      "fetched_at": "2025-12-19T12:24:10.35050875Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze",
       "link": "https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 11:57:44 +0000",
       "fetched_at": "2025-12-11T12:26:42.410618527Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Coinbase opens Solana DEX access as CeFi and DeFi converge",
-      "link": "https://cointelegraph.com/news/coinbase-joins-the-cex-dex-convergence-with-solana-integration?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjYWQtZjVmZS03YzA5LTkzY2QtMGI1YTMzOTNjNTQ3.jpg\" alt=\"Coinbase opens Solana DEX access as CeFi and DeFi converge\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase has plugged directly into Solana’s fast-growing DeFi ecosystem, letting users trade any Solana token via DEX rails without a formal listing.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 12:14:03 +0000",
-      "fetched_at": "2025-12-11T12:26:42.410595294Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 882,
-  "last_update": "2025-12-19T11:48:26.5287894Z"
+  "total_captured": 883,
+  "last_update": "2025-12-19T12:24:10.8867587Z"
 }

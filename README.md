@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 11:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-882-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 12:24 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-883-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 11:48 UTC)*
+*(Updated: 19 Dec 12:24 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents in India devastated as children with thalassemia test HIV positive](https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What does TikTok's deal mean for America's users?](https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US suspends green card lottery scheme after Brown shooting](https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Surfers and swimmers pay tribute to victims of Bondi shooting](https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
