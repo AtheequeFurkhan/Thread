@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Australia announces gun buyback scheme in wake of Bondi attack",
+      "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It is the largest scheme since the Port Arthur massacre in 1996, which prompted massive gun law reform.",
+      "published": "Fri, 19 Dec 2025 02:30:21 GMT",
+      "fetched_at": "2025-12-19T02:53:01.107193664Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTItMjkzNS03MjQyLWFiYzktYzA2NTM0ZTc1NDY5.jpg\" alt=\"Anxiety of quantum risk to Bitcoin is weighing on its price: Execs\"\u003e\u003c/p\u003e\u003cp\u003eCypherpunk Adam Back dismissed concerns that quantum computing poses a threat to Bitcoin, arguing the technology is still “ridiculously early.”\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 01:55:25 +0000",
+      "fetched_at": "2025-12-19T02:53:00.820353065Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks",
+      "link": "https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzZjctYjFjYy03ZWZhLWJhYmUtNDgwZmUxOGNlZjM1LmpwZw==.jpg\" alt=\"Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks\"\u003e\u003c/p\u003e\u003cp\u003eUS President Donald Trump says that he has narrowed down his pick to replace Federal Reserve Chair Jerome Powell to three or four candidates.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 02:09:51 +0000",
+      "fetched_at": "2025-12-19T02:53:00.820322816Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto has everything needed for a bull market, so why is the market down?",
+      "link": "https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0MmUtYjM2OC03N2E4LWIyNzMtMzkxZDliOGUzYjJjLmpwZw==.jpg\" alt=\"Crypto has everything needed for a bull market, so why is the market down?\"\u003e\u003c/p\u003e\u003cp\u003eCrypto has tracked lower late this year despite pro-regulation shifts, ETF launches, and institutional buying, prompting analysts to question structural issues.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 02:40:02 +0000",
+      "fetched_at": "2025-12-19T02:53:00.820301612Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitwise files with SEC to offer spot SUI ETF",
+      "link": "https://cointelegraph.com/news/bitwise-submits-spot-sui-etf-proposal-to-sec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVhYWUtYTVhMi03YzljLWFiZjUtNDczNDJkZGIxNzc2.jpg\" alt=\"Bitwise files with SEC to offer spot SUI ETF\"\u003e\u003c/p\u003e\u003cp\u003eBitwise has filed an initial registration for an ETF tracking Sui, joining the race to launch with Canary Captial and 21Shares.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 02:49:56 +0000",
+      "fetched_at": "2025-12-19T02:53:00.820280038Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
+      "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The cloud computing giant's revenue miss renews questions about its financial health.",
+      "published": "Thu, 11 Dec 2025 16:24:20 GMT",
+      "fetched_at": "2025-12-19T02:53:00.534458025Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Stigma of Ukraine's forgotten soldiers who 'died the wrong way'",
       "link": "https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4445,62 +4499,8 @@
       "published": "Thu, 11 Dec 2025 02:46:08 GMT",
       "fetched_at": "2025-12-11T02:54:35.083288371Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump launches $1m 'gold card' immigration visas",
-      "link": "https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.",
-      "published": "Thu, 11 Dec 2025 01:10:45 GMT",
-      "fetched_at": "2025-12-11T02:54:35.083174589Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
-      "link": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous",
-      "published": "Thu, 11 Dec 2025 01:28:01 GMT",
-      "fetched_at": "2025-12-11T02:54:35.083165702Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
-      "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\".",
-      "published": "Thu, 11 Dec 2025 01:46:54 GMT",
-      "fetched_at": "2025-12-11T02:54:35.083155043Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
-      "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, arrives in Oslo after a secretive journey.",
-      "published": "Thu, 11 Dec 2025 02:30:19 GMT",
-      "fetched_at": "2025-12-11T02:54:35.083140035Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto among sectors ‘debanked’ by 9 major banks: US regulator",
-      "link": "https://cointelegraph.com/news/crypto-among-sectors-debanked-major-banks-occ?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhNzMtMTgwNi03NzczLTkzYzEtNzQzNGJmMTMwZWEy.jpg\" alt=\"Crypto among sectors ‘debanked’ by 9 major banks: US regulator\"\u003e\u003c/p\u003e\u003cp\u003eThe Office of the Comptroller of the Currency said crypto was one of many industries that banks had denied services to, and it could refer its findings to the Justice Department.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 01:08:44 +0000",
-      "fetched_at": "2025-12-11T02:54:34.842005744Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Gemini soars 14% as new license opens door to US prediction markets",
-      "link": "https://cointelegraph.com/news/gemini-nabs-us-license-offer-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhZWYtN2VhNy03ZTgwLWJhYTYtMjdlZmU0OGYzOWE3.jpg\" alt=\"Gemini soars 14% as new license opens door to US prediction markets\"\u003e\u003c/p\u003e\u003cp\u003eAn affiliate of the crypto exchange Gemini received a designated contract market license, and it now plans to offer prediction markets in the US.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 01:33:43 +0000",
-      "fetched_at": "2025-12-11T02:54:34.841993231Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 856,
-  "last_update": "2025-12-19T00:59:39.88900144Z"
+  "total_captured": 862,
+  "last_update": "2025-12-19T02:53:01.107220795Z"
 }
