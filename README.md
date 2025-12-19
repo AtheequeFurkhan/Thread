@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 17:37 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-900-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 17:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-901-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 17:37 UTC)*
+*(Updated: 19 Dec 17:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [French court rejects Shein website suspension over childlike sex dolls](https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Business** | [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) | 🟢 Positive |
 | **World** | [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle](https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French court rejects Shein website suspension over childlike sex dolls](https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Putin vows no more wars if West treats Russia with respect](https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Knife attacker kills three after smoke bombing Taiwan metro](https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
