@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Meet the new WaPo food critic who won't dine in anonymity",
+      "link": "https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria",
+      "category": "Business",
+      "summary": "NPR's Leila Fadel tags along for lunch with Elazar Sontag, the \u003cem\u003eWashington Post'\u003c/em\u003es new food critic.",
+      "published": "Fri, 19 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-19T10:13:48.997734013Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "In the shadow of U.S. export controls, China rallies its own chip industry",
+      "link": "https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions",
+      "category": "Business",
+      "summary": "The chip industry in China is hustling to overcome a Western tech choke hold, even as President Trump appears poised to loosen U.S. chip restrictions.",
+      "published": "Fri, 19 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-19T10:13:48.997717482Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Parents in India devastated as children with thalassemia test HIV positive",
+      "link": "https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The five cases in Madhya Pradesh state come weeks after a similar incident was reported in Jharkhand state.",
+      "published": "Fri, 19 Dec 2025 07:11:24 GMT",
+      "fetched_at": "2025-12-19T10:13:48.903875948Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Metaplanet to debut US trading with Deutsche Bank under MPJPY",
       "link": "https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 11 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-11T10:16:14.021457064Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "What the Federal Reserve's interest rate cut means for consumers",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5639911/what-the-federal-reserves-interest-rate-cut-means-for-consumers",
-      "category": "Business",
-      "summary": "NPR's Michel Martin speaks with Mark Zandi, chief economist at Moody Analytics, about the Federal Reserve's decision to cut interest rates and what it means for consumers.",
-      "published": "Thu, 11 Dec 2025 04:43:22 -0500",
-      "fetched_at": "2025-12-11T09:57:48.857217546Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Federal Reserve votes to cut interest rates for a 3rd time",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5640149/federal-reserve-votes-to-cut-interest-rates-for-a-3rd-time",
-      "category": "Business",
-      "summary": "The Federal Reserve voted to cut interest rates Wednesday by another quarter percent, in an effort to prop up a sagging job market. Fed officials warned they'll be cautious about more cuts in 2026.",
-      "published": "Thu, 11 Dec 2025 04:43:27 -0500",
-      "fetched_at": "2025-12-11T09:57:48.857201956Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system",
-      "link": "https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjODAtYTA5Ni03Yjc3LWE1MWEtNDNhODI5MTczZmQx.jpg\" alt=\"Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system\"\u003e\u003c/p\u003e\u003cp\u003eNorway rules that a digital krone is unnecessary for now, highlighting its strong payment rails and the uncertain benefits of both retail and wholesale CBDCs.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 09:24:51 +0000",
-      "fetched_at": "2025-12-11T09:45:00.502079168Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 875,
-  "last_update": "2025-12-19T09:54:07.480068717Z"
+  "total_captured": 878,
+  "last_update": "2025-12-19T10:13:49.182234733Z"
 }
