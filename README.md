@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 22:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-926-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 23:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-927-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 22:50 UTC)*
+*(Updated: 19 Dec 23:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt](https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined](https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing](https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
