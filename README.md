@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 21:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-919-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 21:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-920-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 21:30 UTC)*
+*(Updated: 19 Dec 21:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto Biz: Bank stablecoins get a rulebook; Bitcoin gets a land grab](https://cointelegraph.com/news/fdic-genius-act-bank-stablecoins-crypto-biz-corporate-bitcoin-anchorage-securitize-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Michael Saylor’s Bitcoin thesis: Money or commodity?](https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point](https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto Biz: Bank stablecoins get a rulebook; Bitcoin gets a land grab](https://cointelegraph.com/news/fdic-genius-act-bank-stablecoins-crypto-biz-corporate-bitcoin-anchorage-securitize-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Blockchain Association says no to expanding stablecoin yield prohibition](https://cointelegraph.com/news/blockchain-association-no-expanding-stablecoin-yield-prohibition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
