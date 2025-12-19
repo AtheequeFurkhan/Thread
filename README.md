@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 14:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-891-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 14:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-892-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 14:13 UTC)*
+*(Updated: 19 Dec 14:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Uganda prison officer sacked for 'politicking' on TikTok](https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Metaplanet to debut US trading with Deutsche Bank under MPJPY](https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Fragmentation drains up to $1.3B a year from tokenized assets: Report](https://cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [What does TikTok's deal mean for America's users?](https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [US suspends green card lottery scheme after Brown shooting](https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Uganda prison officer sacked for 'politicking' on TikTok](https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents in India devastated as children with thalassemia test HIV positive](https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [What does TikTok's deal mean for America's users?](https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

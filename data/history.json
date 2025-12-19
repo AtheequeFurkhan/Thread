@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Uganda prison officer sacked for 'politicking' on TikTok",
+      "link": "https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ugandan law requires public servants to remain politically neutral and bars them from active politics.",
+      "published": "Fri, 19 Dec 2025 14:18:34 GMT",
+      "fetched_at": "2025-12-19T14:37:05.188148605Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Will the TikTok deal mean the app changes in the US?",
       "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 07:38:28 GMT",
       "fetched_at": "2025-12-11T14:16:41.567355893Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026",
-      "link": "https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkNDUtMWZlOS03ZTY3LTk1MWQtNzI1NmE5YjJkODU0.jpg\" alt=\"Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026\"\u003e\u003c/p\u003e\u003cp\u003eEther's inverse head-and-shoulders pattern and rebound from a key accumulation zone signal a potential 80% rally in 2026.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 14:07:20 +0000",
-      "fetched_at": "2025-12-11T14:16:41.542198184Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 891,
-  "last_update": "2025-12-19T14:13:44.359179748Z"
+  "total_captured": 892,
+  "last_update": "2025-12-19T14:37:05.387106063Z"
 }
