@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How cheap power turned Libya into a Bitcoin mining hotspot",
+      "link": "https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0ZWUtZDkwZC03MWZmLTk0YTEtNzU0M2RlYTExNTY1LmpwZw==.jpg\" alt=\"How cheap power turned Libya into a Bitcoin mining hotspot\"\u003e\u003c/p\u003e\u003cp\u003eLibya’s cheap power fueled a hidden Bitcoin mining boom, straining the grid and forcing authorities into an escalating crackdown.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 04:51:34 +0000",
+      "fetched_at": "2025-12-19T04:53:03.195389444Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "EU agree €90bn loan for Ukraine but without using Russian assets",
       "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 04:52:52 GMT",
       "fetched_at": "2025-12-11T05:15:47.894099806Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Japanese chess player calls out association's pregnancy bias",
-      "link": "https://www.bbc.com/news/articles/cvg8mkz227zo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A prominent shogi player says current rules force players to choose between their children and careers.",
-      "published": "Thu, 11 Dec 2025 04:33:11 GMT",
-      "fetched_at": "2025-12-11T05:15:47.894088846Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 866,
-  "last_update": "2025-12-19T04:27:31.497680218Z"
+  "total_captured": 867,
+  "last_update": "2025-12-19T04:53:03.371149232Z"
 }

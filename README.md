@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 04:27 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-866-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 04:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-867-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 04:27 UTC)*
+*(Updated: 19 Dec 04:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How cheap power turned Libya into a Bitcoin mining hotspot](https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [EU agree €90bn loan for Ukraine but without using Russian assets](https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [President's proposal to subsidise hair loss treatment splits South Korea](https://www.bbc.com/news/articles/c773mnpre07o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Police issue arrest warrant for suspect in Brown University attack, sources say](https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’](https://cointelegraph.com/news/synthetix-ethereum-mainnet-return-kain-warwick-bullish-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Pope Leo names Ronald Hicks next archbishop of New York](https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How cheap power turned Libya into a Bitcoin mining hotspot](https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Raoul Pal says capital rotation could be fuelling Zcash boom](https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto market cap falls to 8-month low, analysts see more pain ahead](https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks](https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
