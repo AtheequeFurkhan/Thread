@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What does TikTok's deal mean for America's users?",
+      "link": "https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's Asia business correspondent says it is still unclear what sort of experience TikTok users in the US will get.",
+      "published": "Fri, 19 Dec 2025 09:22:13 GMT",
+      "fetched_at": "2025-12-19T09:43:45.32411284Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US suspends green card lottery scheme after Brown shooting",
       "link": "https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 08:12:36 GMT",
       "fetched_at": "2025-12-11T08:19:16.516335108Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Goa nightclub owners held in Thailand over deadly fire",
-      "link": "https://www.bbc.com/news/articles/c04vgxk0613o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week.",
-      "published": "Thu, 11 Dec 2025 06:45:03 GMT",
-      "fetched_at": "2025-12-11T07:41:14.536991572Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 872,
-  "last_update": "2025-12-19T09:16:24.725588836Z"
+  "total_captured": 873,
+  "last_update": "2025-12-19T09:43:45.676592607Z"
 }
