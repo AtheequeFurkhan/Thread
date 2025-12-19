@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality",
+      "link": "https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It introduced stricter gun laws after the 1996 Port Arthur massacre, but some say they now need to be tightened further.",
+      "published": "Fri, 19 Dec 2025 19:04:13 GMT",
+      "fetched_at": "2025-12-19T19:10:46.424912099Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Charlie Kirk's widow Erika endorses JD Vance for president",
+      "link": "https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Conservatives traded criticims at this year's annual Turning Point USA America Fest conference.",
+      "published": "Fri, 19 Dec 2025 18:05:23 GMT",
+      "fetched_at": "2025-12-19T19:10:46.42488019Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined",
+      "link": "https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YjktNWY3Yi03ODVjLThiODgtOWNlZGZjZGE2YjhhLmpwZw==.jpg\" alt=\"Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eThe volatility of the cryptocurrency market is threatening the stability of corporate crypto treasury companies, resulting in larger swings in their net asset value that threaten their fundraising abilities.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 19:00:00 +0000",
+      "fetched_at": "2025-12-19T19:10:46.405650674Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing",
+      "link": "https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3OGEtYzk5Mi03MmY4LWE1N2MtMjAxZmQ5ZWRkNDQ4LmpwZw==.jpg\" alt=\"Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing\"\u003e\u003c/p\u003e\u003cp\u003eThe BitMEX co-founder's latest Substack essay argues the US Fed’s liquidity program mirrors quantitative easing mechanics that favor Bitcoin and other scarce assets.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 19:05:00 +0000",
+      "fetched_at": "2025-12-19T19:10:46.405625457Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal",
+      "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The $1bn deal will let fans generate videos and images of more than 200 Disney characters on ChatGPT and Sora.",
+      "published": "Fri, 12 Dec 2025 11:46:00 GMT",
+      "fetched_at": "2025-12-19T19:10:46.078315406Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Putin tells BBC Western leaders deceived Russia",
       "link": "https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4454,53 +4499,8 @@
       "published": "Thu, 11 Dec 2025 19:12:02 +0000",
       "fetched_at": "2025-12-11T19:13:53.591671206Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage",
-      "link": "https://cointelegraph.com/news/mexico-central-bank-stablecoins-risks-global-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNGUtNmU5NC03NTNmLWEyNDktYTVlMzgyMTQ0Mjdi.jpg\" alt=\"Bank of Mexico warns fragmented global rules expose stablecoins to stress, arbitrage\"\u003e\u003c/p\u003e\u003cp\u003eThe Bank of Mexico's new stability report flags liquidity, contagion and regulatory-arbitrage risks as crypto adoption accelerates in Latin America.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 18:20:53 +0000",
-      "fetched_at": "2025-12-11T18:52:53.727462842Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why",
-      "link": "https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkZTUtNTVlMi03YTk1LWFmYmEtMzc0NzlmYjJkMGQ1.jpg\" alt=\"Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin price breakouts continue to be rejected at $94,000, even as traders’ long-term view of US monetary policy and the crypto market turns bullish.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 18:37:40 +0000",
-      "fetched_at": "2025-12-11T18:52:53.727428929Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ethiopia arrests 'indecently' dressed TikTok stars after awards ceremony",
-      "link": "https://www.bbc.com/news/articles/c23e1jld9p7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Adonay Berhane, Wongelawit Gebre Endrias and four others are accused by police of undermining public morality.",
-      "published": "Thu, 11 Dec 2025 17:40:51 GMT",
-      "fetched_at": "2025-12-11T18:17:59.048071535Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bhutan goes for gold, announces sovereign-backed RWA token",
-      "link": "https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNDEtYjkyZi03ZmU4LWFiZTktOTA1MWI2M2RkM2Q1.jpg\" alt=\"Bhutan goes for gold, announces sovereign-backed RWA token\"\u003e\u003c/p\u003e\u003cp\u003eThe Himalayan Kingdom mines Bitcoin, holds digital asset reserves, and has embraced blockchain technology to modernize its financial system.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 17:50:29 +0000",
-      "fetched_at": "2025-12-11T18:17:58.809797902Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump calls affordability crisis a 'hoax.' The data tells a different story",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5639957/trump-affordability-hoax-economy-midterms",
-      "category": "Business",
-      "summary": "As Democrats campaigning on affordability pick up wins, Trump's messaging about a strong economy is at odds with widespread voter sentiment that he's not doing enough to tackle rising costs.",
-      "published": "Thu, 11 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-11T17:19:24.547592498Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 906,
-  "last_update": "2025-12-19T18:50:14.472308066Z"
+  "total_captured": 911,
+  "last_update": "2025-12-19T19:10:46.549069087Z"
 }

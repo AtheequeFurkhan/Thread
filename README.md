@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 18:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-906-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 19:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-911-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 18:50 UTC)*
+*(Updated: 19 Dec 19:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined](https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing](https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Putin tells BBC Western leaders deceived Russia](https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -36,11 +41,6 @@
 | **World** | [Knife attacker kills three after smoke bombing Taiwan metro](https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Norway's crown princess likely needs lung transplant, palace says](https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Uganda prison officer sacked for 'politicking' on TikTok](https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined](https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing](https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Michael Saylor’s Bitcoin thesis: Money or commodity?](https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase ‘cautiously optimistic’ on 2026 as crypto nears institutional inflection point](https://cointelegraph.com/news/coinbase-2026-crypto-outlook-institutional-adoption-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Polish parliament approves revived crypto bill, heads to Senate](https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Putin tells BBC Western leaders deceived Russia](https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [German court jails man for drugging, raping and filming wife for years](https://www.bbc.com/news/articles/cm21pxen1jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French court rejects Shein website suspension over childlike sex dolls](https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
