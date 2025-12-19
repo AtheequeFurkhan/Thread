@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 20:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-913-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 20:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-915-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 20:13 UTC)*
+*(Updated: 19 Dec 20:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [DraftKings eyes crypto offerings as it expands into prediction markets](https://cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Samourai co-founder claims Biden-era lawfare in calling for Trump pardon](https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Ros Atkins on… The alleged links between the UAE and Sudan's civil war](https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US justice department to release thousands of Epstein files later, top official says](https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Putin vows no more wars if West treats Russia with respect](https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy](https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Knife attacker kills three after smoke bombing Taiwan metro](https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [DraftKings eyes crypto offerings as it expands into prediction markets](https://cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Samourai co-founder claims Biden-era lawfare in calling for Trump pardon](https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined](https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing](https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [UK crypto regulation is coming: What the FCA’s new consultation means](https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [New Bitcoin whales are rewriting BTC’s market structure: Data](https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

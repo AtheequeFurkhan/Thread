@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
+      "link": "https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ZTQtNTMyMy03NDliLWFmOGEtNzYzM2UyZmQ4Mjk0LmpwZw==.jpg\" alt=\"Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins are attempting to start a recovery, but negative investor sentiment, combined with selling at the range highs, is preventing the formation of a stronger bull trend.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 20:15:00 +0000",
+      "fetched_at": "2025-12-19T20:35:35.647315271Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "DraftKings eyes crypto offerings as it expands into prediction markets",
+      "link": "https://cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3YTctNThiNS03YTI3LWI4NTAtYTk5Yzc1MDliZDFiLmpwZw==.jpg\" alt=\"DraftKings eyes crypto offerings as it expands into prediction markets\"\u003e\u003c/p\u003e\u003cp\u003eDraftKings launches a prediction markets app in 38 states, setting the stage for future crypto-linked contracts under a regulated US derivatives framework.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 20:27:59 +0000",
+      "fetched_at": "2025-12-19T20:35:35.647273694Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
       "link": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 20:55:19 +0000",
       "fetched_at": "2025-12-11T21:14:09.258223453Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets",
-      "link": "https://cointelegraph.com/news/hive-listing-colombia-ai-bitcoin-infrastructure-andean-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZhN2EtYzVjNi03Zjc4LTg4OTUtMGE5MmFjNTBiOTE2.jpg\" alt=\"HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets\"\u003e\u003c/p\u003e\u003cp\u003eHIVE’s Colombia listing provides Andean investors with access to the growing digital infrastructure sector as Bitcoin miners shift their focus toward AI and HPC.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 21:10:00 +0000",
-      "fetched_at": "2025-12-11T21:14:09.258200811Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance",
-      "link": "https://cointelegraph.com/news/jp-morgan-tokenized-galaxy-bond-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlZDUtODYxOC03MjgxLTkxN2MtZGYxZjBmNTYyYzA3.jpg\" alt=\"J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance\"\u003e\u003c/p\u003e\u003cp\u003eThe tokenized commercial bond is one of the earliest transactions of its kind in the budding sector of onchain debt and credit instruments.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 20:35:07 +0000",
-      "fetched_at": "2025-12-11T20:50:00.812935597Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 913,
-  "last_update": "2025-12-19T20:13:56.247649646Z"
+  "total_captured": 915,
+  "last_update": "2025-12-19T20:35:35.647365225Z"
 }
