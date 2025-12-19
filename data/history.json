@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "US to strip alleged Bosnian war criminal of citizenship",
+      "link": "https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Kemal Mrndzic did not reveal that he had been a guard at a camp where atrocities occurred when seeking US naturalisation, officials say.",
+      "published": "Fri, 19 Dec 2025 22:42:55 GMT",
+      "fetched_at": "2025-12-19T22:50:42.509493687Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt",
+      "link": "https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4N2QtNGMzNC03YmY1LTllOWQtZWU4Mzc4M2QzZDEyLmpwZw==.jpg\" alt=\"US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt\"\u003e\u003c/p\u003e\u003cp\u003eVeteran trader Peter Brandt said that the US Clarity Act will be a positive for the industry, but probably won’t “redefine” Bitcoin’s price.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 22:36:05 +0000",
+      "fetched_at": "2025-12-19T22:50:42.486546524Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "From forestry to skiing, Maine relies on temporary foreign workers",
+      "link": "https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers",
+      "category": "Business",
+      "summary": "Maine's business owners rely on H-2B visas for temporary foreign workers. But the 2026 cap on H-2B workers remains uncertain leaving some seasonal businesses unsure their staffing needs will be met.",
+      "published": "Fri, 19 Dec 2025 17:26:12 -0500",
+      "fetched_at": "2025-12-19T22:50:41.880258725Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "TikTok signs a deal to spin off its U.S. operation",
+      "link": "https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation",
+      "category": "Business",
+      "summary": "According to an internal company memo obtained by NPR, the Chinese-owned company has signed a deal to form a new  joint venture to run the app in the U.S.",
+      "published": "Fri, 19 Dec 2025 17:39:45 -0500",
+      "fetched_at": "2025-12-19T22:50:41.880234941Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Removed Ben \u0026 Jerry's chair says Magnum aimed to 'smear' her",
       "link": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:21:41 GMT",
       "fetched_at": "2025-12-12T00:59:28.138710445Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test",
-      "link": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Some critics say the questions were unnecessarily complex, while others argue that's their intended purpose.",
-      "published": "Thu, 11 Dec 2025 23:59:43 GMT",
-      "fetched_at": "2025-12-12T00:59:28.138699174Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
-      "link": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Young people tell the BBC that military-style schools deceive and abuse students they claim to help.",
-      "published": "Fri, 12 Dec 2025 00:13:16 GMT",
-      "fetched_at": "2025-12-12T00:59:28.138685628Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
-      "link": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\".",
-      "published": "Thu, 11 Dec 2025 23:40:28 GMT",
-      "fetched_at": "2025-12-11T23:49:01.433112585Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
-      "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights.",
-      "published": "Thu, 11 Dec 2025 23:35:19 GMT",
-      "fetched_at": "2025-12-11T23:49:00.969129639Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 922,
-  "last_update": "2025-12-19T22:34:16.725856552Z"
+  "total_captured": 926,
+  "last_update": "2025-12-19T22:50:42.509516269Z"
 }
