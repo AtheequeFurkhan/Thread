@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-927-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 23:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-929-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 23:12 UTC)*
+*(Updated: 19 Dec 23:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt](https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Samourai co-founder claims Biden-era lawfare in calling for Trump pardon](https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined](https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing](https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Palestinians tell BBC they were sexually abused in Israeli prisons](https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

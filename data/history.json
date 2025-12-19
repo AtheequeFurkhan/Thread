@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+      "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.",
+      "published": "Fri, 12 Dec 2025 00:21:41 GMT",
+      "fetched_at": "2025-12-19T23:30:38.605029379Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "US carries out 'massive' strike against IS in Syria",
+      "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US says it is acting in response to last week's deadly Islamic State attack on American forces in Syria.",
+      "published": "Fri, 19 Dec 2025 23:15:03 GMT",
+      "fetched_at": "2025-12-19T23:30:37.969518891Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
       "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:03:10 GMT",
       "fetched_at": "2025-12-12T00:59:28.522303338Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?",
-      "link": "https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The junta has been demolishing buildings in KK Park, one of the largest and most notorious scam compounds.",
-      "published": "Fri, 12 Dec 2025 00:04:44 GMT",
-      "fetched_at": "2025-12-12T00:59:28.138730692Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fears grow that world's rarest apes were swept away in Sumatran floods",
-      "link": "https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A carcass thought to belong to a Tapanuli orangutan, the world's rarest apes, has alarmed conservationists.",
-      "published": "Fri, 12 Dec 2025 00:08:17 GMT",
-      "fetched_at": "2025-12-12T00:59:28.138721475Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 927,
-  "last_update": "2025-12-19T23:12:36.38253165Z"
+  "total_captured": 929,
+  "last_update": "2025-12-19T23:30:38.605088239Z"
 }
