@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 10:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-878-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 10:39 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-880-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 10:13 UTC)*
+*(Updated: 19 Dec 10:39 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [Meet the new WaPo food critic who won't dine in anonymity](https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria) | 🟢 Positive |
 | **Business** | [In the shadow of U.S. export controls, China rallies its own chip industry](https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions) | ⚪ Neutral |
 | **World** | [Parents in India devastated as children with thalassemia test HIV positive](https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [SEC flags Bitcoin miner hosting services as subject to securities laws](https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Australia announces gun buyback scheme in wake of Bondi attack](https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Anxiety of quantum risk to Bitcoin is weighing on its price: Execs](https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Trump lauds Chris Waller as ‘great’ after Fed chair interview, will pick within weeks](https://cointelegraph.com/news/donald-trump-fed-chair-pick-chris-waller-speculation-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto has everything needed for a bull market, so why is the market down?](https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bybit relaunches UK platform via Archax under FCA promotion rules](https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ](https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Metaplanet to debut US trading with Deutsche Bank under MPJPY](https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fragmentation drains up to $1.3B a year from tokenized assets: Report](https://cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://cointelegraph.com/news/bitcoin-rebounds-japan-rate-hike-arthur-hayes-dollar-200-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Coinbase borrows Kalshi’s playbook, sues three states over prediction markets](https://cointelegraph.com/news/coinbase-sues-states-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC](https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

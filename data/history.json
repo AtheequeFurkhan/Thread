@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bybit relaunches UK platform via Archax under FCA promotion rules",
+      "link": "https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2MDUtY2NlNy03MGM0LWFjOTAtOGIyMTJmMjQ1NWNmLmpwZw==.jpg\" alt=\"Bybit relaunches UK platform via Archax under FCA promotion rules\"\u003e\u003c/p\u003e\u003cp\u003eBybit is relaunching in the UK with a stripped‑back spot and P2P platform, reopening a market it exited after the Financial Conduct Authority’s (FCA) 2023 crackdown.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 10:10:32 +0000",
+      "fetched_at": "2025-12-19T10:39:39.499667318Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ",
+      "link": "https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1YWQtNDIzOC03NjBmLWEyNzUtZDU0ZjBhNWNmNzdiLmpwZw==.jpg\" alt=\"Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ\"\u003e\u003c/p\u003e\u003cp\u003eTerraform Labs sued Jump Trading and senior executives for $4 billion, alleging the firm manipulated Terra’s ecosystem and unlawfully profited from the crash, the WSJ reported.\u003c/p\u003e",
+      "published": "Fri, 19 Dec 2025 10:14:55 +0000",
+      "fetched_at": "2025-12-19T10:39:39.499640598Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Meet the new WaPo food critic who won't dine in anonymity",
       "link": "https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 10:59:15 +0000",
       "fetched_at": "2025-12-11T11:12:03.706468286Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP transaction fees drop 89%: Is price headed below $1.75?",
-      "link": "https://cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg\" alt=\"XRP transaction fees drop 89%: Is price headed below $1.75?\"\u003e\u003c/p\u003e\u003cp\u003eXRP price risked a 15% drop to as low as $1.73, fuelled by collapsing transaction fees, reduced speculator appetite and a weakening technical structure.\u003c/p\u003e",
-      "published": "Thu, 11 Dec 2025 10:21:16 +0000",
-      "fetched_at": "2025-12-11T10:46:32.230308003Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Elizabeth Warren says both bids to buy Warner Bros. Discovery are bad for consumers",
-      "link": "https://www.npr.org/2025/12/11/nx-s1-5638608/elizabeth-warren-warner-bros-discovery-netflix",
-      "category": "Business",
-      "summary": "Sen. Elizabeth Warren cautions that the sale of Warner Bros. Discovery to either Netflix or Paramount Skydance could reduce competition and concentrate power over what films and news American see.",
-      "published": "Thu, 11 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-11T10:16:14.021457064Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 878,
-  "last_update": "2025-12-19T10:13:49.182234733Z"
+  "total_captured": 880,
+  "last_update": "2025-12-19T10:39:39.966725205Z"
 }
