@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 13:55 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-889-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-19 Dec 14:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-891-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 13:55 UTC)*
+*(Updated: 19 Dec 14:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps](https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Blockchains quietly prepare for quantum threat as Bitcoin debates timeline](https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Fragmentation drains up to $1.3B a year from tokenized assets: Report](https://cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [What does TikTok's deal mean for America's users?](https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US suspends green card lottery scheme after Brown shooting](https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen](https://cointelegraph.com/news/bitcoin-rebounds-japan-rate-hike-arthur-hayes-dollar-200-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Coinbase borrows Kalshi’s playbook, sues three states over prediction markets](https://cointelegraph.com/news/coinbase-sues-states-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Oracle shares slide as earnings fail to ease AI bubble fears](https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [TikTok owner signs deal to sell US business](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'](https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South Africa defiant after US threatens 'consequences' over refugee centre raid](https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze](https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents in India devastated as children with thalassemia test HIV positive](https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What does TikTok's deal mean for America's users?](https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US suspends green card lottery scheme after Brown shooting](https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Will the TikTok deal mean the app changes in the US?",
+      "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The app's Chinese owner ByteDance has signed a deal with investors to run its business in the US.",
+      "published": "Fri, 19 Dec 2025 13:45:50 GMT",
+      "fetched_at": "2025-12-19T14:13:44.359078879Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'",
+      "link": "https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Israel says the report \"doesn't reflect the reality\" in Gaza and ignores the volume of aid entering.",
+      "published": "Fri, 19 Dec 2025 13:15:35 GMT",
+      "fetched_at": "2025-12-19T14:13:43.902542308Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'Architects of AI' named Time Magazine's Person of the Year",
       "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 11 Dec 2025 14:07:20 +0000",
       "fetched_at": "2025-12-11T14:16:41.542198184Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "What we know about US seizure of oil tanker off Venezuela",
-      "link": "https://www.bbc.com/news/articles/cwyp7rkkgvdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US seizure of a crude oil ship is the latest in a series of escalations in the Trump administration's pressure campaign on Venezuela.",
-      "published": "Thu, 11 Dec 2025 11:34:28 GMT",
-      "fetched_at": "2025-12-11T13:51:00.222165897Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Pakistan's military sentences its former spy chief to 14 years in jail",
-      "link": "https://www.bbc.com/news/articles/cwyv5q7d72lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Faiz Hameed led Pakistan's ISI intelligence agency during the tenure of now-jailed former PM Imran Khan.",
-      "published": "Thu, 11 Dec 2025 11:00:09 GMT",
-      "fetched_at": "2025-12-11T13:51:00.222147032Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 889,
-  "last_update": "2025-12-19T13:55:08.379280716Z"
+  "total_captured": 891,
+  "last_update": "2025-12-19T14:13:44.359179748Z"
 }
