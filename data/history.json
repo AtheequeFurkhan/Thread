@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Engineer becomes first wheelchair user to go to space",
+      "link": "https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "\"It was the coolest experience!\" said Michaela Benthaus after the 10-minute Blue Origin flight.",
+      "published": "Sat, 20 Dec 2025 19:16:21 GMT",
+      "fetched_at": "2025-12-20T19:24:48.959730096Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Blockchain and no-code tools challenge AWS' dominance: Crypto exec",
       "link": "https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 09:02:20 GMT",
       "fetched_at": "2025-12-12T09:17:27.727586527Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Famous crocodile wrangler jailed for evidence tampering",
-      "link": "https://www.bbc.com/news/articles/c5yjjmxvj8no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Former Netflix star Matt Wright was found guilty of lying to police over a fatal chopper crash in 2022.",
-      "published": "Fri, 12 Dec 2025 07:28:09 GMT",
-      "fetched_at": "2025-12-12T08:50:51.319223776Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 949,
-  "last_update": "2025-12-20T19:09:16.024416746Z"
+  "total_captured": 950,
+  "last_update": "2025-12-20T19:24:49.097585821Z"
 }
