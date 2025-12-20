@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Sell Bitcoin for gold? Not so fast, one analyst says",
+      "link": "https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkNTAtNGJjMS03ZDhjLWFjZmMtNzFiYzJlZDQ1YWJmLmpwZw==.jpg\" alt=\"Sell Bitcoin for gold? Not so fast, one analyst says\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin's fundamental properties make it a better long-term bet than gold, according to Bitcoin maximalist and analyst Matthew Kratter.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 20:14:52 +0000",
+      "fetched_at": "2025-12-20T20:32:20.974629804Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Survivors and lawmakers voice frustration over partial Epstein file release",
       "link": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 09:20:29 +0000",
       "fetched_at": "2025-12-12T09:43:37.156235397Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Google asks UK experts to find uses for its powerful quantum tech",
-      "link": "https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "UK researchers will get a chance to develop applications for the tech giant's quantum processor.",
-      "published": "Fri, 12 Dec 2025 00:34:11 GMT",
-      "fetched_at": "2025-12-12T09:43:36.956768416Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 952,
-  "last_update": "2025-12-20T20:12:48.384238545Z"
+  "total_captured": 953,
+  "last_update": "2025-12-20T20:32:22.052929453Z"
 }
