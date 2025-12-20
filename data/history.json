@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback",
+      "link": "https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNjOGItOTk1Ni03MThjLThmODEtMmFkOTFhM2E3OGU4LmpwZw==.jpg\" alt=\"Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin reached significant multiyear support versus gold as commentary diverged over a breakdown and the start of a new bear market.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 17:03:45 +0000",
+      "fetched_at": "2025-12-20T17:10:10.474549634Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "What BitMine’s 4M ETH holdings mean for its stock valuation",
       "link": "https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 07:53:08 +0000",
       "fetched_at": "2025-12-12T08:18:44.433664524Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Watch: Moment hiker is rescued from quicksand in Utah",
-      "link": "https://www.bbc.com/news/videos/c74x0430vggo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The hiker said he thought the ground was solid before his leg sank into the muck, trapping him there until a rescue team arrived.",
-      "published": "Thu, 11 Dec 2025 16:50:23 GMT",
-      "fetched_at": "2025-12-12T07:16:38.148713561Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 947,
-  "last_update": "2025-12-20T16:51:28.339938062Z"
+  "total_captured": 948,
+  "last_update": "2025-12-20T17:10:10.938351055Z"
 }
