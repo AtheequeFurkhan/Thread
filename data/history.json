@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Who and what are in the Epstein files?",
+      "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "High-profile figures, including Bill Clinton and Michael Jackson, can be seen in the long-awaited files.",
+      "published": "Sat, 20 Dec 2025 12:44:18 GMT",
+      "fetched_at": "2025-12-20T13:02:26.516042951Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "IBIT ranking 6th in 2025 ETF flows despite negative returns is ‘a really good sign’",
       "link": "https://cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 13:59:17 GMT",
       "fetched_at": "2025-12-12T07:16:38.148469703Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Clair Obscur sweeps The Game Awards with nine wins",
-      "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The French-made role-playing game is named game of the year and also picks up prizes for music and performance.",
-      "published": "Fri, 12 Dec 2025 06:59:59 GMT",
-      "fetched_at": "2025-12-12T07:16:38.14833496Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 944,
-  "last_update": "2025-12-20T12:21:45.994418288Z"
+  "total_captured": 945,
+  "last_update": "2025-12-20T13:02:26.516062427Z"
 }
