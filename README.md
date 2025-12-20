@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 06:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-938-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 07:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-939-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 06:49 UTC)*
+*(Updated: 20 Dec 07:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk](https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro](https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Palestinians tell BBC they were sexually abused in Israeli prisons](https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?](https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?",
+      "link": "https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The partial release of documents includes photos of the late sex offender's properties, audio files and redacted documents.",
+      "published": "Sat, 20 Dec 2025 05:40:35 GMT",
+      "fetched_at": "2025-12-20T07:11:34.417373297Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk",
       "link": "https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 05:31:51 GMT",
       "fetched_at": "2025-12-12T05:52:23.427308136Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
-      "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan.",
-      "published": "Fri, 12 Dec 2025 05:43:02 GMT",
-      "fetched_at": "2025-12-12T05:52:23.427289982Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 938,
-  "last_update": "2025-12-20T06:49:40.542749124Z"
+  "total_captured": 939,
+  "last_update": "2025-12-20T07:11:34.678989267Z"
 }
