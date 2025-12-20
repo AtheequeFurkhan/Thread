@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin's apparent demand shrinks, signals new bear market: Analysts",
+      "link": "https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNjMtMzdlMS03ZmI3LTk1NjEtYTc4YjZjNmVkZDlm.jpg\" alt=\"Bitcoin's apparent demand shrinks, signals new bear market: Analysts\"\u003e\u003c/p\u003e\u003cp\u003eMultiple factors, including ETF outflows, contracting demand, and price falling below key support levels, indicate the start of a BTC bear market.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 21:39:29 +0000",
+      "fetched_at": "2025-12-20T21:47:07.193711258Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Google asks UK experts to find uses for its powerful quantum tech",
       "link": "https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 10:00:05 +0000",
       "fetched_at": "2025-12-12T10:14:08.4064611Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia",
-      "link": "https://cointelegraph.com/news/standard-chartered-capital-a-ringgit-stablecoin-malaysia?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExYmUtMTc2OS03ODQ4LTk4ODUtNTg3ZTk2MDg0Mjlh.jpg\" alt=\"Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia\"\u003e\u003c/p\u003e\u003cp\u003eStandard Chartered Malaysia and AirAsia parent Capital A plan to issue and test a ringgit-pegged stablecoin for wholesale applications.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 09:16:23 +0000",
-      "fetched_at": "2025-12-12T09:43:37.156257746Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 954,
-  "last_update": "2025-12-20T21:36:24.74539961Z"
+  "total_captured": 955,
+  "last_update": "2025-12-20T21:47:07.193890606Z"
 }

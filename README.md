@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 21:36 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-954-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 21:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-955-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 21:36 UTC)*
+*(Updated: 20 Dec 21:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Sell Bitcoin for gold? Not so fast, one analyst says](https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Survivors and lawmakers voice frustration over partial Epstein file release](https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk](https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro](https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Sell Bitcoin for gold? Not so fast, one analyst says](https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Blockchain and no-code tools challenge AWS' dominance: Crypto exec](https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback](https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [What BitMine’s 4M ETH holdings mean for its stock valuation](https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [IBIT ranking 6th in 2025 ETF flows despite negative returns is ‘a really good sign’](https://cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
