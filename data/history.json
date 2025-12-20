@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk",
+      "link": "https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM5MWQtMTA0ZC03ZDA3LWIwMDEtODUzMmQzOTQzNTQ0LmpwZw==.jpg\" alt=\"Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk\"\u003e\u003c/p\u003e\u003cp\u003eBlockstream CEO Adam Back said that Castle Island Ventures founding partner Nic Carter is “not helping” the ongoing quantum-Bitcoin narrative for Bitcoiners.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 05:21:04 +0000",
+      "fetched_at": "2025-12-20T05:34:09.381320131Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro",
       "link": "https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 05:43:02 GMT",
       "fetched_at": "2025-12-12T05:52:23.427289982Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges",
-      "link": "https://cointelegraph.com/news/cftc-withdraws-crypto-actual-delivery-guidance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwNGEtMjY4NS03NDk0LTg1NWItNGI4OTc3ZjE2MjUy.jpg\" alt=\"CFTC pulls ‘actual delivery’ crypto guidance, giving flexibility to exchanges\"\u003e\u003c/p\u003e\u003cp\u003eThe CFTC has scrapped its guidance on how crypto is delivered in a transaction, giving “way more flexibility for exchanges,” says StarkWare's Katherine Kirkpatrick Bos.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 05:20:26 +0000",
-      "fetched_at": "2025-12-12T05:37:52.096914348Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 937,
-  "last_update": "2025-12-20T05:12:28.11719771Z"
+  "total_captured": 938,
+  "last_update": "2025-12-20T05:34:09.614653368Z"
 }
