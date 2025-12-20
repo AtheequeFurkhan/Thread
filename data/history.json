@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro",
+      "link": "https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4NGYtNGQ4YS03ZmRmLWJlYzUtYjU3ZTg1NTMzNTM2LmpwZw==.jpg\" alt=\"Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin continued to sell near $90,000 as investors reacted to weak US jobs data and slowing economic growth by shifting into safer assets.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 02:42:00 +0000",
+      "fetched_at": "2025-12-20T03:36:46.177497551Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.",
+      "published": "Fri, 12 Dec 2025 15:02:57 GMT",
+      "fetched_at": "2025-12-20T03:36:45.915732867Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Kebabs, biryani and much more: Indian city on Unesco culinary list",
       "link": "https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 05:20:26 +0000",
       "fetched_at": "2025-12-12T05:37:52.096914348Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "YouTube enables PYUSD stablecoin payouts for US creators: Report",
-      "link": "https://cointelegraph.com/news/youtube-enables-pyusd-stablecoin-payouts-for-us-creators?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwZDctMjFkYS03ZjRkLTg1ZTgtNzcwZTNlNTM0Zjll.jpg\" alt=\"YouTube enables PYUSD stablecoin payouts for US creators: Report\"\u003e\u003c/p\u003e\u003cp\u003eFortune reported that YouTube is allowing creators to be paid in PayPal's stablecoin, a potential boon for adoption due to the platform's size.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 04:59:30 +0000",
-      "fetched_at": "2025-12-12T05:14:45.396346963Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin bounces on Fed rate cut with bigger rally ahead predicted",
-      "link": "https://cointelegraph.com/news/crypto-markets-bounce-fed-rate-cut-analysts-predict-bigger-rally-ahead?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwN2YtNmQ1Zi03NmUzLTlmNzktMTlmMmIxZjRlN2E4.jpg\" alt=\"Bitcoin bounces on Fed rate cut with bigger rally ahead predicted\"\u003e\u003c/p\u003e\u003cp\u003eCrypto markets rebounded after the Fed’s third rate cut this year, with analysts predicting a larger bounce following the typical post-cut pattern.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 04:05:08 +0000",
-      "fetched_at": "2025-12-12T04:27:39.59303007Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 935,
-  "last_update": "2025-12-20T02:29:36.884790972Z"
+  "total_captured": 937,
+  "last_update": "2025-12-20T03:36:46.489579361Z"
 }

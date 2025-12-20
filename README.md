@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 02:29 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-935-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 03:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-937-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 02:29 UTC)*
+*(Updated: 20 Dec 03:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro](https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Altcoin season never ended, traders just missed the winners: Hayes](https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Crypto Biz: Bank stablecoins get a rulebook; Bitcoin gets a land grab](https://cointelegraph.com/news/fdic-genius-act-bank-stablecoins-crypto-biz-corporate-bitcoin-anchorage-securitize-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Blockchain Association says no to expanding stablecoin yield prohibition](https://cointelegraph.com/news/blockchain-association-no-expanding-stablecoin-yield-prohibition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro](https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Altcoin season never ended, traders just missed the winners: Hayes](https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt](https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
