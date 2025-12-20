@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Survivors and lawmakers voice frustration over partial Epstein file release",
+      "link": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "US lawmakers who pushed for the documents to be made public have criticised the initial release as incomplete.",
+      "published": "Sat, 20 Dec 2025 19:47:21 GMT",
+      "fetched_at": "2025-12-20T20:12:48.194597012Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US seizes vessel in international waters off Venezuela's coast, officials say",
       "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:34:11 GMT",
       "fetched_at": "2025-12-12T09:43:36.956768416Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Venezuelan Nobel winner tells BBC people risked their lives for her to come to Oslo",
-      "link": "https://www.bbc.com/news/videos/ce91de8x9p1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Venezuelan opposition leader talked about she escaped Venezuela after months in hiding.",
-      "published": "Thu, 11 Dec 2025 16:42:12 GMT",
-      "fetched_at": "2025-12-12T09:43:36.745357079Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 951,
-  "last_update": "2025-12-20T19:47:26.810286968Z"
+  "total_captured": 952,
+  "last_update": "2025-12-20T20:12:48.384238545Z"
 }
