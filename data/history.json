@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Kebabs, biryani and much more: Indian city on Unesco culinary list",
+      "link": "https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Lucknow recently joined a select list of global cities recognised for their fine food.",
+      "published": "Sat, 20 Dec 2025 01:41:12 GMT",
+      "fetched_at": "2025-12-20T02:29:36.884778589Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'Very cool': The 70s Afro-rock genre enjoying a rebirth",
+      "link": "https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In 1970s Zambia, Zamrock led a musical revolution. It's now back, with some big names among its proponents.",
+      "published": "Sat, 20 Dec 2025 02:18:35 GMT",
+      "fetched_at": "2025-12-20T02:29:36.884760485Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Altcoin season never ended, traders just missed the winners: Hayes",
+      "link": "https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4YzUtNWQ2NC03ZjI5LWFmM2UtNzYzOWJiMjQyZmFkLmpwZw==.jpg\" alt=\"Altcoin season never ended, traders just missed the winners: Hayes\"\u003e\u003c/p\u003e\u003cp\u003eAs market participants continue to speculate on when altcoin season will arrive, BitMEX co-founder Arthur Hayes argued there is “always an altcoin season happening.”\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 02:14:30 +0000",
+      "fetched_at": "2025-12-20T02:29:36.872545406Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "'It's amazing' – the wonder material very few can make",
+      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.",
+      "published": "Fri, 12 Dec 2025 00:03:10 GMT",
+      "fetched_at": "2025-12-20T02:29:36.67547325Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Make Korea great again: The right-wing group wooing disenchanted youth",
       "link": "https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Fri, 12 Dec 2025 04:05:08 +0000",
       "fetched_at": "2025-12-12T04:27:39.59303007Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Binance cozies up to Trump’s crypto platform with USD1 stablecoin links",
-      "link": "https://cointelegraph.com/news/binance-cozies-trumps-crypto-platform-adding-usd1-pairs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwNDItMTljYi03MmZlLWIxNTItNTNkMzMxZTBmYmU2.jpg\" alt=\"Binance cozies up to Trump’s crypto platform with USD1 stablecoin links\"\u003e\u003c/p\u003e\u003cp\u003eBinance added a host of zero-fee trading pairs for the Trump family’s stablecoin and used it to back its own stablecoin collateral.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 03:08:07 +0000",
-      "fetched_at": "2025-12-12T03:53:49.703682322Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump signs order to block states from enforcing own AI rules",
-      "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.",
-      "published": "Fri, 12 Dec 2025 03:12:03 GMT",
-      "fetched_at": "2025-12-12T03:53:49.50662504Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin miners could boost corporate adoption as crypto treasury buys slow",
-      "link": "https://cointelegraph.com/news/bitcoin-miners-corporate-adoption-treasury-buying-slowdown?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmYjgtMzk5OS03MWVkLWI5ZjctNzQzNzljZDJmOWNj.jpg\" alt=\"Bitcoin miners could boost corporate adoption as crypto treasury buys slow\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin miners Marathon Digital Holdings, Riot Platforms and Hut 8 are already in the top ten largest public companies holding Bitcoin.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 01:42:04 +0000",
-      "fetched_at": "2025-12-12T02:52:22.997691885Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "SEC clears DTCC to offer securities market tokenization service",
-      "link": "https://cointelegraph.com/news/sec-clears-dtcc-to-offer-tokenization-service?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmZDItMzg0NS03NzkzLTlhNGItYmEwNjkzYzYwOTRh.jpg\" alt=\"SEC clears DTCC to offer securities market tokenization service\"\u003e\u003c/p\u003e\u003cp\u003eThe Depository Trust and Clearing Corporation plans to tokenize stocks, ETFs, and US Treasurys next year after receiving an SEC no-action letter.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 02:46:38 +0000",
-      "fetched_at": "2025-12-12T02:52:22.99764661Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 931,
-  "last_update": "2025-12-20T00:56:04.518645829Z"
+  "total_captured": 935,
+  "last_update": "2025-12-20T02:29:36.884790972Z"
 }

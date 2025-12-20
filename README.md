@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 00:56 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-931-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 02:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-935-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 00:56 UTC)*
+*(Updated: 20 Dec 02:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Altcoin season never ended, traders just missed the winners: Hayes](https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?](https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -37,10 +41,6 @@
 | **Crypto** | [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto Biz: Bank stablecoins get a rulebook; Bitcoin gets a land grab](https://cointelegraph.com/news/fdic-genius-act-bank-stablecoins-crypto-biz-corporate-bitcoin-anchorage-securitize-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Blockchain Association says no to expanding stablecoin yield prohibition](https://cointelegraph.com/news/blockchain-association-no-expanding-stablecoin-yield-prohibition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK](https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [DraftKings eyes crypto offerings as it expands into prediction markets](https://cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Samourai co-founder claims Biden-era lawfare in calling for Trump pardon](https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Altcoin season never ended, traders just missed the winners: Hayes](https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt](https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SEC confirms years-long director bans for former Alameda, FTX executives](https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Pro-crypto US Senator Lummis won't seek reelection in 2026](https://cointelegraph.com/news/cynthia-lummis-not-seeking-reelection-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Galaxy predicts stablecoins will overtake ACH transaction volume in 2026](https://cointelegraph.com/news/galaxy-stablecoins-ach-transaction-volume-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto Biz: Bank stablecoins get a rulebook; Bitcoin gets a land grab](https://cointelegraph.com/news/fdic-genius-act-bank-stablecoins-crypto-biz-corporate-bitcoin-anchorage-securitize-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the TikTok deal mean the app changes in the US?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?](https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
