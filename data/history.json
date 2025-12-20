@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Australian state plans to ban intifada chants after Bondi shooting",
+      "link": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "New South Wales will look at passing hate speech laws after Australia's deadliest shooting in almost 30 years.",
+      "published": "Sat, 20 Dec 2025 07:20:49 GMT",
+      "fetched_at": "2025-12-20T07:28:50.492399697Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?",
       "link": "https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 05:42:29 GMT",
       "fetched_at": "2025-12-12T05:52:23.427323875Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Eurovision winner Nemo to return trophy in protest of Israel",
-      "link": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Swiss singer says there is a \"clear conflict\" between Israel's continued participation in the event and the values Eurovision stands for.",
-      "published": "Fri, 12 Dec 2025 05:31:51 GMT",
-      "fetched_at": "2025-12-12T05:52:23.427308136Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 939,
-  "last_update": "2025-12-20T07:11:34.678989267Z"
+  "total_captured": 940,
+  "last_update": "2025-12-20T07:28:51.101689834Z"
 }
