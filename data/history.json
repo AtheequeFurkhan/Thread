@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Clair Obscur sweeps The Game Awards with nine wins",
+      "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements.",
+      "published": "Fri, 12 Dec 2025 10:45:37 GMT",
+      "fetched_at": "2025-12-20T13:36:28.731736174Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Who and what are in the Epstein files?",
       "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 16:59:29 GMT",
       "fetched_at": "2025-12-12T07:16:38.148679707Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Three things to know after US seizes Venezuelan oil tanker",
-      "link": "https://www.bbc.com/news/videos/c1w9lxw58jjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC's Ione Wells looks at how the incident marks a sharp escalation in an increasingly tense relationship between both countries.",
-      "published": "Thu, 11 Dec 2025 13:59:17 GMT",
-      "fetched_at": "2025-12-12T07:16:38.148469703Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 945,
-  "last_update": "2025-12-20T13:02:26.516062427Z"
+  "total_captured": 946,
+  "last_update": "2025-12-20T13:36:29.074076029Z"
 }
