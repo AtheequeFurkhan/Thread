@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-19 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-929-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 00:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-931-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 19 Dec 23:48 UTC)*
+*(Updated: 20 Dec 00:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?](https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [DraftKings eyes crypto offerings as it expands into prediction markets](https://cointelegraph.com/news/draftkings-prediction-markets-app-crypto-contracts-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Samourai co-founder claims Biden-era lawfare in calling for Trump pardon](https://cointelegraph.com/news/samourai-keonne-rodriguez-donald-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality](https://www.bbc.com/news/articles/cqxql12317qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Charlie Kirk's widow Erika endorses JD Vance for president](https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?](https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US carries out 'massive' strike against IS in Syria](https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Removed Ben & Jerry's chair says Magnum aimed to 'smear' her](https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Palestinians tell BBC they were sexually abused in Israeli prisons](https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tourists to face €2 fee to get near Rome's Trevi Fountain](https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-20.md | [View Log](data/2025-12-20.md) |
 | 2025-12-19.md | [View Log](data/2025-12-19.md) |
 | 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
 | 2025-12-15.md | [View Log](data/2025-12-15.md) |
 | 2025-12-14.md | [View Log](data/2025-12-14.md) |
-| 2025-12-13.md | [View Log](data/2025-12-13.md) |
 
 
 ---

@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Make Korea great again: The right-wing group wooing disenchanted youth",
+      "link": "https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Disgraced president Yoon Suk Yeol has become an unlikely poster boy for anti-government sentiment.",
+      "published": "Sat, 20 Dec 2025 00:45:23 GMT",
+      "fetched_at": "2025-12-20T00:56:04.282404479Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
+      "link": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russia's leader told our Russia editor that claims an attack on Europe was planned were \"rubbish\".",
+      "published": "Sat, 20 Dec 2025 00:00:19 GMT",
+      "fetched_at": "2025-12-20T00:56:04.282383018Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
       "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 02:46:38 +0000",
       "fetched_at": "2025-12-12T02:52:22.99764661Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A popular streamer tells us about the downsides of making online content.",
-      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-12T02:52:22.828859601Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'It's amazing' – the wonder material very few can make",
-      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.",
-      "published": "Fri, 12 Dec 2025 00:03:10 GMT",
-      "fetched_at": "2025-12-12T00:59:28.522303338Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 929,
-  "last_update": "2025-12-19T23:48:02.441245598Z"
+  "total_captured": 931,
+  "last_update": "2025-12-20T00:56:04.518645829Z"
 }
