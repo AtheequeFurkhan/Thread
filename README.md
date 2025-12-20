@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 19:33 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-950-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 19:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-951-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 19:33 UTC)*
+*(Updated: 20 Dec 19:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [US seizes vessel in international waters off Venezuela's coast, officials say](https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Engineer becomes first wheelchair user to go to space](https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Blockchain and no-code tools challenge AWS' dominance: Crypto exec](https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback](https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Altcoin season never ended, traders just missed the winners: Hayes](https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US seizes vessel in international waters off Venezuela's coast, officials say](https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Engineer becomes first wheelchair user to go to space](https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Who and what are in the Epstein files?](https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Imran Khan and wife given further jail terms after state gift fraud case](https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian state plans to ban intifada chants after Bondi shooting](https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

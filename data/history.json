@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US seizes vessel in international waters off Venezuela's coast, officials say",
+      "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The move comes after US President Donald Trump ordered a \"blockade\" of sanctioned oil tankers entering and leaving Venezuela.",
+      "published": "Sat, 20 Dec 2025 19:27:31 GMT",
+      "fetched_at": "2025-12-20T19:47:26.810259728Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Engineer becomes first wheelchair user to go to space",
       "link": "https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 16:42:12 GMT",
       "fetched_at": "2025-12-12T09:43:36.745357079Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "About 200 West African soldiers in Benin for 'clean-up' after failed coup",
-      "link": "https://www.bbc.com/news/articles/cx2pp7y2jdyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "This is the first time that officials have said how many foreign soldiers were deployed to help thwart the mutiny.",
-      "published": "Fri, 12 Dec 2025 09:02:20 GMT",
-      "fetched_at": "2025-12-12T09:17:27.727586527Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 950,
-  "last_update": "2025-12-20T19:33:22.097184601Z"
+  "total_captured": 951,
+  "last_update": "2025-12-20T19:47:26.810286968Z"
 }
