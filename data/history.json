@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee",
+      "link": "https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhOWEtMTYzMC03MDQyLWE5MWItMWFkZWJmOWNmYWNjLmpwZw==.jpg\" alt=\"Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee\"\u003e\u003c/p\u003e\u003cp\u003eA circulating report attributed to Fundstrat warns of a potential crypto drawdown in early 2026, setting downside targets for Bitcoin, Ether and Solana.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 07:38:36 +0000",
+      "fetched_at": "2025-12-20T07:47:42.701836315Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Australian state plans to ban intifada chants after Bondi shooting",
       "link": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 06:11:56 +0000",
       "fetched_at": "2025-12-12T06:20:28.422515978Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Maduro says Trump wants Venezuela's oil. But is that the real US goal?",
-      "link": "https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The South American nation's output has plummeted and restoring its former glory would be a heavy lift.",
-      "published": "Fri, 12 Dec 2025 05:42:29 GMT",
-      "fetched_at": "2025-12-12T05:52:23.427323875Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 940,
-  "last_update": "2025-12-20T07:38:14.454988453Z"
+  "total_captured": 941,
+  "last_update": "2025-12-20T07:47:43.846301659Z"
 }
