@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
+      "link": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Pakistan's former PM, who is already serving time in prison, plans to challenge the verdict.",
+      "published": "Sat, 20 Dec 2025 10:32:21 GMT",
+      "fetched_at": "2025-12-20T10:49:23.087453432Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How a single copy-paste mistake cost a user $50M in USDt",
       "link": "https://cointelegraph.com/news/address-poisoning-copy-paste-mistake-50m-usdt-loss?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 03:51:04 GMT",
       "fetched_at": "2025-12-12T06:53:45.552693465Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Web3 gaming shifts to sustainability as confidence returns: BGA",
-      "link": "https://cointelegraph.com/news/blockchain-gaming-sentiment-rebounds-after-painful-correction-phase-bga?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEwZjQtN2MzYy03YzQ5LWFjNWYtNDUzNmNkZDIzMDA2.jpg\" alt=\"Web3 gaming shifts to sustainability as confidence returns: BGA\"\u003e\u003c/p\u003e\u003cp\u003eThe Blockchain Game Alliance reports industry confidence rose to 66% as developers pivoted from speculation to sustainable models following a funding collapse since 2021.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 06:02:49 +0000",
-      "fetched_at": "2025-12-12T06:20:28.422533641Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 942,
-  "last_update": "2025-12-20T10:34:23.508561824Z"
+  "total_captured": 943,
+  "last_update": "2025-12-20T10:49:23.385697156Z"
 }

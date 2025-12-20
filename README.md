@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 10:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-942-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-20 Dec 10:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-943-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 10:34 UTC)*
+*(Updated: 20 Dec 10:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Imran Khan and wife given further jail terms after state gift fraud case](https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How a single copy-paste mistake cost a user $50M in USDt](https://cointelegraph.com/news/address-poisoning-copy-paste-mistake-50m-usdt-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee](https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Australian state plans to ban intifada chants after Bondi shooting](https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [US to strip alleged Bosnian war criminal of citizenship](https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt](https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) | ⚪ Neutral |
-| **Business** | [TikTok signs a deal to spin off its U.S. operation](https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Imran Khan and wife given further jail terms after state gift fraud case](https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian state plans to ban intifada chants after Bondi shooting](https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Kebabs, biryani and much more: Indian city on Unesco culinary list](https://www.bbc.com/news/articles/cwyp8erjp82o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Very cool': The 70s Afro-rock genre enjoying a rebirth](https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Make Korea great again: The right-wing group wooing disenchanted youth](https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
