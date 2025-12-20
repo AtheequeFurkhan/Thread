@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What BitMine’s 4M ETH holdings mean for its stock valuation",
+      "link": "https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOTMtNGFhMC03N2ZiLThlNGItZmViOTUyNmNiMTcw.jpg\" alt=\"What BitMine’s 4M ETH holdings mean for its stock valuation\"\u003e\u003c/p\u003e\u003cp\u003eBitMine’s growing Ether holdings are reshaping how investors assess the company’s balance sheet, risk exposure and equity valuation.\u003c/p\u003e",
+      "published": "Sat, 20 Dec 2025 15:56:15 +0000",
+      "fetched_at": "2025-12-20T16:13:59.539346658Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Clair Obscur sweeps The Game Awards with nine wins",
       "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 16:50:23 GMT",
       "fetched_at": "2025-12-12T07:16:38.148713561Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Canadians and Americans on a social media ban for everyone under 16",
-      "link": "https://www.bbc.com/news/videos/c898197j8nyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC asked people in Toronto and DC if they think an Australian-style, under-16 social media ban would work in Canada and the US.",
-      "published": "Thu, 11 Dec 2025 16:59:29 GMT",
-      "fetched_at": "2025-12-12T07:16:38.148679707Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 946,
-  "last_update": "2025-12-20T15:48:27.693593216Z"
+  "total_captured": 947,
+  "last_update": "2025-12-20T16:13:59.688545165Z"
 }
