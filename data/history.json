@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Comedian Bowen Yang announces Saturday Night Live exit",
+      "link": "https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Yang, one of the most prominent cast members, also hosts a podcast and stars in the Wicked film series.",
+      "published": "Sun, 21 Dec 2025 00:30:34 GMT",
+      "fetched_at": "2025-12-21T13:03:10.845608652Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Rights groups condemn new record number of executions in Saudi Arabia",
+      "link": "https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "At least 347 people have now been put to death this year, according to the UK-based campaign group Reprieve.",
+      "published": "Sun, 21 Dec 2025 12:08:10 GMT",
+      "fetched_at": "2025-12-21T13:03:10.845592782Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Klarna partners with Coinbase to accept stablecoin funding from institutions",
+      "link": "https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY0ZmQtYmIyNy03YmEyLTlhYWQtZGRmYjk5M2I4NWYz.jpg\" alt=\"Klarna partners with Coinbase to accept stablecoin funding from institutions\"\u003e\u003c/p\u003e\u003cp\u003eThe BNPL giant will tap USDC-denominated funding via Coinbase as it explores stablecoins for treasury and capital markets use.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 12:29:04 +0000",
+      "fetched_at": "2025-12-21T13:03:10.837612983Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Minute's silence held to remember Bondi beach attack victims",
       "link": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 12 Dec 2025 12:55:42 +0000",
       "fetched_at": "2025-12-12T13:08:47.219983556Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin decouples from stocks in second half of 2025",
-      "link": "https://cointelegraph.com/news/bitcoin-decouples-stocks-second-half-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmY2YtZDJmYS03MmQ4LWFiYzEtNWExYjlhOTM1ZjQ0.jpg\" alt=\"Bitcoin decouples from stocks in second half of 2025\"\u003e\u003c/p\u003e\u003cp\u003eThe gap between equities and Bitcoin got wider after Bitcoin’s post-all-time-peak correction in October.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 13:03:06 +0000",
-      "fetched_at": "2025-12-12T13:08:47.219690232Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UK MPs warn Bank of England stablecoin plans could drive innovation offshore",
-      "link": "https://cointelegraph.com/news/uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyNTctNWI5OC03ZTg1LWE3NzgtMjIzNWY4NDFiNjBl.jpg\" alt=\"UK MPs warn Bank of England stablecoin plans could drive innovation offshore\"\u003e\u003c/p\u003e\u003cp\u003eCross‑party MPs and members of the House of Lords have urged UK Chancellor Rachel Reeves to rein in the Bank of England’s proposed regime for systemic stablecoins.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 13:06:33 +0000",
-      "fetched_at": "2025-12-12T13:08:47.219636212Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "CNN has endured turmoil for years. With Warner Bros. sale, things will get bumpier",
-      "link": "https://www.npr.org/2025/12/12/nx-s1-5640900/cnn-trump-warner-bros-netflix-paramount",
-      "category": "Business",
-      "summary": "In the corporate battle over parent company Warner Bros. Discovery, CNN's fate remains up for grabs. President Trump wants a say in what happens next.",
-      "published": "Fri, 12 Dec 2025 07:28:31 -0500",
-      "fetched_at": "2025-12-12T13:08:47.095020637Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 968,
-  "last_update": "2025-12-21T12:22:05.246047177Z"
+  "total_captured": 971,
+  "last_update": "2025-12-21T13:03:10.845624031Z"
 }
