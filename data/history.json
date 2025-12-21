@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Israel approves 19 new settlements in occupied West Bank",
+      "link": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Far-right Finance Minister Bezalel Smotrich said the move was about blocking the establishment of a Palestinian state.",
+      "published": "Sun, 21 Dec 2025 14:38:12 GMT",
+      "fetched_at": "2025-12-21T14:48:39.716107379Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Chevron continues operations in Venezuela despite war threat",
       "link": "https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 13:41:18 +0000",
       "fetched_at": "2025-12-12T14:13:15.125178165Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B",
-      "link": "https://cointelegraph.com/news/crypto-speculation-2024-lows-leveraged-etfs-record-239b?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItYThhZS03N2FmLWIyYzEtMDMzODhiZGJhODBlLmpwZw==.jpg\" alt=\"Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B\"\u003e\u003c/p\u003e\u003cp\u003eCrypto investor demand for memecoins remains at lows not seen since 2024, despite a growing speculative appetite that has boosted TradFi leveraged ETFs to a record $239 billion.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 14:02:54 +0000",
-      "fetched_at": "2025-12-12T14:13:15.125160121Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 974,
-  "last_update": "2025-12-21T14:32:04.108005893Z"
+  "total_captured": 975,
+  "last_update": "2025-12-21T14:48:40.02107237Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 14:32 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-974-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 14:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-975-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 14:32 UTC)*
+*(Updated: 21 Dec 14:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Israel approves 19 new settlements in occupied West Bank](https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) | ⚪ Neutral |
 | **Business** | [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) | ⚪ Neutral |
 | **World** | [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) | ⚪ Neutral |
 | **World** | [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Israel approves 19 new settlements in occupied West Bank](https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Comedian Bowen Yang announces Saturday Night Live exit](https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rights groups condemn new record number of executions in Saudi Arabia](https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Minute's silence held to remember Bondi beach attack victims](https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Gunmen kill nine in South Africa tavern attack](https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
