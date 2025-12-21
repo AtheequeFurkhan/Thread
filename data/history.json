@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
+      "link": "https://cointelegraph.com/news/crypto-industry-support-us-senator-cynthia-lummis-steps-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNlOWItNDAyYy03ZDljLTg3NzUtZjg1ZTI4MDRhMzZmLmpwZw==.jpg\" alt=\"Crypto community ‘very sorry’ over Senator Lummis' reelection decision\"\u003e\u003c/p\u003e\u003cp\u003eIndustry supporters said crypto \"would not be where it is today\" without US Senator Cynthia Lummis, who announced she would not seek reelection next year.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 05:16:03 +0000",
+      "fetched_at": "2025-12-21T05:35:17.258679715Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Australian PM announces intelligence review as country mourns Bondi attack",
       "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 07:37:51 GMT",
       "fetched_at": "2025-12-12T11:31:47.111335296Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Russia could attack Nato within five years, says alliance chief in stark new warning",
-      "link": "https://www.bbc.com/news/articles/cn81x8py3j5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Mark Rutte warns allies to start ramping up preparations \"for the scale of war our grandparents or great-grandparents endured\".",
-      "published": "Thu, 11 Dec 2025 19:16:09 GMT",
-      "fetched_at": "2025-12-12T11:31:47.111324516Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 961,
-  "last_update": "2025-12-21T05:14:10.210601559Z"
+  "total_captured": 962,
+  "last_update": "2025-12-21T05:35:18.132705577Z"
 }
