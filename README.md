@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 10:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-966-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 11:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-967-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 10:50 UTC)*
+*(Updated: 21 Dec 11:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) | 🔴 Negative |
 | **Crypto** | [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Gunmen kill nine in South Africa tavern attack](https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Engineer becomes first wheelchair user to go to space](https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Blockchain and no-code tools challenge AWS' dominance: Crypto exec](https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback](https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [What BitMine’s 4M ETH holdings mean for its stock valuation](https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) (🔴 Negative)
 - [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) (⚪ Neutral)
 - [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) (⚪ Neutral)
 - [TikTok signs a deal to spin off its U.S. operation](https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation) (🟢 Positive)
 - [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) (🟢 Positive)
-- [Meet the new WaPo food critic who won't dine in anonymity](https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria) (🟢 Positive)
 
 
 ### 📂 Crypto

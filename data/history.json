@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering",
+      "link": "https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid",
+      "category": "Business",
+      "summary": "Budget cuts threaten the future of Amsterdam-based Radio Dabanga, which has served as an information lifeline for Sudanese people about their war-torn country.",
+      "published": "Sun, 21 Dec 2025 06:00:00 -0500",
+      "fetched_at": "2025-12-21T11:10:23.886412721Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report",
       "link": "https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 12:51:09 GMT",
       "fetched_at": "2025-12-12T13:08:47.0603152Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Inside the Colombian cathedral built 180m underground",
-      "link": "https://www.bbc.com/news/videos/cjwyy65ne62o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The idea came from the miners building makeshift altars in the mine in the 1930s, to pray for their safety before starting their shifts.",
-      "published": "Fri, 12 Dec 2025 12:44:25 GMT",
-      "fetched_at": "2025-12-12T13:08:47.06029907Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 966,
-  "last_update": "2025-12-21T10:50:43.331592653Z"
+  "total_captured": 967,
+  "last_update": "2025-12-21T11:10:24.381353811Z"
 }
