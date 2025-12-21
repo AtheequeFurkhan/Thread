@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 04:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-960-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 05:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-961-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 04:47 UTC)*
+*(Updated: 21 Dec 05:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Australian PM announces intelligence review as country mourns Bondi attack](https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [India express train kills seven elephants crossing tracks](https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [IBIT ranking 6th in 2025 ETF flows despite negative returns is ‘a really good sign’](https://cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Imran Khan and wife given further jail terms after state gift fraud case](https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How a single copy-paste mistake cost a user $50M in USDt](https://cointelegraph.com/news/address-poisoning-copy-paste-mistake-50m-usdt-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee](https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Australian PM announces intelligence review as country mourns Bondi attack](https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [India express train kills seven elephants crossing tracks](https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Survivors and lawmakers voice frustration over partial Epstein file release](https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US seizes vessel in international waters off Venezuela's coast, officials say](https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

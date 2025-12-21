@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
+      "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Albanese says the country must be in a position to respond to \"the rapidly changing security environment\".",
+      "published": "Sun, 21 Dec 2025 04:43:19 GMT",
+      "fetched_at": "2025-12-21T05:14:09.888240174Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment",
       "link": "https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 11 Dec 2025 19:16:09 GMT",
       "fetched_at": "2025-12-12T11:31:47.111324516Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Taylor Swift shown breaking down in tears after she met UK attack families",
-      "link": "https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Backstage footage shows the singer in tears after meeting survivors of the attack during her world tour.",
-      "published": "Fri, 12 Dec 2025 08:00:34 GMT",
-      "fetched_at": "2025-12-12T11:31:47.111311131Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 960,
-  "last_update": "2025-12-21T04:47:29.869810581Z"
+  "total_captured": 961,
+  "last_update": "2025-12-21T05:14:10.210601559Z"
 }
