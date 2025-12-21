@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A study found AI chatbots can persuade us with fake facts. How does this affect politics?",
+      "published": "Tue, 16 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-21T23:29:44.786132125Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "A memorial ends - but Bondi tragedy has left Australia reeling, again",
       "link": "https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 16:26:44 +0000",
       "fetched_at": "2025-12-12T16:42:34.603800566Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Europe reconsiders crypto oversight as ESMA centralization gains momentum",
-      "link": "https://cointelegraph.com/news/europe-crypto-oversight-esma-centralization-podcast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyZjItNDM2Mi03ZjY0LWJjNmEtZWM0OTAwZjI4MTliLmpwZw==.jpg\" alt=\"Europe reconsiders crypto oversight as ESMA centralization gains momentum\"\u003e\u003c/p\u003e\u003cp\u003eAs MiCA enters its implementation phase, uneven enforcement across the EU is reigniting debate over whether crypto supervision should move from national regulators to ESMA.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 15:53:06 +0000",
-      "fetched_at": "2025-12-12T16:15:03.276217079Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 981,
-  "last_update": "2025-12-21T23:11:48.519586386Z"
+  "total_captured": 982,
+  "last_update": "2025-12-21T23:29:44.989841676Z"
 }
