@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "A memorial ends - but Bondi tragedy has left Australia reeling, again",
+      "link": "https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Bondi shooting, and a deadly stabbing attack just last year, have left scores physically scarred and traumatised.",
+      "published": "Sun, 21 Dec 2025 22:18:02 GMT",
+      "fetched_at": "2025-12-21T22:33:24.899454618Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
+      "link": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC goes to a rebel-held part of Myanmar, ahead of a government-mandated election starting this month.",
+      "published": "Sun, 21 Dec 2025 22:08:39 GMT",
+      "fetched_at": "2025-12-21T22:33:24.899438388Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US reportedly pursuing third oil tanker linked to Venezuela",
+      "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela.",
+      "published": "Sun, 21 Dec 2025 21:23:17 GMT",
+      "fetched_at": "2025-12-21T22:33:24.899422678Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tokenization will disrupt finance faster than digital disrupted media: Crypto exec",
+      "link": "https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYjAtYmI0ZC03NWY4LWFkZDctMzkxMDhmZjc1MDczLmpwZw==.jpg\" alt=\"Tokenization will disrupt finance faster than digital disrupted media: Crypto exec\"\u003e\u003c/p\u003e\u003cp\u003ePutting real-world assets onchain opens up new markets, increases capital velocity and democratizes access to finance, advocates say.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 22:17:28 +0000",
+      "fetched_at": "2025-12-21T22:33:24.883415002Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec",
       "link": "https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Fri, 12 Dec 2025 15:53:06 +0000",
       "fetched_at": "2025-12-12T16:15:03.276217079Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip",
-      "link": "https://cointelegraph.com/news/bitcoin-wobbles-92k-trader-eyes-end-manipulative-btc-price-dip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzMzAtOTk0ZC03NzhhLWJmZjUtMWU4YjhjYjA2MWE4LmpwZw==.jpg\" alt=\"Bitcoin wobbles at $92K as trader eyes end to ‘manipulative’ BTC price dip\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin faced troublesome resistance levels to end the Wall Street trading week as new bullish BTC price forecasts reappeared.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 15:41:38 +0000",
-      "fetched_at": "2025-12-12T15:52:01.14016218Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ghanaian influencer charged over $8m scam targeting elderly Americans",
-      "link": "https://www.bbc.com/news/articles/c4g99kp897do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "He is accused of using romance scams to defraud $8m, with the profits flaunted on Instagram.",
-      "published": "Fri, 12 Dec 2025 11:47:29 GMT",
-      "fetched_at": "2025-12-12T15:14:26.126466766Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ripple expands European footprint with AMINA stablecoin payment partnership",
-      "link": "https://cointelegraph.com/news/ripple-amina-stablecoin-cross-border-payments-europe?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyODItZTg2MC03ZGRhLWIzNTItZWQ2NWYwYzIxM2QwLmpwZw==.jpg\" alt=\"Ripple expands European footprint with AMINA stablecoin payment partnership\"\u003e\u003c/p\u003e\u003cp\u003eRipple Payments partnered with Swiss crypto bank Amina to plug its fiat-to-stablecoin payment infrastructure into the FINMA-regulated institution.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 14:31:37 +0000",
-      "fetched_at": "2025-12-12T14:49:24.561060488Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK",
-      "link": "https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The UK accuses Al-Fateh Abdullah Idris, also known as Abu Lulu, of committing acts of violence against civilians.",
-      "published": "Fri, 12 Dec 2025 14:32:30 GMT",
-      "fetched_at": "2025-12-12T14:49:23.433370685Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 977,
-  "last_update": "2025-12-21T22:12:03.141965821Z"
+  "total_captured": 981,
+  "last_update": "2025-12-21T22:33:24.899472051Z"
 }
