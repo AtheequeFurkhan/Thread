@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 16:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-975-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 16:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-976-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 16:13 UTC)*
+*(Updated: 21 Dec 16:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Israel approves 19 new settlements in occupied West Bank](https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) | ⚪ Neutral |
 | **Business** | [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [India express train kills seven elephants crossing tracks](https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) | ⚪ Neutral |
-| **World** | [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto community ‘very sorry’ over Senator Lummis' reelection decision](https://cointelegraph.com/news/crypto-industry-support-us-senator-cynthia-lummis-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology

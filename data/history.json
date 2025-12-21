@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin traders split between $70K crash and BTC price rebound within days",
+      "link": "https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQxOTgtN2I5MC03MjI0LTkxY2ItM2I1YTkyMTRkZmJlLmpwZWc=.jpeg\" alt=\"Bitcoin traders split between $70K crash and BTC price rebound within days\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin price expectations diverged into the weekly close as $150,000 targets met calls for a drop to levels not seen in over a year.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 16:11:37 +0000",
+      "fetched_at": "2025-12-21T16:37:47.422037825Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Israel approves 19 new settlements in occupied West Bank",
       "link": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 13:55:51 GMT",
       "fetched_at": "2025-12-12T14:13:15.189569053Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Pakistan clears Binance and HTX to seek local crypto licenses",
-      "link": "https://cointelegraph.com/news/pakistan-greenlight-binance-htx-seek-crypto-exchange-licenses?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOGYtY2FhMy03YTE2LWJkZjQtMGNjMmRlNjE5MzA1LmpwZw==.jpg\" alt=\"Pakistan clears Binance and HTX to seek local crypto licenses\"\u003e\u003c/p\u003e\u003cp\u003ePakistan gives a nod for crypto exchanges Binance and HTX to register local subsidiaries as regulators advance a phased crypto framework.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 13:41:18 +0000",
-      "fetched_at": "2025-12-12T14:13:15.125178165Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 975,
-  "last_update": "2025-12-21T16:13:53.993202469Z"
+  "total_captured": 976,
+  "last_update": "2025-12-21T16:37:47.442569185Z"
 }
