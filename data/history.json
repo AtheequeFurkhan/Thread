@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Chevron continues operations in Venezuela despite war threat",
+      "link": "https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat",
+      "category": "Business",
+      "summary": "Despite the threat of war, U.S. oil giant Chevron continues to operate in Venezuela. NPR's Ayesha Rascoe asks energy security analyst Clayton Seigle about the company's role in the country.",
+      "published": "Sun, 21 Dec 2025 08:10:57 -0500",
+      "fetched_at": "2025-12-21T13:37:25.81076715Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The Ellisons add TikTok's U.S. business to their entertainment empire",
+      "link": "https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire",
+      "category": "Business",
+      "summary": "TikTok has signed a deal to sell its U.S. operations to a group of investors led by Larry Ellison, the billionaire ally of Trump whose family media and entertainment empire just got bigger.",
+      "published": "Sun, 21 Dec 2025 08:11:01 -0500",
+      "fetched_at": "2025-12-21T13:37:25.810743711Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Why British Jews are experiencing their biggest change in 60 years",
+      "link": "https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "There have been shifts in how secure many British Jews feel - and how connected they feel to the rest of the community.",
+      "published": "Sun, 21 Dec 2025 00:25:03 GMT",
+      "fetched_at": "2025-12-21T13:37:25.382567239Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Comedian Bowen Yang announces Saturday Night Live exit",
       "link": "https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 12 Dec 2025 14:02:54 +0000",
       "fetched_at": "2025-12-12T14:13:15.125160121Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE",
-      "link": "https://cointelegraph.com/news/crypto-cruising-on-tailwinds-into-2026-longitude-recap?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOTEtNmM2MC03YjI0LWEzNzUtYjFhMjMzYzRhNWEzLmpwZw==.jpg\" alt=\"Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE\"\u003e\u003c/p\u003e\u003cp\u003eThe cryptocurrency industry is riding on the tailwinds of regulatory clarity and newfound interest from institutional investors into the new year.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 13:34:47 +0000",
-      "fetched_at": "2025-12-12T13:45:47.078212386Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?",
-      "link": "https://cointelegraph.com/news/ethereum-price-rallied-260-percent-last-time-eth-5k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWFmMjEtMjcyYS03ZDQzLTk5M2EtNjNiYzU4NjZjYTY5.jpg\" alt=\"Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?\"\u003e\u003c/p\u003e\u003cp\u003eA buying opportunity from Ethereum’s realized price projected a major rally, as analysts say a return to $5,000 in 2026 is plausible.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 13:40:40 +0000",
-      "fetched_at": "2025-12-12T13:45:47.078189224Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Phantom taps Kalshi to offer regulated prediction markets in wallet",
-      "link": "https://cointelegraph.com/news/phantom-kalshi-prediction-markets-wallet-integration?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyNjktOTg4MS03N2JiLTlmZjQtYTNmNmU4NjM4OTYz.jpg\" alt=\"Phantom taps Kalshi to offer regulated prediction markets in wallet\"\u003e\u003c/p\u003e\u003cp\u003eThe wallet-native feature lets users trade tokenized event contracts across politics, economics and culture without leaving Phantom.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 12:55:42 +0000",
-      "fetched_at": "2025-12-12T13:08:47.219983556Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 971,
-  "last_update": "2025-12-21T13:03:10.845624031Z"
+  "total_captured": 974,
+  "last_update": "2025-12-21T13:37:25.977125656Z"
 }

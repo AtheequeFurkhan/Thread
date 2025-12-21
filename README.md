@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 13:03 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-971-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 13:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-974-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 13:03 UTC)*
+*(Updated: 21 Dec 13:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) | ⚪ Neutral |
+| **Business** | [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) | ⚪ Neutral |
+| **World** | [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Comedian Bowen Yang announces Saturday Night Live exit](https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Rights groups condemn new record number of executions in Saudi Arabia](https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Business** | [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) | ⚪ Neutral |
 | **World** | [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Sell Bitcoin for gold? Not so fast, one analyst says](https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Survivors and lawmakers voice frustration over partial Epstein file release](https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) (⚪ Neutral)
+- [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) (⚪ Neutral)
 - [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) (🔴 Negative)
 - [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) (⚪ Neutral)
 - [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) (⚪ Neutral)
-- [TikTok signs a deal to spin off its U.S. operation](https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation) (🟢 Positive)
-- [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) (🟢 Positive)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Comedian Bowen Yang announces Saturday Night Live exit](https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Rights groups condemn new record number of executions in Saudi Arabia](https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Minute's silence held to remember Bondi beach attack victims](https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Gunmen kill nine in South Africa tavern attack](https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [How Israel's grassroots hostage families group became a powerful international force](https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
