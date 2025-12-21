@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report",
+      "link": "https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNmZjMtODdkYi03MmIzLTkyYWQtNTliYWEyMDkzNzgyLmpwZw==.jpg\" alt=\"Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report\"\u003e\u003c/p\u003e\u003cp\u003eBrazil’s crypto market showed signs of maturity in 2025, with higher transaction volumes, larger per-user investments and growing demand for low-risk products.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 08:17:14 +0000",
+      "fetched_at": "2025-12-21T08:45:08.144245419Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "US lawmakers propose tax break for small stablecoin payments, staking rewards",
       "link": "https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 12:44:25 GMT",
       "fetched_at": "2025-12-12T13:08:47.06029907Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
-      "link": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Russian ambassador is summoned over a cyber attack on air traffic control and attempted electoral interference.",
-      "published": "Fri, 12 Dec 2025 12:20:49 GMT",
-      "fetched_at": "2025-12-12T12:25:13.147127949Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 965,
-  "last_update": "2025-12-21T08:16:18.584708776Z"
+  "total_captured": 966,
+  "last_update": "2025-12-21T08:45:08.341738231Z"
 }

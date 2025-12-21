@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 08:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-965-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 08:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-966-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 08:16 UTC)*
+*(Updated: 21 Dec 08:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Gunmen kill nine in South Africa tavern attack](https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [How Israel's grassroots hostage families group became a powerful international force](https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Blockchain and no-code tools challenge AWS' dominance: Crypto exec](https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback](https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [What BitMine’s 4M ETH holdings mean for its stock valuation](https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto community ‘very sorry’ over Senator Lummis' reelection decision](https://cointelegraph.com/news/crypto-industry-support-us-senator-cynthia-lummis-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Sell Bitcoin for gold? Not so fast, one analyst says](https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
