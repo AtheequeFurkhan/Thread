@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Minute's silence held to remember Bondi beach attack victims",
+      "link": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Australian Prime Minister Anthony Albanese was booed as he arrived at the memorial event.",
+      "published": "Sun, 21 Dec 2025 11:20:24 GMT",
+      "fetched_at": "2025-12-21T11:26:49.963753481Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering",
       "link": "https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 07:28:31 -0500",
       "fetched_at": "2025-12-12T13:08:47.095020637Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela",
-      "link": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The man who led the operation says María Corina Machado crossed “very rough seas” in “pitch-black darkness”.",
-      "published": "Fri, 12 Dec 2025 12:51:09 GMT",
-      "fetched_at": "2025-12-12T13:08:47.0603152Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 967,
-  "last_update": "2025-12-21T11:10:24.381353811Z"
+  "total_captured": 968,
+  "last_update": "2025-12-21T11:26:50.196842287Z"
 }
