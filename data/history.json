@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment",
+      "link": "https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkZDUtOWM3Yi03MTgwLWFiZDYtOGNkYWJiODUwNGM1LmpwZw==.jpg\" alt=\"Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment\"\u003e\u003c/p\u003e\u003cp\u003eSocial media sentiment indicates Bitcoin is in a range where a drop below $75,000 is possible, according to Santiment founder Maksim Balashevich.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 01:11:44 +0000",
+      "fetched_at": "2025-12-21T03:05:00.490255385Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "India express train kills seven elephants crossing tracks",
+      "link": "https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The collision happened early on Saturday in the north-eastern state of Assam, local officials say.",
+      "published": "Sun, 21 Dec 2025 01:18:23 GMT",
+      "fetched_at": "2025-12-21T03:04:59.884294096Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
       "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 08:00:34 GMT",
       "fetched_at": "2025-12-12T11:31:47.111311131Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight",
-      "link": "https://cointelegraph.com/news/sec-innovation-exemption-dtcc-tokenization-onchain-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyMDQtNzY1OS03YWQ3LWEyNGItZTk3ZDQ5MWE0MDQz.jpg\" alt=\"US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight\"\u003e\u003c/p\u003e\u003cp\u003eIn comments Thursday, SEC Chair Paul Atkins doubled down on his vision for tokenized US financial markets and onchain settlement.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 11:13:28 +0000",
-      "fetched_at": "2025-12-12T11:31:47.094197784Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'It was little kids': Taylor Swift breaks down as she talks of Southport attack",
-      "link": "https://www.bbc.com/news/videos/cy0ppq8yye4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The singer met met families and victims of the Southport stabbing attack, backstage during her Eras tour last year.",
-      "published": "Fri, 12 Dec 2025 10:28:09 GMT",
-      "fetched_at": "2025-12-12T11:12:44.112747599Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 958,
-  "last_update": "2025-12-21T01:03:39.739673911Z"
+  "total_captured": 960,
+  "last_update": "2025-12-21T03:05:00.490285752Z"
 }

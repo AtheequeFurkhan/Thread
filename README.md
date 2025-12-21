@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 01:03 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-958-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 03:05 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-960-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 01:03 UTC)*
+*(Updated: 21 Dec 03:05 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **World** | [India express train kills seven elephants crossing tracks](https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) | ⚪ Neutral |
 | **World** | [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Imran Khan and wife given further jail terms after state gift fraud case](https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [How a single copy-paste mistake cost a user $50M in USDt](https://cointelegraph.com/news/address-poisoning-copy-paste-mistake-50m-usdt-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee](https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Australian state plans to ban intifada chants after Bondi shooting](https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Sell Bitcoin for gold? Not so fast, one analyst says](https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Blockchain and no-code tools challenge AWS' dominance: Crypto exec](https://cointelegraph.com/news/blockchain-no-code-challenge-aws-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin RSI nears three-year lows vs. gold as analyst sees bullish comeback](https://cointelegraph.com/news/bitcoin-rsi-three-year-lows-vs-gold-analyst-bullish-comeback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [What BitMine’s 4M ETH holdings mean for its stock valuation](https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [India express train kills seven elephants crossing tracks](https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Survivors and lawmakers voice frustration over partial Epstein file release](https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US seizes vessel in international waters off Venezuela's coast, officials say](https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Engineer becomes first wheelchair user to go to space](https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
