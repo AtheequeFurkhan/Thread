@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
+      "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "As some West African nations choose to cement old ties with France or a new ally in Russia, Togo wants both.",
+      "published": "Sun, 21 Dec 2025 00:25:22 GMT",
+      "fetched_at": "2025-12-21T01:03:39.739649054Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown",
+      "link": "https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump",
+      "category": "Business",
+      "summary": "With months-long consulate and embassy delays being reported, the two tech companies say staying put in the U.S. right now could prevent workers from getting stranded in their home countries.",
+      "published": "Sat, 20 Dec 2025 19:03:04 -0500",
+      "fetched_at": "2025-12-21T01:03:39.276841249Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "This billionaire tested China's limits. It cost him his freedom",
       "link": "https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 10:28:09 GMT",
       "fetched_at": "2025-12-12T11:12:44.112747599Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Binance hints at stock perps in push to join global tokenized equities race",
-      "link": "https://cointelegraph.com/news/binance-stock-perpetuals-tokenized-equities-api-update?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExY2MtZTEzNS03YzFjLTg2ZWMtYTMwMjdhMTNhZDE4.jpg\" alt=\"Binance hints at stock perps in push to join global tokenized equities race\"\u003e\u003c/p\u003e\u003cp\u003eBinance quietly rolled out API endpoints pointing to stock perpetual futures, signaling a renewed push into stock trading after a failed 2021 launch.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 11:06:16 +0000",
-      "fetched_at": "2025-12-12T11:12:44.095886555Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy",
-      "link": "https://cointelegraph.com/news/uae-bitcoin-first-crypto-at-scale-digital-asset-strategy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExYjYtY2U5Zi03M2Q5LWJmMjktZTI3NzFhM2IxZjE5.jpg\" alt=\"Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy\"\u003e\u003c/p\u003e\u003cp\u003eAbu Dhabi is anchoring Bitcoin for institutions, while Dubai builds payments, stablecoins and Web3 use cases into daily commerce.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 10:32:22 +0000",
-      "fetched_at": "2025-12-12T10:41:27.246025408Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 956,
-  "last_update": "2025-12-20T23:47:30.610893632Z"
+  "total_captured": 958,
+  "last_update": "2025-12-21T01:03:39.739673911Z"
 }

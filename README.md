@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-20 Dec 23:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-956-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-21 Dec 01:03 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-958-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 20 Dec 23:47 UTC)*
+*(Updated: 21 Dec 01:03 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Business** | [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) | ⚪ Neutral |
 | **World** | [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin's apparent demand shrinks, signals new bear market: Analysts](https://cointelegraph.com/news/bitcoin-demand-q4shrink-bear-market-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee](https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Australian state plans to ban intifada chants after Bondi shooting](https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?](https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk](https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro](https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) (⚪ Neutral)
 - [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) (⚪ Neutral)
 - [TikTok signs a deal to spin off its U.S. operation](https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation) (🟢 Positive)
 - [4 common scams to watch out for this holiday season](https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season) (🟢 Positive)
 - [Meet the new WaPo food critic who won't dine in anonymity](https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria) (🟢 Positive)
-- [In the shadow of U.S. export controls, China rallies its own chip industry](https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Neither Russia nor France: One West African country walks a diplomatic tightrope](https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [This billionaire tested China's limits. It cost him his freedom](https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Survivors and lawmakers voice frustration over partial Epstein file release](https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US seizes vessel in international waters off Venezuela's coast, officials say](https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Engineer becomes first wheelchair user to go to space](https://www.bbc.com/news/articles/c5y9z0g7lleo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Who and what are in the Epstein files?](https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-21.md | [View Log](data/2025-12-21.md) |
 | 2025-12-20.md | [View Log](data/2025-12-20.md) |
 | 2025-12-19.md | [View Log](data/2025-12-19.md) |
 | 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
 | 2025-12-15.md | [View Log](data/2025-12-15.md) |
-| 2025-12-14.md | [View Log](data/2025-12-14.md) |
 
 
 ---
