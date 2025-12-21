@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US lawmakers propose tax break for small stablecoin payments, staking rewards",
+      "link": "https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNmYWMtNDk2Mi03NTUzLWI3OWItN2MxOWY4NjFkYWJmLmpwZw==.jpg\" alt=\"US lawmakers propose tax break for small stablecoin payments, staking rewards\"\u003e\u003c/p\u003e\u003cp\u003eUS lawmakers are proposing a $200 tax exemption for stablecoin payments and a multi-year deferral option for crypto staking and mining rewards.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 07:05:15 +0000",
+      "fetched_at": "2025-12-21T07:12:43.889382024Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Gunmen kill nine in South Africa tavern attack",
       "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 12:20:49 GMT",
       "fetched_at": "2025-12-12T12:25:13.147127949Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Prada to launch $930 'Made in India' Kolhapuri sandals after backlash",
-      "link": "https://www.bbc.com/news/articles/czxppe4q84do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The deal comes months after Prada faced backlash for allegedly appropriating a sandal design made by Indian artisans.",
-      "published": "Fri, 12 Dec 2025 10:29:57 GMT",
-      "fetched_at": "2025-12-12T11:31:47.111353881Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 964,
-  "last_update": "2025-12-21T06:50:03.207124064Z"
+  "total_captured": 965,
+  "last_update": "2025-12-21T07:12:44.135379748Z"
 }
