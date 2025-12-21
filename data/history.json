@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec",
+      "link": "https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyYTYtNzViZi03NmU2LWE3MTYtYzEwODZhYWI0ZTNkLmpwZw==.jpg\" alt=\"Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is a decentralized software protocol that has a collective action problem, unlike centralized companies, according to Jameson Lopp.\u003c/p\u003e",
+      "published": "Sun, 21 Dec 2025 21:00:36 +0000",
+      "fetched_at": "2025-12-21T21:10:36.253630958Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin traders split between $70K crash and BTC price rebound within days",
       "link": "https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 14:32:30 GMT",
       "fetched_at": "2025-12-12T14:49:23.433370685Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Russia hits back at Europe's big plan to loan Moscow's frozen cash to Ukraine",
-      "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Russia's central bank says it is suing Belgium's Euroclear in court following an EU bid to use Russian assets to aid Ukraine.",
-      "published": "Fri, 12 Dec 2025 13:55:51 GMT",
-      "fetched_at": "2025-12-12T14:13:15.189569053Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 976,
-  "last_update": "2025-12-21T20:49:37.52750566Z"
+  "total_captured": 977,
+  "last_update": "2025-12-21T21:10:36.25365309Z"
 }
