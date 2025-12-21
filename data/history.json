@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Gunmen kill nine in South Africa tavern attack",
+      "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police say another 10 people were injured in the township shooting near Johannesburg, and a manhunt is under way.",
+      "published": "Sun, 21 Dec 2025 06:10:47 GMT",
+      "fetched_at": "2025-12-21T06:18:49.935279134Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "How Israel's grassroots hostage families group became a powerful international force",
+      "link": "https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "With just one hostage left in Gaza, members of the forum reflect on its influence in Israel and abroad.",
+      "published": "Sun, 21 Dec 2025 06:05:14 GMT",
+      "fetched_at": "2025-12-21T06:18:49.935264186Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
       "link": "https://cointelegraph.com/news/crypto-industry-support-us-senator-cynthia-lummis-steps-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 10:29:57 GMT",
       "fetched_at": "2025-12-12T11:31:47.111353881Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Thai PM dissolves parliament to 'return power to people'",
-      "link": "https://www.bbc.com/news/articles/c3v11rd200yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The dissolution order comes after Anutin Charnvirakul lost the support of the largest opposition bloc.",
-      "published": "Fri, 12 Dec 2025 02:06:39 GMT",
-      "fetched_at": "2025-12-12T11:31:47.111344483Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Geminid meteor shower set to light up sky during weekend peak",
-      "link": "https://www.bbc.com/news/articles/cwyvkkxxj42o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The meteor shower peaks this weekend with dark skies giving the UK a good chance of seeing them, weather-permitting",
-      "published": "Fri, 12 Dec 2025 07:37:51 GMT",
-      "fetched_at": "2025-12-12T11:31:47.111335296Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 962,
-  "last_update": "2025-12-21T05:50:43.885920918Z"
+  "total_captured": 964,
+  "last_update": "2025-12-21T06:18:50.216913361Z"
 }
