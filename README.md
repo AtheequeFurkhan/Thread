@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 07:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-998-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 08:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-999-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 07:51 UTC)*
+*(Updated: 22 Dec 08:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) | 🟢 Positive |
 | **World** | [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [A memorial ends - but Bondi tragedy has left Australia reeling, again](https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [In rebel-held Myanmar, civilians face devastating air strikes and a sham election](https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [US reportedly pursuing third oil tanker linked to Venezuela](https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

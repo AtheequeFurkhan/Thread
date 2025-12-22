@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Russian general killed by car bomb in Moscow, officials say",
+      "link": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said.",
+      "published": "Mon, 22 Dec 2025 07:53:47 GMT",
+      "fetched_at": "2025-12-22T08:19:38.671144354Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry",
       "link": "https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 21:06:30 GMT",
       "fetched_at": "2025-12-12T21:11:49.04493144Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto Biz: How Ripple quietly convinced Wall Street",
-      "link": "https://cointelegraph.com/news/ripple-40b-valuation-wall-street-xrp-stablecoins-custody?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzODUtMDcyOC03YzRiLTk3NjgtMWNhZTk0N2Y3ODFhLmpwZw==.jpg\" alt=\"Crypto Biz: How Ripple quietly convinced Wall Street\"\u003e\u003c/p\u003e\u003cp\u003eRipple’s post-SEC rebound is drawing Wall Street backing, including a $40 billion valuation deal with downside protection— and some investors betting on XRP.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 21:00:00 +0000",
-      "fetched_at": "2025-12-12T21:11:48.287273539Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 998,
-  "last_update": "2025-12-22T07:51:17.377646207Z"
+  "total_captured": 999,
+  "last_update": "2025-12-22T08:19:39.259143349Z"
 }
