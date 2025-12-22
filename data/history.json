@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish",
+      "link": "https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmUtMjZmNS03MTJkLTg4MDQtMTJlMGYzM2MzZmNkLmpwZw==.jpg\" alt=\"Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin approached $90,000 amid Santa Rally speculation, backed by bullish derivatives and chart patterns that target a BTC price above $100,000.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 11:36:43 +0000",
+      "fetched_at": "2025-12-22T11:48:01.883087066Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "$90K BTC vs. record gold price: 5 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 02 Dec 2025 20:00:08 GMT",
       "fetched_at": "2025-12-12T21:47:18.001091324Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
-      "link": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance.",
-      "published": "Wed, 03 Dec 2025 13:46:49 GMT",
-      "fetched_at": "2025-12-12T21:39:43.04557994Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1007,
-  "last_update": "2025-12-22T11:40:36.692267449Z"
+  "total_captured": 1008,
+  "last_update": "2025-12-22T11:48:02.369315735Z"
 }
