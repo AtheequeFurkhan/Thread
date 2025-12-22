@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 13:08 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1014-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 13:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1017-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 13:08 UTC)*
+*(Updated: 22 Dec 13:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Metaplanet clears issuance of dividend-paying shares for overseas institutions](https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) | 🟢 Positive |
-| **World** | [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish](https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
