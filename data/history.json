@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
+      "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online.",
+      "published": "Tue, 25 Nov 2025 04:58:08 GMT",
+      "fetched_at": "2025-12-22T23:12:30.317080382Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Warner Brothers has a long history of messy corporate marriages and divorces",
+      "link": "https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces",
+      "category": "Business",
+      "summary": "As Netflix and Paramount continue their battle over Warner Brothers Discovery, we take a look back at the company's history of messy corporate marriages and divorces.",
+      "published": "Mon, 22 Dec 2025 17:54:45 -0500",
+      "fetched_at": "2025-12-22T23:12:30.116742876Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "EU council endorses offline and online versions of digital euro",
+      "link": "https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YjktMmJkNS03YTY0LWFmOTYtNzk3ZTBiNjcyNzRhLmpwZw==.jpg\" alt=\"EU council endorses offline and online versions of digital euro\"\u003e\u003c/p\u003e\u003cp\u003eThe Council of the European Union endorsed the launch of the European Central Bank’s digital euro in both an online and a privacy-focused offline version.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 22:48:55 +0000",
+      "fetched_at": "2025-12-22T23:12:29.324823028Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter",
+      "link": "https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3NzctNmYxYS03YzAyLWI5OGItMzY3Njc3NjljNzBiLmpwZw==.jpg\" alt=\"Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter\"\u003e\u003c/p\u003e\u003cp\u003eLuckey-backed Erebor raised $350 million at a $4.35 billion valuation as OCC and FDIC approvals signal momentum for crypto- and AI-focused banking.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 22:48:59 +0000",
+      "fetched_at": "2025-12-22T23:12:29.324804885Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?",
+      "link": "https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3Y2ItNzc3Yi03MzhkLWJiODktNmMyM2YyN2M2Njc4LmpwZw==.jpg\" alt=\"Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?\"\u003e\u003c/p\u003e\u003cp\u003eFederal Reserve policy and crypto-friendly regulation could be setting the market up for a bullish 2026, but there are still a handful of hurdles investors should be aware of.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 23:06:27 +0000",
+      "fetched_at": "2025-12-22T23:12:29.324781882Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Will boats be a breakthrough for 3D printing tech?",
       "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4454,53 +4499,8 @@
       "published": "Fri, 14 Nov 2025 15:47:29 GMT",
       "fetched_at": "2025-12-13T17:10:29.240827169Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Can technology fix fashion's sizing crisis?",
-      "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized.",
-      "published": "Sat, 15 Nov 2025 04:03:27 GMT",
-      "fetched_at": "2025-12-13T16:53:08.532907633Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
-      "link": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
-      "published": "Wed, 19 Nov 2025 00:23:14 GMT",
-      "fetched_at": "2025-12-13T16:53:08.532891302Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The contradiction at the heart of the trillion-dollar AI race",
-      "link": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting",
-      "published": "Wed, 19 Nov 2025 13:52:41 GMT",
-      "fetched_at": "2025-12-13T16:38:48.924745678Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Israel targets senior Hamas official in deadly Gaza strike",
-      "link": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Four people were killed and multiple passers-by injured in the strike, an official from Gaza's Hamas-run civil defence agency told the BBC.",
-      "published": "Sat, 13 Dec 2025 16:08:32 GMT",
-      "fetched_at": "2025-12-13T16:38:48.582404585Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "The entrepreneur connecting tourists to African hospitality",
-      "link": "https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "TripZapp founder Rory Okoli wants to make it simple for tourists to book and pay for African travel.",
-      "published": "Tue, 25 Nov 2025 00:02:30 GMT",
-      "fetched_at": "2025-12-13T16:14:00.857381756Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1047,
-  "last_update": "2025-12-22T22:51:30.254218177Z"
+  "total_captured": 1052,
+  "last_update": "2025-12-22T23:12:30.430015688Z"
 }
