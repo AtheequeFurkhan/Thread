@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "JPMorgan explores crypto trading for institutional clients: Report",
+      "link": "https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2NzQtNjE4NC03MGI3LTg2N2UtMWQ3ZjNjZTgyMGNmLmpwZw==.jpg\" alt=\"JPMorgan explores crypto trading for institutional clients: Report\"\u003e\u003c/p\u003e\u003cp\u003eThe move by the traditional banking giant would represent a significant deepening of ties to the crypto industry and change in CEO Jamie Dimon’s approach to digital assets.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 15:56:36 +0000",
+      "fetched_at": "2025-12-22T16:15:49.71448853Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Élysée Palace staff member to stand trial over theft of precious tableware",
       "link": "https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 13 Dec 2025 03:49:59 GMT",
       "fetched_at": "2025-12-13T06:49:16.233880337Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto groups slam Citadel for urging tighter DeFi tokenization rules",
-      "link": "https://cointelegraph.com/news/crypto-slams-citadel-call-tighter-defi-tokenization-rules?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE1ODgtYjA4NC03YTcyLTgzYjgtNjM3MjY1MzRmNmNhLmpwZw==.jpg\" alt=\"Crypto groups slam Citadel for urging tighter DeFi tokenization rules\"\u003e\u003c/p\u003e\u003cp\u003eThe DeFi Education Fund has led a rebuttal to Citadel Securities’ call for the SEC to bring DeFi platforms under securities laws if dealing in tokenized stocks.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 05:37:24 +0000",
-      "fetched_at": "2025-12-13T05:50:33.882674523Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1024,
-  "last_update": "2025-12-22T15:51:50.441604061Z"
+  "total_captured": 1025,
+  "last_update": "2025-12-22T16:15:49.964179729Z"
 }
