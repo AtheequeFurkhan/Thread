@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism",
+      "link": "https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Civil liberties advocates say laws 'damage our democracy' while others say they scapegoat gun owners.",
+      "published": "Mon, 22 Dec 2025 06:14:56 GMT",
+      "fetched_at": "2025-12-22T12:25:54.582681181Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Gold price climbs above $4,400 to hit record high",
+      "link": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Investors are flocking to precious metals amid geopolitical tensions and with more US interest rate cuts expected.",
+      "published": "Mon, 22 Dec 2025 12:17:36 GMT",
+      "fetched_at": "2025-12-22T12:25:54.582496927Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
+      "link": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations.",
+      "published": "Mon, 22 Dec 2025 11:27:54 GMT",
+      "fetched_at": "2025-12-22T12:25:54.582381812Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish",
       "link": "https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 02 Dec 2025 17:37:59 GMT",
       "fetched_at": "2025-12-12T22:12:30.198115826Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
-      "link": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts.",
-      "published": "Wed, 03 Dec 2025 10:39:33 GMT",
-      "fetched_at": "2025-12-12T21:47:18.001117684Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bank of England warns of AI bubble risk",
-      "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The central bank says US stock price valuations are their most stretched since the dotcom bubble burst.",
-      "published": "Tue, 02 Dec 2025 12:11:17 GMT",
-      "fetched_at": "2025-12-12T21:47:18.001106904Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Dell family to seed Trump accounts for kids with $250",
-      "link": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The donation will help seed new Trump-branded investment accounts.",
-      "published": "Tue, 02 Dec 2025 20:00:08 GMT",
-      "fetched_at": "2025-12-12T21:47:18.001091324Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1008,
-  "last_update": "2025-12-22T11:48:02.369315735Z"
+  "total_captured": 1011,
+  "last_update": "2025-12-22T12:25:54.937738369Z"
 }

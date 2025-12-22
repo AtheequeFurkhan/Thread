@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 11:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1008-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 12:25 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1011-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 11:48 UTC)*
+*(Updated: 22 Dec 12:25 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish](https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [US lawmakers push to fix staking ‘double taxation’ before 2026](https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Fed seeks input on account type attractive to crypto firms](https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky](https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
