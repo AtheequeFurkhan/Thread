@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance",
+      "link": "https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YWYtOWM4MC03MzdlLThjYjUtODVjYzBhYTczZjE4LmpwZw==.jpg\" alt=\"Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance\"\u003e\u003c/p\u003e\u003cp\u003eFrom niche experiment to $7 billion market, tokenized US Treasurys are quietly becoming a major driver of institutional onchain yield.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 17:08:59 +0000",
+      "fetched_at": "2025-12-22T17:32:52.564681481Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How US banks are quietly preparing for an onchain future",
+      "link": "https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhYzUtMTA4Ni03YTc2LThhNGYtZTFjZTkxYTI5MjY2.jpg\" alt=\"How US banks are quietly preparing for an onchain future\"\u003e\u003c/p\u003e\u003cp\u003eBehind the scenes, US banks are rebuilding core financial infrastructure so cash, custody and funds can move onchain under regulatory oversight.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 17:24:10 +0000",
+      "fetched_at": "2025-12-22T17:32:52.564664229Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "The Trump administration pauses wind projects off New England, New York and Virginia",
       "link": "https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 23:27:55 GMT",
       "fetched_at": "2025-12-13T09:47:24.128014701Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A popular streamer tells us about the downsides of making online content.",
-      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-13T09:30:43.900280359Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026",
-      "link": "https://cointelegraph.com/news/itau-asset-recommends-3-percent-bitcoin-allocation-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE2OWQtMzVhNS03ZGViLTkyOWItZjRkZDQ1MDAwNDEzLmpwZw==.jpg\" alt=\"Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026\"\u003e\u003c/p\u003e\u003cp\u003eBrazil’s largest private bank says Bitcoin can improve portfolio diversification and hedge currency risk despite a volatile year for the asset.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 07:30:12 +0000",
-      "fetched_at": "2025-12-13T07:47:35.164935922Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1028,
-  "last_update": "2025-12-22T17:12:12.286396241Z"
+  "total_captured": 1030,
+  "last_update": "2025-12-22T17:32:52.688547173Z"
 }
