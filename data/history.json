@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump’s World Liberty Financial token ends 2025 down over 40%",
+      "link": "https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ODktZjRhMS03ZjlhLWFlMzktODNhYTQ5ZmZkNDliLmpwZw==.jpg\" alt=\"Trump’s World Liberty Financial token ends 2025 down over 40%\"\u003e\u003c/p\u003e\u003cp\u003eThe Trump family’s crypto project, World Liberty Financial, has seen its fair share of controversy, and its token is ending the year significantly down.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 14:20:42 +0000",
+      "fetched_at": "2025-12-22T14:36:33.370855888Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump names envoy to Greenland, sparking fresh row with Denmark",
       "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 13 Dec 2025 00:05:21 GMT",
       "fetched_at": "2025-12-13T03:37:04.574491932Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "An eyebrow tip and McDonald's footage: Takeaways from Luigi Mangione's evidence hearing",
-      "link": "https://www.bbc.com/news/articles/czrkkm83znpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Prosecutors played dozens of body camera videos and interviewed witnesses from the day of his arrest.",
-      "published": "Sat, 13 Dec 2025 01:18:21 GMT",
-      "fetched_at": "2025-12-13T02:29:45.62498592Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1020,
-  "last_update": "2025-12-22T14:13:41.691028239Z"
+  "total_captured": 1021,
+  "last_update": "2025-12-22T14:36:34.31456862Z"
 }
