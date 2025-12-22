@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 10:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1006-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 10:40 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1007-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 10:14 UTC)*
+*(Updated: 22 Dec 10:40 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) | 🟢 Positive |
 | **Business** | [Can Americans learn to love tiny, cheap kei cars?](https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles) | ⚪ Neutral |
 | **Crypto** | [Indonesia lists 29 licensed crypto platforms as big exchanges explore market](https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky](https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Indonesia lists 29 licensed crypto platforms as big exchanges explore market](https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Hyperliquid says ex-employee responsible for HYPE token shorting](https://cointelegraph.com/news/hyperliquid-hype-shorting-address-former-employee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Metaplanet clears issuance of dividend-paying shares for overseas institutions](https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [US lawmakers push to fix staking ‘double taxation’ before 2026](https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

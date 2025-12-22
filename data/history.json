@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "$90K BTC vs. record gold price: 5 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1NWEtNjI0Yy03ZDBmLTgyN2EtYzIwZmJhMTQxMjY0LmpwZw==.jpg\" alt=\"$90K BTC vs. record gold price: 5 things to know in Bitcoin this week\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin gained new warnings of a BTC price breakdown as gold and silver hit new all-time highs in the shadow of Japanese market instability.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 10:20:01 +0000",
+      "fetched_at": "2025-12-22T10:40:58.089784946Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "How President Trump reshaped capitalism in 2025",
       "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 03 Dec 2025 13:46:49 GMT",
       "fetched_at": "2025-12-12T21:39:43.04557994Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "New homes delayed by 'energy-hungry' data centres",
-      "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022.",
-      "published": "Wed, 03 Dec 2025 15:37:59 GMT",
-      "fetched_at": "2025-12-12T21:39:43.045566214Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1006,
-  "last_update": "2025-12-22T10:14:36.948612668Z"
+  "total_captured": 1007,
+  "last_update": "2025-12-22T10:40:59.048383993Z"
 }
