@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Divided between two states, the town at the heart of America's abortion debate",
+      "link": "https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The only abortion clinic in town is fighting an eviction notice and other efforts to shut it down.",
+      "published": "Mon, 22 Dec 2025 00:07:55 GMT",
+      "fetched_at": "2025-12-22T05:45:10.902111434Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tether-backed Northern Data sold mining firm to Tether execs: FT",
+      "link": "https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwZGQtOGVkNi03N2EzLThiYWYtZTM1Y2UzNjA2ODgz.jpg\" alt=\"Tether-backed Northern Data sold mining firm to Tether execs: FT\"\u003e\u003c/p\u003e\u003cp\u003eNorthern Data, which is majority-owned by Tether, sold its Bitcoin mining arm to businesses owned by Tether executives, the Financial Times reports.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 05:37:30 +0000",
+      "fetched_at": "2025-12-22T05:45:10.848547858Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "South East Asian bloc to seek end to Thailand-Cambodia fighting",
       "link": "https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 20:38:38 +0000",
       "fetched_at": "2025-12-12T20:51:59.251203308Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t",
-      "link": "https://cointelegraph.com/news/tix-defi-onchain-settlement-live-event-ticketing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzZGQtYzJmMS03MTA0LTliYmItNjJkYzI0YmZjZjhkLmpwZw==.jpg\" alt=\"Hate Ticketmaster? Onchain RWA tickets may succeed where regulators haven’t\"\u003e\u003c/p\u003e\u003cp\u003eTIX is developing a DeFi-based settlement layer for live events, using onchain tickets to unlock venue financing and simplify payouts.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 20:40:09 +0000",
-      "fetched_at": "2025-12-12T20:51:59.251183531Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Thailand and Cambodia agree to halt fighting, Trump says",
-      "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The leaders of the two countries have not commented on Trump's announcement which follows days of hostilities.",
-      "published": "Fri, 12 Dec 2025 20:16:53 GMT",
-      "fetched_at": "2025-12-12T20:51:58.338819866Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 994,
-  "last_update": "2025-12-22T05:17:51.245290639Z"
+  "total_captured": 996,
+  "last_update": "2025-12-22T05:45:11.333310555Z"
 }

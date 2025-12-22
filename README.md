@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 05:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-994-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 05:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-996-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 05:17 UTC)*
+*(Updated: 22 Dec 05:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [US lawmakers push to fix staking ‘double taxation’ before 2026](https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [US reportedly pursuing third oil tanker linked to Venezuela](https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenization will disrupt finance faster than digital disrupted media: Crypto exec](https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec](https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Israel approves 19 new settlements in occupied West Bank](https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US lawmakers push to fix staking ‘double taxation’ before 2026](https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Fed seeks input on account type attractive to crypto firms](https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky](https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Another 130 abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
