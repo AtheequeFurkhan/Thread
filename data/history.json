@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Metaplanet clears issuance of dividend-paying shares for overseas institutions",
+      "link": "https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1OWQtM2UxOS03MTNhLTgzOTAtMDY0OTRlYzBiMjI5LmpwZw==.jpg\" alt=\"Metaplanet clears issuance of dividend-paying shares for overseas institutions\"\u003e\u003c/p\u003e\u003cp\u003eJapan’s largest corporate Bitcoin holder approved preferred shares with dividends, signaling a shift toward income-focused institutional capital.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 08:21:22 +0000",
+      "fetched_at": "2025-12-22T08:50:39.229487394Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Russian general killed by car bomb in Moscow, officials say",
       "link": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 19:36:03 GMT",
       "fetched_at": "2025-12-12T21:11:49.044947691Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Turkish car ferry damaged in strike at Ukrainian port",
-      "link": "https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ukraine's president has blamed Russia for the attack as Turkey called for a suspension of strikes on shipping and ports.",
-      "published": "Fri, 12 Dec 2025 21:06:30 GMT",
-      "fetched_at": "2025-12-12T21:11:49.04493144Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 999,
-  "last_update": "2025-12-22T08:19:39.259143349Z"
+  "total_captured": 1000,
+  "last_update": "2025-12-22T08:50:40.291336397Z"
 }
