@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Alleged Bondi gunmen threw 'tennis ball bomb', new documents say",
+      "link": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Videos show the pair allegedly training in rural Australia and making statements in front of Islamic State flags",
+      "published": "Mon, 22 Dec 2025 05:28:48 GMT",
+      "fetched_at": "2025-12-22T05:54:33.040679354Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Divided between two states, the town at the heart of America's abortion debate",
       "link": "https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 21:06:00 +0000",
       "fetched_at": "2025-12-12T21:11:48.287255955Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?",
-      "link": "https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzMWYtMGRjOC03ZWU3LTgyYTQtOWQwNTM3NTI2MTVjLmpwZw==.jpg\" alt=\"Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?\"\u003e\u003c/p\u003e\u003cp\u003eShort-term Bitcoin traders were profitable for 229 days this year despite the recent 30% correction in BTC price. Will this trend carry over into 2026?\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 20:38:38 +0000",
-      "fetched_at": "2025-12-12T20:51:59.251203308Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 996,
-  "last_update": "2025-12-22T05:45:11.333310555Z"
+  "total_captured": 997,
+  "last_update": "2025-12-22T05:54:33.337479776Z"
 }

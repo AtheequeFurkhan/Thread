@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 05:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-996-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 05:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-997-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 05:45 UTC)*
+*(Updated: 22 Dec 05:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [In rebel-held Myanmar, civilians face devastating air strikes and a sham election](https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US reportedly pursuing third oil tanker linked to Venezuela](https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenization will disrupt finance faster than digital disrupted media: Crypto exec](https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec](https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
