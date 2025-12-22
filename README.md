@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 13:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1017-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 14:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1020-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 13:45 UTC)*
+*(Updated: 22 Dec 14:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Hyperliquid says ex-employee responsible for HYPE token shorting](https://cointelegraph.com/news/hyperliquid-hype-shorting-address-former-employee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Metaplanet clears issuance of dividend-paying shares for overseas institutions](https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Russian general killed by car bomb in Moscow, officials say](https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

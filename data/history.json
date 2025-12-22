@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Trump names envoy to Greenland, sparking fresh row with Denmark",
+      "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future.",
+      "published": "Mon, 22 Dec 2025 12:25:59 GMT",
+      "fetched_at": "2025-12-22T14:13:41.519707575Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "What's next for TikTok in the US as deal prospects remain uncertain?",
+      "link": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done.",
+      "published": "Mon, 15 Dec 2025 17:06:41 GMT",
+      "fetched_at": "2025-12-22T14:13:41.240786951Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
+      "link": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.",
+      "published": "Mon, 22 Dec 2025 14:08:48 GMT",
+      "fetched_at": "2025-12-22T14:13:41.240750784Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Binance let suspicious accounts move millions after $4.3B US plea deal: Report",
       "link": "https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Sat, 13 Dec 2025 01:18:21 GMT",
       "fetched_at": "2025-12-13T02:29:45.62498592Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump's 'historic' peace deal for DR Congo shattered after rebels seize key city",
-      "link": "https://www.bbc.com/news/articles/c4gk34k9k23o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The recent Washington Accord was hailed as \"historic\" by the US president but the fighting continues.",
-      "published": "Sat, 13 Dec 2025 01:37:12 GMT",
-      "fetched_at": "2025-12-13T02:29:45.624965001Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Stablecoin giant Tether makes $1B bid to buy Juventus FC",
-      "link": "https://cointelegraph.com/news/tether-makes-1-billion-bid-buy-juventus-fc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE1MDUtMTIzYi03ZTlmLTg1OTEtNDIwM2Y1NzA0NGIxLmpwZw==.jpg\" alt=\"Stablecoin giant Tether makes $1B bid to buy Juventus FC\"\u003e\u003c/p\u003e\u003cp\u003eTether says it will buy the controlling stake Exor has in Juventus, along with all remaining shares, an offer Exor has reportedly rebuffed.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 01:11:57 +0000",
-      "fetched_at": "2025-12-13T02:29:45.285235078Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "As Trump targets Venezuela, its allies Russia and China show little signs of support",
-      "link": "https://www.bbc.com/news/articles/c075mr3190mo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Experts say that Russian and Chinese support for Venezuela has largely dried up, with no prospect of real military or financial aid.",
-      "published": "Sat, 13 Dec 2025 00:35:21 GMT",
-      "fetched_at": "2025-12-13T00:55:59.504368519Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1017,
-  "last_update": "2025-12-22T13:45:52.33287099Z"
+  "total_captured": 1020,
+  "last_update": "2025-12-22T14:13:41.691028239Z"
 }
