@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-21 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-982-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 01:02 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-984-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 21 Dec 23:48 UTC)*
+*(Updated: 22 Dec 01:02 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) | ⚪ Neutral |
+| **Crypto** | [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [A memorial ends - but Bondi tragedy has left Australia reeling, again](https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [In rebel-held Myanmar, civilians face devastating air strikes and a sham election](https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Business** | [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) | 🔴 Negative |
 | **Crypto** | [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Gunmen kill nine in South Africa tavern attack](https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [How Israel's grassroots hostage families group became a powerful international force](https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) (⚪ Neutral)
 - [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) (⚪ Neutral)
 - [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) (⚪ Neutral)
 - [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) (🔴 Negative)
 - [Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown](https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump) (⚪ Neutral)
-- [From forestry to skiing, Maine relies on temporary foreign workers](https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tokenization will disrupt finance faster than digital disrupted media: Crypto exec](https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec](https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-22.md | [View Log](data/2025-12-22.md) |
 | 2025-12-21.md | [View Log](data/2025-12-21.md) |
 | 2025-12-20.md | [View Log](data/2025-12-20.md) |
 | 2025-12-19.md | [View Log](data/2025-12-19.md) |
 | 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
 | 2025-12-16.md | [View Log](data/2025-12-16.md) |
-| 2025-12-15.md | [View Log](data/2025-12-15.md) |
 
 
 ---

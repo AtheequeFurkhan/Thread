@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files",
+      "link": "https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt",
+      "category": "Business",
+      "summary": "The Justice Department is defending its initial release of documents related to sex offender Jeffrey Epstein, saying lawyers are still going through them to ensure victims are protected.",
+      "published": "Sun, 21 Dec 2025 19:54:48 -0500",
+      "fetched_at": "2025-12-22T01:02:21.528085315Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Uniswap fee switch to go live as community vote set to pass",
+      "link": "https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyZGYtNDc2Yi03ZTRiLThmOWEtZGMxZWQ2YzlhZTg3LmpwZw==.jpg\" alt=\"Uniswap fee switch to go live as community vote set to pass\"\u003e\u003c/p\u003e\u003cp\u003eUniswap’s fee switch proposal, designed to boost its token’s supply-demand dynamics via token burns, has passed a community vote threshold and is set to take effect this week.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 00:32:45 +0000",
+      "fetched_at": "2025-12-22T01:02:21.166620957Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 16:57:28 +0000",
       "fetched_at": "2025-12-12T17:12:17.461408527Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto industry, trade unions clash over multi-trillion dollar retirement funds",
-      "link": "https://cointelegraph.com/news/trillions-dollars-risk-trade-unions-crypto-401ks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmNDQtYzgzYi03YjRkLTkyMTYtMjk2OTNjM2M1Zjc0.jpg\" alt=\"Crypto industry, trade unions clash over multi-trillion dollar retirement funds\"\u003e\u003c/p\u003e\u003cp\u003eRelaxing the current rules for traditional retirement funds and pension plans could attract trillions of dollars of capital flows into crypto.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 16:39:59 +0000",
-      "fetched_at": "2025-12-12T16:54:00.474969296Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals",
-      "link": "https://cointelegraph.com/news/bitgo-circle-fidelity-bitgo-ripple-occ-approval-bank-conversion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNWMtMWFiNC03OTNhLWEwMmMtOGNhMmY2MTBmNGNiLmpwZw==.jpg\" alt=\"Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals\"\u003e\u003c/p\u003e\u003cp\u003eThe conditional approvals clear a path for major crypto companies to operate as national trust banks under the supervision of the US OCC.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 16:26:44 +0000",
-      "fetched_at": "2025-12-12T16:42:34.603800566Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 982,
-  "last_update": "2025-12-21T23:48:36.391879168Z"
+  "total_captured": 984,
+  "last_update": "2025-12-22T01:02:21.528105182Z"
 }
