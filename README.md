@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 20:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1035-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 21:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1038-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 20:52 UTC)*
+*(Updated: 22 Dec 21:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ecuadorean soldiers found guilty of forced disappearance of boys](https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [NGOs fear Israel registration rules risk collapse of Gaza aid operations](https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Spain's Christmas lottery sees residents of one town win 468 million euros](https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Strategy boosts USD reserve with $748M stock sale, skips Bitcoin purchases](https://cointelegraph.com/news/strategy-usd-reserve-748m-stock-sale-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump's appointment of Greenland envoy sparks fresh row with Denmark](https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Russia escalates attacks on key Ukrainian region of Odesa](https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Crypto** | [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ecuadorean soldiers found guilty of forced disappearance of boys](https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [NGOs fear Israel registration rules risk collapse of Gaza aid operations](https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Spain's Christmas lottery sees residents of one town win 468 million euros](https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump's appointment of Greenland envoy sparks fresh row with Denmark](https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Russia escalates attacks on key Ukrainian region of Odesa](https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

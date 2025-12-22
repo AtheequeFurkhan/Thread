@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Ecuadorean soldiers found guilty of forced disappearance of boys",
+      "link": "https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The four boys were picked up by a military patrol and their bodies were later found mutilated and burned.",
+      "published": "Mon, 22 Dec 2025 18:17:57 GMT",
+      "fetched_at": "2025-12-22T21:11:32.525800826Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "NGOs fear Israel registration rules risk collapse of Gaza aid operations",
+      "link": "https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "International organisations not registered by 31 December face closure in Israel, but the Israeli government says aid delivery will not be affected.",
+      "published": "Mon, 22 Dec 2025 18:34:00 GMT",
+      "fetched_at": "2025-12-22T21:11:32.525789074Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Spain's Christmas lottery sees residents of one town win 468 million euros",
+      "link": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The town of La Bañeza, which has a population of around 11,000, was badly affected by wildfires in the summer.",
+      "published": "Mon, 22 Dec 2025 21:03:47 GMT",
+      "fetched_at": "2025-12-22T21:11:32.525770439Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Strategy boosts USD reserve with $748M stock sale, skips Bitcoin purchases",
       "link": "https://cointelegraph.com/news/strategy-usd-reserve-748m-stock-sale-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Sat, 22 Nov 2025 01:00:00 GMT",
       "fetched_at": "2025-12-13T11:34:33.565794678Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpr?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Some children in the United States are learning with help from AI-powered apps at school.",
-      "published": "Tue, 25 Nov 2025 20:50:00 GMT",
-      "fetched_at": "2025-12-13T11:34:33.565780568Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Adrienne Murray meets the engineers designing icebreaker ship technology for the Arctic.",
-      "published": "Sat, 29 Nov 2025 01:00:00 GMT",
-      "fetched_at": "2025-12-13T11:26:02.222882355Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "How AI is used in songwriting and fashion. Plus, a warning on how it’s used in toys.",
-      "published": "Tue, 02 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-13T11:26:02.222859993Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1035,
-  "last_update": "2025-12-22T20:52:16.987224616Z"
+  "total_captured": 1038,
+  "last_update": "2025-12-22T21:11:32.925267724Z"
 }
