@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
+      "link": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included.",
+      "published": "Fri, 12 Dec 2025 20:45:06 GMT",
+      "fetched_at": "2025-12-22T09:47:40.689725332Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Image in Epstein files that features Trump reinstated after backlash",
       "link": "https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 05 Dec 2025 22:32:29 GMT",
       "fetched_at": "2025-12-12T21:30:02.545992922Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
-      "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The European Commission says the social media site is opening its users up to scams and impersonations.",
-      "published": "Fri, 05 Dec 2025 17:58:27 GMT",
-      "fetched_at": "2025-12-12T21:30:02.545973936Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1002,
-  "last_update": "2025-12-22T09:19:52.813169095Z"
+  "total_captured": 1003,
+  "last_update": "2025-12-22T09:47:41.202458206Z"
 }

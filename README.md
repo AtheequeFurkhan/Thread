@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 09:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1002-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 09:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1003-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 09:19 UTC)*
+*(Updated: 22 Dec 09:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Hyperliquid says ex-employee responsible for HYPE token shorting](https://cointelegraph.com/news/hyperliquid-hype-shorting-address-former-employee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Metaplanet clears issuance of dividend-paying shares for overseas institutions](https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Another 130 abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) | ⚪ Neutral |
-| **Crypto** | [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
