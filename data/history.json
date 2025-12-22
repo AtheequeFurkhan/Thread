@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Will boats be a breakthrough for 3D printing tech?",
+      "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
+      "published": "Fri, 28 Nov 2025 00:10:39 GMT",
+      "fetched_at": "2025-12-22T22:51:29.637017212Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash",
       "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 25 Nov 2025 00:02:30 GMT",
       "fetched_at": "2025-12-13T16:14:00.857381756Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
-      "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online.",
-      "published": "Tue, 25 Nov 2025 04:58:08 GMT",
-      "fetched_at": "2025-12-13T15:47:52.209480927Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1046,
-  "last_update": "2025-12-22T22:35:34.723996378Z"
+  "total_captured": 1047,
+  "last_update": "2025-12-22T22:51:30.254218177Z"
 }
