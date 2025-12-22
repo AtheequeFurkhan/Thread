@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US and Ukraine call Miami talks productive despite no breakthrough",
+      "link": "https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Donald Trump's special envoy, Steve Witkoff, issued a statement with the top Ukrainian negotiator after discussing the latest peace plans.",
+      "published": "Mon, 22 Dec 2025 04:37:29 GMT",
+      "fetched_at": "2025-12-22T04:50:57.89085875Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "US lawmakers push to fix staking ‘double taxation’ before 2026",
+      "link": "https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNWMtMWFiNC03OTNhLWEwMmMtOGNhMmY2MTBmNGNiLmpwZw==.jpg\" alt=\"US lawmakers push to fix staking ‘double taxation’ before 2026\"\u003e\u003c/p\u003e\u003cp\u003eLawmakers led by Republican Mike Carey argue that current IRS rules penalize stakers with an administrative burden and potentially over-tax unrealized gains.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 04:28:47 +0000",
+      "fetched_at": "2025-12-22T04:50:57.503465775Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Fed seeks input on account type attractive to crypto firms",
       "link": "https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 20:20:43 +0000",
       "fetched_at": "2025-12-12T20:36:13.421939214Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Farmers call for French blockades over cow disease cull",
-      "link": "https://www.bbc.com/news/articles/cm211xz0vl8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Farmers have staged protests in several parts of France in recent days after vets culled a herd suffering from the disease.",
-      "published": "Fri, 12 Dec 2025 19:20:39 GMT",
-      "fetched_at": "2025-12-12T19:39:14.549475111Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzOTQtYzVhYS03OTk2LTk5MWMtYjUyYjg2ZGQ0ZTkyLmpwZw==.jpg\" alt=\"Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins have turned down from their respective overhead resistance levels, indicating that the bears are still very active at the range highs.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 19:26:16 +0000",
-      "fetched_at": "2025-12-12T19:29:04.051493744Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 991,
-  "last_update": "2025-12-22T04:11:10.801721272Z"
+  "total_captured": 993,
+  "last_update": "2025-12-22T04:50:58.150664516Z"
 }
