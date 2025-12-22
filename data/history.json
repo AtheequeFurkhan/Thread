@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "South East Asian bloc to seek end to Thailand-Cambodia fighting",
+      "link": "https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Asean ministers hope to revive a ceasefire that was brokered with the help of US President Donald Trump.",
+      "published": "Mon, 22 Dec 2025 04:27:38 GMT",
+      "fetched_at": "2025-12-22T05:17:50.85873464Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US and Ukraine call Miami talks productive despite no breakthrough",
       "link": "https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 20:16:53 GMT",
       "fetched_at": "2025-12-12T20:51:58.338819866Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tools for Humanity expands World app toward super-app model",
-      "link": "https://cointelegraph.com/news/sam-altman-world-super-app-encrypted-messaging-stablecoin-human-id?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzNmItZmRiZC03MWUwLTgwOTItMWUyNzhiNjU5NDZhLmpwZw==.jpg\" alt=\"Tools for Humanity expands World app toward super-app model\"\u003e\u003c/p\u003e\u003cp\u003eThe release introduces World Chat with end-to-end encryption, DeFi-powered yield via Morpho and QR-code payments at more than one million merchants in Argentina.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 20:20:43 +0000",
-      "fetched_at": "2025-12-12T20:36:13.421939214Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 993,
-  "last_update": "2025-12-22T04:50:58.150664516Z"
+  "total_captured": 994,
+  "last_update": "2025-12-22T05:17:51.245290639Z"
 }
