@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trump's appointment of Greenland envoy sparks fresh row with Denmark",
+      "link": "https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's diplomatic correspondent James Landale explains how Trump's appoinment of a special envoy to Greenland has shaken diplomatic with Denmark.",
+      "published": "Mon, 22 Dec 2025 18:52:03 GMT",
+      "fetched_at": "2025-12-22T19:37:51.208111691Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
+      "link": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics.",
+      "published": "Mon, 22 Dec 2025 19:25:23 GMT",
+      "fetched_at": "2025-12-22T19:37:51.208090081Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘",
       "link": "https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 13 Dec 2025 06:01:00 -0500",
       "fetched_at": "2025-12-13T11:09:59.450963539Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex",
-      "link": "https://cointelegraph.com/news/bitfinex-crypto-spot-volumes-drop-66-market-lull?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZhNzktMzg0OS03YzVmLWIzZDAtMDRhOTE1M2NkNjNk.jpg\" alt=\"Spot volumes drop 66% in ‘lulls’ that often precede next cycle leg: Bitfinex\"\u003e\u003c/p\u003e\u003cp\u003eBitfinex said the recent 66% slide in spot trading volumes echoes lulls seen before next leg in the cycle.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 11:05:42 +0000",
-      "fetched_at": "2025-12-13T11:09:59.30618057Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Angry fans throw chairs and bottles at Messi event in India",
-      "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Inter Miami and Argentina forward is in India for his 'GOAT tour', taking in events in Kolkata, Hyderabad, Mumbai and New Delhi.",
-      "published": "Sat, 13 Dec 2025 10:22:24 GMT",
-      "fetched_at": "2025-12-13T10:34:34.333405105Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1032,
-  "last_update": "2025-12-22T19:28:11.412080348Z"
+  "total_captured": 1034,
+  "last_update": "2025-12-22T19:37:51.853607553Z"
 }

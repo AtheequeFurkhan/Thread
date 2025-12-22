@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 19:28 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1032-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 19:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1034-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 19:28 UTC)*
+*(Updated: 22 Dec 19:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump's appointment of Greenland envoy sparks fresh row with Denmark](https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Russia escalates attacks on key Ukrainian region of Odesa](https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘](https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance](https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump's appointment of Greenland envoy sparks fresh row with Denmark](https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Russia escalates attacks on key Ukrainian region of Odesa](https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
