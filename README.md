@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1031-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 18:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1032-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 18:19 UTC)*
+*(Updated: 22 Dec 18:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘](https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance](https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How US banks are quietly preparing for an onchain future](https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘](https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance](https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How US banks are quietly preparing for an onchain future](https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [JPMorgan explores crypto trading for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

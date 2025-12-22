@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘",
+      "link": "https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzYtMzNiMC03YjRjLWI3MDktZDg4MjdhMjEwYzhlLmpwZw==.jpg\" alt=\"David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘\"\u003e\u003c/p\u003e\u003cp\u003eFollowing Michael Selig's confirmation, White House official David Sacks said the SEC and CFTC were set to offer \"clear regulatory guidelines\" for digital assets.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 18:19:07 +0000",
+      "fetched_at": "2025-12-22T18:51:16.873642796Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ghana official rejects 'Detty December' label",
       "link": "https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 13 Dec 2025 10:22:24 GMT",
       "fetched_at": "2025-12-13T10:34:34.333405105Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Should you use buy now, pay later? Experts share 4 tips to know",
-      "link": "https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping",
-      "category": "Business",
-      "summary": "The payment option is booming among online holiday shoppers this year. But like any form of credit, it comes with drawbacks. Here's how to use BNPL responsibly — and protect yourself from risk.",
-      "published": "Sat, 13 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-13T10:11:55.65192656Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1031,
-  "last_update": "2025-12-22T18:19:08.312266524Z"
+  "total_captured": 1032,
+  "last_update": "2025-12-22T18:51:17.750648539Z"
 }
