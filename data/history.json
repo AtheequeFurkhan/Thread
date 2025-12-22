@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Élysée Palace staff member to stand trial over theft of precious tableware",
+      "link": "https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Thomas M is accused of stealing solider silver and porcelain used for state banquets from France's presidential palace.",
+      "published": "Mon, 22 Dec 2025 15:35:58 GMT",
+      "fetched_at": "2025-12-22T15:51:50.201212768Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K",
+      "link": "https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxMGQtZjZhMi03YTEwLTlhYmMtNTFkM2U2OWIyOTdl.jpg\" alt=\"Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K\"\u003e\u003c/p\u003e\u003cp\u003eEther rebounded 16% to reclaim $3,000 as whales accumulate heavily, exchange supply hits nine-year lows, and network activity surges.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 15:46:19 +0000",
+      "fetched_at": "2025-12-22T15:51:50.177009221Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Coinbase to acquire The Clearing Company in prediction markets push",
       "link": "https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 13 Dec 2025 05:37:24 +0000",
       "fetched_at": "2025-12-13T05:50:33.882674523Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Witkoff to meet Zelensky for latest Ukraine war talks",
-      "link": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Donald Trump's envoy will meet the Ukrainian president and European leaders in Berlin to discuss the latest peace plan.",
-      "published": "Sat, 13 Dec 2025 05:09:11 GMT",
-      "fetched_at": "2025-12-13T05:34:56.603662156Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "From booze to black belts: Virginia's drunk raccoon suspected in karate shop break-in",
-      "link": "https://www.bbc.com/news/articles/c5y2271q20lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The \"trashed panda\" is also suspected of burglarising snacks from the Department of Motor Vehicles.",
-      "published": "Sat, 13 Dec 2025 02:11:25 GMT",
-      "fetched_at": "2025-12-13T03:37:04.574502822Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1022,
-  "last_update": "2025-12-22T15:34:47.731583942Z"
+  "total_captured": 1024,
+  "last_update": "2025-12-22T15:51:50.441604061Z"
 }

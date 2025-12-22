@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 15:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1022-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 15:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1024-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 15:34 UTC)*
+*(Updated: 22 Dec 15:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Coinbase to acquire The Clearing Company in prediction markets push](https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) | 🟢 Positive |
 | **Business** | [Can Americans learn to love tiny, cheap kei cars?](https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles) | ⚪ Neutral |
-| **Crypto** | [Indonesia lists 29 licensed crypto platforms as big exchanges explore market](https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase to acquire The Clearing Company in prediction markets push](https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
