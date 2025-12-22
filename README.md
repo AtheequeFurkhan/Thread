@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 01:02 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-984-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 03:07 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-988-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 01:02 UTC)*
+*(Updated: 22 Dec 03:07 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Another 130 abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) | ⚪ Neutral |
 | **Crypto** | [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Comedian Bowen Yang announces Saturday Night Live exit](https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Rights groups condemn new record number of executions in Saudi Arabia](https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Minute's silence held to remember Bondi beach attack victims](https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Business** | [A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering](https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid) | 🔴 Negative |
-| **Crypto** | [Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report](https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [US lawmakers propose tax break for small stablecoin payments, staking rewards](https://cointelegraph.com/news/us-lawmakers-stablecoin-tax-break-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tokenization will disrupt finance faster than digital disrupted media: Crypto exec](https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec](https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Another 130 abducted schoolchildren released in Nigeria](https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A memorial ends - but Bondi tragedy has left Australia reeling, again](https://www.bbc.com/news/articles/cn8eknv7zkyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [In rebel-held Myanmar, civilians face devastating air strikes and a sham election](https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [US reportedly pursuing third oil tanker linked to Venezuela](https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Israel approves 19 new settlements in occupied West Bank](https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
