@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Fed seeks input on account type attractive to crypto firms",
+      "link": "https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQzODAtZmIxZS03ZTIwLWIyNmItNzJjN2E5MDE3YWYxLmpwZw==.jpg\" alt=\"Fed seeks input on account type attractive to crypto firms\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Reserve is seeking public feedback on a new “payment account” which could give fintechs and crypto companies easier access to the central bank's systems.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 03:36:33 +0000",
+      "fetched_at": "2025-12-22T04:11:10.705923737Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky",
+      "link": "https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQzZDYtY2ViMi03ODNhLThlZTQtMzdkN2UyNjMyMzhmLmpwZw==.jpg\" alt=\"Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky\"\u003e\u003c/p\u003e\u003cp\u003eKaspersky found a new malware, dubbed Stealk, that disguises itself as game mods and pirated software to steal crypto wallets, passwords, and browser data.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 03:50:36 +0000",
+      "fetched_at": "2025-12-22T04:11:10.705879214Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
+      "link": "https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.",
+      "published": "Fri, 12 Dec 2025 18:04:47 GMT",
+      "fetched_at": "2025-12-22T04:11:10.592970204Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Fintechs’ prediction market addons will cost them in churn: Inversion CEO",
       "link": "https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 12 Dec 2025 19:26:16 +0000",
       "fetched_at": "2025-12-12T19:29:04.051493744Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined",
-      "link": "https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyYWItOTQ0Mi03Yzg2LWEzOWUtNzNiNmM2YWU0ODM4LmpwZw==.jpg\" alt=\"Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin briefly topped $94,000 following Strategy’s largest investment since July, but investor risk appetite remained muted even after the widely expected US interest rate cut.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 19:00:00 +0000",
-      "fetched_at": "2025-12-12T19:11:24.575300228Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Eritrea quits regional bloc as tensions rise with Ethiopia",
-      "link": "https://www.bbc.com/news/articles/cly555k8de3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Eritrea says it has been targetted by Igad and that the bloc is failing its founding principles.",
-      "published": "Fri, 12 Dec 2025 18:18:30 GMT",
-      "fetched_at": "2025-12-12T18:51:12.056593045Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Pyth to launch reserve using buybacks from DAO treasury funds",
-      "link": "https://cointelegraph.com/news/pyth-reserve-dao-treasury-funds?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEzMmEtZGE5Mi03ZWFlLWEyMTQtOWY3MjM5MDY5YmVkLmpwZw==.jpg\" alt=\"Pyth to launch reserve using buybacks from DAO treasury funds\"\u003e\u003c/p\u003e\u003cp\u003eThe network’s reserve will consist of purchases of the network’s native PYTH token, utilizing approximately 33% of the protocol’s revenue through the DAO.\u003c/p\u003e",
-      "published": "Fri, 12 Dec 2025 18:49:58 +0000",
-      "fetched_at": "2025-12-12T18:51:11.990226121Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 988,
-  "last_update": "2025-12-22T03:07:37.902256277Z"
+  "total_captured": 991,
+  "last_update": "2025-12-22T04:11:10.801721272Z"
 }

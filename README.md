@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 03:07 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-988-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 04:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-991-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 03:07 UTC)*
+*(Updated: 22 Dec 04:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Fed seeks input on account type attractive to crypto firms](https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky](https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Alex Iwobi says Afcon is a special football tournament](https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Why Croatia's capital wants to hold Europe's best Christmas market](https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Business** | [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) | ⚪ Neutral |
 | **Business** | [The Ellisons add TikTok's U.S. business to their entertainment empire](https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire) | ⚪ Neutral |
 | **World** | [Why British Jews are experiencing their biggest change in 60 years](https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Comedian Bowen Yang announces Saturday Night Live exit](https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Rights groups condemn new record number of executions in Saudi Arabia](https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Klarna partners with Coinbase to accept stablecoin funding from institutions](https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Fed seeks input on account type attractive to crypto firms](https://cointelegraph.com/news/fed-seeks-input-on-payment-account-for-crypto-fintechs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky](https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Fintechs’ prediction market addons will cost them in churn: Inversion CEO](https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Uniswap fee switch to go live as community vote set to pass](https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tokenization will disrupt finance faster than digital disrupted media: Crypto exec](https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Migrating Bitcoin to post-quantum may 'easily' take 5-10 years: Crypto exec](https://cointelegraph.com/news/migrating-btc-post-quantum-easily-5-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin traders split between $70K crash and BTC price rebound within days](https://cointelegraph.com/news/bitcoin-traders-split-between-70k-crash-btc-price-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
