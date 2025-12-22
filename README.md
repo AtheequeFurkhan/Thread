@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 21:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1042-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1044-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 21:49 UTC)*
+*(Updated: 22 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Nearly two dozen states sue the Trump administration over funding for CFPB](https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit) | ⚪ Neutral |
+| **Crypto** | [ETHZilla liquidates $74.5M in Ether to redeem convertible debt](https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Arizona lawmaker proposes barring taxes on crypto and blockchain](https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ros Atkins on… the oil tanker being pursued by the US](https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [JPMorgan explores crypto trading for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Nearly two dozen states sue the Trump administration over funding for CFPB](https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit) (⚪ Neutral)
 - [The Trump administration pauses wind projects off New England, New York and Virginia](https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security) (🟢 Positive)
 - [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) (🟢 Positive)
 - [Can Americans learn to love tiny, cheap kei cars?](https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles) (⚪ Neutral)
 - [CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) (🟢 Positive)
-- [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [ETHZilla liquidates $74.5M in Ether to redeem convertible debt](https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Arizona lawmaker proposes barring taxes on crypto and blockchain](https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Strategy boosts USD reserve with $748M stock sale, skips Bitcoin purchases](https://cointelegraph.com/news/strategy-usd-reserve-748m-stock-sale-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘](https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance](https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [How US banks are quietly preparing for an onchain future](https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology

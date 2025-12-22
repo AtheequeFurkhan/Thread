@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Nearly two dozen states sue the Trump administration over funding for CFPB",
+      "link": "https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit",
+      "category": "Business",
+      "summary": "The attorney generals say the Trump administration is refusing to accept funding for the Consumer Financial Protection Bureau, which could hurt consumers in their states.",
+      "published": "Mon, 22 Dec 2025 16:52:45 -0500",
+      "fetched_at": "2025-12-22T22:12:43.995199897Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "ETHZilla liquidates $74.5M in Ether to redeem convertible debt",
+      "link": "https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3ZGItOTdlZi03NjQ3LWIxNjctMWZhOTA4NGFlZjljLmpwZw==.jpg\" alt=\"ETHZilla liquidates $74.5M in Ether to redeem convertible debt\"\u003e\u003c/p\u003e\u003cp\u003eThe transaction highlights growing pressure on crypto treasury companies to prioritize debt reduction as token prices remain volatile.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 22:09:53 +0000",
+      "fetched_at": "2025-12-22T22:12:43.773512774Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Arizona lawmaker proposes barring taxes on crypto and blockchain",
       "link": "https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 13 Dec 2025 14:41:04 GMT",
       "fetched_at": "2025-12-13T15:11:35.724441446Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Belarus frees 123 prisoners as US lifts sanctions",
-      "link": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US.",
-      "published": "Sat, 13 Dec 2025 14:00:21 GMT",
-      "fetched_at": "2025-12-13T14:11:27.216132732Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Exploring the underlying causes of corporate bankruptcies in the U.S.",
-      "link": "https://www.npr.org/2025/12/13/nx-s1-5640132/exploring-the-underlying-causes-of-corporate-bankruptcies-in-the-u-s",
-      "category": "Business",
-      "summary": "Corporate bankruptcies in the U.S. are on pace to reach a 15-year high this year. NPR's Rob Schmitz explores the underlying causes of this trend with Edward Altman, a professor at New York University who specializes in corporate bankruptcies.",
-      "published": "Sat, 13 Dec 2025 07:43:00 -0500",
-      "fetched_at": "2025-12-13T13:02:24.355193033Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1042,
-  "last_update": "2025-12-22T21:49:07.34145244Z"
+  "total_captured": 1044,
+  "last_update": "2025-12-22T22:12:44.106192656Z"
 }
