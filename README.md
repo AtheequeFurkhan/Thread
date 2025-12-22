@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 12:25 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1011-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 13:08 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1014-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 12:25 UTC)*
+*(Updated: 22 Dec 13:08 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Alleged Bondi gunmen threw 'tennis ball bomb', new documents say](https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Divided between two states, the town at the heart of America's abortion debate](https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tether-backed Northern Data sold mining firm to Tether execs: FT](https://cointelegraph.com/news/tether-backed-northern-data-sold-mining-business-to-firms-owned-by-tether-execs-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [South East Asian bloc to seek end to Thailand-Cambodia fighting](https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [US and Ukraine call Miami talks productive despite no breakthrough](https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [US lawmakers push to fix staking ‘double taxation’ before 2026](https://cointelegraph.com/news/us-lawmakers-push-to-fix-staking-double-taxation-before-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish](https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Indonesia lists 29 licensed crypto platforms as big exchanges explore market](https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Hyperliquid says ex-employee responsible for HYPE token shorting](https://cointelegraph.com/news/hyperliquid-hype-shorting-address-former-employee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Metaplanet clears issuance of dividend-paying shares for overseas institutions](https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
