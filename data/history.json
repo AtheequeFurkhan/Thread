@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash",
+      "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles, US media report.",
+      "published": "Mon, 22 Dec 2025 22:23:12 GMT",
+      "fetched_at": "2025-12-22T22:35:34.517162357Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bari Weiss halts '60 Minutes' story, sparking an outrage",
+      "link": "https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage",
+      "category": "Business",
+      "summary": "CBS' new editor-in-chief spiked a 60 Minutes story shortly before it was to air, leading to concerns about whether the network and its owners are bowing to the Trump administration.",
+      "published": "Mon, 22 Dec 2025 17:21:25 -0500",
+      "fetched_at": "2025-12-22T22:35:34.397419759Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Nearly two dozen states sue the Trump administration over funding for CFPB",
       "link": "https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 25 Nov 2025 04:58:08 GMT",
       "fetched_at": "2025-12-13T15:47:52.209480927Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Will boats be a breakthrough for 3D printing tech?",
-      "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
-      "published": "Fri, 28 Nov 2025 00:10:39 GMT",
-      "fetched_at": "2025-12-13T15:30:41.40577837Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Street art festival sees Lagos turned into 'open-air gallery'",
-      "link": "https://www.bbc.com/news/articles/c4ge4q8gypzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nigeria's biggest city is known for its vibrant arts scene, nightlife and creativity, but street art is relatively unknown.",
-      "published": "Sat, 13 Dec 2025 14:41:04 GMT",
-      "fetched_at": "2025-12-13T15:11:35.724441446Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1044,
-  "last_update": "2025-12-22T22:12:44.106192656Z"
+  "total_captured": 1046,
+  "last_update": "2025-12-22T22:35:34.723996378Z"
 }
