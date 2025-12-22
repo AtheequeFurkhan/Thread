@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 17:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1030-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 18:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1031-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 17:49 UTC)*
+*(Updated: 22 Dec 18:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance](https://cointelegraph.com/news/tokenized-us-treasurys-surge-50x-since-2024-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How US banks are quietly preparing for an onchain future](https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [The Trump administration pauses wind projects off New England, New York and Virginia](https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance](https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Aave governance vote sparks backlash over rushed escalation](https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Ghana official rejects 'Detty December' label](https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
