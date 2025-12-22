@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Coinbase to acquire The Clearing Company in prediction markets push",
+      "link": "https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2ODMtMzdhNS03ZDJlLWFkNjItOTdhMjk2OWM4OWVjLmpwZw==.jpg\" alt=\"Coinbase to acquire The Clearing Company in prediction markets push\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase is buying The Clearing Company as it expands into prediction markets and broadens its product lineup beyond crypto trading.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 15:04:43 +0000",
+      "fetched_at": "2025-12-22T15:13:41.98433576Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump’s World Liberty Financial token ends 2025 down over 40%",
       "link": "https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 13 Dec 2025 02:11:25 GMT",
       "fetched_at": "2025-12-13T03:37:04.574502822Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ukraine's health supplies hit in series of Russian strikes on medical warehouses",
-      "link": "https://www.bbc.com/news/articles/cqlkk9qk7vyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Warehouses supplying the vast majority of Ukraine's pharmacies have been destroyed over recent months.",
-      "published": "Sat, 13 Dec 2025 00:05:21 GMT",
-      "fetched_at": "2025-12-13T03:37:04.574491932Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1021,
-  "last_update": "2025-12-22T14:52:12.997303554Z"
+  "total_captured": 1022,
+  "last_update": "2025-12-22T15:13:42.244068089Z"
 }

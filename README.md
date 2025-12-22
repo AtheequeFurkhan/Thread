@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 14:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1021-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 15:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1022-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 14:52 UTC)*
+*(Updated: 22 Dec 15:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Coinbase to acquire The Clearing Company in prediction markets push](https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Business** | [Can Americans learn to love tiny, cheap kei cars?](https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles) | ⚪ Neutral |
 | **Crypto** | [Indonesia lists 29 licensed crypto platforms as big exchanges explore market](https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Image in Epstein files that features Trump reinstated after backlash](https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Coinbase to acquire The Clearing Company in prediction markets push](https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Clarity Act delays led to $952M in crypto fund outflows: CoinShares](https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ghana passes law to legalize crypto trading, central bank governor says](https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules](https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
