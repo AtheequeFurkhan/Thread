@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 16:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1026-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 17:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1028-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 16:48 UTC)*
+*(Updated: 22 Dec 17:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [The Trump administration pauses wind projects off New England, New York and Virginia](https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security) | 🟢 Positive |
+| **World** | [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [JPMorgan explores crypto trading for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish](https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [The Trump administration pauses wind projects off New England, New York and Virginia](https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security) (🟢 Positive)
 - [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) (🟢 Positive)
 - [Can Americans learn to love tiny, cheap kei cars?](https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles) (⚪ Neutral)
 - [CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry](https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story) (🟢 Positive)
 - [Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files](https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt) (⚪ Neutral)
-- [Chevron continues operations in Venezuela despite war threat](https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Baby back in hospital in Gaza after returning from treatment overseas](https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump names envoy to Greenland, sparking fresh row with Denmark](https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism](https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Gold price climbs above $4,400 to hit record high](https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
