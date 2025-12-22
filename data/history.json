@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Arizona lawmaker proposes barring taxes on crypto and blockchain",
+      "link": "https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3OGQtOGQ2Ni03ZGNlLThhZTgtOWYzYmRmZjY3YTRlLmpwZw==.jpg\" alt=\"Arizona lawmaker proposes barring taxes on crypto and blockchain\"\u003e\u003c/p\u003e\u003cp\u003eTwo bills and one resolution proposed by state lawmaker Wendy Rogers could allow Arizona voters to change the state's taxation laws applied to digital assets and blockchain.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 21:37:58 +0000",
+      "fetched_at": "2025-12-22T21:41:26.639276585Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ros Atkins on… the oil tanker being pursued by the US",
+      "link": "https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC’s Analysis Editor Ros Atkins looks at what we know about the \"active pursuit\" of an oil tanker by the US Coast Guard off the coast of Venezuela.",
+      "published": "Mon, 22 Dec 2025 21:27:01 GMT",
+      "fetched_at": "2025-12-22T21:41:26.065116735Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 13 Dec 2025 07:43:00 -0500",
       "fetched_at": "2025-12-13T13:02:24.355193033Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Furious fans invade pitch at Messi event in India",
-      "link": "https://www.bbc.com/news/videos/c80xx09k485o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Thousands of adoring supporters had paid up to 12,000 rupees (£100; $133) to catch a glimpse of the football star.",
-      "published": "Sat, 13 Dec 2025 11:20:50 GMT",
-      "fetched_at": "2025-12-13T12:22:03.434908795Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Strategy survives first Nasdaq 100 shakeup since entering the index",
-      "link": "https://cointelegraph.com/news/strategy-nasdaq-100-first-rebalancing-bitcoin-holdings?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg\" alt=\"Strategy survives first Nasdaq 100 shakeup since entering the index\"\u003e\u003c/p\u003e\u003cp\u003eStrategy remains in the Nasdaq 100 as MSCI considers excluding firms whose crypto holdings exceed 50% of total assets.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 12:07:05 +0000",
-      "fetched_at": "2025-12-13T12:22:03.393049389Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1040,
-  "last_update": "2025-12-22T21:30:17.389329222Z"
+  "total_captured": 1042,
+  "last_update": "2025-12-22T21:41:26.639297725Z"
 }
