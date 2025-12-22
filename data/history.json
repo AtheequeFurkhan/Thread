@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "'This is the big one' - tech firms bet on electrifying rail",
+      "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Railway operators have new options for electric trains including getting rid of locomotives altogether.",
+      "published": "Fri, 31 Oct 2025 00:14:09 GMT",
+      "fetched_at": "2025-12-22T23:48:33.292479865Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Fire-blocking chemicals promise safer buildings",
+      "link": "https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "New treatments promise to make buildings fire-resistant without using older, toxic chemicals.",
+      "published": "Fri, 07 Nov 2025 00:13:36 GMT",
+      "fetched_at": "2025-12-22T23:48:33.292469215Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The Kenyan start-up aiming to electrify African transport",
+      "link": "https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "From fleets of e-bikes to individual riders, eWaka aims to sell across Africa's delivery market.",
+      "published": "Tue, 11 Nov 2025 00:03:14 GMT",
+      "fetched_at": "2025-12-22T23:48:33.292456752Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Call of Duty is back, and it's got a battle on its hands",
+      "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6.",
+      "published": "Fri, 14 Nov 2025 15:47:29 GMT",
+      "fetched_at": "2025-12-22T23:48:33.29243955Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Can technology fix fashion's sizing crisis?",
       "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4463,44 +4499,8 @@
       "published": "Sat, 13 Dec 2025 19:54:49 +0000",
       "fetched_at": "2025-12-13T20:12:50.798273708Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"\u003e\u003c/p\u003e\u003cp\u003eNeed to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 12:36:36 +0000",
-      "fetched_at": "2025-12-13T17:47:44.487293967Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Solana ETFs record 7-day inflow streak despite price slump",
-      "link": "https://cointelegraph.com/news/solana-etf-7-day-inflow-streak-price-slump?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE4N2QtM2M5Ny03OTUyLWJkZjQtYzFlYmQwNzVlMmY5LmpwZw==.jpg\" alt=\"Solana ETFs record 7-day inflow streak despite price slump\"\u003e\u003c/p\u003e\u003cp\u003eThe first SOL ETF was launched in July, followed by Bitwise’s SOL ETF in October, which recorded $57 million in first-day trading volume.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 17:44:25 +0000",
-      "fetched_at": "2025-12-13T17:47:44.487275622Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says",
-      "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Pentagon said three other service members were injured in the attack, during which the gunman was \"engaged and killed\".",
-      "published": "Sat, 13 Dec 2025 17:37:43 GMT",
-      "fetched_at": "2025-12-13T17:39:41.395953696Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "The South African start-up bringing tech to townships",
-      "link": "https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Entrepreneur Talifhani Banks has bought a modern delivery system to smaller firms in South Africa.",
-      "published": "Tue, 28 Oct 2025 00:07:11 GMT",
-      "fetched_at": "2025-12-13T17:39:41.210448561Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1056,
-  "last_update": "2025-12-22T23:30:57.405062877Z"
+  "total_captured": 1060,
+  "last_update": "2025-12-22T23:48:33.921270174Z"
 }

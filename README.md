@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 23:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1056-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 23:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1060-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 23:30 UTC)*
+*(Updated: 22 Dec 23:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Technology** | [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Technology** | [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [ETHZilla liquidates $74.5M in Ether to redeem convertible debt](https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Arizona lawmaker proposes barring taxes on crypto and blockchain](https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Ros Atkins on… the oil tanker being pursued by the US](https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Ecuadorean soldiers found guilty of forced disappearance of boys](https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [NGOs fear Israel registration rules risk collapse of Gaza aid operations](https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
