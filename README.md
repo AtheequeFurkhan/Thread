@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 16:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1025-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-22 Dec 16:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1026-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 16:15 UTC)*
+*(Updated: 22 Dec 16:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [JPMorgan explores crypto trading for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Élysée Palace staff member to stand trial over theft of precious tableware](https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [US lawmakers threaten legal action against Attorney General over Epstein files](https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish](https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [$90K BTC vs. record gold price: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [JPMorgan explores crypto trading for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K](https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase to acquire The Clearing Company in prediction markets push](https://cointelegraph.com/news/coinbase-acquires-clearing-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump’s World Liberty Financial token ends 2025 down over 40%](https://cointelegraph.com/news/trump-world-liberty-financial-token-ends-2025-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Binance let suspicious accounts move millions after $4.3B US plea deal: Report](https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

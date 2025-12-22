@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+      "link": "https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2ZDctZDhiMC03OGM4LWFjYTYtNTQ2MmQzNzBjM2E1LmpwZw==.jpg\" alt=\"Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and select altcoins are attempting to start a recovery, but higher levels are expected to attract strong selling by the bears.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 16:19:49 +0000",
+      "fetched_at": "2025-12-22T16:48:19.720505313Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "JPMorgan explores crypto trading for institutional clients: Report",
       "link": "https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 20:03:19 GMT",
       "fetched_at": "2025-12-13T06:49:16.233896793Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Doorbell camera captures moment house explodes in Hayward, California",
-      "link": "https://www.bbc.com/news/videos/c93ww718g2vo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A natural gas line leak triggered the house explosion, injuring six people and damaging several nearby properties.",
-      "published": "Sat, 13 Dec 2025 03:49:59 GMT",
-      "fetched_at": "2025-12-13T06:49:16.233880337Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1025,
-  "last_update": "2025-12-22T16:15:49.964179729Z"
+  "total_captured": 1026,
+  "last_update": "2025-12-22T16:48:19.747871682Z"
 }
