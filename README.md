@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 09:55 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1081-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 10:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1083-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 09:55 UTC)*
+*(Updated: 23 Dec 10:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) | ⚪ Neutral |
+| **Business** | [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) | 🟢 Positive |
 | **Technology** | [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) (⚪ Neutral)
+- [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) (🟢 Positive)
 - [Warner Brothers has a long history of messy corporate marriages and divorces](https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces) (⚪ Neutral)
 - [Bari Weiss halts '60 Minutes' story, sparking an outrage](https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage) (🟢 Positive)
 - [Nearly two dozen states sue the Trump administration over funding for CFPB](https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit) (⚪ Neutral)
-- [The Trump administration pauses wind projects off New England, New York and Virginia](https://www.npr.org/2025/12/22/g-s1-103320/offshore-wind-power-pause-trump-administration-new-england-new-york-virginia-national-security) (🟢 Positive)
-- [How President Trump reshaped capitalism in 2025](https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market) (🟢 Positive)
 
 
 ### 📂 Crypto

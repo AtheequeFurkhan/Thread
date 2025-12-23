@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "'The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills",
+      "link": "https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies",
+      "category": "Business",
+      "summary": "Nearly half of the revenue for large American ballet companies each year comes from the cozy seasonal favorite \u003cem\u003eThe Nutcracker\u003c/em\u003e. Since COVID, they have become even more dependent on those sugarplum fairies.",
+      "published": "Mon, 22 Dec 2025 04:46:37 -0500",
+      "fetched_at": "2025-12-23T10:14:32.706579114Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Federal student loans are changing. Here's what to expect in 2026",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan",
+      "category": "Business",
+      "summary": "The SAVE Plan is ending and repayment options will change dramatically in the new year.",
+      "published": "Tue, 23 Dec 2025 05:00:00 -0500",
+      "fetched_at": "2025-12-23T10:14:32.706561561Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "TikTok takes down fake weight loss ads impersonating Boots",
       "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 14 Dec 2025 18:14:15 +0000",
       "fetched_at": "2025-12-14T18:17:04.975861615Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
-      "link": "https://cointelegraph.com/news/why-oil-rich-investors-are-fueling-bitcoin-s-next-liquidity-wave?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjM2UtNzAzMC03ZmEzLTlhNGUtN2Q0ZGUyNDYzZjNiLmpwZw==.jpg\" alt=\"Why oil-rich investors are fueling Bitcoin’s next liquidity wave\"\u003e\u003c/p\u003e\u003cp\u003eFrom petrodollars to ETFs, oil-rich investors are entering Bitcoin via regulated rails, deepening liquidity while reshaping market structure.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 15:45:00 +0000",
-      "fetched_at": "2025-12-14T16:13:36.764860988Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target",
-      "link": "https://cointelegraph.com/news/bitcoin-extreme-low-volatility-end-new-50k-btc-price-target?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjNjctZTg2Yy03MjM0LWFlMWEtY2FkNGJhZTllMGEzLmpwZw==.jpg\" alt=\"Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin traders braced for a major move “around the corner” after days of BTC price action sticking to a tight range around $90,000.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 14:20:00 +0000",
-      "fetched_at": "2025-12-14T14:32:00.978664542Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1081,
-  "last_update": "2025-12-23T09:55:10.742776199Z"
+  "total_captured": 1083,
+  "last_update": "2025-12-23T10:14:32.706729955Z"
 }
