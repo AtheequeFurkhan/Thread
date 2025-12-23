@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open",
+      "link": "https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjUtNWMzYS03NDM4LWE3ZDktYzUwZmFjZmVlODVjLmpwZw==.jpg\" alt=\"Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open\"\u003e\u003c/p\u003e\u003cp\u003eHarriet Hageman’s “Soon” teaser on X sharpens talk of a 2026 Senate bid to replace crypto ally Cynthia Lummis, raising the stakes for Wyoming’s pro‑crypto brand.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 09:00:36 +0000",
+      "fetched_at": "2025-12-23T09:17:36.745872748Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bybit to discontinue services for Japanese residents, citing regulations",
       "link": "https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 14 Dec 2025 12:18:03 GMT",
       "fetched_at": "2025-12-14T12:22:11.241603472Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
-      "link": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "New South Wales Police say that 12 people were killed in a shooting at Bondi Beach targeting the Jewish community.",
-      "published": "Sun, 14 Dec 2025 11:24:21 GMT",
-      "fetched_at": "2025-12-14T12:22:11.241582994Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1077,
-  "last_update": "2025-12-23T08:50:13.343330474Z"
+  "total_captured": 1078,
+  "last_update": "2025-12-23T09:17:37.350747847Z"
 }
