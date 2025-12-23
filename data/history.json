@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US crypto legislation and policies to watch out for in 2026",
+      "link": "https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWYwMDItYzRkZi03ZDdlLTg2ZDUtZjUwNmFmOWU5YzI1.jpg\" alt=\"US crypto legislation and policies to watch out for in 2026\"\u003e\u003c/p\u003e\u003cp\u003eWith the Trump administration and many pro-crypto officials taking office, 2025 saw significant changes in US crypto policy, with ripples likely extending into 2026.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 18:00:00 +0000",
+      "fetched_at": "2025-12-23T18:19:09.691108784Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet",
       "link": "https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 16:23:16 +0000",
       "fetched_at": "2025-12-15T18:52:55.003127806Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Roomba maker files for bankruptcy, weighed down by debt and tariffs",
-      "link": "https://www.npr.org/2025/12/15/nx-s1-5644772/tariffs-roomba-irobot-bankruptcy",
-      "category": "Business",
-      "summary": "iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual.",
-      "published": "Mon, 15 Dec 2025 13:24:05 -0500",
-      "fetched_at": "2025-12-15T18:52:54.503587895Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1107,
-  "last_update": "2025-12-23T17:50:55.730681725Z"
+  "total_captured": 1108,
+  "last_update": "2025-12-23T18:19:09.828471453Z"
 }
