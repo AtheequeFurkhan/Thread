@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst",
+      "link": "https://cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY2NmUtM2I3ZS03YjU5LWIxM2UtY2I3N2E2YWQ1ZmEy.jpg\" alt=\"Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eCoinEx’s Jeff Ko tells Cointelegraph there likely won’t be an altseason in 2026 as liquidity will flow into the top cryptocurrencies.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 05:55:50 +0000",
+      "fetched_at": "2025-12-23T06:20:59.210384798Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
+      "link": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a \"miracle\", his family say.",
+      "published": "Tue, 23 Dec 2025 06:06:34 GMT",
+      "fetched_at": "2025-12-23T06:20:58.643378597Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "CFTC changes guard as Selig takes reins, Pham departs",
       "link": "https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 14 Dec 2025 10:36:34 +0000",
       "fetched_at": "2025-12-14T10:49:34.609284466Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "What we know so far about the Brown University shooting",
-      "link": "https://www.bbc.com/news/articles/ckg9l1j9wxno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Police are searching for the suspect after a gunman opened fire in a classroom, killing two and injuring nine others in Providence, Rhode Island.",
-      "published": "Sun, 14 Dec 2025 10:08:41 GMT",
-      "fetched_at": "2025-12-14T10:34:59.489258113Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts",
-      "link": "https://cointelegraph.com/news/bitcoin-dump-below-70k-hawkish-japan-macro-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY0ODMtZjJiMC03ZWFhLTliZTUtYTQ1NTVkY2YxNTMy.jpg\" alt=\"Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts\"\u003e\u003c/p\u003e\u003cp\u003eThe Bank of Japan is expected to increase its benchmark interest rates on Friday, a historically bearish signal for riskier assets like Bitcoin.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 10:29:23 +0000",
-      "fetched_at": "2025-12-14T10:34:59.480587139Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1074,
-  "last_update": "2025-12-23T05:53:02.25355407Z"
+  "total_captured": 1076,
+  "last_update": "2025-12-23T06:20:59.210426586Z"
 }
