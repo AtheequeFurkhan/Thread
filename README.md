@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 17:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1103-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 17:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1105-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 17:13 UTC)*
+*(Updated: 23 Dec 17:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US economy grows at fastest pace in two years](https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [OKX reports trading increase after expansion into US, EU](https://cointelegraph.com/news/okx-reports-sharp-trading-growth-us-eu-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026](https://cointelegraph.com/news/are-altcoins-coming-back-why-bitcoin-season-has-staying-power-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock](https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US economy grows at fastest pace in two years](https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- ['A miracle': Officer shot in head during Bondi attack home from hospital](https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

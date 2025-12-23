@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Gunmen abduct 28 Muslim travellers in central Nigeria",
+      "link": "https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The victims, including women and children, were ambushed on their way to a religious festival.",
+      "published": "Tue, 23 Dec 2025 14:10:19 GMT",
+      "fetched_at": "2025-12-23T17:35:26.332025352Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US economy grows at fastest pace in two years",
+      "link": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Strong consumer spending helps the US economy grow at a faster rate than expected.",
+      "published": "Tue, 23 Dec 2025 15:56:57 GMT",
+      "fetched_at": "2025-12-23T17:35:26.332010675Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto.com says market maker boosts liquidity, denies trading edge on customers",
       "link": "https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 15 Dec 2025 17:39:36 GMT",
       "fetched_at": "2025-12-15T18:19:44.484718226Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Digital asset ETPs post third straight week of net inflows, led by US demand",
-      "link": "https://cointelegraph.com/news/digital-asset-funds-etfs-weekly-inflows-us-demand?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYjAtYmI0ZC03NWY4LWFkZDctMzkxMDhmZjc1MDczLmpwZw==.jpg\" alt=\"Digital asset ETPs post third straight week of net inflows, led by US demand\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and Ether accounted for the largest allocations, while short-Bitcoin products posted net outflows, according to CoinShares data.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 18:01:17 +0000",
-      "fetched_at": "2025-12-15T18:19:44.474910512Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race",
-      "link": "https://cointelegraph.com/news/trump-american-bitcoin-flips-procap-btc-treasury?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYWYtM2NiMS03OGY1LWFhMDYtOGE1MmI4MjM2NDYwLmpwZw==.jpg\" alt=\"Trump-backed American Bitcoin flips ProCap in corporate BTC treasury race\"\u003e\u003c/p\u003e\u003cp\u003eCorporate Bitcoin buying continues as American Bitcoin surpasses ProCap, even as proxy stocks decline and volatility grips the crypto market.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 17:24:53 +0000",
-      "fetched_at": "2025-12-15T17:46:15.925030435Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1103,
-  "last_update": "2025-12-23T17:13:54.707525595Z"
+  "total_captured": 1105,
+  "last_update": "2025-12-23T17:35:26.418767199Z"
 }
