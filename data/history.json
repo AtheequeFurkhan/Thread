@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "How Bhutan is building a green Bitcoin economy from the ground up",
+      "link": "https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhYWYtOTc4MS03ZTYyLTg1ZjktMzY1ODRjZmI3OGIx.jpg\" alt=\"How Bhutan is building a green Bitcoin economy from the ground up\"\u003e\u003c/p\u003e\u003cp\u003eBhutan is quietly building a low-carbon Bitcoin economy using hydropower, sovereign capital and clear regulatory guardrails.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 14:44:53 +0000",
+      "fetched_at": "2025-12-23T14:53:36.885156721Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+      "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead.",
+      "published": "Mon, 15 Dec 2025 13:52:12 GMT",
+      "fetched_at": "2025-12-23T14:53:36.555529181Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin bull divs build as gold prepares to hit new $4.5K record high",
       "link": "https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 15 Dec 2025 17:10:46 +0000",
       "fetched_at": "2025-12-15T17:18:47.499845109Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Japan is facing a dementia crisis – can technology help?",
-      "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Elderly people aged 65 and over now make up nearly 30% of Japan's population.",
-      "published": "Mon, 08 Dec 2025 00:49:01 GMT",
-      "fetched_at": "2025-12-15T14:51:02.828719739Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Balloons from Belarus are causing chaos in Lithuania. Is it smugglers or a hybrid attack?",
-      "link": "https://www.bbc.com/news/articles/c8655gn84ego?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Lithuania has declared an emergency after the balloons started to cross the border.",
-      "published": "Mon, 15 Dec 2025 00:20:20 GMT",
-      "fetched_at": "2025-12-15T14:17:07.651296393Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1100,
-  "last_update": "2025-12-23T14:36:48.279952036Z"
+  "total_captured": 1102,
+  "last_update": "2025-12-23T14:53:40.154372373Z"
 }
