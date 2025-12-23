@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "title": "India's jobs guarantee scheme: A global model under threat?",
+      "link": "https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "India’s rural jobs guarantee, a global model, faces controversy as a new law reshapes the original scheme.",
+      "published": "Mon, 22 Dec 2025 23:33:51 GMT",
+      "fetched_at": "2025-12-23T02:54:59.991739523Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Screams for help and panic as tourists rescued from fatal Laos ferry disaster",
+      "link": "https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "People scrambled to safety as the ferry sank on the Mekong River, with a local woman and two children feared dead.",
+      "published": "Mon, 22 Dec 2025 23:19:10 GMT",
+      "fetched_at": "2025-12-23T02:54:59.991726478Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "What the underwhelming Epstein files release means for Trump and Maga",
+      "link": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Conservative influencers were conspicuously silent following the latest release - but political danger remains for the president.",
+      "published": "Tue, 23 Dec 2025 00:24:25 GMT",
+      "fetched_at": "2025-12-23T02:54:59.991711089Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump unveils plans for 'Golden Fleet' battleships named after himself",
+      "link": "https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US president has vowed to revive American shipbuilding after lagging behind China in naval capacity.",
+      "published": "Tue, 23 Dec 2025 00:36:38 GMT",
+      "fetched_at": "2025-12-23T02:54:59.991688747Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US regulator approves pill form of Wegovy weight-loss drug",
+      "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.",
+      "published": "Tue, 23 Dec 2025 01:29:07 GMT",
+      "fetched_at": "2025-12-23T02:54:59.991668309Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitmine’s stash crosses 4M ETH after latest $40M buy",
+      "link": "https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0NDYtMWUyOS03ZTFiLWFiZWMtNjZiYmJhZGQ2ZjQ1.jpg\" alt=\"Bitmine’s stash crosses 4M ETH after latest $40M buy\"\u003e\u003c/p\u003e\u003cp\u003eBitmine's Ether haul now exceeds 4 million tokens worth over $12 billion after the company purchased nearly 100 million Ether in the past week.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 02:14:12 +0000",
+      "fetched_at": "2025-12-23T02:54:59.978513805Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Amazon says over 1,800 North Koreans blocked from applying for jobs",
+      "link": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Amazon's chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.",
+      "published": "Tue, 23 Dec 2025 02:49:45 GMT",
+      "fetched_at": "2025-12-23T02:54:59.831992528Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4436,71 +4499,8 @@
       "published": "Sun, 14 Dec 2025 08:04:53 GMT",
       "fetched_at": "2025-12-14T09:12:18.949679282Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Five arrested over plot to attack German Christmas market",
-      "link": "https://www.bbc.com/news/articles/c2dz7r708dxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Local media says one of the suspects is an imam at a mosque, and police allege he \"called for a vehicle attack\".",
-      "published": "Sun, 14 Dec 2025 08:46:19 GMT",
-      "fetched_at": "2025-12-14T08:55:07.789664672Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "He was an Uber driver in the US. Now he's scared of jihadists after deportation to Somalia",
-      "link": "https://www.bbc.com/news/articles/cj38rj0y6k5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "As some Somali migrants fear what might happen next, the BBC speaks to one deportee in Mogadishu.",
-      "published": "Sun, 14 Dec 2025 01:05:53 GMT",
-      "fetched_at": "2025-12-14T08:44:30.174570246Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down",
-      "link": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Interviews with dozens of actors, producers and camera crews reveal an industry attempting to weigh the lesser of two horrible choices.",
-      "published": "Sun, 14 Dec 2025 00:37:15 GMT",
-      "fetched_at": "2025-12-14T08:44:30.17453554Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why Michael Saylor wants nations to build Bitcoin banks",
-      "link": "https://cointelegraph.com/explained/why-michael-saylor-wants-nations-to-build-bitcoin-banks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ODQtNjI0OS03MmJjLWI4NWYtY2JhMDg0Y2JmN2Ew.jpg\" alt=\"Why Michael Saylor wants nations to build Bitcoin banks\"\u003e\u003c/p\u003e\u003cp\u003eMichael Saylor explains why governments should consider Bitcoin-backed digital banks. It is time to examine the potential benefits and risks of Bitcoin banks.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 07:45:32 +0000",
-      "fetched_at": "2025-12-14T08:16:04.08610738Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Manhunt continues after two killed in shooting at Brown University",
-      "link": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The gunman is at large after opening fire in a building where exams were taking place at the campus in Providence, Rhode Island.",
-      "published": "Sun, 14 Dec 2025 05:34:25 GMT",
-      "fetched_at": "2025-12-14T07:12:20.006867228Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure",
-      "link": "https://cointelegraph.com/news/standard-chartered-coinbase-expand-institutional-crypto-partnership?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFiOTgtNDEzMC03ZGY5LTgwOGEtOWU2YjhkNjMyMGQ1LmpwZw==.jpg\" alt=\"Standard Chartered, Coinbase deepen alliance to build institutional crypto infrastructure\"\u003e\u003c/p\u003e\u003cp\u003eStandard Chartered and Coinbase are expanding their partnership to develop trading, custody and financing services aimed at institutional crypto clients.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 06:59:14 +0000",
-      "fetched_at": "2025-12-14T07:12:19.956426578Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP bulls gain ground over bears on social media, ETF inflow streak continues",
-      "link": "https://cointelegraph.com/news/xrp-bulls-gainig-ground-over-the-bears-on-social-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU5MmEtMmQ2ZS03YjQ5LTllYTYtNzI3MmNjMzIyNTMz.jpg\" alt=\"XRP bulls gain ground over bears on social media, ETF inflow streak continues\"\u003e\u003c/p\u003e\u003cp\u003eSpot XRP exchange-traded funds continued a streak of positive flows, with over $20.1 million recorded on Friday, marking 19 consecutive days of net inflows.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 05:29:26 +0000",
-      "fetched_at": "2025-12-14T05:35:03.359264533Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1064,
-  "last_update": "2025-12-23T00:59:24.630527966Z"
+  "total_captured": 1071,
+  "last_update": "2025-12-23T02:54:59.991762786Z"
 }

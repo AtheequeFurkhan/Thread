@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 00:59 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1064-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 02:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1071-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,17 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 00:59 UTC)*
+*(Updated: 23 Dec 02:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Screams for help and panic as tourists rescued from fatal Laos ferry disaster](https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [What the underwhelming Epstein files release means for Trump and Maga](https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Trump unveils plans for 'Golden Fleet' battleships named after himself](https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US regulator approves pill form of Wegovy weight-loss drug](https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -34,13 +41,6 @@
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Warner Brothers has a long history of messy corporate marriages and divorces](https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces) | ⚪ Neutral |
-| **Crypto** | [EU council endorses offline and online versions of digital euro](https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter](https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [Vince Zampella, Call of Duty co-creator, dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Business** | [Bari Weiss halts '60 Minutes' story, sparking an outrage](https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage) | 🟢 Positive |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [EU council endorses offline and online versions of digital euro](https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter](https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
-- [Ros Atkins on… the oil tanker being pursued by the US](https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ecuadorean soldiers found guilty of forced disappearance of boys](https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [NGOs fear Israel registration rules risk collapse of Gaza aid operations](https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Spain's Christmas lottery sees residents of one town win 468 million euros](https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump's appointment of Greenland envoy sparks fresh row with Denmark](https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Screams for help and panic as tourists rescued from fatal Laos ferry disaster](https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [What the underwhelming Epstein files release means for Trump and Maga](https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Trump unveils plans for 'Golden Fleet' battleships named after himself](https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US regulator approves pill form of Wegovy weight-loss drug](https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
