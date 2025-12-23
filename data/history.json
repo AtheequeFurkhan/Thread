@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
+      "link": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Recent deadly protests in Bangladesh are further straining Delhi's already frayed tied with Dhaka.",
+      "published": "Tue, 23 Dec 2025 23:34:35 GMT",
+      "fetched_at": "2025-12-23T23:42:11.753452062Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "'Inappropriate friends' email from 'Balmoral' among Epstein release",
       "link": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 22:00:24 GMT",
       "fetched_at": "2025-12-15T22:35:28.2730339Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
-      "link": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert.",
-      "published": "Mon, 15 Dec 2025 18:26:26 GMT",
-      "fetched_at": "2025-12-15T22:35:28.273015455Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1120,
-  "last_update": "2025-12-23T23:30:23.049428932Z"
+  "total_captured": 1121,
+  "last_update": "2025-12-23T23:42:12.850471086Z"
 }
