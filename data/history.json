@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "CFTC changes guard as Selig takes reins, Pham departs",
+      "link": "https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ5MDAtM2Y0ZS03Y2JmLThjMjEtNmUzM2JhYzUyMTdlLmpwZw==.jpg\" alt=\"CFTC changes guard as Selig takes reins, Pham departs\"\u003e\u003c/p\u003e\u003cp\u003eCFTC acting chair Caroline Pham says Monday was her last day at the regulator, with Michael Selig being officially sworn in to chair the agency.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 04:36:33 +0000",
+      "fetched_at": "2025-12-23T05:01:17.303598472Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks",
       "link": "https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 14 Dec 2025 10:29:23 +0000",
       "fetched_at": "2025-12-14T10:34:59.480587139Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "John Cena takes his final bow, after last ever WWE fight",
-      "link": "https://www.bbc.com/news/videos/cy4xgxm2848o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The actor and wrestler brought the curtain down on a 24-year career that saw him become one of wrestling's biggest stars.",
-      "published": "Sun, 14 Dec 2025 09:15:34 GMT",
-      "fetched_at": "2025-12-14T09:47:53.250159565Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1073,
-  "last_update": "2025-12-23T04:33:33.052640898Z"
+  "total_captured": 1074,
+  "last_update": "2025-12-23T05:01:18.276887684Z"
 }
