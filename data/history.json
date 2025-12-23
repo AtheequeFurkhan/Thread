@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Russia’s central bank signals shift toward retail crypto access",
+      "link": "https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiMzgtMjNlMC03NjU0LTg0N2EtM2E5MzFiNWNhMjExLmpwZw==.jpg\" alt=\"Russia’s central bank signals shift toward retail crypto access\"\u003e\u003c/p\u003e\u003cp\u003eRussia’s central bank has submitted draft that would allow non-qualified investors to purchase crypto, but only under strict conditions.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 13:52:42 +0000",
+      "fetched_at": "2025-12-23T14:13:13.610675774Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’",
+      "link": "https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiNzAtZGEyYS03ZGNjLWFjOTMtNDdiNjAwYWNjZGE1LmpwZw==.jpg\" alt=\"Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’\"\u003e\u003c/p\u003e\u003cp\u003eEthena’s synthetic stablecoin USDe has seen its market cap cut almost in half since the Oct. 10 crash, as investors retreat from leveraged and synthetic collateral models.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 13:57:28 +0000",
+      "fetched_at": "2025-12-23T14:13:13.610654815Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Crypto hack counts fall but supply chain attacks reshape threat landscape",
+      "link": "https://cointelegraph.com/news/crypto-security-phishing-supply-chain-attacks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhOTMtYmE3Mi03NzM4LWJkMDYtNjVmMmYxN2Q3ZGIxLmpwZw==.jpg\" alt=\"Crypto hack counts fall but supply chain attacks reshape threat landscape\"\u003e\u003c/p\u003e\u003cp\u003eConcerns about code vulnerabilities are fading in the crypto space, but more sophisticated scam tactics are emerging as protocol security improves.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 14:01:00 +0000",
+      "fetched_at": "2025-12-23T14:13:13.610636892Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Roomba vacuum cleaner firm files for bankruptcy",
+      "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm.",
+      "published": "Mon, 15 Dec 2025 07:47:31 GMT",
+      "fetched_at": "2025-12-23T14:13:13.413143958Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "South Korean card giant completes stablecoin payments pilot for foreigners",
       "link": "https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 15 Dec 2025 11:28:37 GMT",
       "fetched_at": "2025-12-15T13:13:39.741660235Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Smooth end to Messi India tour after Kolkata chaos",
-      "link": "https://www.bbc.com/news/articles/cdxwg94v4veo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Messi's India tour had a chaotic start after angry fans in Kolkata damaged a stadium after failing to catch a glimpse of him.",
-      "published": "Mon, 15 Dec 2025 11:57:31 GMT",
-      "fetched_at": "2025-12-15T13:13:39.741643575Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ukraine ceasefire talks continue as US says 'progress was made'",
-      "link": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The discussions are centred around the peace plan presented by Kyiv to the US last week.",
-      "published": "Mon, 15 Dec 2025 12:30:19 GMT",
-      "fetched_at": "2025-12-15T13:13:39.741630771Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
-      "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services.",
-      "published": "Mon, 15 Dec 2025 10:15:23 GMT",
-      "fetched_at": "2025-12-15T10:49:38.013148897Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "'We were sacked from Rockstar North for trying to unionise'",
-      "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\".",
-      "published": "Mon, 15 Dec 2025 06:26:48 GMT",
-      "fetched_at": "2025-12-15T09:52:01.856659066Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1092,
-  "last_update": "2025-12-23T13:46:57.697371757Z"
+  "total_captured": 1096,
+  "last_update": "2025-12-23T14:13:13.720885129Z"
 }
