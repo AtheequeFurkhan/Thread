@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Israel extends order allowing closure of foreign broadcasters",
+      "link": "https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A bill passed by parliament expands temporary powers introduced during the Gaza war to shutter outlets seen as a security threat.",
+      "published": "Tue, 23 Dec 2025 11:55:57 GMT",
+      "fetched_at": "2025-12-23T12:25:13.78208801Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "OKX reports trading increase after expansion into US, EU",
+      "link": "https://cointelegraph.com/news/okx-reports-sharp-trading-growth-us-eu-expansion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3OGItOTFlZC03YjAwLWI0NTEtZTg1NGVhMjgzYzNhLmpwZw==.jpg\" alt=\"OKX reports trading increase after expansion into US, EU\"\u003e\u003c/p\u003e\u003cp\u003eThe exchange cited licensing approvals in Europe and its US launch as key drivers behind the surge in activity on its compliant platforms.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 12:00:00 +0000",
+      "fetched_at": "2025-12-23T12:25:13.773145165Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026",
+      "link": "https://cointelegraph.com/news/are-altcoins-coming-back-why-bitcoin-season-has-staying-power-in-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjYjAtYmNmZC03OTM2LThhNDItNjM3ZDdjNGZlNjg0LmpwZw==.jpg\" alt=\"Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026\"\u003e\u003c/p\u003e\u003cp\u003eCrypto traders and several metrics suggest that an altcoin season is nowhere to be seen as institutions help Bitcoin strengthen its grip on the market.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 12:15:00 +0000",
+      "fetched_at": "2025-12-23T12:25:13.773128835Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock",
       "link": "https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 15 Dec 2025 00:21:59 GMT",
       "fetched_at": "2025-12-15T06:22:06.794360643Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Chile elects far-right José Antonio Kast as next president",
-      "link": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Many believe Kast will be the most right-wing president since Augusto Pinochet, who oversaw a 17-year dictatorship in Chile from 1973.",
-      "published": "Mon, 15 Dec 2025 00:15:01 GMT",
-      "fetched_at": "2025-12-15T06:22:06.794324586Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
-      "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "He directed classic films including The Princess Bride, This is Spinal Tap and When Harry Met Sally.",
-      "published": "Mon, 15 Dec 2025 06:11:24 GMT",
-      "fetched_at": "2025-12-15T06:22:06.794307844Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "A 10-year-old girl and Holocaust survivor - Who are the Bondi shooting victims?",
-      "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims.",
-      "published": "Mon, 15 Dec 2025 06:12:03 GMT",
-      "fetched_at": "2025-12-15T06:22:06.794291404Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1085,
-  "last_update": "2025-12-23T11:50:23.300258254Z"
+  "total_captured": 1088,
+  "last_update": "2025-12-23T12:25:14.059548937Z"
 }
