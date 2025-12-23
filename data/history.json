@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Bitcoin bull divs build as gold prepares to hit new $4.5K record high",
+      "link": "https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY2NmUtM2I3ZS03YjU5LWIxM2UtY2I3N2E2YWQ1ZmEy.jpg\" alt=\"Bitcoin bull divs build as gold prepares to hit new $4.5K record high\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin printed bullish signals against gold and the dollar while staying below $90,000 as a whale opened multimillion-dollar crypto shorts.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 14:30:21 +0000",
+      "fetched_at": "2025-12-23T14:36:48.279931107Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Grand Theft Auto game creator sacked us for trying to unionise",
+      "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\".",
+      "published": "Mon, 15 Dec 2025 10:21:43 GMT",
+      "fetched_at": "2025-12-23T14:36:47.989349774Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+      "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services.",
+      "published": "Mon, 15 Dec 2025 11:41:43 GMT",
+      "fetched_at": "2025-12-23T14:36:47.989333634Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "The U.S. economy grew robustly as Americans continued to spend",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs",
+      "category": "Business",
+      "summary": "The data, which was delayed from October by the government shutdown, comes as the economy takes center stage for voters and the Trump administration.",
+      "published": "Tue, 23 Dec 2025 09:22:07 -0500",
+      "fetched_at": "2025-12-23T14:36:47.972048308Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Russia’s central bank signals shift toward retail crypto access",
       "link": "https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 15 Dec 2025 00:20:20 GMT",
       "fetched_at": "2025-12-15T14:17:07.651296393Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
-      "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The child's was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead.",
-      "published": "Mon, 15 Dec 2025 13:52:12 GMT",
-      "fetched_at": "2025-12-15T14:17:07.334536289Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fear of crime and migration fuels Chile's swing to the right",
-      "link": "https://www.bbc.com/news/articles/c0q5309k1y5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Chile has become the latest country in the region to elect a right-wing president.",
-      "published": "Mon, 15 Dec 2025 13:20:54 GMT",
-      "fetched_at": "2025-12-15T13:51:59.787514709Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Dozens killed in Morocco flash floods",
-      "link": "https://www.bbc.com/news/articles/cjwyzlly6eno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "At least 70 homes have been inundated in Safi's old city centre, officials say.",
-      "published": "Mon, 15 Dec 2025 12:18:41 GMT",
-      "fetched_at": "2025-12-15T13:51:59.787491857Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'This felt inevitable': Australian Jews say growing antisemitism made attack predictable",
-      "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Many are asking why more wasn't done to prevent the shootings after a spate of antisemitism-related offences.",
-      "published": "Mon, 15 Dec 2025 11:28:37 GMT",
-      "fetched_at": "2025-12-15T13:13:39.741660235Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1096,
-  "last_update": "2025-12-23T14:13:13.720885129Z"
+  "total_captured": 1100,
+  "last_update": "2025-12-23T14:36:48.279952036Z"
 }

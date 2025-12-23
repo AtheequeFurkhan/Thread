@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 14:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1096-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 14:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1100-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 14:13 UTC)*
+*(Updated: 23 Dec 14:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Business** | [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) | ⚪ Neutral |
 | **Crypto** | [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto hack counts fall but supply chain attacks reshape threat landscape](https://cointelegraph.com/news/crypto-security-phishing-supply-chain-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -37,10 +41,6 @@
 | **Business** | ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) | ⚪ Neutral |
 | **Business** | [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) | 🟢 Positive |
 | **Technology** | [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open](https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bybit to discontinue services for Japanese residents, citing regulations](https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,27 +49,27 @@
 
 
 ### 📂 Business
+- [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) (⚪ Neutral)
 - ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) (⚪ Neutral)
 - [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) (🟢 Positive)
 - [Warner Brothers has a long history of messy corporate marriages and divorces](https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces) (⚪ Neutral)
 - [Bari Weiss halts '60 Minutes' story, sparking an outrage](https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage) (🟢 Positive)
-- [Nearly two dozen states sue the Trump administration over funding for CFPB](https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto hack counts fall but supply chain attacks reshape threat landscape](https://cointelegraph.com/news/crypto-security-phishing-supply-chain-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [South Korean card giant completes stablecoin payments pilot for foreigners](https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [How Wall Street is using Ethereum without talking about Ethereum](https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
