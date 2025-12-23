@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Baking cookbooks boomed in 2025",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025",
+      "category": "Business",
+      "summary": "Sales of baking cookbooks are up about 80% over the past year, according to research group Circana. And that's bucking a downward trend in cookbooks overall.",
+      "published": "Tue, 23 Dec 2025 15:57:26 -0500",
+      "fetched_at": "2025-12-23T21:12:23.643246697Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Brazil's live orchestra to turn Bitcoin price moves into music",
       "link": "https://cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 21:26:16 GMT",
       "fetched_at": "2025-12-15T21:33:10.289289356Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report",
-      "link": "https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzctYjlmNy03NzE2LThjNzEtNDA0NmEyODFmZWY4LmpwZw==.jpg\" alt=\"SEC ’eased up on’ 60% of crypto enforcement cases under Trump: Report\"\u003e\u003c/p\u003e\u003cp\u003eThe financial regulator dropped several cases against crypto companies in 2025, and is reportedly “no longer actively pursuing a single case against a firm with known Trump ties.”\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 20:52:26 +0000",
-      "fetched_at": "2025-12-15T21:12:43.729741749Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1116,
-  "last_update": "2025-12-23T20:51:28.88992931Z"
+  "total_captured": 1117,
+  "last_update": "2025-12-23T21:12:23.824653884Z"
 }
