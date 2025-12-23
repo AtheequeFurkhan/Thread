@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1108-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 18:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1110-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 18:19 UTC)*
+*(Updated: 23 Dec 18:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Business** | [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) | ⚪ Neutral |
 | **Crypto** | [US crypto legislation and policies to watch out for in 2026](https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies](https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [South Korean card giant completes stablecoin payments pilot for foreigners](https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How Wall Street is using Ethereum without talking about Ethereum](https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT](https://cointelegraph.com/news/polymarket-odds-lighter-airdrop-surge-hyperliquid-lit-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) (⚪ Neutral)
 - [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) (⚪ Neutral)
 - ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) (⚪ Neutral)
 - [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) (🟢 Positive)
 - [Warner Brothers has a long history of messy corporate marriages and divorces](https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces) (⚪ Neutral)
-- [Bari Weiss halts '60 Minutes' story, sparking an outrage](https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage) (🟢 Positive)
 
 
 ### 📂 Crypto
+- [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US crypto legislation and policies to watch out for in 2026](https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

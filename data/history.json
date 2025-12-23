@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "DWF Labs’ physical gold trade signals crypto capital’s move into commodities",
+      "link": "https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjMzQtOGI0MS03MmRkLTgyZDktZWVmMWZhNDU1YWEyLmpwZw==.jpg\" alt=\"DWF Labs’ physical gold trade signals crypto capital’s move into commodities\"\u003e\u003c/p\u003e\u003cp\u003eCrypto market maker DWF Labs settled its first physical gold trade, signaling a rare move into legacy commodities amid surging bullion prices.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 18:40:44 +0000",
+      "fetched_at": "2025-12-23T18:51:57.243942174Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Student loan borrowers in default may soon see their wages garnished",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department",
+      "category": "Business",
+      "summary": "About 5.5 million borrowers are currently in default. They haven't risked wage garnishment since the beginning of the pandemic, when policymakers paused the practice.",
+      "published": "Tue, 23 Dec 2025 13:17:40 -0500",
+      "fetched_at": "2025-12-23T18:51:56.799296369Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US crypto legislation and policies to watch out for in 2026",
       "link": "https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 15 Dec 2025 19:10:00 +0000",
       "fetched_at": "2025-12-15T19:13:58.287650975Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "XRP sinks below $2 despite $1B in ETF inflows: How low can price go?",
-      "link": "https://cointelegraph.com/news/xrp-price-sinks-below-2-despite-etf-inflows-1billion-how-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyNzAtY2E1NS03Njc4LWEwMmEtZGZhM2QxMTgwYzk0LmpwZw==.jpg\" alt=\"XRP sinks below $2 despite $1B in ETF inflows: How low can price go?\"\u003e\u003c/p\u003e\u003cp\u003eXRP ETFs recorded inflows for 20 consecutive days, but its price lost key technical support levels, sparking fears of a drop to $1.40.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 15:12:46 +0000",
-      "fetched_at": "2025-12-15T18:52:55.003152011Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour",
-      "link": "https://cointelegraph.com/news/bitcoin-pure-manipulation-us-sell-off-liquidates-200m-in-hour?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzYtZjY0ZC03ZjFhLWE4ZmMtYzQ1OGNjOGQxOTU1LmpwZw==.jpg\" alt=\"Bitcoin sees ‘pure manipulation’ as US sell-off liquidates $200M in an hour\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin fell below $87,000 as Wall Street selling contrasted with Strategy’s announcement of a 10,000+ BTC buy over the past week.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 16:23:16 +0000",
-      "fetched_at": "2025-12-15T18:52:55.003127806Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1108,
-  "last_update": "2025-12-23T18:19:09.828471453Z"
+  "total_captured": 1110,
+  "last_update": "2025-12-23T18:51:57.243971188Z"
 }
