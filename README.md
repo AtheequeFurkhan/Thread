@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 02:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1071-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 03:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1073-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 02:54 UTC)*
+*(Updated: 23 Dec 03:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Bitcoin perpetual open interest rises as traders bet on year-end rally](https://cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Screams for help and panic as tourists rescued from fatal Laos ferry disaster](https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [What the underwhelming Epstein files release means for Trump and Maga](https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Technology** | [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Bitcoin perpetual open interest rises as traders bet on year-end rally](https://cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [EU council endorses offline and online versions of digital euro](https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter](https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology

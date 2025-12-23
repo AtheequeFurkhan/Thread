@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks",
+      "link": "https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4OTMtNDEyOC03NjRhLWIxNjktYWIzZGJkOTdhZjY4LmpwZw==.jpg\" alt=\"BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks\"\u003e\u003c/p\u003e\u003cp\u003eBlackRock’s IBIT Bitcoin ETF has featured on the $13.5 trillion asset manager's homepage, representing one of three major investment themes as the market heads into 2026.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 03:00:42 +0000",
+      "fetched_at": "2025-12-23T03:56:37.647067315Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin perpetual open interest rises as traders bet on year-end rally",
+      "link": "https://cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4ZWUtN2Y5MC03MGMyLWFhZjUtMGUzNjk3Zjg1NjhkLmpwZw==.jpg\" alt=\"Bitcoin perpetual open interest rises as traders bet on year-end rally\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin perpetual open interest climbed to 310,000 BTC while funding rates doubled, signaling bullish positioning for the year-end.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 03:32:43 +0000",
+      "fetched_at": "2025-12-23T03:56:37.647052387Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "India's jobs guarantee scheme: A global model under threat?",
       "link": "https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 14 Dec 2025 09:15:34 GMT",
       "fetched_at": "2025-12-14T09:47:53.250159565Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks",
-      "link": "https://cointelegraph.com/news/twenty-one-s-first-day-slide-highlights-investor-caution-toward-btc-backed-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODc3ZDAtM2VjMi03N2IwLWI1MDAtM2EwYjY3OTAzOTQ1.jpg\" alt=\"Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks\"\u003e\u003c/p\u003e\u003cp\u003eTwenty One Capital’s NYSE listing showed how tightly markets now price Bitcoin-heavy firms, with investors refusing to pay much beyond the underlying BTC value.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 09:10:00 +0000",
-      "fetched_at": "2025-12-14T09:31:20.838645146Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
-      "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years.",
-      "published": "Sun, 14 Dec 2025 08:04:53 GMT",
-      "fetched_at": "2025-12-14T09:12:18.949679282Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1071,
-  "last_update": "2025-12-23T02:54:59.991762786Z"
+  "total_captured": 1073,
+  "last_update": "2025-12-23T03:56:37.931919889Z"
 }
