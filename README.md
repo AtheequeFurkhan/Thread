@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 21:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1117-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 21:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1118-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 21:30 UTC)*
+*(Updated: 23 Dec 21:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [From FTX fallout to fresh capital: Former US chief raises $35M for new exchange](https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) | ⚪ Neutral |
 | **Crypto** | [Brazil's live orchestra to turn Bitcoin price moves into music](https://cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Gnosis announces hard fork to recover funds from Balancer exploit](https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [From FTX fallout to fresh capital: Former US chief raises $35M for new exchange](https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Brazil's live orchestra to turn Bitcoin price moves into music](https://cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Gnosis announces hard fork to recover funds from Balancer exploit](https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [If 2026 brings an alteason, will ETH, BNB, XRP, SOL and DOGE be the top performers?](https://cointelegraph.com/news/if-2026-brings-alteason-will-eth-bnb-xrp-sol-and-doge-outperform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cipher enters US wholesale power market with Ohio data center acquisition](https://cointelegraph.com/news/cipher-pjm-power-market-ohio-data-center-site-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
