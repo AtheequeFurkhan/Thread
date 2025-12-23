@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump says US will keep or sell oil seized from Venezuela",
+      "link": "https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US president also says the US intends to keep the tankers it has intercepted off the coast of Venezuela.",
+      "published": "Tue, 23 Dec 2025 09:51:47 GMT",
+      "fetched_at": "2025-12-23T10:42:17.610552633Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills",
       "link": "https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 14 Dec 2025 19:58:25 +0000",
       "fetched_at": "2025-12-14T20:13:11.370313415Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Firestorm erupts in Aave governance forum over CoW Swap fees",
-      "link": "https://cointelegraph.com/news/firestorm-erupts-aave-governance-cowswap-fees?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFlMDUtYWJkMy03OTQ1LWI1N2UtNDljMmYyY2NmN2U0LmpwZw==.jpg\" alt=\"Firestorm erupts in Aave governance forum over CoW Swap fees\"\u003e\u003c/p\u003e\u003cp\u003eMembers of the Aave DAO clashed with Aave Labs, with some arguing that the company was not acting in the best interests of token holders.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 18:14:15 +0000",
-      "fetched_at": "2025-12-14T18:17:04.975861615Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1083,
-  "last_update": "2025-12-23T10:14:32.706729955Z"
+  "total_captured": 1084,
+  "last_update": "2025-12-23T10:42:17.879885723Z"
 }

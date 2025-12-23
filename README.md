@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 10:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1083-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 10:42 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1084-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 10:14 UTC)*
+*(Updated: 23 Dec 10:42 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) | ⚪ Neutral |
 | **Business** | [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) | 🟢 Positive |
 | **Technology** | [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [US regulator approves pill form of Wegovy weight-loss drug](https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['A miracle': Officer shot in head during Bondi attack home from hospital](https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Screams for help and panic as tourists rescued from fatal Laos ferry disaster](https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [What the underwhelming Epstein files release means for Trump and Maga](https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
