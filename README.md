@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1111-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 20:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1114-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 19:47 UTC)*
+*(Updated: 23 Dec 20:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Contact lost with jet carrying Libya's army chief, says Turkey](https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump travelled on Epstein's plane more than previously thought, prosecutor says](https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [If 2026 brings an alteason, will ETH, BNB, XRP, SOL and DOGE be the top performers?](https://cointelegraph.com/news/if-2026-brings-alteason-will-eth-bnb-xrp-sol-and-doge-outperform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Cipher enters US wholesale power market with Ohio data center acquisition](https://cointelegraph.com/news/cipher-pjm-power-market-ohio-data-center-site-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Business** | [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) | ⚪ Neutral |
 | **Crypto** | [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Crypto hack counts fall but supply chain attacks reshape threat landscape](https://cointelegraph.com/news/crypto-security-phishing-supply-chain-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [South Korean card giant completes stablecoin payments pilot for foreigners](https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [If 2026 brings an alteason, will ETH, BNB, XRP, SOL and DOGE be the top performers?](https://cointelegraph.com/news/if-2026-brings-alteason-will-eth-bnb-xrp-sol-and-doge-outperform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cipher enters US wholesale power market with Ohio data center acquisition](https://cointelegraph.com/news/cipher-pjm-power-market-ohio-data-center-site-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US crypto legislation and policies to watch out for in 2026](https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Contact lost with jet carrying Libya's army chief, says Turkey](https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump travelled on Epstein's plane more than previously thought, prosecutor says](https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies](https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US economy grows at fastest pace in two years](https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
