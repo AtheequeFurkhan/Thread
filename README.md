@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 13:09 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1090-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 13:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1092-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 13:09 UTC)*
+*(Updated: 23 Dec 13:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [South Korean card giant completes stablecoin payments pilot for foreigners](https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [How Wall Street is using Ethereum without talking about Ethereum](https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT](https://cointelegraph.com/news/polymarket-odds-lighter-airdrop-surge-hyperliquid-lit-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | ['A miracle': Officer shot in head during Bondi attack home from hospital](https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [CFTC changes guard as Selig takes reins, Pham departs](https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin perpetual open interest rises as traders bet on year-end rally](https://cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [South Korean card giant completes stablecoin payments pilot for foreigners](https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [How Wall Street is using Ethereum without talking about Ethereum](https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT](https://cointelegraph.com/news/polymarket-odds-lighter-airdrop-surge-hyperliquid-lit-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [OKX reports trading increase after expansion into US, EU](https://cointelegraph.com/news/okx-reports-sharp-trading-growth-us-eu-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026](https://cointelegraph.com/news/are-altcoins-coming-back-why-bitcoin-season-has-staying-power-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock](https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

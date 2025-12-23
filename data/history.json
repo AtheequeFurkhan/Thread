@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "South Korean card giant completes stablecoin payments pilot for foreigners",
+      "link": "https://cointelegraph.com/news/south-korea-bc-card-tests-stablecoin-spending-at-local-merchants?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhOWEtMWNhNC03NGRlLWE4YTQtZWJiMDg0ZWVlYjYxLmpwZw==.jpg\" alt=\"South Korean card giant completes stablecoin payments pilot for foreigners\"\u003e\u003c/p\u003e\u003cp\u003eSouth Korean payments giant BC Card has completed a pilot allowing foreign users to pay local merchants via stablecoins.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 13:10:53 +0000",
+      "fetched_at": "2025-12-23T13:46:57.579889221Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "How Wall Street is using Ethereum without talking about Ethereum",
+      "link": "https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiNTktYTQyZi03ZDYyLTljNTctNWE0OGM4NGU0NWVlLmpwZw==.jpg\" alt=\"How Wall Street is using Ethereum without talking about Ethereum\"\u003e\u003c/p\u003e\u003cp\u003eEthereum is increasingly powering tokenized money, faster settlement and regulated onchain infrastructure — even as institutions avoid naming it outright.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 13:19:50 +0000",
+      "fetched_at": "2025-12-23T13:46:57.579864164Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Three dead after Russia launches 'massive' attack across Ukraine",
       "link": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 15 Dec 2025 06:26:48 GMT",
       "fetched_at": "2025-12-15T09:52:01.856659066Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How Bondi Beach shooting unfolded minute by minute",
-      "link": "https://www.bbc.com/news/videos/cy8jpzdg1y3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Correspondent Joe Inwood pieces together what verified footage reveals about how Australia's worst mass shooting in nearly three decades unfolded.",
-      "published": "Mon, 15 Dec 2025 00:02:53 GMT",
-      "fetched_at": "2025-12-15T09:23:03.168211931Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Roomba vacuum cleaner firm files for bankruptcy",
-      "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm.",
-      "published": "Mon, 15 Dec 2025 06:57:41 GMT",
-      "fetched_at": "2025-12-15T07:18:19.185753272Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1090,
-  "last_update": "2025-12-23T13:09:41.954247347Z"
+  "total_captured": 1092,
+  "last_update": "2025-12-23T13:46:57.697371757Z"
 }
