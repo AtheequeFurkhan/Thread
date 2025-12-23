@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 09:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1078-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 09:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1081-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 09:17 UTC)*
+*(Updated: 23 Dec 09:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open](https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bybit to discontinue services for Japanese residents, citing regulations](https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst](https://cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open](https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bybit to discontinue services for Japanese residents, citing regulations](https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst](https://cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC changes guard as Selig takes reins, Pham departs](https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [TikTok takes down fake weight loss ads impersonating Boots](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [Five dead after plane carrying child burns victim crashes in Texas](https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['A miracle': Officer shot in head during Bondi attack home from hospital](https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [India's jobs guarantee scheme: A global model under threat?](https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Screams for help and panic as tourists rescued from fatal Laos ferry disaster](https://www.bbc.com/news/articles/cx2gk56pd5eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [What the underwhelming Epstein files release means for Trump and Maga](https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump unveils plans for 'Golden Fleet' battleships named after himself](https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

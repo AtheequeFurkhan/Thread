@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "TikTok takes down fake weight loss ads impersonating Boots",
+      "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.",
+      "published": "Tue, 23 Dec 2025 09:23:51 GMT",
+      "fetched_at": "2025-12-23T09:44:21.888723306Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Five dead after plane carrying child burns victim crashes in Texas",
+      "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Mexican Navy plane was transporting a child to the US on behalf of a charity which cares for burns victims.",
+      "published": "Tue, 23 Dec 2025 08:58:46 GMT",
+      "fetched_at": "2025-12-23T09:44:21.451288849Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ether ETFs break outflow streak while XRP products hit multi-week highs",
+      "link": "https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMGMtNTg1NS03MGQ2LWI5M2YtNjI0NTI4ZDY1YzVjLmpwZw==.jpg\" alt=\"Ether ETFs break outflow streak while XRP products hit multi-week highs\"\u003e\u003c/p\u003e\u003cp\u003eAltcoin ETF flows are beginning to diverge, with Ether stabilizing, XRP drawing steady demand and smaller funds getting uneven traction.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 09:16:27 +0000",
+      "fetched_at": "2025-12-23T09:44:21.319199193Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open",
       "link": "https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Sun, 14 Dec 2025 14:20:00 +0000",
       "fetched_at": "2025-12-14T14:32:00.978664542Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Car prices hit a record high",
-      "link": "https://www.npr.org/2025/12/14/nx-s1-5639955/car-prices-hit-a-record-high",
-      "category": "Business",
-      "summary": "New car prices hit a record high, and President Trump blames fuel efficiency standards. NPR's Ayesha Rascoe speaks with Bloomberg Detroit bureau chief David Welch about what's behind the high prices.",
-      "published": "Sun, 14 Dec 2025 08:39:59 -0500",
-      "fetched_at": "2025-12-14T13:49:19.543290666Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "How HashKey plans to become Hong Kong’s first crypto IPO",
-      "link": "https://cointelegraph.com/news/how-hashkey-plans-to-become-hong-kong-s-first-crypto-ipo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjMzUtNDVjYi03MWFhLWFjNmEtZTc2MDg3NTUwZjU3LmpwZw==.jpg\" alt=\"How HashKey plans to become Hong Kong’s first crypto IPO\"\u003e\u003c/p\u003e\u003cp\u003eHashKey’s IPO bid puts Hong Kong’s virtual asset regime on display, testing whether compliance-first crypto platforms can win investors.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 12:05:00 +0000",
-      "fetched_at": "2025-12-14T12:22:12.316512788Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'Person of interest' detained over Brown University shooting, police say",
-      "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Two people died and nine others were injured in the incident in Rhode Island on Saturday.",
-      "published": "Sun, 14 Dec 2025 12:18:03 GMT",
-      "fetched_at": "2025-12-14T12:22:11.241603472Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1078,
-  "last_update": "2025-12-23T09:17:37.350747847Z"
+  "total_captured": 1081,
+  "last_update": "2025-12-23T09:44:22.017368528Z"
 }
