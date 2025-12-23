@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1119-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 23:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1120-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 23:12 UTC)*
+*(Updated: 23 Dec 23:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['Inappropriate friends' email from 'Balmoral' among Epstein release](https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [UN experts urge Iran to stop execution of woman activist](https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [From FTX fallout to fresh capital: Former US chief raises $35M for new exchange](https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['Inappropriate friends' email from 'Balmoral' among Epstein release](https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [UN experts urge Iran to stop execution of woman activist](https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Contact lost with jet carrying Libya's army chief, says Turkey](https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump travelled on Epstein's plane more than previously thought, prosecutor says](https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies](https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

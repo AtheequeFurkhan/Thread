@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'Inappropriate friends' email from 'Balmoral' among Epstein release",
+      "link": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform.",
+      "published": "Tue, 23 Dec 2025 22:48:09 GMT",
+      "fetched_at": "2025-12-23T23:30:22.195021226Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "UN experts urge Iran to stop execution of woman activist",
       "link": "https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 18:26:26 GMT",
       "fetched_at": "2025-12-15T22:35:28.273015455Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
-      "link": "https://cointelegraph.com/news/sec-commissioner-crypto-financial-privacy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE5MzktMWZjMC03YzQ5LWI2NWQtYmFjZGFmY2IxNzU2LmpwZw==.jpg\" alt=\"SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy\"\u003e\u003c/p\u003e\u003cp\u003eThe SEC's crypto task force held its sixth roundtable event, hosting representatives from digital asset advocacy groups and other organizations.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 21:46:36 +0000",
-      "fetched_at": "2025-12-15T22:12:51.32025051Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1119,
-  "last_update": "2025-12-23T23:12:06.114386908Z"
+  "total_captured": 1120,
+  "last_update": "2025-12-23T23:30:23.049428932Z"
 }
