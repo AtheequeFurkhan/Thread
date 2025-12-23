@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto.com says market maker boosts liquidity, denies trading edge on customers",
+      "link": "https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiZjMtYWQ2MS03MzQ1LWI4ZGEtNmIwNWRkNjY3MjE3LmpwZw==.jpg\" alt=\"Crypto.com says market maker boosts liquidity, denies trading edge on customers\"\u003e\u003c/p\u003e\u003cp\u003eCrypto.com is hiring an internal market maker for its prediction markets, saying the move complies with regulations and aims to boost liquidity amid scrutiny.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 16:35:08 +0000",
+      "fetched_at": "2025-12-23T16:49:32.678115271Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How Bhutan is building a green Bitcoin economy from the ground up",
       "link": "https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 17:24:53 +0000",
       "fetched_at": "2025-12-15T17:46:15.925030435Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How Bitcoin whales move markets, and the signals to ignore",
-      "link": "https://cointelegraph.com/news/bitcoin-whales-market-signals-trust-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg\" alt=\"How Bitcoin whales move markets, and the signals to ignore\"\u003e\u003c/p\u003e\u003cp\u003eIn this new Cointelegraph in-depth video, we delve into the world of Bitcoin whales, the evolving market structure and how to avoid the pitfalls they set for retail investors.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 17:10:46 +0000",
-      "fetched_at": "2025-12-15T17:18:47.499845109Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1102,
-  "last_update": "2025-12-23T16:16:08.108043526Z"
+  "total_captured": 1103,
+  "last_update": "2025-12-23T16:49:32.8188448Z"
 }

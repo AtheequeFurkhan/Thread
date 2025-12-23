@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 16:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1102-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 16:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1103-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 16:16 UTC)*
+*(Updated: 23 Dec 16:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026](https://cointelegraph.com/news/are-altcoins-coming-back-why-bitcoin-season-has-staying-power-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock](https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Crypto hack counts fall but supply chain attacks reshape threat landscape](https://cointelegraph.com/news/crypto-security-phishing-supply-chain-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
