@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 11:42 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1084-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 11:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1085-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 11:42 UTC)*
+*(Updated: 23 Dec 11:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock](https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) | ⚪ Neutral |
 | **Business** | [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Trump unveils plans for 'Golden Fleet' battleships named after himself](https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US regulator approves pill form of Wegovy weight-loss drug](https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitmine’s stash crosses 4M ETH after latest $40M buy](https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Amazon says over 1,800 North Koreans blocked from applying for jobs](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock](https://cointelegraph.com/news/zooz-bitcoin-treasury-stock-nasdaq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ether ETFs break outflow streak while XRP products hit multi-week highs](https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open](https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bybit to discontinue services for Japanese residents, citing regulations](https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst](https://cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [CFTC changes guard as Selig takes reins, Pham departs](https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
