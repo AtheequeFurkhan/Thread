@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 20:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1114-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 20:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1115-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 20:13 UTC)*
+*(Updated: 23 Dec 20:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Gnosis announces hard fork to recover funds from Balancer exploit](https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Contact lost with jet carrying Libya's army chief, says Turkey](https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump travelled on Epstein's plane more than previously thought, prosecutor says](https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [If 2026 brings an alteason, will ETH, BNB, XRP, SOL and DOGE be the top performers?](https://cointelegraph.com/news/if-2026-brings-alteason-will-eth-bnb-xrp-sol-and-doge-outperform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) | ⚪ Neutral |
 | **Crypto** | [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Gnosis announces hard fork to recover funds from Balancer exploit](https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [If 2026 brings an alteason, will ETH, BNB, XRP, SOL and DOGE be the top performers?](https://cointelegraph.com/news/if-2026-brings-alteason-will-eth-bnb-xrp-sol-and-doge-outperform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cipher enters US wholesale power market with Ohio data center acquisition](https://cointelegraph.com/news/cipher-pjm-power-market-ohio-data-center-site-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [DWF Labs’ physical gold trade signals crypto capital’s move into commodities](https://cointelegraph.com/news/dwf-labs-first-physical-gold-trade-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US crypto legislation and policies to watch out for in 2026](https://cointelegraph.com/news/upcoming-crypto-legislation-policies-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

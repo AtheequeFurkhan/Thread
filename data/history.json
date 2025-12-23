@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Gnosis announces hard fork to recover funds from Balancer exploit",
+      "link": "https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjMjMtMmE1MS03YTBhLWFhY2EtODI2MTIwYjU0M2M5LmpwZw==.jpg\" alt=\"Gnosis announces hard fork to recover funds from Balancer exploit\"\u003e\u003c/p\u003e\u003cp\u003eThe hard fork on Monday followed a majority of Gnosis validators adopting a soft fork in response to a November Balancer exploit, in which about $116 million in crypto was stolen.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 20:11:37 +0000",
+      "fetched_at": "2025-12-23T20:35:03.143682678Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Contact lost with jet carrying Libya's army chief, says Turkey",
       "link": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 20:14:08 +0000",
       "fetched_at": "2025-12-15T20:38:14.512650211Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
-      "link": "https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzMWQtYjc0YS03Y2NhLWE4ZWEtYzFiMGYwYmRjZWEyLmpwZw==.jpg\" alt=\"Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers\"\u003e\u003c/p\u003e\u003cp\u003eData shows traders bought the Bitcoin price dip, but $2.78 billion in selling by larger entities completely overshadowed the bulls. Can BTC hold above $86,000?\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 20:30:00 +0000",
-      "fetched_at": "2025-12-15T20:38:14.512634161Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1114,
-  "last_update": "2025-12-23T20:13:29.076512226Z"
+  "total_captured": 1115,
+  "last_update": "2025-12-23T20:35:03.143725438Z"
 }
