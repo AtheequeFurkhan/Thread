@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-23 Dec 17:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1105-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 17:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1107-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 23 Dec 17:35 UTC)*
+*(Updated: 23 Dec 17:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies](https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [US economy grows at fastest pace in two years](https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT](https://cointelegraph.com/news/polymarket-odds-lighter-airdrop-surge-hyperliquid-lit-usdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [OKX reports trading increase after expansion into US, EU](https://cointelegraph.com/news/okx-reports-sharp-trading-growth-us-eu-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Are altcoins coming back? Why 'Bitcoin season' has staying power in 2026](https://cointelegraph.com/news/are-altcoins-coming-back-why-bitcoin-season-has-staying-power-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet](https://cointelegraph.com/news/imf-el-salvador-chivo-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto.com says market maker boosts liquidity, denies trading edge on customers](https://cointelegraph.com/news/cryptocom-market-maker-prediction-markets-liquidity-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Bhutan is building a green Bitcoin economy from the ground up](https://cointelegraph.com/news/how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin bull divs build as gold prepares to hit new $4.5K record high](https://cointelegraph.com/news/bitcoin-bull-divs-build-gold-prepares-new-4-5k-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Russia’s central bank signals shift toward retail crypto access](https://cointelegraph.com/news/russia-central-bank-proposes-crypto-widening-non-qualified-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Ethena’s USDe loses $8.3B since October crash amid ‘loss of confidence’](https://cointelegraph.com/news/ethena-usde-market-cap-drops-october-crash-deleveraging?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Thousands fleeing DR Congo violence face 'dire conditions' in Burundi - aid agencies](https://www.bbc.com/news/articles/cjdr4vx4n8ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Gunmen abduct 28 Muslim travellers in central Nigeria](https://www.bbc.com/news/articles/czj0ll7ppewo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US economy grows at fastest pace in two years](https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Three dead after Russia launches 'massive' attack across Ukraine](https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Israel extends order allowing closure of foreign broadcasters](https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump says US will keep or sell oil seized from Venezuela](https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
