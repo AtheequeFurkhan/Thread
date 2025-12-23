@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Three dead after Russia launches 'massive' attack across Ukraine",
+      "link": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Several regions are without power after missile and drone strikes targeted several cities.",
+      "published": "Tue, 23 Dec 2025 12:48:21 GMT",
+      "fetched_at": "2025-12-23T13:09:41.954224033Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT",
+      "link": "https://cointelegraph.com/news/polymarket-odds-lighter-airdrop-surge-hyperliquid-lit-usdc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg\" alt=\"Polymarket bets surge on Lighter airdrop as Hyperliquid lists LIT\"\u003e\u003c/p\u003e\u003cp\u003ePolymarket traders price an 86% chance of Lighter’s airdrop by the end of 2025 as the DEX opens wallet allocation forms and redistributes slashed points.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 12:55:46 +0000",
+      "fetched_at": "2025-12-23T13:09:41.942150918Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Israel extends order allowing closure of foreign broadcasters",
       "link": "https://www.bbc.com/news/articles/c2k47wg2j90o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 15 Dec 2025 06:57:41 GMT",
       "fetched_at": "2025-12-15T07:18:19.185753272Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
-      "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China.",
-      "published": "Mon, 15 Dec 2025 06:41:42 GMT",
-      "fetched_at": "2025-12-15T06:55:33.550639921Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
-      "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "As peace talks continue in Berlin, what - if anything - could potentially change Putin's mind? And could Europe do anything differently?",
-      "published": "Mon, 15 Dec 2025 00:21:59 GMT",
-      "fetched_at": "2025-12-15T06:22:06.794360643Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1088,
-  "last_update": "2025-12-23T12:25:14.059548937Z"
+  "total_captured": 1090,
+  "last_update": "2025-12-23T13:09:41.954247347Z"
 }
