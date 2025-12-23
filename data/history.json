@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "UN experts urge Iran to stop execution of woman activist",
+      "link": "https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Zahra Tabari, 67, was sentenced to death after a trial that lasted less than 10 minutes, her family says.",
+      "published": "Tue, 23 Dec 2025 22:11:01 GMT",
+      "fetched_at": "2025-12-23T22:34:24.785798089Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "From FTX fallout to fresh capital: Former US chief raises $35M for new exchange",
       "link": "https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 21:46:36 +0000",
       "fetched_at": "2025-12-15T22:12:51.32025051Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Circle to acquire Interop Labs team and IP as Axelar remains independent",
-      "link": "https://cointelegraph.com/news/circle-acquire-interop-labs-ip-axelar-crosschain-independent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIzYmQtZTE0MC03OTI1LWI1OGYtNTcwYTYzN2YyNDk2LmpwZw==.jpg\" alt=\"Circle to acquire Interop Labs team and IP as Axelar remains independent\"\u003e\u003c/p\u003e\u003cp\u003eThe agreement adds a key interoperability engineering team to Circle, strengthening its crosschain infrastructure and support for multichain applications.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 21:33:37 +0000",
-      "fetched_at": "2025-12-15T21:49:26.688670613Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1118,
-  "last_update": "2025-12-23T22:12:42.187196702Z"
+  "total_captured": 1119,
+  "last_update": "2025-12-23T22:34:25.119126143Z"
 }
