@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-22 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1060-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-23 Dec 00:59 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1064-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 22 Dec 23:48 UTC)*
+*(Updated: 23 Dec 00:59 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Vince Zampella, Call of Duty co-creator, dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [Bari Weiss halts '60 Minutes' story, sparking an outrage](https://www.npr.org/2025/12/22/nx-s1-5651994/bari-weiss-halts-60-minutes-story-sparking-an-outrage) | 🟢 Positive |
-| **Business** | [Nearly two dozen states sue the Trump administration over funding for CFPB](https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit) | ⚪ Neutral |
-| **Crypto** | [ETHZilla liquidates $74.5M in Ether to redeem convertible debt](https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Arizona lawmaker proposes barring taxes on crypto and blockchain](https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Ros Atkins on… the oil tanker being pursued by the US](https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Recent Bitcoin miner capitulation may signal bottom is near: VanEck](https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [EU council endorses offline and online versions of digital euro](https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter](https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [ETHZilla liquidates $74.5M in Ether to redeem convertible debt](https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Arizona lawmaker proposes barring taxes on crypto and blockchain](https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-23.md | [View Log](data/2025-12-23.md) |
 | 2025-12-22.md | [View Log](data/2025-12-22.md) |
 | 2025-12-21.md | [View Log](data/2025-12-21.md) |
 | 2025-12-20.md | [View Log](data/2025-12-20.md) |
 | 2025-12-19.md | [View Log](data/2025-12-19.md) |
 | 2025-12-18.md | [View Log](data/2025-12-18.md) |
 | 2025-12-17.md | [View Log](data/2025-12-17.md) |
-| 2025-12-16.md | [View Log](data/2025-12-16.md) |
 
 
 ---

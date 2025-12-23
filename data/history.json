@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"\u003e\u003c/p\u003e\u003cp\u003eNeed to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.\u003c/p\u003e",
+      "published": "Mon, 22 Dec 2025 13:05:40 +0000",
+      "fetched_at": "2025-12-23T00:59:24.320155329Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Recent Bitcoin miner capitulation may signal bottom is near: VanEck",
+      "link": "https://cointelegraph.com/news/bitcoin-mining-woes-may-signal-bullish-price-action?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4MGYtOTE0YS03NGQxLTk2YzktMDgyY2VmYzFmM2QzLmpwZw==.jpg\" alt=\"Recent Bitcoin miner capitulation may signal bottom is near: VanEck\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin has often surged after sustained hashrate drops, a trend that would provide much-needed relief to many struggling Bitcoin miners at current prices.\u003c/p\u003e",
+      "published": "Tue, 23 Dec 2025 00:32:08 +0000",
+      "fetched_at": "2025-12-23T00:59:24.320026049Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "The South African start-up bringing tech to townships",
+      "link": "https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Entrepreneur Talifhani Banks has bought a modern delivery system to smaller firms in South Africa.",
+      "published": "Tue, 28 Oct 2025 00:07:11 GMT",
+      "fetched_at": "2025-12-23T00:59:24.209765232Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "The showers and baths keeping data centre tech cool",
+      "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Finding greener ways to keep giant new data centres cool is a challenge.",
+      "published": "Tue, 23 Dec 2025 00:04:45 GMT",
+      "fetched_at": "2025-12-23T00:59:24.209711782Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "'This is the big one' - tech firms bet on electrifying rail",
       "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4463,44 +4499,8 @@
       "published": "Sun, 14 Dec 2025 05:29:26 +0000",
       "fetched_at": "2025-12-14T05:35:03.359264533Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Stablecoin usage in Venezuela likely to keep expanding amid economic instability",
-      "link": "https://cointelegraph.com/news/venezuela-crypto-reliance-stablecoins-economic-crisis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFhNzYtNzE5Yi03OWU0LTgyZmUtNjZmMjg3MTk5MmRjLmpwZw==.jpg\" alt=\"Stablecoin usage in Venezuela likely to keep expanding amid economic instability\"\u003e\u003c/p\u003e\u003cp\u003eThe crypto ecosystem in Venezuela is a product of ongoing economic collapse and international sanctions pressure, according to the TRM Labs team.\u003c/p\u003e",
-      "published": "Sun, 14 Dec 2025 01:39:18 +0000",
-      "fetched_at": "2025-12-14T03:04:39.84444537Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BTC OGs selling covered calls is the main culprit suppressing price: Analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-ogs-covered-calls-suppressing-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE5YjYtMzQ2MS03MGQ2LWFlMmItZmVjZTE0NDJmZTlmLmpwZw==.jpg\" alt=\"BTC OGs selling covered calls is the main culprit suppressing price: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eDespite traditional ETF investors willing to pay premiums to go long, Bitcoin natives selling covered calls have put a damper on a price rally.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 22:14:54 +0000",
-      "fetched_at": "2025-12-13T22:32:34.852590422Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BBC captures celebrations as Belarus frees political prisoners",
-      "link": "https://www.bbc.com/news/videos/c8jw3841vk9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Southern \u0026 Eastern Europe correspondent Sarah Rainsford reports from Lithuania, where some of the released prisoners were taken.",
-      "published": "Sat, 13 Dec 2025 20:06:27 GMT",
-      "fetched_at": "2025-12-13T20:12:50.956856496Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The Securities and Exchange Commission publishes crypto custody guide",
-      "link": "https://cointelegraph.com/news/securities-exchange-commission-crypto-custody-guide?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE5MzktMWZjMC03YzQ5LWI2NWQtYmFjZGFmY2IxNzU2LmpwZw==.jpg\" alt=\"The Securities and Exchange Commission publishes crypto custody guide\"\u003e\u003c/p\u003e\u003cp\u003eThe guide was a good-faith primer on crypto custody basics and best practices, including different forms of wallet storage and common risks.\u003c/p\u003e",
-      "published": "Sat, 13 Dec 2025 19:54:49 +0000",
-      "fetched_at": "2025-12-13T20:12:50.798273708Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1060,
-  "last_update": "2025-12-22T23:48:33.921270174Z"
+  "total_captured": 1064,
+  "last_update": "2025-12-23T00:59:24.630527966Z"
 }
