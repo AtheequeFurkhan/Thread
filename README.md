@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 17:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1166-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 17:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1167-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 17:31 UTC)*
+*(Updated: 24 Dec 17:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [70% Ether positions are 'long' as whale accumulation tightens ETH supply](https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Merry Christmas, Caroline Ellison: Here's an early release from custody](https://cointelegraph.com/news/merry-christmas-caroline-ellison-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price](https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Three signs that Bitcoin is finding its market bottom](https://cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Kraken IPO, M&A deals to reignite crypto's 'mid-stage' cycle: fund manager](https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Two police officers killed in explosion in Moscow](https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Huge fireball as tanker explodes on Italian motorway](https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ho Ho No! Santa pulled over for speeding in Ohio](https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Venezuela accuses US of 'extortion' over seizure of oil tankers](https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Algerian law declares France's colonisation a crime",
+      "link": "https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Lawmakers unanimously approve a law, which demands an apology and reparations from the former colonial power.",
+      "published": "Wed, 24 Dec 2025 17:37:07 GMT",
+      "fetched_at": "2025-12-24T17:48:11.33359342Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 14:03:41 +0000",
       "fetched_at": "2025-12-16T14:16:19.476270867Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Political tokens played key role in memecoin boom and bust: CoinGecko",
-      "link": "https://cointelegraph.com/news/political-tokens-played-key-role-in-memecoin-boom-and-bust-coingecko?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3MDktYTUwNC03NjdjLTg0YTktMzdiMTA5Mjk1NWIyLmpwZw==.jpg\" alt=\"Political tokens played key role in memecoin boom and bust: CoinGecko\"\u003e\u003c/p\u003e\u003cp\u003eElection-linked speculation and viral political tokens reshaped memecoins in 2024 before confidence unraveled in early 2025, CoinGecko data shows.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 13:36:42 +0000",
-      "fetched_at": "2025-12-16T13:50:02.238223993Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1166,
-  "last_update": "2025-12-24T17:31:12.685682991Z"
+  "total_captured": 1167,
+  "last_update": "2025-12-24T17:48:11.663114907Z"
 }
