@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy",
+      "link": "https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNTUtZWUxZC03ZTdkLTkwNTUtZjZmMTAyOGU1NzdhLmpwZw==.jpg\" alt=\"Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy\"\u003e\u003c/p\u003e\u003cp\u003eTrend Research’s 46,379 ETH purchase vaults the private company into the top tier of ETH treasuries, behind only SharpLink Gaming and BitMine Immersion Technologies.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 09:34:49 +0000",
+      "fetched_at": "2025-12-24T09:43:02.550631779Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "HashKey secures $250M for new crypto fund amid ‘significant interest’",
       "link": "https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 03:31:25 GMT",
       "fetched_at": "2025-12-16T06:54:49.105095787Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock",
-      "link": "https://cointelegraph.com/news/strategy-bitcoin-purchase-dollar-reserve-market-volatility?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyODEtZWNlYS03YjI2LTk2NTktZWU0ZWI1MTY2MGNhLmpwZw==.jpg\" alt=\"Strategy adds nearly $1B in Bitcoin as market slump pressures MSTR stock\"\u003e\u003c/p\u003e\u003cp\u003eMichael Saylor’s company increased its Bitcoin holdings to 671,268 BTC following back-to-back weeks of purchases exceeding 10,000 BTC.\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 16:10:06 +0000",
-      "fetched_at": "2025-12-16T06:20:50.467569651Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1139,
-  "last_update": "2025-12-24T09:17:10.851001907Z"
+  "total_captured": 1140,
+  "last_update": "2025-12-24T09:43:02.835398818Z"
 }
