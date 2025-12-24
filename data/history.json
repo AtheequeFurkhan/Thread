@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Officials discover a million more documents potentially related to Epstein case",
+      "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US Department of Justice says reviewing the material could delay release by a \"few more weeks\".",
+      "published": "Wed, 24 Dec 2025 19:32:22 GMT",
+      "fetched_at": "2025-12-24T19:34:36.509458517Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto heads into 2026 with privacy, decentralized identity on the line",
       "link": "https://cointelegraph.com/news/crypto-2026-privacy-decentralized-identity?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 15:23:07 +0000",
       "fetched_at": "2025-12-16T15:42:51.565753Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bondi Beach gunman originally from India, police say",
-      "link": "https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Sajid Akram had \"limited\" contact with his family in Hyderabad since moving to Australia 27 years ago, a police official said.",
-      "published": "Tue, 16 Dec 2025 14:11:01 GMT",
-      "fetched_at": "2025-12-16T14:48:31.97526423Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1173,
-  "last_update": "2025-12-24T19:26:01.818263152Z"
+  "total_captured": 1174,
+  "last_update": "2025-12-24T19:34:37.124583591Z"
 }
