@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 11:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1147-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 11:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1148-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 11:12 UTC)*
+*(Updated: 24 Dec 11:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Kraken IPO, M&A deals to reignite crypto's 'mid-stage' cycle: fund manager](https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin is stuck below $90K until these market conditions improve](https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [US denies visas to ex-EU commissioner and others over social media rules](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Kraken IPO, M&A deals to reignite crypto's 'mid-stage' cycle: fund manager](https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin is stuck below $90K until these market conditions improve](https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

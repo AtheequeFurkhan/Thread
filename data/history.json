@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Kraken IPO, M\u0026A deals to reignite crypto's 'mid-stage' cycle: fund manager",
+      "link": "https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmY2QtMzVlNi03ZGViLWJhODQtNDc3MTUyMmJmZWNiLmpwZw==.jpg\" alt=\"Kraken IPO, M\u0026A deals to reignite crypto's 'mid-stage' cycle: fund manager\"\u003e\u003c/p\u003e\u003cp\u003eKraken’s pending IPO and the wave of crypto companies seeking public listings may help the industry attract more TradFi capital.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 11:14:05 +0000",
+      "fetched_at": "2025-12-24T11:29:47.065860909Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How Ondo Finance plans to bring tokenized US stocks to Solana",
       "link": "https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-16T10:15:02.659610311Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Chain restaurants are hit by tariffs and inflation. How do they control costs?",
-      "link": "https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals",
-      "category": "Business",
-      "summary": "Inflation, rising food prices and the high cost of living has been top of mind for consumers all year. But then Olive Garden offers an unlimited pasta meal or a chain steakhouse restaurant sells a steak dinner with two sides for less than 30 bucks. So, how are chains are able to keep prices as low as they do in this economy?",
-      "published": "Tue, 16 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-16T10:15:02.659587769Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1147,
-  "last_update": "2025-12-24T11:12:28.299499062Z"
+  "total_captured": 1148,
+  "last_update": "2025-12-24T11:29:47.558779393Z"
 }
