@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 18:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1169-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 18:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1172-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 18:18 UTC)*
+*(Updated: 24 Dec 18:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Democratic board member muted during Kennedy Center vote sues to remove Trump's name](https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Explosion hits packed mosque in Nigeria](https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Ethereum price under pressure as $6B options expiry nears](https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone](https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [NFTs shifted to utility and culture as price faded in 2025](https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Huge fireball as tanker explodes on Italian motorway](https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Ho Ho No! Santa pulled over for speeding in Ohio](https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [El Salvador’s Bitcoin aspirations were brought closer to earth in 2025](https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price](https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum price under pressure as $6B options expiry nears](https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone](https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [NFTs shifted to utility and culture as price faded in 2025](https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [70% Ether positions are 'long' as whale accumulation tightens ETH supply](https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Merry Christmas, Caroline Ellison: Here's an early release from custody](https://cointelegraph.com/news/merry-christmas-caroline-ellison-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Democratic board member muted during Kennedy Center vote sues to remove Trump's name](https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Explosion hits packed mosque in Nigeria](https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Two police officers killed in explosion in Moscow](https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Huge fireball as tanker explodes on Italian motorway](https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Ho Ho No! Santa pulled over for speeding in Ohio](https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
