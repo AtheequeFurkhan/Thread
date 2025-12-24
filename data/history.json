@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "HashKey secures $250M for new crypto fund amid ‘significant interest’",
+      "link": "https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNjktY2VlNS03ZDc3LTg1ZDgtNjdiMjU5MTI4MjlhLmpwZw==.jpg\" alt=\"HashKey secures $250M for new crypto fund amid ‘significant interest’\"\u003e\u003c/p\u003e\u003cp\u003eHashKey Capital has raised $250 million in commitments for the first close of its fourth crypto fund amid continued institutional demand despite volatile market conditions.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 09:10:15 +0000",
+      "fetched_at": "2025-12-24T09:17:10.36241883Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight",
       "link": "https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 16:10:06 +0000",
       "fetched_at": "2025-12-16T06:20:50.467569651Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto ATM operator to expand to Texas, citing friendly regulation",
-      "link": "https://cointelegraph.com/news/crypto-atm-operator-texas-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyN2UtYzg5NS03MTM0LTg4MjQtZTdlZTdmZjIwNDkyLmpwZw==.jpg\" alt=\"Crypto ATM operator to expand to Texas, citing friendly regulation\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin Bancorp will join Bitcoin Depot, CoinFlip, and others in offering crypto ATMs to the Lone Star State, where the state has begun gaining Bitcoin exposure via ETFs\u003c/p\u003e",
-      "published": "Mon, 15 Dec 2025 16:13:42 +0000",
-      "fetched_at": "2025-12-16T06:20:50.467539885Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1138,
-  "last_update": "2025-12-24T08:49:41.720860719Z"
+  "total_captured": 1139,
+  "last_update": "2025-12-24T09:17:10.851001907Z"
 }
