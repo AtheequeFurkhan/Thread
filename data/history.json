@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Watch: Huge fireball as tanker explodes on Italian motorway",
+      "link": "https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The vehicle had earlier been involved in a crash and everyone in the surrounding area was safely evacuated before the blast.",
+      "published": "Wed, 24 Dec 2025 12:33:33 GMT",
+      "fetched_at": "2025-12-24T13:07:17.051486623Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ho Ho No! Santa pulled over for speeding in Ohio",
+      "link": "https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A man and his wife in Fulton County were stopped by a sheriff while dressed as Santa and Mrs Claus.",
+      "published": "Wed, 24 Dec 2025 12:53:11 GMT",
+      "fetched_at": "2025-12-24T13:07:17.051449704Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "El Salvador’s Bitcoin aspirations were brought closer to earth in 2025",
+      "link": "https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExZGMtN2NiNy03YTQwLWI0NDMtNWUxNzhjYWM5MDdk.jpg\" alt=\"El Salvador’s Bitcoin aspirations were brought closer to earth in 2025\"\u003e\u003c/p\u003e\u003cp\u003eFour years ago, El Salvador started its ambitious Bitcoin adoption strategy. But in 2025, that plan came to a head with the International Monetary Fund.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 13:00:00 +0000",
+      "fetched_at": "2025-12-24T13:07:16.893507131Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price",
       "link": "https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 16 Dec 2025 11:22:49 +0000",
       "fetched_at": "2025-12-16T11:32:50.288542872Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Negotiations over 'historic' US-UK tech deal stall",
-      "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"",
-      "published": "Tue, 16 Dec 2025 11:29:32 GMT",
-      "fetched_at": "2025-12-16T11:32:50.1963136Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026",
-      "link": "https://cointelegraph.com/news/straitsx-xsgd-xusd-solana-stablecoin-launch-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2YjAtZWI1ZS03YmM5LWE5MjItZTcyOGRkY2E4OWI4LmpwZw==.jpg\" alt=\"Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026\"\u003e\u003c/p\u003e\u003cp\u003eMonetary Authority of Singapore-licensed issuer StraitsX plans to expand its SGD- and USD-backed stablecoins to Solana, targeting AI-driven transactions.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 10:44:09 +0000",
-      "fetched_at": "2025-12-16T10:56:49.55400435Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness says.",
-      "published": "Tue, 16 Dec 2025 10:39:27 GMT",
-      "fetched_at": "2025-12-16T10:44:17.133267883Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1150,
-  "last_update": "2025-12-24T12:24:33.656964263Z"
+  "total_captured": 1153,
+  "last_update": "2025-12-24T13:07:17.348756721Z"
 }
