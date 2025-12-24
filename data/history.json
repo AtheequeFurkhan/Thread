@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price",
+      "link": "https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMWUtM2EyNy03NDcwLTgyN2YtMGRmMzMzMDIyYTI5LmpwZw==.jpg\" alt=\"Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin price predictions include an initial $100,000 target after completion of the Boxing Day options expiry, worth a record $23.7 billion.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 11:47:23 +0000",
+      "fetched_at": "2025-12-24T12:24:33.332073039Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Three signs that Bitcoin is finding its market bottom",
+      "link": "https://cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjEtMjBhOC03YTNkLTljZDQtMjVjNWY4Zjc1YTgwLmpwZw==.jpg\" alt=\"Three signs that Bitcoin is finding its market bottom\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s selling pressure may be easing as momentum stabilizes, miners capitulate, and liquidity conditions turn supportive.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 12:15:00 +0000",
+      "fetched_at": "2025-12-24T12:24:33.332051198Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Kraken IPO, M\u0026A deals to reignite crypto's 'mid-stage' cycle: fund manager",
       "link": "https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 10:39:27 GMT",
       "fetched_at": "2025-12-16T10:44:17.133267883Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?",
-      "link": "https://cointelegraph.com/news/bitcoin-long-term-holders-hit-eight-month-lows-bullish-or-bearish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTJiNmUtM2FjMC03NGUwLWIxZDctOTdjMWRjZGFlYjE2.jpg\" alt=\"Bitcoin long-term holder supply hits 8-month lows: Bullish or bearish?\"\u003e\u003c/p\u003e\u003cp\u003eThe amount of Bitcoin in long-term holder wallets hit cyclical lows, but is it enough to help the bulls avoid a decline toward $68,000?\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 10:14:31 +0000",
-      "fetched_at": "2025-12-16T10:44:17.113702405Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Built to spill: The life of a crash test dummy",
-      "link": "https://www.npr.org/2025/12/16/nx-s1-5556934/crash-test-dummy-manufacturing",
-      "category": "Business",
-      "summary": "Automotive crash test dummies are born in Ohio, brought to \"life\" near Detroit, and then sent around the world to make cars safer.",
-      "published": "Tue, 16 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-16T10:15:02.659610311Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1148,
-  "last_update": "2025-12-24T11:48:05.432362422Z"
+  "total_captured": 1150,
+  "last_update": "2025-12-24T12:24:33.656964263Z"
 }
