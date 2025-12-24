@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 13:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1156-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 14:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1158-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 13:54 UTC)*
+*(Updated: 24 Dec 14:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Web3 and DApps in 2026: A utility-driven year ahead for crypto](https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians](https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Web3 and DApps in 2026: A utility-driven year ahead for crypto](https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians](https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [El Salvador’s Bitcoin aspirations were brought closer to earth in 2025](https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price](https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Three signs that Bitcoin is finding its market bottom](https://cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

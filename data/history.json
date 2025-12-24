@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Web3 and DApps in 2026: A utility-driven year ahead for crypto",
+      "link": "https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1ZDgtOWNlYi03OTdiLWJhNTgtOWVjN2Q3ZjE2YmU2LmpwZw==.jpg\" alt=\"Web3 and DApps in 2026: A utility-driven year ahead for crypto\"\u003e\u003c/p\u003e\u003cp\u003eCrypto enters 2026 with mature infrastructure; now DApps must prove real utility, win users without incentives and compete directly with Web2.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-24T14:12:10.738942965Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians",
+      "link": "https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmZDMtMDVlMS03MGU0LThlNTEtYzU0ODllMzVhMDVhLmpwZw==.jpg\" alt=\"Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians\"\u003e\u003c/p\u003e\u003cp\u003eHong Kong’s FSTB and SFC will introduce licensing requirements for virtual asset dealing and custody firms, expanding the city’s policy push that already includes a stablecoin licensing blueprint and tokenization guidance.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 14:00:57 +0000",
+      "fetched_at": "2025-12-24T14:12:10.738895737Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump family-linked USD1 supply up $150M as Binance rolls out yield program",
       "link": "https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 07 Dec 2025 06:00:33 GMT",
       "fetched_at": "2025-12-16T12:26:17.544056645Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "FCA consults on UK crypto rules for exchanges, lending and DeFi",
-      "link": "https://cointelegraph.com/news/fca-crypto-consultation-staking-defi-exchanges-uk?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2OGMtNjU3Yy03ZWZkLTkzZmItZDQ2ZDUwMDJlZTVjLmpwZw==.jpg\" alt=\"FCA consults on UK crypto rules for exchanges, lending and DeFi\"\u003e\u003c/p\u003e\u003cp\u003eThe UK's FCA launched three consultations on new crypto market rules covering exchanges, staking, lending and DeFi, with feedback due Feb. 12, 2026.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 11:30:13 +0000",
-      "fetched_at": "2025-12-16T11:49:37.576395398Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The Warner Bros. Curse",
-      "link": "https://www.npr.org/sections/planet-money/2025/12/16/g-s1-102314/the-warner-bros-curse",
-      "category": "Business",
-      "summary": "Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it?",
-      "published": "Tue, 16 Dec 2025 06:30:00 -0500",
-      "fetched_at": "2025-12-16T11:49:37.224333256Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1156,
-  "last_update": "2025-12-24T13:54:02.534426715Z"
+  "total_captured": 1158,
+  "last_update": "2025-12-24T14:12:10.799082394Z"
 }
