@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
+      "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Family feuds and strategic change are redefining who holds power inside the Murdoch empire.",
+      "published": "Wed, 24 Dec 2025 01:25:13 GMT",
+      "fetched_at": "2025-12-24T03:54:08.928879144Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Amplify ETFs for stablecoins, tokenization go live for trading",
+      "link": "https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRkYTMtOWM2Yi03NTRlLTlmMTktOTljZmRkOTllZjAzLmpwZw==.jpg\" alt=\"Amplify ETFs for stablecoins, tokenization go live for trading\"\u003e\u003c/p\u003e\u003cp\u003eTwo new exchange-traded funds from Amplify track companies building the infrastructure for stablecoins and tokenization, blending stocks and crypto.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 03:07:24 +0000",
+      "fetched_at": "2025-12-24T03:54:08.886769443Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn",
+      "link": "https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlMGQtMTZhZC03ZGM0LTljZWMtZjE1MmU2OTI1ZDRmLmpwZw==.jpg\" alt=\"Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn\"\u003e\u003c/p\u003e\u003cp\u003eGalaxy’s Alex Thorn says Bitcoin's $126,000 peak translates to $99,848 after being adjusted for inflation, falling short of its milestone six-figure mark.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 03:36:34 +0000",
+      "fetched_at": "2025-12-24T03:54:08.886743795Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Brazil's Supreme Court allows Bolsonaro to leave prison for surgery",
       "link": "https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 16 Dec 2025 06:10:26 +0000",
       "fetched_at": "2025-12-16T06:20:50.46748387Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
-      "link": "https://cointelegraph.com/news/over-1-in-20-emails-are-malicious-warns-internet-giant-cloudflare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1NTMtMjZiZi03MzIxLTg1NGQtYmQ2ZDA0NDk1YmE3LmpwZw==.jpg\" alt=\"Over 1 in 20 emails are malicious, warns internet giant Cloudflare\"\u003e\u003c/p\u003e\u003cp\u003eCloudflare found over 5% of global emails were malicious in 2025, peaking at nearly 10% in November, with more than half of them containing deceptive links.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 04:43:52 +0000",
-      "fetched_at": "2025-12-16T04:55:33.902138277Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "MetaMask adds Bitcoin support after teasing it 10 months ago",
-      "link": "https://cointelegraph.com/news/metamask-adds-bitcoin-support-after-teasing-february?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1NmYtZGI3NS03M2QzLTlhMjUtYjVhMDZjNzY4MTU4LmpwZw==.jpg\" alt=\"MetaMask adds Bitcoin support after teasing it 10 months ago\"\u003e\u003c/p\u003e\u003cp\u003eUsers can now buy, swap, send, and receive Bitcoin directly within the popular Ethereum-focused wallet, expanding its multichain reach.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 04:47:18 +0000",
-      "fetched_at": "2025-12-16T04:55:33.902119352Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto urges SEC to see the good in blockchain privacy tools",
-      "link": "https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0OGMtMzE5ZS03YzM3LWI3NWItMzM2ZWUzMTgwODA3LmpwZw==.jpg\" alt=\"Crypto urges SEC to see the good in blockchain privacy tools\"\u003e\u003c/p\u003e\u003cp\u003eSEC chair Paul Atkins says the agency must find how to allow people to use blockchain privacy tools “without immediately falling under suspicion.”\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 04:10:13 +0000",
-      "fetched_at": "2025-12-16T04:28:56.217328525Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1133,
-  "last_update": "2025-12-24T02:52:13.914315384Z"
+  "total_captured": 1136,
+  "last_update": "2025-12-24T03:54:09.438666485Z"
 }
