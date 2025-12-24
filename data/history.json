@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push",
+      "link": "https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUxM2ItM2U1Ni03Y2JlLTkzOTAtYTBlMTllNGJjMzkyLmpwZw==.jpg\" alt=\"Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push\"\u003e\u003c/p\u003e\u003cp\u003eThe listing follows Kyrgyzstan’s passage of crypto legislation, the launch of a new US dollar–pegged stablecoin backed by physical gold, and plans to build a national crypto reserve.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 21:15:27 +0000",
+      "fetched_at": "2025-12-24T21:29:50.05944572Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry",
       "link": "https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 15:39:10 +0000",
       "fetched_at": "2025-12-16T15:53:58.38901585Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Thousands of dinosaur footprints found on Italian mountain",
-      "link": "https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The footprints date back some 210 million years and show traces of toes and claws.",
-      "published": "Tue, 16 Dec 2025 15:09:21 GMT",
-      "fetched_at": "2025-12-16T15:42:51.928464111Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1175,
-  "last_update": "2025-12-24T21:11:43.254298423Z"
+  "total_captured": 1176,
+  "last_update": "2025-12-24T21:29:50.501333795Z"
 }

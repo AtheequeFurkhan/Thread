@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 21:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1175-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 21:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1176-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 21:11 UTC)*
+*(Updated: 24 Dec 21:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push](https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry](https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto heads into 2026 with privacy, decentralized identity on the line](https://cointelegraph.com/news/crypto-2026-privacy-decentralized-identity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead](https://cointelegraph.com/news/xrp-price-below-2-negative-sentiment-signals-strong-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Web3 and DApps in 2026: A utility-driven year ahead for crypto](https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians](https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push](https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry](https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto heads into 2026 with privacy, decentralized identity on the line](https://cointelegraph.com/news/crypto-2026-privacy-decentralized-identity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum price under pressure as $6B options expiry nears](https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone](https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [NFTs shifted to utility and culture as price faded in 2025](https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
