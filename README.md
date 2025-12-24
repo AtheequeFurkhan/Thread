@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 15:33 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1162-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 15:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1163-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 15:33 UTC)*
+*(Updated: 24 Dec 15:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Five governments that clarified crypto licensing in 2025](https://cointelegraph.com/explained/five-governments-that-clarified-crypto-licensing-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Two police officers killed in explosion in Moscow](https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin is stuck below $90K until these market conditions improve](https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Five governments that clarified crypto licensing in 2025](https://cointelegraph.com/explained/five-governments-that-clarified-crypto-licensing-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead](https://cointelegraph.com/news/xrp-price-below-2-negative-sentiment-signals-strong-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Web3 and DApps in 2026: A utility-driven year ahead for crypto](https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians](https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

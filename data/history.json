@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Five governments that clarified crypto licensing in 2025",
+      "link": "https://cointelegraph.com/explained/five-governments-that-clarified-crypto-licensing-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwZjgtNjE5YS03ZGE3LTkyMGUtYWEyNDljMmUwZGI5LmpwZWc=.jpeg\" alt=\"Five governments that clarified crypto licensing in 2025\"\u003e\u003c/p\u003e\u003cp\u003eDiscover the five governments that simplified crypto licensing in 2025, from the GENIUS Act in the US to the EU’s MiCA passporting regime.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 15:37:57 +0000",
+      "fetched_at": "2025-12-24T15:50:43.779389381Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 13:05:05 +0000",
       "fetched_at": "2025-12-16T13:11:31.342076569Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
-      "link": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "DTEK boss Maxim Timchenko says the intensity of Russian strikes is so frequent there is no time to recover.",
-      "published": "Tue, 16 Dec 2025 12:54:00 GMT",
-      "fetched_at": "2025-12-16T13:11:30.770190384Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1162,
-  "last_update": "2025-12-24T15:33:56.226658802Z"
+  "total_captured": 1163,
+  "last_update": "2025-12-24T15:50:43.882288281Z"
 }
