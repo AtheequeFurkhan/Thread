@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry",
+      "link": "https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3MDUtMGE4OC03NmE4LThiY2ItNmQwMDI4MTk4NmVkLmpwZw==.jpg\" alt=\"Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin options markets remain tilted toward bears despite US investors’ expectations of economic stimulus injections and semi-bullish outlook for 2026.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-24T20:13:44.276962993Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Officials discover a million more documents potentially related to Epstein case",
       "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 15:09:21 GMT",
       "fetched_at": "2025-12-16T15:42:51.928464111Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish",
-      "link": "https://cointelegraph.com/news/why-cant-ethereum-hold-3k-eth-recovery-doubt-data-bearish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3OGMtZWQ2OS03ZjI3LTgwOTEtMjY0NWIyZWIyZDNlLmpwZw==.jpg\" alt=\"Why can’t Ethereum hold $3K? ETH recovery in doubt as data tilts bearish\"\u003e\u003c/p\u003e\u003cp\u003eEthereum price wobbled as weak onchain activity, low futures demand and aggressive selling by holders favored a potential ETH price drop to $2,300.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 15:23:07 +0000",
-      "fetched_at": "2025-12-16T15:42:51.565753Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1174,
-  "last_update": "2025-12-24T19:47:26.791536636Z"
+  "total_captured": 1175,
+  "last_update": "2025-12-24T20:13:44.276988531Z"
 }
