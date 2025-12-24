@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 06:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1137-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 07:17 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1138-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 06:54 UTC)*
+*(Updated: 24 Dec 07:17 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Amplify ETFs for stablecoins, tokenization go live for trading](https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Crisis in India-Bangladesh relations spirals amid violent protests](https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | ['Inappropriate friends' email from 'Balmoral' among Epstein release](https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [UN experts urge Iran to stop execution of woman activist](https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [From FTX fallout to fresh capital: Former US chief raises $35M for new exchange](https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Brazil's Supreme Court allows Bolsonaro to leave prison for surgery](https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Have the American Pope and the American administration fallen out?](https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Multiple injured in explosion and fire at Pennsylvania nursing home](https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
