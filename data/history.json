@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "70% Ether positions are 'long' as whale accumulation tightens ETH supply",
+      "link": "https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMmMtZjlkZS03YTU5LWIzYmYtZGM3OGZjMzFiOTY4.jpg\" alt=\"70% Ether positions are 'long' as whale accumulation tightens ETH supply\"\u003e\u003c/p\u003e\u003cp\u003eWhales have accumulated over $2 billion in Ether, as derivatives positioning skewed 70% net long with leverage at record highs. When will ETH price break out?\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 15:50:00 +0000",
+      "fetched_at": "2025-12-24T16:15:36.146998883Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Merry Christmas, Caroline Ellison: Here's an early release from custody",
+      "link": "https://cointelegraph.com/news/merry-christmas-caroline-ellison-release?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwY2EtMGYwYi03MDI5LWFkY2YtNDYwYmMxMmJlM2JkLmpwZw==.jpg\" alt=\"Merry Christmas, Caroline Ellison: Here's an early release from custody\"\u003e\u003c/p\u003e\u003cp\u003eThe former Alameda Research CEO, subject to intense public scrutiny for her role in FTX's collapse and association with Sam Bankman-Fried, will be released in January.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 15:53:08 +0000",
+      "fetched_at": "2025-12-24T16:15:36.146981189Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Five governments that clarified crypto licensing in 2025",
       "link": "https://cointelegraph.com/explained/five-governments-that-clarified-crypto-licensing-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 08 Dec 2025 12:19:21 GMT",
       "fetched_at": "2025-12-16T13:50:01.998180667Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Custodia renews bid for Fed master account in rehearing push at Tenth Circuit",
-      "link": "https://cointelegraph.com/news/custodia-bank-rehearing-en-banc-master-account?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2YzMtMDBlNC03NjNmLWIxMWYtZjE5ZTM2N2Q5NzI5LmpwZw==.jpg\" alt=\"Custodia renews bid for Fed master account in rehearing push at Tenth Circuit\"\u003e\u003c/p\u003e\u003cp\u003eCustodia Bank is asking the full Tenth Circuit Court of Appeals to review the US Fed’s decision denying it a master account, which would allow it to process payments directly.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 12:28:00 +0000",
-      "fetched_at": "2025-12-16T13:11:31.342118647Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’",
-      "link": "https://cointelegraph.com/news/solana-ddos-attack-6-tbps-network-stays-online?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2NzctOTQ5ZC03NjUxLThiYzEtZGI1NTE5OGE3OGY2LmpwZw==.jpg\" alt=\"Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’\"\u003e\u003c/p\u003e\u003cp\u003eSolana co-founder Anatoly Yakovenko claims the network is facing an industrial-scale 6 Tbps DDoS attack that has shown little visible impact.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 13:05:05 +0000",
-      "fetched_at": "2025-12-16T13:11:31.342076569Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1163,
-  "last_update": "2025-12-24T15:50:43.882288281Z"
+  "total_captured": 1165,
+  "last_update": "2025-12-24T16:15:36.430586955Z"
 }
