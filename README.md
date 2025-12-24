@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 09:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1141-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 10:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1145-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 09:52 UTC)*
+*(Updated: 24 Dec 10:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Venezuela accuses US of 'extortion' over seizure of oil tankers](https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **World** | [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Have the American Pope and the American administration fallen out?](https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Multiple injured in explosion and fire at Pennsylvania nursing home](https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Australia to deport British man charged with displaying Nazi symbols](https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files](https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp](https://cointelegraph.com/news/bitcoin-price-prediction-drawdown-not-likely-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Bitcoin treasury Matador’s $58M share-sale approved to expand holdings](https://cointelegraph.com/news/matador-approved-raise-58-million-for-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Amplify ETFs for stablecoins, tokenization go live for trading](https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn](https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Venezuela accuses US of 'extortion' over seizure of oil tankers](https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Brazil's Supreme Court allows Bolsonaro to leave prison for surgery](https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
