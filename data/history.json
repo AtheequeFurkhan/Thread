@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
+      "link": "https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUxMDYtMjkwMy03ZTFhLWJjYTctZmQxNWUwM2FhNDQ2LmpwZw==.jpg\" alt=\"Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins turned down from their overhead resistance levels, signaling that the bears continue to sell on rallies.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 16:30:00 +0000",
+      "fetched_at": "2025-12-24T16:46:19.020348583Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "70% Ether positions are 'long' as whale accumulation tightens ETH supply",
       "link": "https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 13:36:42 +0000",
       "fetched_at": "2025-12-16T13:50:02.238223993Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
-      "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges.",
-      "published": "Mon, 08 Dec 2025 12:19:21 GMT",
-      "fetched_at": "2025-12-16T13:50:01.998180667Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1165,
-  "last_update": "2025-12-24T16:15:36.430586955Z"
+  "total_captured": 1166,
+  "last_update": "2025-12-24T16:46:20.013713746Z"
 }
