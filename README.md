@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 05:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1136-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 05:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1137-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 05:18 UTC)*
+*(Updated: 24 Dec 05:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Amplify ETFs for stablecoins, tokenization go live for trading](https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn](https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | ['Inappropriate friends' email from 'Balmoral' among Epstein release](https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [UN experts urge Iran to stop execution of woman activist](https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [From FTX fallout to fresh capital: Former US chief raises $35M for new exchange](https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Business** | [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Amplify ETFs for stablecoins, tokenization go live for trading](https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn](https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana treasury Upexi slides 7.5% on $1B shelf registration filing](https://cointelegraph.com/news/solana-treasury-upexi-slides-1-billion-shelf-registration-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp](https://cointelegraph.com/news/bitcoin-price-prediction-drawdown-not-likely-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin treasury Matador’s $58M share-sale approved to expand holdings](https://cointelegraph.com/news/matador-approved-raise-58-million-for-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

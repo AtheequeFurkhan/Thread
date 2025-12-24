@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Extended crypto ETF outflows shows institutions disengaging: Glassnode",
+      "link": "https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlYTYtZmZjYi03NTQ1LTg3YzMtNTFkYTkzNTRkYTUzLmpwZw==.jpg\" alt=\"Extended crypto ETF outflows shows institutions disengaging: Glassnode\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and Ether ETFs have recorded sustained outflows since early November, which Glassnode says signals institutional disengagement.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 05:18:30 +0000",
+      "fetched_at": "2025-12-24T05:45:24.622592435Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
       "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 05:53:18 +0000",
       "fetched_at": "2025-12-16T06:20:50.46750503Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Most crypto sectors lagged Bitcoin over past 3 months: Glassnode",
-      "link": "https://cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1OWItNGU2Mi03NzJhLWIyMTktYWQ4OWZkYWEzMjJmLmpwZw==.jpg\" alt=\"Most crypto sectors lagged Bitcoin over past 3 months: Glassnode\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin fell 26% in three months but outperformed most crypto sectors as Ether dropped 36%, AI tokens fell 48%, and memecoins dipped 56%.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 06:10:26 +0000",
-      "fetched_at": "2025-12-16T06:20:50.46748387Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1136,
-  "last_update": "2025-12-24T05:18:38.091308451Z"
+  "total_captured": 1137,
+  "last_update": "2025-12-24T05:45:25.089925902Z"
 }
