@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Two police officers killed in explosion in Moscow",
+      "link": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An explosion was detonated after police approached a 'suspicious' individual in Moscow, authorities said.",
+      "published": "Wed, 24 Dec 2025 08:58:48 GMT",
+      "fetched_at": "2025-12-24T15:13:18.972497102Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead",
+      "link": "https://cointelegraph.com/news/xrp-price-below-2-negative-sentiment-signals-strong-rebound?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmMTYtMzE1Ni03ODk2LWE0NzktNzljZTdhMzQxZGY0.jpg\" alt=\"XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead\"\u003e\u003c/p\u003e\u003cp\u003eXRP social sentiment hits extreme fear levels, a setup that has sparked sharp rebounds in the past, but XRP faces stiff resistance in its recovery path.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 15:03:53 +0000",
+      "fetched_at": "2025-12-24T15:13:18.950872958Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Web3 and DApps in 2026: A utility-driven year ahead for crypto",
       "link": "https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 12:17:12 +0000",
       "fetched_at": "2025-12-16T12:26:17.634113079Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
-      "published": "Sat, 06 Dec 2025 01:00:18 GMT",
-      "fetched_at": "2025-12-16T12:26:17.544070791Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The unexpected history of those oh-so annoying internet popup ads",
-      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
-      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
-      "fetched_at": "2025-12-16T12:26:17.544056645Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1158,
-  "last_update": "2025-12-24T14:51:23.613040548Z"
+  "total_captured": 1160,
+  "last_update": "2025-12-24T15:13:18.972516781Z"
 }
