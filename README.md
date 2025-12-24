@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 09:43 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1140-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 09:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1141-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 09:43 UTC)*
+*(Updated: 24 Dec 09:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **World** | [Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files](https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp](https://cointelegraph.com/news/bitcoin-price-prediction-drawdown-not-likely-anthony-pompliano?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Bitcoin treasury Matador’s $58M share-sale approved to expand holdings](https://cointelegraph.com/news/matador-approved-raise-58-million-for-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Crisis in India-Bangladesh relations spirals amid violent protests](https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Brazil's Supreme Court allows Bolsonaro to leave prison for surgery](https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Have the American Pope and the American administration fallen out?](https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

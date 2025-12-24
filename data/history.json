@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says",
+      "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option.",
+      "published": "Wed, 24 Dec 2025 09:52:14 GMT",
+      "fetched_at": "2025-12-24T09:52:49.88434803Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy",
       "link": "https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 07:30:16 GMT",
       "fetched_at": "2025-12-16T07:41:38.43044964Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BBC visits flower-lined Bondi Pavilion after attack",
-      "link": "https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Crowds of people have left flowers and candles as a tribute to the 15 people who were killed in the attack in Sydney.",
-      "published": "Tue, 16 Dec 2025 03:31:25 GMT",
-      "fetched_at": "2025-12-16T06:54:49.105095787Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1140,
-  "last_update": "2025-12-24T09:43:02.835398818Z"
+  "total_captured": 1141,
+  "last_update": "2025-12-24T09:52:49.884367396Z"
 }
