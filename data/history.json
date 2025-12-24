@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
+      "link": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It is not clear if Asfura's opponents will accept the result after saying the vote count was manipulated.",
+      "published": "Wed, 24 Dec 2025 22:25:29 GMT",
+      "fetched_at": "2025-12-24T22:34:39.947187341Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Eleven arrested over mass shooting in South Africa tavern",
       "link": "https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 17:19:22 +0000",
       "fetched_at": "2025-12-16T17:45:34.982884706Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
-      "link": "https://cointelegraph.com/news/valour-solana-etp-brazil-b3-approval?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3Y2MtYzQyNi03YTI3LWExNDItMmVmYjk1MGZiZDRhLmpwZw==.jpg\" alt=\"Solana enters Brazil’s main exchange as Valour expands regulated crypto access\"\u003e\u003c/p\u003e\u003cp\u003eThe Solana-linked product expands Valour’s Brazil footprint as demand for regulated crypto exposure grows among regional investors.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 17:10:26 +0000",
-      "fetched_at": "2025-12-16T17:17:29.824873472Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1178,
-  "last_update": "2025-12-24T22:12:37.602849936Z"
+  "total_captured": 1179,
+  "last_update": "2025-12-24T22:34:39.947201567Z"
 }
