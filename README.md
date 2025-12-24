@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 15:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1160-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 15:33 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1162-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 15:13 UTC)*
+*(Updated: 24 Dec 15:33 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Two police officers killed in explosion in Moscow](https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead](https://cointelegraph.com/news/xrp-price-below-2-negative-sentiment-signals-strong-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Web3 and DApps in 2026: A utility-driven year ahead for crypto](https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Venezuela accuses US of 'extortion' over seizure of oil tankers](https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says](https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US denies visas to ex-EU commissioner and others over social media rules](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World

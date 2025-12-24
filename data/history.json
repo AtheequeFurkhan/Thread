@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
+      "published": "Sat, 06 Dec 2025 01:00:18 GMT",
+      "fetched_at": "2025-12-24T15:33:55.620453563Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The unexpected history of those oh-so annoying internet popup ads",
+      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
+      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
+      "fetched_at": "2025-12-24T15:33:55.620361328Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Two police officers killed in explosion in Moscow",
       "link": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 12:54:00 GMT",
       "fetched_at": "2025-12-16T13:11:30.770190384Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
-      "link": "https://cointelegraph.com/news/japan-s-sbi-and-startale-plan-regulated-yen-stablecoin-in-2026-under-new-framework?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIxY2QtNDg2Mi03OWU4LWI5MWMtMzhiODc4MGEwMjM3LmpwZw==.jpg\" alt=\"Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework\"\u003e\u003c/p\u003e\u003cp\u003eSBI Holdings and Startale plan a regulated yen stablecoin via Shinsei Trust, aiming for tokenized assets and cross-border settlement by Q2 2026.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 01:00:00 +0000",
-      "fetched_at": "2025-12-16T12:26:17.634142734Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Spain’s regulator sets out MiCA transition rules for crypto platforms",
-      "link": "https://cointelegraph.com/news/spain-sets-out-mica-expectations?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2YjMtY2U5MS03MGUxLWI2NGYtM2FiYTAwZGY2NTQ1LmpwZw==.jpg\" alt=\"Spain’s regulator sets out MiCA transition rules for crypto platforms\"\u003e\u003c/p\u003e\u003cp\u003eSpain’s securities regulator, CNMV, has spelled out how it plans to run MiCA in practice, using a new Q\u0026A to tell crypto companies what to expect.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 12:17:12 +0000",
-      "fetched_at": "2025-12-16T12:26:17.634113079Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1160,
-  "last_update": "2025-12-24T15:13:18.972516781Z"
+  "total_captured": 1162,
+  "last_update": "2025-12-24T15:33:56.226658802Z"
 }
