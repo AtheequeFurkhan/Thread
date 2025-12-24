@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 13:07 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1153-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 13:43 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1156-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 13:07 UTC)*
+*(Updated: 24 Dec 13:43 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Huge fireball as tanker explodes on Italian motorway](https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Ho Ho No! Santa pulled over for speeding in Ohio](https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [El Salvador’s Bitcoin aspirations were brought closer to earth in 2025](https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight](https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Rivalries and rumours: How the new order of the Murdoch dynasty is playing out](https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Amplify ETFs for stablecoins, tokenization go live for trading](https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn](https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Trump family-linked USD1 supply up $150M as Binance rolls out yield program](https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Aave founder under scrutiny for $10M token purchase amid governance drama](https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [El Salvador’s Bitcoin aspirations were brought closer to earth in 2025](https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price](https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Three signs that Bitcoin is finding its market bottom](https://cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Kraken IPO, M&A deals to reignite crypto's 'mid-stage' cycle: fund manager](https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US denies visas to ex-EU commissioner and others over social media rules](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
