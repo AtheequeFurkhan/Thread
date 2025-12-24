@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "How Ondo Finance plans to bring tokenized US stocks to Solana",
+      "link": "https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmZTUtMzFjMC03MzUxLWExMTgtMjBkNmI3YzlhOWUzLmpwZw==.jpg\" alt=\"How Ondo Finance plans to bring tokenized US stocks to Solana\"\u003e\u003c/p\u003e\u003cp\u003eOndo plans to launch tokenized US stocks and ETFs on Solana in 2026, using custody-backed assets, onchain transfers and embedded compliance.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 10:22:37 +0000",
+      "fetched_at": "2025-12-24T10:38:50.732701531Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin is stuck below $90K until these market conditions improve",
+      "link": "https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiNzgtYTI0OS03M2U4LTlmYmEtZDU2ZDExZmM2ODRmLmpwZw==.jpg\" alt=\"Bitcoin is stuck below $90K until these market conditions improve\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin holds near $87,000 as on-chain activity and exchange inflows fall, signalling tight liquidity and looming volatility.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 10:25:29 +0000",
+      "fetched_at": "2025-12-24T10:38:50.732676795Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs",
       "link": "https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-16T10:15:02.659587769Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
-      "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Reiner was a longtime Democrat, liberal activist and outspoken opponent of the US president.",
-      "published": "Tue, 16 Dec 2025 09:49:57 GMT",
-      "fetched_at": "2025-12-16T10:15:02.475399477Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Winklevoss-led Gemini rolls out prediction markets in 50 US states",
-      "link": "https://cointelegraph.com/news/winklevoss-gemini-kicks-off-prediction-markets-in-50-us-states?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MjMtNDM3OC03MDlmLTkyODctZTU4NjA4MGY2NTE0LmpwZw==.jpg\" alt=\"Winklevoss-led Gemini rolls out prediction markets in 50 US states\"\u003e\u003c/p\u003e\u003cp\u003eGemini’s prediction markets go live nationwide in the US following federal approval, joining a race among crypto companies to build “everything apps.”\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 09:44:42 +0000",
-      "fetched_at": "2025-12-16T10:15:02.343775441Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1145,
-  "last_update": "2025-12-24T10:13:54.412096518Z"
+  "total_captured": 1147,
+  "last_update": "2025-12-24T10:38:51.14564977Z"
 }

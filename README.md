@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-24 Dec 10:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1145-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-24 Dec 10:38 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1147-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 24 Dec 10:13 UTC)*
+*(Updated: 24 Dec 10:38 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin is stuck below $90K until these market conditions improve](https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Border villagers abducted and taken to Russia, says Ukraine](https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [US denies visas to ex-EU commissioner and others over social media rules](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [An alleged drug cartel and a murdered witness: South Africa's police corruption probe](https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Have the American Pope and the American administration fallen out?](https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Multiple injured in explosion and fire at Pennsylvania nursing home](https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How Ondo Finance plans to bring tokenized US stocks to Solana](https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin is stuck below $90K until these market conditions improve](https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs](https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto downturn reveals gap between VC valuations and market cap](https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy](https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [HashKey secures $250M for new crypto fund amid ‘significant interest’](https://cointelegraph.com/news/hashkey-secures-250m-first-close-crypto-fund-iv-institutional-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Extended crypto ETF outflows shows institutions disengaging: Glassnode](https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
