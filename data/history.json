@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Eleven arrested over mass shooting in South Africa tavern",
+      "link": "https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Preliminary investigations revealed the motive could be linked to illegal mining turf wars, police said.",
+      "published": "Wed, 24 Dec 2025 21:31:37 GMT",
+      "fetched_at": "2025-12-24T22:12:37.356369396Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "From stablecoins to incumbents, VCs map crypto value in 2025",
+      "link": "https://cointelegraph.com/news/stablecoins-incumbents-vcs-map-crypto-value-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUyMWMtN2EwOC03MWY1LWFlZWItOThmOWQ5YjJlZmYyLmpwZw==.jpg\" alt=\"From stablecoins to incumbents, VCs map crypto value in 2025\"\u003e\u003c/p\u003e\u003cp\u003eVenture partners such as Pantera, Hash3 and Variant look back on a year of regulatory shifts and uneven markets, outlining crypto’s biggest winners and losers in 2025.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 22:04:35 +0000",
+      "fetched_at": "2025-12-24T22:12:37.288183259Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push",
       "link": "https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 17:10:26 +0000",
       "fetched_at": "2025-12-16T17:17:29.824873472Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UK crypto ownership dropped to 8% in 2025: YouGov poll",
-      "link": "https://cointelegraph.com/news/uk-crypto-ownership-dropped-poll-fca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3OGUtMzE5OC03NDRiLWExNzMtNzg0NjQzMWFlMGIyLmpwZw==.jpg\" alt=\"UK crypto ownership dropped to 8% in 2025: YouGov poll\"\u003e\u003c/p\u003e\u003cp\u003eWhile a poll suggested that the percentage of crypto ownership dropped in the UK, the amount of digital assets held increased, with a majority reporting Bitcoin and Ether holdings.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 16:45:44 +0000",
-      "fetched_at": "2025-12-16T16:52:57.136158913Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K",
-      "link": "https://cointelegraph.com/news/bitcoin-liquidity-battle-rages-bull-case-clear-run-95k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI3YjktMmI1ZC03NjYxLTg2ZjQtMzZlOGMwZTNkOWJlLmpwZw==.jpg\" alt=\"Bitcoin liquidity ‘battle’ rages as bull case sees clear run to $95K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin liquidity grabs continued at the Wall Street open, with traders hoping that a breakthrough of resistance would propel the BTC price toward the $100,000 zone.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 15:39:10 +0000",
-      "fetched_at": "2025-12-16T15:53:58.38901585Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1176,
-  "last_update": "2025-12-24T21:48:23.876767199Z"
+  "total_captured": 1178,
+  "last_update": "2025-12-24T22:12:37.602849936Z"
 }
