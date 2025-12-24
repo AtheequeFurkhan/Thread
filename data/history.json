@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "title": "US denies visas to ex-EU commissioner and others over social media rules",
+      "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place.",
+      "published": "Wed, 24 Dec 2025 00:45:28 GMT",
+      "fetched_at": "2025-12-24T00:59:19.061483358Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "An alleged drug cartel and a murdered witness: South Africa's police corruption probe",
+      "link": "https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Allegations of graft and political interference in the police have been aired at public hearings.",
+      "published": "Wed, 24 Dec 2025 00:02:58 GMT",
+      "fetched_at": "2025-12-24T00:59:18.519758173Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Have the American Pope and the American administration fallen out?",
+      "link": "https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Why the Catholic Church and Donald Trump’s government are at odds over immigration policy.",
+      "published": "Wed, 24 Dec 2025 00:03:08 GMT",
+      "fetched_at": "2025-12-24T00:59:18.519743866Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Multiple injured in explosion and fire at Pennsylvania nursing home",
+      "link": "https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The fire is still active and there are people trapped inside, authorities say.",
+      "published": "Tue, 23 Dec 2025 22:49:21 GMT",
+      "fetched_at": "2025-12-24T00:59:18.519729109Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Australia to deport British man charged with displaying Nazi symbols",
+      "link": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The immigration minister said the man is an unwelcome \"guest\" in Australia.",
+      "published": "Wed, 24 Dec 2025 00:25:04 GMT",
+      "fetched_at": "2025-12-24T00:59:18.519714862Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
+      "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The largest release of Epstein-related documents yet from the justice department included some notable messages and several mentions of Trump.",
+      "published": "Wed, 24 Dec 2025 00:45:45 GMT",
+      "fetched_at": "2025-12-24T00:59:18.519695576Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp",
+      "link": "https://cointelegraph.com/news/bitcoin-price-prediction-drawdown-not-likely-anthony-pompliano?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwMWEtYzg4ZS03YzdjLTk5NzItOTI3NjI4ZjgyODYw.jpg\" alt=\"Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin has been a “monster in financial markets” even though it hasn’t hit the most optimistic 2025 price targets, says Anthony Pompliano.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 00:18:38 +0000",
+      "fetched_at": "2025-12-24T00:59:18.287108578Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitcoin treasury Matador’s $58M share-sale approved to expand holdings",
+      "link": "https://cointelegraph.com/news/matador-approved-raise-58-million-for-bitcoin-treasury?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRkMzYtMTA2Ny03MmM5LWJhYTYtOWE3ZDY4MzE4OTcyLmpwZw==.jpg\" alt=\"Bitcoin treasury Matador’s $58M share-sale approved to expand holdings\"\u003e\u003c/p\u003e\u003cp\u003eThe Ontario Securities Commission has cleared Matador to raise $58 million, which it intends to use to expand its Bitcoin treasury.\u003c/p\u003e",
+      "published": "Wed, 24 Dec 2025 00:25:36 +0000",
+      "fetched_at": "2025-12-24T00:59:18.287076006Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
       "link": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4427,80 +4499,8 @@
       "published": "Tue, 16 Dec 2025 02:21:20 +0000",
       "fetched_at": "2025-12-16T02:53:48.015578243Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Reddit challenges Australia's world-first law banning children under 16 from social media",
-      "link": "https://www.npr.org/2025/12/12/g-s1-101828/reddit-challenges-australias-social-media-law",
-      "category": "Business",
-      "summary": "Global online forum Reddit files a court challenge to Australian law blocking children under 16 from holding accounts on the world's most popular social media platforms.",
-      "published": "Fri, 12 Dec 2025 01:30:11 -0500",
-      "fetched_at": "2025-12-16T01:00:05.454679064Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ford pulls the plug on the all-electric F-150 Lightning pickup truck",
-      "link": "https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-all-electric-f-150-lightning",
-      "category": "Business",
-      "summary": "Ford says it is \"following the customer\" in discontinuing its large electric pickup, which was well-received but never profitable. Ford will keep the Lightning name alive as a plug-in hybrid.",
-      "published": "Mon, 15 Dec 2025 17:24:25 -0500",
-      "fetched_at": "2025-12-16T01:00:05.454646263Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
-      "link": "https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI0MjgtNDQwNy03YjY1LWI3NDQtZjc5MGMxMjg4ZTQwLkpQRw==.jpg\" alt=\"Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets\"\u003e\u003c/p\u003e\u003cp\u003eThe crypto market corrected as a shake-up in the Trump administration’s Fed chair pick spooked traders, and growing US macroeconomic challenges led investors to risk-off.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 00:17:35 +0000",
-      "fetched_at": "2025-12-16T01:00:04.989828448Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Meet the biggest heat pumps in the world",
-      "link": "https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Across Europe huge heat pumps are being installed that can heat tens of thousands of homes.",
-      "published": "Tue, 16 Dec 2025 00:06:44 GMT",
-      "fetched_at": "2025-12-16T01:00:04.596892622Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UK launches taskforce to 'break down barriers' for women in technology",
-      "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals.",
-      "published": "Tue, 16 Dec 2025 00:04:18 GMT",
-      "fetched_at": "2025-12-16T01:00:04.596839352Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "How the Maga world became divided - and what it means for Trump",
-      "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The next presidential election may seem a long way off, but current frictions within Trump’s coalition suggest the jockeying to succeed Trump is well under way",
-      "published": "Mon, 15 Dec 2025 22:11:03 GMT",
-      "fetched_at": "2025-12-15T22:51:41.779579386Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ford pulls the plug on the F-150 Lightning electric pickup truck",
-      "link": "https://www.npr.org/2025/12/15/nx-s1-5645147/ford-discontinues-f-150-lightning",
-      "category": "Business",
-      "summary": "Ford says it is \"following the customer\" in discontinuing its large electric pickup, which was well-received but never profitable. Ford will keep the Lightning name alive as a plug-in hybrid.",
-      "published": "Mon, 15 Dec 2025 17:24:25 -0500",
-      "fetched_at": "2025-12-15T22:35:29.093268455Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Epstein's UK flights had alleged British abuse victims on board, BBC finds",
-      "link": "https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Lawyers representing victims say it is “shocking” there has never been a “full-scale” UK inquiry.",
-      "published": "Mon, 15 Dec 2025 22:00:24 GMT",
-      "fetched_at": "2025-12-15T22:35:28.2730339Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1121,
-  "last_update": "2025-12-23T23:49:26.437185749Z"
+  "total_captured": 1129,
+  "last_update": "2025-12-24T00:59:19.061570181Z"
 }
