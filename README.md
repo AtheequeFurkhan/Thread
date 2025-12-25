@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 13:42 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1197-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 13:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1198-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 13:42 UTC)*
+*(Updated: 25 Dec 13:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Samourai Wallet co-founder spends Christmas Eve recounting first day in prison](https://cointelegraph.com/news/samourai-wallet-cofounder-prison-letter-pardon-petition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more](https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CZ proposes fix to address poisoning after investor loses $50M](https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto derivatives volume explode to $86T in 2025, averaging $265B per day](https://cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Polymarket says third-party provider caused reported account breaches](https://cointelegraph.com/news/polymarket-says-third-party-provider-caused-reported-account-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Sean 'Diddy' Combs files appeal asking for immediate prison release](https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump-backed candidate Nasry Asfura wins Honduras presidential election](https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Eleven arrested over mass shooting in South Africa tavern](https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Samourai Wallet co-founder spends Christmas Eve recounting first day in prison](https://cointelegraph.com/news/samourai-wallet-cofounder-prison-letter-pardon-petition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more](https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CZ proposes fix to address poisoning after investor loses $50M](https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto derivatives volume explode to $86T in 2025, averaging $265B per day](https://cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [NFT collections get no Santa rally as market hits 2025 lows](https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
