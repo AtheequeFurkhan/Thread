@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What the $310B stablecoin market reveals about crypto adoption",
+      "link": "https://cointelegraph.com/explained/what-the-310b-stablecoin-market-reveals-about-crypto-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU2NTQtNWYzYy03N2RkLTg1YmMtMWU4Y2RiMTRkYmY4LmpwZw==.jpg\" alt=\"What the $310B stablecoin market reveals about crypto adoption\"\u003e\u003c/p\u003e\u003cp\u003eEmerging markets are finally accessing finance, with a $310-billion stablecoin market showing that adoption is not hype. Here is what this milestone actually means.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 16:32:48 +0000",
+      "fetched_at": "2025-12-25T16:43:31.692763403Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Quantum computing in 2026: No crypto doomsday, but time to prepare",
       "link": "https://cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 09 Dec 2025 02:13:58 GMT",
       "fetched_at": "2025-12-17T02:45:24.521370144Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump expands US travel ban to five more countries",
-      "link": "https://www.bbc.com/news/articles/c4gkvxlpn55o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US will restrict entry of people from Burkina Faso, Mali, Niger, South Sudan and Syria as well as holders of Palestinian Authority passports.",
-      "published": "Wed, 17 Dec 2025 02:02:33 GMT",
-      "fetched_at": "2025-12-17T02:45:23.73759841Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1200,
-  "last_update": "2025-12-25T16:15:22.659851172Z"
+  "total_captured": 1201,
+  "last_update": "2025-12-25T16:43:31.938958362Z"
 }
