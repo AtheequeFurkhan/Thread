@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 11:39 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1193-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 11:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1194-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 11:39 UTC)*
+*(Updated: 25 Dec 11:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Pope Leo urges 'courage' to end Ukraine war in first Christmas address](https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Turkey arrests 115 IS suspects 'planning New Year's attacks'](https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [NFT collections get no Santa rally as market hits 2025 lows](https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Waterskiing Santas and giant cuts of meat: Christmas around the world](https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [From stablecoins to incumbents, VCs map crypto value in 2025](https://cointelegraph.com/news/stablecoins-incumbents-vcs-map-crypto-value-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push](https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry](https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Pope Leo urges 'courage' to end Ukraine war in first Christmas address](https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Turkey arrests 115 IS suspects 'planning New Year's attacks'](https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Waterskiing Santas and giant cuts of meat: Christmas around the world](https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Watch: Moment robbers rip ATM from inside Texas store](https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Where is Santa now? Trump answers kids' Christmas calls to Norad tracker](https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Front-runner to be Bangladesh PM returns after 17 years in exile](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
