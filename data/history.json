@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Social engineering cost crypto billions in 2025: How to protect yourself",
+      "link": "https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiY2QtZjk0Yi03YzllLWJmNjUtY2EwMGEzZDM0YjRi.jpg\" alt=\"Social engineering cost crypto billions in 2025: How to protect yourself\"\u003e\u003c/p\u003e\u003cp\u003eCrypto hackers took social engineering to a whole other level this year, and advances in artificial intelligence mean scams are about to get even harder to detect.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 05:47:17 +0000",
+      "fetched_at": "2025-12-25T05:52:51.912401508Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT",
       "link": "https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 19:17:06 GMT",
       "fetched_at": "2025-12-16T19:30:36.361487315Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "SEC ends probe into Aave after four years, CEO says",
-      "link": "https://cointelegraph.com/news/sec-aave-investigation-closed?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTktN2IyMS03MDlmLWEzODgtZWY0MWJjM2MzM2FmLmpwZw==.jpg\" alt=\"SEC ends probe into Aave after four years, CEO says\"\u003e\u003c/p\u003e\u003cp\u003eAccording to a letter posted by the protocol’s founder and CEO, the US agency does “not intend to recommend an enforcement action” against Aave.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 19:25:43 +0000",
-      "fetched_at": "2025-12-16T19:30:35.986070599Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1185,
-  "last_update": "2025-12-25T05:37:43.753048632Z"
+  "total_captured": 1186,
+  "last_update": "2025-12-25T05:52:52.067587433Z"
 }
