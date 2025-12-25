@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Watch: Pope Leo's plea for peace in Christmas message",
+      "link": "https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Pope Leo calls for an end to conflicts around the world in Christmas speech.",
+      "published": "Thu, 25 Dec 2025 16:44:28 GMT",
+      "fetched_at": "2025-12-25T16:57:00.512424363Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "What the $310B stablecoin market reveals about crypto adoption",
       "link": "https://cointelegraph.com/explained/what-the-310b-stablecoin-market-reveals-about-crypto-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 02:12:59 +0000",
       "fetched_at": "2025-12-17T02:45:24.839016717Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-      "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.",
-      "published": "Tue, 09 Dec 2025 02:13:58 GMT",
-      "fetched_at": "2025-12-17T02:45:24.521370144Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1201,
-  "last_update": "2025-12-25T16:43:31.938958362Z"
+  "total_captured": 1202,
+  "last_update": "2025-12-25T16:57:00.723495579Z"
 }
