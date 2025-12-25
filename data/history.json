@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'",
+      "link": "https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former leader is serving a 27-year sentence for plotting a coup after losing the 2022 presidential election.",
+      "published": "Thu, 25 Dec 2025 18:24:38 GMT",
+      "fetched_at": "2025-12-25T18:49:23.763752954Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Canton token rallies 27% after DTCC outlines tokenized Treasury plans",
+      "link": "https://cointelegraph.com/news/canton-token-rallies-after-dtcc-outlines-tokenized-treasury-plans?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmNzEtYzg3YS03MGVmLWE1ODEtY2U5MzMyYzU3MmZi.jpg\" alt=\"Canton token rallies 27% after DTCC outlines tokenized Treasury plans\"\u003e\u003c/p\u003e\u003cp\u003eDTCC’s move to bring US Treasurys onchain highlights growing institutional momentum behind tokenized real-world assets.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 18:42:09 +0000",
+      "fetched_at": "2025-12-25T18:49:23.578715578Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive",
       "link": "https://cointelegraph.com/news/bitcoin-mining-outlook-2026-ai-profitability-consolidation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 09 Dec 2025 00:10:31 GMT",
       "fetched_at": "2025-12-17T03:45:41.646257802Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
-      "link": "https://cointelegraph.com/news/crypto-etps-launch-us-sec-guidance-bitwise?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5MWEtNjM3Yy03NTMyLTllZjgtMzdjM2IyOTI2ZmRkLmpwZw==.jpg\" alt=\"Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise\"\u003e\u003c/p\u003e\u003cp\u003eThe number of crypto exchange-traded products is going to “accelerate forward at ridiculous speed” in 2026, according to Bitwise researcher Ryan Rasmussen.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 01:06:48 +0000",
-      "fetched_at": "2025-12-17T02:45:24.839050009Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tether leads $8M funding for Lightning startup focused on stablecoins",
-      "link": "https://cointelegraph.com/news/tether-invests-bitcoin-stablecoin-startup-speed1?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5YTUtYmRkNS03Njk1LWIyNmItZjZjMWNkYzFlNjgyLmpwZw==.jpg\" alt=\"Tether leads $8M funding for Lightning startup focused on stablecoins\"\u003e\u003c/p\u003e\u003cp\u003eSpeed, which leverages the Bitcoin Lightning Network to facilitate USDT transfers, has secured $8 million from Tether and Ego Death Capital.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 01:28:07 +0000",
-      "fetched_at": "2025-12-17T02:45:24.839035943Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1203,
-  "last_update": "2025-12-25T18:18:18.491094207Z"
+  "total_captured": 1205,
+  "last_update": "2025-12-25T18:49:24.041350464Z"
 }
