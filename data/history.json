@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Watch: Moment robbers rip ATM from inside Texas store",
+      "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The White Settlement Police Department is searching for two suspects.",
+      "published": "Thu, 25 Dec 2025 00:56:07 GMT",
+      "fetched_at": "2025-12-25T06:53:10.649572866Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Where is Santa now? Trump answers kids' Christmas calls to Norad tracker",
+      "link": "https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve.",
+      "published": "Thu, 25 Dec 2025 00:41:15 GMT",
+      "fetched_at": "2025-12-25T06:53:10.649560823Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
+      "link": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks for pivotal elections are held.",
+      "published": "Thu, 25 Dec 2025 06:44:21 GMT",
+      "fetched_at": "2025-12-25T06:53:10.64954316Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Social engineering cost crypto billions in 2025: How to protect yourself",
       "link": "https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 16 Dec 2025 20:00:00 +0000",
       "fetched_at": "2025-12-16T20:15:08.788092463Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
-      "link": "https://cointelegraph.com/news/bitcoin-treasury-kindly-md-nasdaq-price-notice?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4NzktY2Y2Zi03MzIzLWFkNTQtMDMyMzAyMjQ2Nzc5LmpwZw==.jpg\" alt=\"Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice\"\u003e\u003c/p\u003e\u003cp\u003eThe company has 180 days to regain compliance with Nasdaq’s minimum bid price requirement after its shares traded below $1 for 30 consecutive business days.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 20:01:27 +0000",
-      "fetched_at": "2025-12-16T20:15:08.788067244Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump's chief of staff Susie Wiles hits back at Vanity Fair 'hit piece'",
-      "link": "https://www.bbc.com/news/articles/c8dy532193do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "In the interview, Wiles describes Donald Trump as having an \"alcoholic's personality\" and JD Vance as having been a \"conspiracy theorist\" for a decade.",
-      "published": "Tue, 16 Dec 2025 19:33:59 GMT",
-      "fetched_at": "2025-12-16T19:48:16.734750469Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US designates Colombian cocaine gang a terrorist group",
-      "link": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America.",
-      "published": "Tue, 16 Dec 2025 19:17:06 GMT",
-      "fetched_at": "2025-12-16T19:30:36.361487315Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1186,
-  "last_update": "2025-12-25T06:20:29.913694272Z"
+  "total_captured": 1189,
+  "last_update": "2025-12-25T06:53:11.223298568Z"
 }

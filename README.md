@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 06:20 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1186-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 06:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1189-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 06:20 UTC)*
+*(Updated: 25 Dec 06:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Moment robbers rip ATM from inside Texas store](https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Where is Santa now? Trump answers kids' Christmas calls to Norad tracker](https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Front-runner to be Bangladesh PM returns after 17 years in exile](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Social engineering cost crypto billions in 2025: How to protect yourself](https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT](https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth](https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [Democratic board member muted during Kennedy Center vote sues to remove Trump's name](https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Explosion hits packed mosque in Nigeria](https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Ethereum price under pressure as $6B options expiry nears](https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone](https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [NFTs shifted to utility and culture as price faded in 2025](https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Moment robbers rip ATM from inside Texas store](https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Where is Santa now? Trump answers kids' Christmas calls to Norad tracker](https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Front-runner to be Bangladesh PM returns after 17 years in exile](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Sean 'Diddy' Combs files appeal asking for immediate prison release](https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump-backed candidate Nasry Asfura wins Honduras presidential election](https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Eleven arrested over mass shooting in South Africa tavern](https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Officials discover a million more documents potentially related to Epstein case](https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Democratic board member muted during Kennedy Center vote sues to remove Trump's name](https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
