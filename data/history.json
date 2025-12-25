@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more",
+      "link": "https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyZGEtMjkwMS03NWMyLTgzNzUtYzJjODcwN2Q2YTkwLmpwZw==.jpg\" alt=\"Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more\"\u003e\u003c/p\u003e\u003cp\u003eThe coming year will see perfect parallel processing, big increases in the gas limit and number of data blobs, and 10% of Ethereum’s network switching to ZK.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 13:00:00 +0000",
+      "fetched_at": "2025-12-25T13:07:01.480607093Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CZ proposes fix to address poisoning after investor loses $50M",
       "link": "https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 00:03:00 +0000",
       "fetched_at": "2025-12-17T00:55:10.479264972Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "What to know from Susie Wiles' interviews with 'Vanity Fair,' according to the writer",
-      "link": "https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-wiles-interviews-vanity-fair",
-      "category": "Business",
-      "summary": "Throughout the year, \u003cem\u003eVanity Fair\u003c/em\u003e writer Chris Whipple interviewed some of the people closest to President Trump. We speak with Whipple about his talks with White House chief of staff, Susie Wiles.",
-      "published": "Tue, 16 Dec 2025 17:05:51 -0500",
-      "fetched_at": "2025-12-16T23:12:06.314788233Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1196,
-  "last_update": "2025-12-25T12:24:09.357609717Z"
+  "total_captured": 1197,
+  "last_update": "2025-12-25T13:07:01.785504748Z"
 }
