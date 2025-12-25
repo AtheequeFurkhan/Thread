@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Waterskiing Santas and giant cuts of meat: Christmas around the world",
+      "link": "https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "From London to Bethlehem, services and festivities to mark the holiday cheer are in full swing.",
+      "published": "Thu, 25 Dec 2025 04:23:56 GMT",
+      "fetched_at": "2025-12-25T08:18:02.491937221Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC",
       "link": "https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 20:40:00 +0000",
       "fetched_at": "2025-12-16T20:52:51.233249387Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Second doctor sentenced in Matthew Perry overdose death",
-      "link": "https://www.bbc.com/news/articles/cj691n02g8ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Dr Mark Chavez, one of five people who pleaded guilty in the Friends star's death, was sentenced to eight months of home detention.",
-      "published": "Tue, 16 Dec 2025 20:10:45 GMT",
-      "fetched_at": "2025-12-16T20:15:08.811889479Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1190,
-  "last_update": "2025-12-25T07:49:00.625181278Z"
+  "total_captured": 1191,
+  "last_update": "2025-12-25T08:18:03.028287621Z"
 }
