@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "NFT collections get no Santa rally as market hits 2025 lows",
+      "link": "https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0OTEtMjhiYi03MDkyLWE2MzctN2ZmZTk2ZWRhNWVhLmpwZw==.jpg\" alt=\"NFT collections get no Santa rally as market hits 2025 lows\"\u003e\u003c/p\u003e\u003cp\u003eMarket data showed shrinking participation across NFTs, with fewer buyers, sellers and transactions signaling fading speculative interest.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 10:04:50 +0000",
+      "fetched_at": "2025-12-25T10:13:47.548618512Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Waterskiing Santas and giant cuts of meat: Christmas around the world",
       "link": "https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 21:09:43 +0000",
       "fetched_at": "2025-12-16T21:32:53.115862023Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay",
-      "link": "https://cointelegraph.com/news/pancakeswap-elizabeth-warren-concerns-market-structure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4NzgtMTlmYi03NTAxLWJjOWMtYzNkOTY5NjJhODY1LmpwZw==.jpg\" alt=\"US senator sounds alarm on DeFi, cites PancakeSwap amid market structure delay\"\u003e\u003c/p\u003e\u003cp\u003eWith the US Senate set to break for the holidays, Senator Elizabeth Warren asked Justice and Treasury Department officials to disclose any potential investigations into the DeFi platform.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 20:40:00 +0000",
-      "fetched_at": "2025-12-16T20:52:51.233249387Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1191,
-  "last_update": "2025-12-25T09:50:58.00328359Z"
+  "total_captured": 1192,
+  "last_update": "2025-12-25T10:13:48.123950014Z"
 }
