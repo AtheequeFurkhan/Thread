@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas",
+      "link": "https://cointelegraph.com/news/pudgy-penguins-nft-characters-las-vegas-sphere-christmas-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3MWUtZjE5ZC03NGU5LWFiODUtOTQ2MDNlYjdlYjQ1LmpwZw==.jpg\" alt=\"Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas\"\u003e\u003c/p\u003e\u003cp\u003eThe non-fungible token project owned by Luca Netz appeared on the Sphere’s exterior screens, with the animated display going live on Christmas Eve.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 21:09:49 +0000",
+      "fetched_at": "2025-12-25T21:30:04.694765299Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Narratives versus reality: What really drives Bitcoin and altcoin prices?",
       "link": "https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 04:30:59 +0000",
       "fetched_at": "2025-12-17T04:51:31.939128957Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US government ‘tech force’ gets backup from Coinbase, Robinhood",
-      "link": "https://cointelegraph.com/news/us-tech-force-backup-coinbase-robinhood?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5N2YtMmM0NC03OTJhLWE2NjMtYzQyMTZhMDI0NTE5LmpwZw==.jpg\" alt=\"US government ‘tech force’ gets backup from Coinbase, Robinhood\"\u003e\u003c/p\u003e\u003cp\u003eThe US government wants 1,000 tech workers to boost its capabilities and has turned to the private sector to plug its skill shortages.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 02:58:29 +0000",
-      "fetched_at": "2025-12-17T03:45:41.892279818Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1207,
-  "last_update": "2025-12-25T21:11:50.965457722Z"
+  "total_captured": 1208,
+  "last_update": "2025-12-25T21:30:05.031666491Z"
 }
