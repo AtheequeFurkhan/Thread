@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 05:00 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1183-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 05:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1185-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 05:00 UTC)*
+*(Updated: 25 Dec 05:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT](https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth](https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Tokenization has moved past money only meaning fiat: Kraken exec](https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Solana and Ethereum can coexist in tokenization race: Dragonfly VC](https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Polymarket says third-party provider caused reported account breaches](https://cointelegraph.com/news/polymarket-says-third-party-provider-caused-reported-account-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [NFTs shifted to utility and culture as price faded in 2025](https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Algerian law declares France's colonisation a crime](https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [70% Ether positions are 'long' as whale accumulation tightens ETH supply](https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Merry Christmas, Caroline Ellison: Here's an early release from custody](https://cointelegraph.com/news/merry-christmas-caroline-ellison-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT](https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth](https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tokenization has moved past money only meaning fiat: Kraken exec](https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Solana and Ethereum can coexist in tokenization race: Dragonfly VC](https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Polymarket says third-party provider caused reported account breaches](https://cointelegraph.com/news/polymarket-says-third-party-provider-caused-reported-account-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [From stablecoins to incumbents, VCs map crypto value in 2025](https://cointelegraph.com/news/stablecoins-incumbents-vcs-map-crypto-value-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push](https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

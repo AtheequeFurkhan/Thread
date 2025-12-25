@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT",
+      "link": "https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg\" alt=\"Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT\"\u003e\u003c/p\u003e\u003cp\u003eThe number of crypto deals reportedly skyrocketed this year and hit a record total value of $8.6 billion, led by Coinbase’s record-breaking acquisition of Deribit.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 04:59:06 +0000",
+      "fetched_at": "2025-12-25T05:37:43.399238715Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth",
+      "link": "https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUzNmItOWI4NS03ZjVjLWJkNmItNGMwMTQxOTE3ODkwLmpwZw==.jpg\" alt=\"Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth\"\u003e\u003c/p\u003e\u003cp\u003eElon Musk added that “triple-digit” economic growth could even be possible by 2030; however, some Bitcoiners worry about a 2026 bear market.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 05:18:39 +0000",
+      "fetched_at": "2025-12-25T05:37:43.399208659Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tokenization has moved past money only meaning fiat: Kraken exec",
       "link": "https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 19:25:43 +0000",
       "fetched_at": "2025-12-16T19:30:35.986070599Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why",
-      "link": "https://cointelegraph.com/news/the-bitcoin-to-gold-ratio-fell-50percent-in-2025-here-s-why?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2NGMtOTUxNC03NjkzLTk2ZjktMDQ4ZjcwNzUxMTZiLmpwZw==.jpg\" alt=\"The Bitcoin-to-gold ratio fell 50% in 2025: Here’s why\"\u003e\u003c/p\u003e\u003cp\u003eGold strongly outperformed Bitcoin in 2025, resulting in a 50% decline in the BTC-to-gold ratio. Will the trend flip in BTC’s favor in 2026?\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 18:45:25 +0000",
-      "fetched_at": "2025-12-16T18:52:50.551819573Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why BitMine is accumulating Ether despite broader market fear",
-      "link": "https://cointelegraph.com/news/why-bitmine-is-accumulating-ether-despite-broader-market-fear?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MmYtZDYxMS03NzIzLWFiMzctZjFjZjYyMzY5ZTE0LmpwZw==.jpg\" alt=\"Why BitMine is accumulating Ether despite broader market fear\"\u003e\u003c/p\u003e\u003cp\u003eBitMine is building an Ether-heavy treasury as ETF flows wobble and exchange deposits rise, betting on Fusaka and staking to drive a longer-term thesis.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 18:10:00 +0000",
-      "fetched_at": "2025-12-16T18:19:57.332725453Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1183,
-  "last_update": "2025-12-25T05:00:44.381334325Z"
+  "total_captured": 1185,
+  "last_update": "2025-12-25T05:37:43.753048632Z"
 }
