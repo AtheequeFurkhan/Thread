@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Tokenization has moved past money only meaning fiat: Kraken exec",
+      "link": "https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhNjgtYzQxMC03ZTQyLWI1MmUtNzI3ZWZkMTc1YzAyLmpwZw==.jpg\" alt=\"Tokenization has moved past money only meaning fiat: Kraken exec\"\u003e\u003c/p\u003e\u003cp\u003eBlockchain tokenization is radically expanding the definition of money, enabling anyone to trade, save, and spend in virtually any asset they like, says Kraken’s Mark Greenberg.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 02:01:58 +0000",
+      "fetched_at": "2025-12-25T02:55:23.059244099Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Solana and Ethereum can coexist in tokenization race: Dragonfly VC",
+      "link": "https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUzM2YtZWY4Yy03MDQ2LTk3YTYtN2JiYTM1ODRjYmRmLmpwZw==.jpg\" alt=\"Solana and Ethereum can coexist in tokenization race: Dragonfly VC\"\u003e\u003c/p\u003e\u003cp\u003eDragonfly’s Rob Hadick says “there’s a lot of room” in crypto for more than one blockchain as networks race to win market share of tokenized assets.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 02:16:35 +0000",
+      "fetched_at": "2025-12-25T02:55:23.059220094Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Polymarket says third-party provider caused reported account breaches",
+      "link": "https://cointelegraph.com/news/polymarket-says-third-party-provider-caused-reported-account-breaches?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg\" alt=\"Polymarket says third-party provider caused reported account breaches\"\u003e\u003c/p\u003e\u003cp\u003eSome Polymarket users reported that their accounts had been breached and drained, which the prediction market blamed on a third-party provider.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 02:48:40 +0000",
+      "fetched_at": "2025-12-25T02:55:23.059197642Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
       "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 16 Dec 2025 18:10:00 +0000",
       "fetched_at": "2025-12-16T18:19:57.332725453Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
-      "link": "https://cointelegraph.com/news/us-banks-issue-stablecoins-fdic-genius-act?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4MTQtZTc2ZC03ODI4LWI5M2EtZDFlNGM3YzU2YWFkLkpQRw==.jpg\" alt=\"US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Deposit Insurance Corp.'s proposal outlines how banks could seek approval to issue payment stablecoins as US regulators move from legislation to rule-making.\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 18:15:27 +0000",
-      "fetched_at": "2025-12-16T18:19:57.332693443Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Rebels say they will withdraw from key DR Congo city at US request",
-      "link": "https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US accuses Rwanda of backing the rebel advance in breach of a deal brokered by President Trump.",
-      "published": "Tue, 16 Dec 2025 17:12:31 GMT",
-      "fetched_at": "2025-12-16T17:45:35.156861015Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "EU waters down plans to end petrol and diesel car sales by 2035",
-      "link": "https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Carmakers, particularly in Germany, have lobbied heavily for concessions to the planned rules.",
-      "published": "Tue, 16 Dec 2025 17:10:57 GMT",
-      "fetched_at": "2025-12-16T17:45:35.156840187Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1180,
-  "last_update": "2025-12-25T00:59:22.502270033Z"
+  "total_captured": 1183,
+  "last_update": "2025-12-25T02:55:23.27432319Z"
 }
