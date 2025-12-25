@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Narratives versus reality: What really drives Bitcoin and altcoin prices?",
+      "link": "https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2Y2MtNWNiOC03NDM5LTg4ZGMtZWRjY2E0OTQ1MWUzLmpwZw==.jpg\" alt=\"Narratives versus reality: What really drives Bitcoin and altcoin prices?\"\u003e\u003c/p\u003e\u003cp\u003eHeadlines move crypto fast, but liquidity decides what lasts. Data from ETFs, stablecoins and on-chain flows shows what really drives prices.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-25T20:14:07.198329465Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto Biz: Exchanges place their bets on prediction markets",
+      "link": "https://cointelegraph.com/news/crypto-prediction-markets-crypto-com-fairness-coinbase-acquisition?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzNTktZGNjYi03ZTBjLWJkOWItYWIxYjQxN2YyNDNm.jpg\" alt=\"Crypto Biz: Exchanges place their bets on prediction markets\"\u003e\u003c/p\u003e\u003cp\u003ePrediction markets are moving into crypto’s mainstream as Crypto.com’s in-house market maker raises fairness questions and Coinbase doubles down on growth.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-25T20:14:07.198305119Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'",
       "link": "https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 02:58:29 +0000",
       "fetched_at": "2025-12-17T03:45:41.892279818Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush",
-      "link": "https://cointelegraph.com/news/exodus-moonpay-join-stablecoin-gold-rush-with-latest-offering?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2YjAtZWI1ZS03YmM5LWE5MjItZTcyOGRkY2E4OWI4LmpwZw==.jpg\" alt=\"Exodus, MoonPay to roll out stablecoin in early 2026, joining gold rush\"\u003e\u003c/p\u003e\u003cp\u003eExodus partnered with MoonPay to launch a USD-backed stablecoin for everyday payments, integrating it into Exodus Pay for self-custodial transactions.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 03:27:56 +0000",
-      "fetched_at": "2025-12-17T03:45:41.892261283Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Is AI in recruitment a 'race to the bottom'?",
-      "link": "https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.",
-      "published": "Tue, 09 Dec 2025 00:10:31 GMT",
-      "fetched_at": "2025-12-17T03:45:41.646257802Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1205,
-  "last_update": "2025-12-25T19:47:44.371644327Z"
+  "total_captured": 1207,
+  "last_update": "2025-12-25T20:14:07.349498627Z"
 }

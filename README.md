@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1205-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 20:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1207-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 19:47 UTC)*
+*(Updated: 25 Dec 20:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Narratives versus reality: What really drives Bitcoin and altcoin prices?](https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto Biz: Exchanges place their bets on prediction markets](https://cointelegraph.com/news/crypto-prediction-markets-crypto-com-fairness-coinbase-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'](https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Canton token rallies 27% after DTCC outlines tokenized Treasury plans](https://cointelegraph.com/news/canton-token-rallies-after-dtcc-outlines-tokenized-treasury-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive](https://cointelegraph.com/news/bitcoin-mining-outlook-2026-ai-profitability-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Watch: Moment robbers rip ATM from inside Texas store](https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Where is Santa now? Trump answers kids' Christmas calls to Norad tracker](https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Front-runner to be Bangladesh PM returns after 17 years in exile](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Social engineering cost crypto billions in 2025: How to protect yourself](https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Narratives versus reality: What really drives Bitcoin and altcoin prices?](https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto Biz: Exchanges place their bets on prediction markets](https://cointelegraph.com/news/crypto-prediction-markets-crypto-com-fairness-coinbase-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Canton token rallies 27% after DTCC outlines tokenized Treasury plans](https://cointelegraph.com/news/canton-token-rallies-after-dtcc-outlines-tokenized-treasury-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive](https://cointelegraph.com/news/bitcoin-mining-outlook-2026-ai-profitability-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What the $310B stablecoin market reveals about crypto adoption](https://cointelegraph.com/explained/what-the-310b-stablecoin-market-reveals-about-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Quantum computing in 2026: No crypto doomsday, but time to prepare](https://cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets](https://cointelegraph.com/news/fed-q1-2026-outlook-potential-impact-on-bitcoin-crypto-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
