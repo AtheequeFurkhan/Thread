@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Heavy rain storms in California leave three dead as of Christmas night",
+      "link": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The storms have brought flash flooding and mudslides during a time of busy holiday travel.",
+      "published": "Thu, 25 Dec 2025 22:39:57 GMT",
+      "fetched_at": "2025-12-25T23:12:11.935707188Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "What tariffs have meant for holiday candle sales",
       "link": "https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 06:00:00 +0000",
       "fetched_at": "2025-12-17T06:20:25.47638705Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp",
-      "link": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-holdings-public-holdings-anthony-pompliano?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5ZmEtZmZlOS03MWNjLWE0NDUtM2ViOTgzMzViYzVlLmpwZw==.jpg\" alt=\"Saylor’s Bitcoin stash will be very hard for anyone to match: Pomp\"\u003e\u003c/p\u003e\u003cp\u003eWhile it may be possible for a public company to catch up to Michael Saylor’s Strategy Bitcoin holdings, it is probably unlikely, Bitcoin entrepreneur Anthony Pompliano says.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 05:44:51 +0000",
-      "fetched_at": "2025-12-17T05:53:41.722128346Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1210,
-  "last_update": "2025-12-25T22:50:44.751038368Z"
+  "total_captured": 1211,
+  "last_update": "2025-12-25T23:12:12.183891547Z"
 }
