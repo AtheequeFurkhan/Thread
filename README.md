@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 11:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1194-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 12:24 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1196-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 11:47 UTC)*
+*(Updated: 25 Dec 12:24 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [CZ proposes fix to address poisoning after investor loses $50M](https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Crypto derivatives volume explode to $86T in 2025, averaging $265B per day](https://cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Pope Leo urges 'courage' to end Ukraine war in first Christmas address](https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Turkey arrests 115 IS suspects 'planning New Year's attacks'](https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [NFT collections get no Santa rally as market hits 2025 lows](https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Trump-backed candidate Nasry Asfura wins Honduras presidential election](https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Eleven arrested over mass shooting in South Africa tavern](https://www.bbc.com/news/articles/c75v0kwy017o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [From stablecoins to incumbents, VCs map crypto value in 2025](https://cointelegraph.com/news/stablecoins-incumbents-vcs-map-crypto-value-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Binance lists som-pegged stablecoin as Kyrgyzstan deepens crypto push](https://cointelegraph.com/news/kyrgyzstan-state-stablecoin-launch-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry](https://cointelegraph.com/news/bitcoin-bears-currently-favored-in-btc-s-end-of-year-30-3b-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [CZ proposes fix to address poisoning after investor loses $50M](https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Crypto derivatives volume explode to $86T in 2025, averaging $265B per day](https://cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [NFT collections get no Santa rally as market hits 2025 lows](https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Social engineering cost crypto billions in 2025: How to protect yourself](https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT](https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth](https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
