@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0MjgtYjNjYS03OGYwLWFlNzAtNzY4YWZjMDQ3Mzk1LmpwZw==.jpg\" alt=\"Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin ETF performance stayed negative on Christmas Eve as a short final US trading session produced another $175 million in net outflows.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 07:00:15 +0000",
+      "fetched_at": "2025-12-25T07:15:38.913412775Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Moment robbers rip ATM from inside Texas store",
       "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 16 Dec 2025 20:10:45 GMT",
       "fetched_at": "2025-12-16T20:15:08.811889479Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "3 reasons why trader demand for XRP evaporated: Is $1 next?",
-      "link": "https://cointelegraph.com/news/3-reasons-why-trader-demand-for-xrp-evaporated-is-dollar1-next?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmMTYtMzE1Ni03ODk2LWE0NzktNzljZTdhMzQxZGY0.jpg\" alt=\"3 reasons why trader demand for XRP evaporated: Is $1 next?\"\u003e\u003c/p\u003e\u003cp\u003eXRP fails to find demand under $2 as futures volume on Binance fell by 96% and traders’ use of leverage hits new lows. Is $1 XRP the next stop?\u003c/p\u003e",
-      "published": "Tue, 16 Dec 2025 20:00:00 +0000",
-      "fetched_at": "2025-12-16T20:15:08.788092463Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1189,
-  "last_update": "2025-12-25T06:53:11.223298568Z"
+  "total_captured": 1190,
+  "last_update": "2025-12-25T07:15:39.102460597Z"
 }

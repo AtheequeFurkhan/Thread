@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 06:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1189-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 07:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1190-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 06:53 UTC)*
+*(Updated: 25 Dec 07:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Watch: Moment robbers rip ATM from inside Texas store](https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Where is Santa now? Trump answers kids' Christmas calls to Norad tracker](https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Front-runner to be Bangladesh PM returns after 17 years in exile](https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto heads into 2026 with privacy, decentralized identity on the line](https://cointelegraph.com/news/crypto-2026-privacy-decentralized-identity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Democratic board member muted during Kennedy Center vote sues to remove Trump's name](https://www.bbc.com/news/articles/c79x0x7v70go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Explosion hits packed mosque in Nigeria](https://www.bbc.com/news/articles/c0je3v3en01o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Ethereum price under pressure as $6B options expiry nears](https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Social engineering cost crypto billions in 2025: How to protect yourself](https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT](https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth](https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tokenization has moved past money only meaning fiat: Kraken exec](https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Solana and Ethereum can coexist in tokenization race: Dragonfly VC](https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
