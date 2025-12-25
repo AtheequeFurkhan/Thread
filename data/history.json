@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What tariffs have meant for holiday candle sales",
+      "link": "https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales",
+      "category": "Business",
+      "summary": "More than a third of candle sales every year take place during the end of year holiday season. And this year, tariffs hikes have affected how much consumers pay for their candles.",
+      "published": "Thu, 25 Dec 2025 17:41:01 -0500",
+      "fetched_at": "2025-12-25T22:50:44.751018851Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
       "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 05:44:51 +0000",
       "fetched_at": "2025-12-17T05:53:41.722128346Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Lightning Network hits record capacity on crypto exchange adoption",
-      "link": "https://cointelegraph.com/news/lightning-network-capacity-hits-all-time-high-as-major-exchanges-add-more-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhYTEtYjcwMy03MjJlLWI5N2EtZTZkM2VhOGEzNWQzLmpwZw==.jpg\" alt=\"Lightning Network hits record capacity on crypto exchange adoption\"\u003e\u003c/p\u003e\u003cp\u003eLightning Network’s capacity reached an all-time high as exchanges increased adoption, while a new Taproot Assets update has enabled multi-asset transactions.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 05:22:40 +0000",
-      "fetched_at": "2025-12-17T05:43:53.945255495Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1209,
-  "last_update": "2025-12-25T22:34:24.311679609Z"
+  "total_captured": 1210,
+  "last_update": "2025-12-25T22:50:44.751038368Z"
 }

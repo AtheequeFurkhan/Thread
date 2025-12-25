@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-25 Dec 22:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1209-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-25 Dec 22:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1210-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 25 Dec 22:34 UTC)*
+*(Updated: 25 Dec 22:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) | ⚪ Neutral |
 | **World** | [Zelensky hails 'new ideas' on peace after talks with US envoys](https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas](https://cointelegraph.com/news/pudgy-penguins-nft-characters-las-vegas-sphere-christmas-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Narratives versus reality: What really drives Bitcoin and altcoin prices?](https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Turkey arrests 115 IS suspects 'planning New Year's attacks'](https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [NFT collections get no Santa rally as market hits 2025 lows](https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Waterskiing Santas and giant cuts of meat: Christmas around the world](https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC](https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) (⚪ Neutral)
 - [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) (⚪ Neutral)
 - [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) (⚪ Neutral)
 - [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) (⚪ Neutral)
 - ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) (⚪ Neutral)
-- [Federal student loans are changing. Here's what to expect in 2026](https://www.npr.org/2025/12/23/nx-s1-5630504/2026-federal-loans-student-changes-save-plan) (🟢 Positive)
 
 
 ### 📂 Crypto
