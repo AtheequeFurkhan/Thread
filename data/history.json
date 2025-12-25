@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Quantum computing in 2026: No crypto doomsday, but time to prepare",
+      "link": "https://cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiOTEtMmIzMS03OWIyLWE1ZTMtNDlmYzIzZjgwZjRmLmpwZw==.jpg\" alt=\"Quantum computing in 2026: No crypto doomsday, but time to prepare\"\u003e\u003c/p\u003e\u003cp\u003eQuantum computing won’t break Bitcoin in 2026, but the growing practice of “harvest now, decrypt later” is pushing the crypto industry to prepare sooner rather than later.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-25T14:12:31.118798674Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets",
+      "link": "https://cointelegraph.com/news/fed-q1-2026-outlook-potential-impact-on-bitcoin-crypto-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhMmYtOTc3OS03NGI4LWIwYjUtZTcwZjIyOTExYTQ0.jpg\" alt=\"Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets\"\u003e\u003c/p\u003e\u003cp\u003eBTC may fall to $70,000 and ETH to $2,400 if the Fed pauses rate cuts in the first quarter of 2026 and inflationary pressure persists.\u003c/p\u003e",
+      "published": "Thu, 25 Dec 2025 14:10:00 +0000",
+      "fetched_at": "2025-12-25T14:12:31.118780872Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Samourai Wallet co-founder spends Christmas Eve recounting first day in prison",
       "link": "https://cointelegraph.com/news/samourai-wallet-cofounder-prison-letter-pardon-petition?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 02:02:33 GMT",
       "fetched_at": "2025-12-17T02:45:23.73759841Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Trump orders blockade of sanctioned oil tankers in and out of Venezuela",
-      "link": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "It comes a week after the US seized an oil tanker off the coast of Venezuela, in a move that intensified pressure on its government.",
-      "published": "Wed, 17 Dec 2025 01:01:48 GMT",
-      "fetched_at": "2025-12-17T02:45:23.737585907Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Student Podcast Challenge: Nonconformity",
-      "link": "https://www.npr.org/2025/12/15/nx-s1-5640044/student-podcast-challenge-nonconformity",
-      "category": "Business",
-      "summary": "It's every teenager's dilemma: How do you blend in but stay different enough to still stand out? Two Colorado middle schoolers share their secret to what they call \"strategic nonconformity.\"",
-      "published": "Mon, 15 Dec 2025 17:29:34 -0500",
-      "fetched_at": "2025-12-17T00:55:10.549931294Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1198,
-  "last_update": "2025-12-25T13:53:46.211886479Z"
+  "total_captured": 1200,
+  "last_update": "2025-12-25T14:12:31.399336596Z"
 }
