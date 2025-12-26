@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin price, onchain flows and global macro: Here’s what changed in 2025",
+      "link": "https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3ODMtMTRmMy03N2Q1LWFhZDYtNzQyOGVkZGQwNDM3LmpwZw==.jpg\" alt=\"Bitcoin price, onchain flows and global macro: Here’s what changed in 2025\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s technical and onchain market structure was robust throughout 2025, but ever-shifting macroeconomic conditions eventually put a cap on BTC price. Will the trend shift in 2026?\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-26T20:13:17.007033151Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Aave founder denies buying tokens to influence failed DAO vote",
+      "link": "https://cointelegraph.com/news/aave-founder-tokens-influence-failed-dao-vote?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmQtNzQxZi03OWMyLTg2ZmEtYWIzYTFiZDc0YmI4LmpwZw==.jpg\" alt=\"Aave founder denies buying tokens to influence failed DAO vote\"\u003e\u003c/p\u003e\u003cp\u003eStani Kulechov's comments followed an uproar in the Aave community about the relationship between the Aave decentralized autonomous organization and Aave Labs.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 20:00:42 +0000",
+      "fetched_at": "2025-12-26T20:13:17.007015809Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined",
       "link": "https://cointelegraph.com/news/bitcoin-crawls-88k-aave-governance-drama?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 14:57:46 +0000",
       "fetched_at": "2025-12-17T15:18:35.798812426Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
-      "link": "https://cointelegraph.com/news/did-bitcoin-4-year-cycle-break-is-bull-market-really-over?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhYWMtMDc2OC03ZWEyLTlmNmQtNThmYmJlNGZlODYz.jpg\" alt=\"Did Bitcoin's 4-year cycle break, and is the bull market really over?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin ETFs, corporate treasuries, and macro tailwinds are challenging BTC’s traditional four-year cycle, which could result in new all-time highs in 2026.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 14:55:34 +0000",
-      "fetched_at": "2025-12-17T14:57:10.911335639Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?",
-      "link": "https://cointelegraph.com/news/solana-tvl-hits-8-6b-six-month-lows-80-sol-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE0ODUtYzJiMS03MjAyLWJlM2ItZTdiOGMxMDVjN2YyLmpwZw==.jpg\" alt=\"Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?\"\u003e\u003c/p\u003e\u003cp\u003eSOL price traded 52% lower than its $255 highs reached on Sept. 18, as onchain data and a bearish pattern suggested that SOL investors risked further losses.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 14:18:39 +0000",
-      "fetched_at": "2025-12-17T14:42:20.765463817Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1248,
-  "last_update": "2025-12-26T19:47:37.706517396Z"
+  "total_captured": 1250,
+  "last_update": "2025-12-26T20:13:17.135905086Z"
 }
