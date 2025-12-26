@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Israel recognises Somaliland as independent state, Netanyahu says",
+      "link": "https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The decision has been condemned by Somalia, Egypt, Turkey and Djibouti, who call it a dangerous precedent.",
+      "published": "Fri, 26 Dec 2025 17:58:36 GMT",
+      "fetched_at": "2025-12-26T18:18:17.195275484Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto ETFs set to explode higher in 2026, analysts say",
+      "link": "https://cointelegraph.com/news/crypto-etfs-explode-higher-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3NzAtOGZjMi03ZmQ4LWE5MjAtNjY3MzRkOWRiYzVjLmpwZw==.jpg\" alt=\"Crypto ETFs set to explode higher in 2026, analysts say\"\u003e\u003c/p\u003e\u003cp\u003eRegulatory clarity in the United States and the likelihood of falling interest rates will push the crypto ETF market higher in 2026.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 18:00:00 +0000",
+      "fetched_at": "2025-12-26T18:18:17.16132701Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BNB Chain Fermi hard fork scheduled for January activation",
       "link": "https://cointelegraph.com/news/binance-smart-chain-bnb-fermi-hard-fork-scheduled-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 08:44:55 -0500",
       "fetched_at": "2025-12-17T14:14:38.628197507Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Former SEC counsel explains what it takes to make RWAs compliant",
-      "link": "https://cointelegraph.com/news/former-sec-counsel-ownership-rwa-compliant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMWUtOGRmZC03YzE5LTkzZjctMTFlZDNjYWNmMmJiLmpwZw==.jpg\" alt=\"Former SEC counsel explains what it takes to make RWAs compliant\"\u003e\u003c/p\u003e\u003cp\u003eThe SEC’s changing approach to crypto is supporting RWA growth, but jurisdictional and yield constraints continue to limit compliant models.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 13:45:00 +0000",
-      "fetched_at": "2025-12-17T14:14:38.243373438Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "New protocol targets redemption delays in $20B tokenized market",
-      "link": "https://cointelegraph.com/news/uniform-labs-multiliquid-tokenization-liquidity-protocol?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI4YmYtNmNhYS03OGVlLTk0NTAtOGEyM2JlNTkzYTliLmpwZw==.jpg\" alt=\"New protocol targets redemption delays in $20B tokenized market\"\u003e\u003c/p\u003e\u003cp\u003eUniform Labs’ Multiliquid aims to bridge the gap between tokenized funds and stablecoins, targeting liquidity constraints that have slowed institutional adoption.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 14:00:00 +0000",
-      "fetched_at": "2025-12-17T14:14:38.243349533Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1244,
-  "last_update": "2025-12-26T17:47:41.233298547Z"
+  "total_captured": 1246,
+  "last_update": "2025-12-26T18:18:17.477436411Z"
 }
