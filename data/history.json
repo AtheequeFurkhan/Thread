@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Aave governance vote ends in rejection after community pushback",
+      "link": "https://cointelegraph.com/news/aave-governance-vote-rejected-brand-ownership-dao?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU5NzYtOGIxNi03YzkzLWJkNWMtMzI5MTNmMWUwYjUzLmpwZw==.jpg\" alt=\"Aave governance vote ends in rejection after community pushback\"\u003e\u003c/p\u003e\u003cp\u003eThe failed vote highlights deeper tensions over token value capture, governance power and whether DAO structures can effectively manage protocol identity.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 08:28:49 +0000",
+      "fetched_at": "2025-12-26T08:47:57.70025699Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records",
+      "link": "https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTJiNmUtM2FjMC03NGUwLWIxZDctOTdjMWRjZGFlYjE2.jpg\" alt=\"Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin simmered below resistance but teased a bullish breakout as the Asia trading session accompanied new all-time highs for gold and silver.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 08:36:26 +0000",
+      "fetched_at": "2025-12-26T08:47:57.700239908Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain",
       "link": "https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-17T10:14:58.032133005Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump's economic approval hits a new low at 36%, poll finds",
-      "link": "https://www.npr.org/2025/12/17/nx-s1-5645003/trump-poll-economy-approval",
-      "category": "Business",
-      "summary": "A new NPR/PBS News/Marist poll finds 70% of Americans say things have become too unaffordable and have a dim outlook on the economy and President Trump's handling of it.",
-      "published": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-17T10:14:58.032112677Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump's rush to build nuclear reactors across the U.S. raises safety worries",
-      "link": "https://www.npr.org/2025/12/17/nx-s1-5608371/trump-executive-order-new-nuclear-reactors-safety-concerns",
-      "category": "Business",
-      "summary": "A new program at the Department of Energy is pushing the development of nearly a dozen new reactor designs at breakneck speed.",
-      "published": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-17T10:14:58.032095044Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1223,
-  "last_update": "2025-12-26T08:17:50.180600282Z"
+  "total_captured": 1225,
+  "last_update": "2025-12-26T08:47:57.909888037Z"
 }
