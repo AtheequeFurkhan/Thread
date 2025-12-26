@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Former Malaysia PM Najib Razak found guilty in state funds scandal",
+      "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Najib was convicted for his role in the billion-dollar scandal involving the country's sovereign wealth fund 1MDB.",
+      "published": "Fri, 26 Dec 2025 09:05:38 GMT",
+      "fetched_at": "2025-12-26T14:12:45.94301549Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "AI-era internet: Can blockchain prove what’s real anymore?",
+      "link": "https://cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MTAtNDliNi03M2ExLWEzYTktZDZjNmI3NGU1OGVkLmpwZw==.jpg\" alt=\"AI-era internet: Can blockchain prove what’s real anymore?\"\u003e\u003c/p\u003e\u003cp\u003eAs AI blurs the line between real and synthetic media, strategies for restoring user trust online are still taking shape as we enter 2026.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-26T14:12:45.538312121Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tokenized commodities near $4B, as gold extends all-time rally",
       "link": "https://cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 13:00:00 +0000",
       "fetched_at": "2025-12-17T13:11:09.306243427Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
-      "link": "https://cointelegraph.com/news/hut-8-google-backed-7b-ai-lease?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjM2YtYWVhNS03Mzk0LWI5ZjMtNzE2ZTkzOWQ4NjI4LmpwZw==.jpg\" alt=\"Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease\"\u003e\u003c/p\u003e\u003cp\u003eThe 15-year agreement anchors Hut 8’s shift toward long-duration AI infrastructure revenue as hyperscalers seek power-first compute capacity.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 13:07:24 +0000",
-      "fetched_at": "2025-12-17T13:11:09.306224612Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fallout and the secret of the perfect video game adaptation",
-      "link": "https://www.bbc.com/news/articles/cvgr488vlmmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Masterminds behind the classic video game series tell us how they created a successful TV show.",
-      "published": "Wed, 17 Dec 2025 11:30:36 GMT",
-      "fetched_at": "2025-12-17T12:25:50.573607458Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1237,
-  "last_update": "2025-12-26T13:54:55.928740754Z"
+  "total_captured": 1239,
+  "last_update": "2025-12-26T14:12:46.175930006Z"
 }
