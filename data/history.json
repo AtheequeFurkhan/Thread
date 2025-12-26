@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitmain slashes ASIC prices amid mining industry turmoil: Report",
+      "link": "https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjODktZmY1Mi03ZjQ4LWE5NWYtYWY5MWRmOTM5OTVlLmpwZw==.jpg\" alt=\"Bitmain slashes ASIC prices amid mining industry turmoil: Report\"\u003e\u003c/p\u003e\u003cp\u003eDiscounts and bundle deals were offered to mining operators, as 2025 ends on a bad note for the crypto market and the mining industry.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 21:39:03 +0000",
+      "fetched_at": "2025-12-26T21:47:48.006571524Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook",
       "link": "https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 14:38:34 GMT",
       "fetched_at": "2025-12-17T15:44:42.82701022Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
-      "link": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\".",
-      "published": "Wed, 17 Dec 2025 15:25:58 GMT",
-      "fetched_at": "2025-12-17T15:44:42.826993929Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1251,
-  "last_update": "2025-12-26T21:39:58.947490139Z"
+  "total_captured": 1252,
+  "last_update": "2025-12-26T21:47:48.107290458Z"
 }
