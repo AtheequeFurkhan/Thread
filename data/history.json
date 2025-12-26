@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Vitalik says Grok arguably a 'net improvement' to X despite flaws",
+      "link": "https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3YjUtNzYxNS03MTllLWIxMDUtMzMwN2QwYjcxMjEzLmpwZw==.jpg\" alt=\"Vitalik says Grok arguably a 'net improvement' to X despite flaws\"\u003e\u003c/p\u003e\u003cp\u003eGrok makes X more truth-friendly as it often challenges users’ assumptions instead of confirming them, says Ethereum co-founder Vitalik Buterin.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 01:16:44 +0000",
+      "fetched_at": "2025-12-26T02:53:54.995296462Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO",
       "link": "https://cointelegraph.com/news/bitcoin-market-fundamentals-strong-strategy-ceo-phong-le?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 06:18:19 +0000",
       "fetched_at": "2025-12-17T06:53:35.078402187Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Alleged Bondi gunman charged with 15 counts of murder",
-      "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Naveed Akram, 24, faces 59 charges in total following the attack at Sydney's Bondi Beach on Sunday.",
-      "published": "Wed, 17 Dec 2025 06:07:28 GMT",
-      "fetched_at": "2025-12-17T06:20:25.505076037Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1212,
-  "last_update": "2025-12-26T00:59:45.089467151Z"
+  "total_captured": 1213,
+  "last_update": "2025-12-26T02:53:55.387234918Z"
 }
