@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook",
+      "link": "https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjMjUtYjA5Zi03ODEzLTg5MWMtNWRlNTg3NWI2MDFiLmpwZw==.jpg\" alt=\"Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook\"\u003e\u003c/p\u003e\u003cp\u003eFundstrat’s head of research said institutional tokenization supports a $7,000–$9,000 Ether price in early 2026 and a longer-term case for $20,000.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 21:15:54 +0000",
+      "fetched_at": "2025-12-26T21:29:21.606453001Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin price, onchain flows and global macro: Here’s what changed in 2025",
       "link": "https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 15:25:58 GMT",
       "fetched_at": "2025-12-17T15:44:42.826993929Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "How YouTube’s stablecoin payouts could change creator monetization",
-      "link": "https://cointelegraph.com/news/how-youtube-s-stablecoin-payouts-could-change-creator-monetization?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjY2MtOWI1MS03ZTFkLTlkYTMtNmFhZDcwODFhZDUxLmpwZw==.jpg\" alt=\"How YouTube’s stablecoin payouts could change creator monetization\"\u003e\u003c/p\u003e\u003cp\u003eYouTube has added an opt-in option allowing eligible US creators to receive payouts in PayPal’s dollar-backed stablecoin, PYUSD.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 14:57:46 +0000",
-      "fetched_at": "2025-12-17T15:18:35.798812426Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1250,
-  "last_update": "2025-12-26T21:11:28.847157603Z"
+  "total_captured": 1251,
+  "last_update": "2025-12-26T21:29:21.981316871Z"
 }
