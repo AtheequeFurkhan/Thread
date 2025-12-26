@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "USX briefly depegs on Solana DEXs before liquidity support restores price",
+      "link": "https://cointelegraph.com/news/usx-stabilizes-after-brief-depeg-secondary-market-sell-pressure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViYjYtNmEwMy03OGVjLWE0NzUtZGE5YTkyMWQ0YTViLmpwZw==.jpg\" alt=\"USX briefly depegs on Solana DEXs before liquidity support restores price\"\u003e\u003c/p\u003e\u003cp\u003eThe USX stablecoin briefly slipped below its dollar peg on Solana DEXs before recovering after its issuer injected liquidity into secondary markets.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 18:25:48 +0000",
+      "fetched_at": "2025-12-26T18:49:05.135786671Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Israel recognises Somaliland as independent state, Netanyahu says",
       "link": "https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 14:23:34 +0000",
       "fetched_at": "2025-12-17T14:42:20.7654394Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Warner Bros. rejects Paramount's $108 billion bid",
-      "link": "https://www.npr.org/2025/12/17/nx-s1-5647242/warner-bros-rejects-paramounts-108-billion-bid",
-      "category": "Business",
-      "summary": "Warner Bros has formally rejected Paramount's $108 billion hostile bid.",
-      "published": "Wed, 17 Dec 2025 08:44:55 -0500",
-      "fetched_at": "2025-12-17T14:14:38.628197507Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1246,
-  "last_update": "2025-12-26T18:18:17.477436411Z"
+  "total_captured": 1247,
+  "last_update": "2025-12-26T18:49:05.151834311Z"
 }
