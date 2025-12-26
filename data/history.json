@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A study found AI chatbots can persuade us with fake facts. How does this affect politics?",
+      "published": "Tue, 16 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-26T06:53:01.914067273Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tips for crypto newbies, vets and skeptics from a Bitcoiner who buried $700M",
       "link": "https://cointelegraph.com/news/crypto-tips-newcomers-vets-skeptics-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 08:55:15 +0000",
       "fetched_at": "2025-12-17T09:19:42.71878171Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund",
-      "link": "https://cointelegraph.com/news/hyperliquid-validators-vote-assistance-fund-supply?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiNDctYzI2OC03ZjA3LThjOTgtN2QwMDgzN2QzY2FhLmpwZw==.jpg\" alt=\"Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund\"\u003e\u003c/p\u003e\u003cp\u003eThe proposal seeks a binding social consensus that the funds will never be accessed through future protocol upgrades.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 09:17:46 +0000",
-      "fetched_at": "2025-12-17T09:19:42.718764448Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1220,
-  "last_update": "2025-12-26T06:20:14.337945518Z"
+  "total_captured": 1221,
+  "last_update": "2025-12-26T06:53:01.914095606Z"
 }
