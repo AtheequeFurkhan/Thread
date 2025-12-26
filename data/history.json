@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain",
+      "link": "https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain",
+      "category": "Business",
+      "summary": "In an \"alternative\" message to the king's annual Christmas speech, Kimmel told British viewers that \"from a fascism perspective, this has been a really great year,\" for the United States.",
+      "published": "Fri, 26 Dec 2025 02:21:32 -0500",
+      "fetched_at": "2025-12-26T07:39:52.377471946Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US judge blocks detention of British social media campaigner",
+      "link": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Imran Ahmed was among five people accused of seeking to \"coerce\" US firms into censoring free speech.",
+      "published": "Fri, 26 Dec 2025 06:45:14 GMT",
+      "fetched_at": "2025-12-26T07:39:52.075038237Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-17T10:14:58.032095044Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Jewish Australians on why Bondi is a 'sanctuary' for them",
-      "link": "https://www.bbc.com/news/videos/c1w947rpv3qo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC spoke to Jewish people at Bondi Beach about why the suburb is significant to their community.",
-      "published": "Tue, 16 Dec 2025 23:17:38 GMT",
-      "fetched_at": "2025-12-17T09:46:52.506563576Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO",
-      "link": "https://cointelegraph.com/news/hashkey-crypto-exchange-trading-debut-hong-kong-hkex?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiMzgtYjY4NS03ZjdmLWIxMTYtNjU5YTgwNjA2YTY3LmpwZw==.jpg\" alt=\"HashKey crypto exchange sees bumpy Hong Kong debut after $206M IPO\"\u003e\u003c/p\u003e\u003cp\u003eHashKey debuted on Hong Kong’s HKEX following a $206 million oversubscribed IPO, with the stock seeing notable volatility on its first day of trading.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 08:55:15 +0000",
-      "fetched_at": "2025-12-17T09:19:42.71878171Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1221,
-  "last_update": "2025-12-26T07:15:46.797950877Z"
+  "total_captured": 1223,
+  "last_update": "2025-12-26T07:39:52.507712995Z"
 }

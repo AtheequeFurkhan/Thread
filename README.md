@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 07:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1221-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 07:39 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1223-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 07:15 UTC)*
+*(Updated: 26 Dec 07:39 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) | ⚪ Neutral |
+| **World** | [US judge blocks detention of British social media campaigner](https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Tips for crypto newbies, vets and skeptics from a Bitcoiner who buried $700M](https://cointelegraph.com/news/crypto-tips-newcomers-vets-skeptics-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [India's solar boom faces a hidden waste problem](https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto Biz: Exchanges place their bets on prediction markets](https://cointelegraph.com/news/crypto-prediction-markets-crypto-com-fairness-coinbase-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'](https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Canton token rallies 27% after DTCC outlines tokenized Treasury plans](https://cointelegraph.com/news/canton-token-rallies-after-dtcc-outlines-tokenized-treasury-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive](https://cointelegraph.com/news/bitcoin-mining-outlook-2026-ai-profitability-consolidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Watch: Pope Leo's plea for peace in Christmas message](https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) (⚪ Neutral)
 - [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) (⚪ Neutral)
 - [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) (⚪ Neutral)
 - [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) (⚪ Neutral)
 - [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) (⚪ Neutral)
-- ['The Nutcracker' isn't just a cozy classic. It helps ballet companies pay the bills](https://www.npr.org/2025/12/22/nx-s1-5628350/the-nutcracker-helps-keep-the-lights-on-for-american-dance-companies) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [US judge blocks detention of British social media campaigner](https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [India's solar boom faces a hidden waste problem](https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Should a top Russian archaeologist face trial for digging in occupied Crimea?](https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Indonesians raise white flags as anger grows over slow flood aid](https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US launches deadly strikes against Islamic State in Nigeria, says Trump](https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Heavy rain storms in California leave three dead as of Christmas night](https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
