@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+      "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Ukrainian leader says he will see the US president in Florida to discuss a US plan aimed at ending Russia's war.",
+      "published": "Fri, 26 Dec 2025 14:21:38 GMT",
+      "fetched_at": "2025-12-26T14:35:11.963056377Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Former Malaysia PM Najib Razak found guilty in state funds scandal",
       "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 12:53:52 +0000",
       "fetched_at": "2025-12-17T13:11:09.306257193Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys",
-      "link": "https://cointelegraph.com/news/dtcc-tokenize-us-treasurys-canton-blockchain?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhNjgtYzQxMC03ZTQyLWI1MmUtNzI3ZWZkMTc1YzAyLmpwZw==.jpg\" alt=\"Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys\"\u003e\u003c/p\u003e\u003cp\u003eThe SEC gave DTCC the green light to launch a tokenization service last week, and the company will be starting by minting US Treasurys on Canton.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-17T13:11:09.306243427Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1239,
-  "last_update": "2025-12-26T14:12:46.175930006Z"
+  "total_captured": 1240,
+  "last_update": "2025-12-26T14:35:12.296922894Z"
 }
