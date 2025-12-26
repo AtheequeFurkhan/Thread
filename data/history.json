@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin’s current setup looks like 2019, says Benjamin Cowen",
+      "link": "https://cointelegraph.com/news/why-bitcoin-setup-looks-more-like-2019-benjamin-cowen?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhMjEtZTllMi03YzY4LTg2MTQtODkyMzg4NWE1NjE3LmpwZw==.jpg\" alt=\"Bitcoin’s current setup looks like 2019, says Benjamin Cowen\"\u003e\u003c/p\u003e\u003cp\u003eIn an exclusive Cointelegraph interview, the crypto analyst pointed to macro headwinds, muted sentiment and cycle dynamics shaping Bitcoin’s path into 2026.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 17:01:04 +0000",
+      "fetched_at": "2025-12-26T17:11:09.850062118Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Price predictions 12/26: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 13:21:36 +0000",
       "fetched_at": "2025-12-17T13:45:46.59883555Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Starmer tells Abramovich to 'pay up now' or face court",
-      "link": "https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Prime Minister said Roman Abramovich should make good on his pledge that money from the sale of Chelsea FC would go to benefit Ukrainians",
-      "published": "Wed, 17 Dec 2025 13:22:50 GMT",
-      "fetched_at": "2025-12-17T13:45:46.164536189Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1242,
-  "last_update": "2025-12-26T16:53:41.06733392Z"
+  "total_captured": 1243,
+  "last_update": "2025-12-26T17:11:10.117858192Z"
 }
