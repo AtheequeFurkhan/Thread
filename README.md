@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 04:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1215-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 05:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1219-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 04:53 UTC)*
+*(Updated: 26 Dec 05:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [India's solar boom faces a hidden waste problem](https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Should a top Russian archaeologist face trial for digging in occupied Crimea?](https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Indonesians raise white flags as anger grows over slow flood aid](https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [US launches deadly strikes against Islamic State in Nigeria, says Trump](https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto sentiment holds ‘extreme fear’ for 14th straight day](https://cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum unlikely to reach new highs in 2026: Ben Cowen](https://cointelegraph.com/news/ether-price-new-highs-2026-unlikely-ben-cowen-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Vitalik says Grok arguably a 'net improvement' to X despite flaws](https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Watch: Pope Leo's plea for peace in Christmas message](https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [What the $310B stablecoin market reveals about crypto adoption](https://cointelegraph.com/explained/what-the-310b-stablecoin-market-reveals-about-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Quantum computing in 2026: No crypto doomsday, but time to prepare](https://cointelegraph.com/news/quantum-computing-in-2026-no-crypto-doomsday-time-to-prepare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets](https://cointelegraph.com/news/fed-q1-2026-outlook-potential-impact-on-bitcoin-crypto-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Samourai Wallet co-founder spends Christmas Eve recounting first day in prison](https://cointelegraph.com/news/samourai-wallet-cofounder-prison-letter-pardon-petition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more](https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [CZ proposes fix to address poisoning after investor loses $50M](https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [India's solar boom faces a hidden waste problem](https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Should a top Russian archaeologist face trial for digging in occupied Crimea?](https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Indonesians raise white flags as anger grows over slow flood aid](https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [US launches deadly strikes against Islamic State in Nigeria, says Trump](https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Heavy rain storms in California leave three dead as of Christmas night](https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Zelensky hails 'new ideas' on peace after talks with US envoys](https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'](https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Watch: Pope Leo's plea for peace in Christmas message](https://www.bbc.com/news/videos/clyx049x0z7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Pope Leo urges 'courage' to end Ukraine war in first Christmas address](https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

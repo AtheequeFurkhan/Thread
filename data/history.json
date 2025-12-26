@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "India's solar boom faces a hidden waste problem",
+      "link": "https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A recent study has found that India will generate over 11 million tonnes of solar waste by 2047 if it does not scale up recycling.",
+      "published": "Thu, 25 Dec 2025 23:11:20 GMT",
+      "fetched_at": "2025-12-26T05:15:13.632342969Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Should a top Russian archaeologist face trial for digging in occupied Crimea?",
+      "link": "https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The case of a scholar wanted in Ukraine sparked a debate on the relationship between museums and the Russian state.",
+      "published": "Fri, 26 Dec 2025 01:44:24 GMT",
+      "fetched_at": "2025-12-26T05:15:13.632329403Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Indonesians raise white flags as anger grows over slow flood aid",
+      "link": "https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Weeks after floods ravaged the island of Sumatra, many still do not have access to clean water and food.",
+      "published": "Thu, 25 Dec 2025 23:09:41 GMT",
+      "fetched_at": "2025-12-26T05:15:13.632309897Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US launches deadly strikes against Islamic State in Nigeria, says Trump",
+      "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US president accuses the group of killing Christians, as Nigeria’s foreign minister tells the BBC the strikes were a \"joint operation\" and \"nothing to do\" with religion.",
+      "published": "Fri, 26 Dec 2025 04:17:47 GMT",
+      "fetched_at": "2025-12-26T05:15:13.632286142Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto sentiment holds ‘extreme fear’ for 14th straight day",
       "link": "https://cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Tue, 16 Dec 2025 20:30:00 GMT",
       "fetched_at": "2025-12-17T08:50:52.571554085Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Former chancellor George Osborne joins OpenAI",
-      "link": "https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Osborne said it was a privilege to become managing director of OpenAI for Countries based in London.",
-      "published": "Tue, 16 Dec 2025 19:37:20 GMT",
-      "fetched_at": "2025-12-17T08:50:52.57150328Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Shock as popular South African DJ shot dead in Johannesburg",
-      "link": "https://www.bbc.com/news/articles/c75vkw4veq1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "This is the latest in a string of killings that have rocked the crime-ridden country in recent years.",
-      "published": "Wed, 17 Dec 2025 08:33:17 GMT",
-      "fetched_at": "2025-12-17T08:50:52.225038572Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces",
-      "link": "https://cointelegraph.com/news/sec-lawsuit-puts-shima-capital-s-future-in-question-as-wind-down-message-surfaces?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiNDYtOTM4Yi03YmVjLThiYzctM2UyNzA0NDA2NDZiLmpwZw==.jpg\" alt=\"SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces\"\u003e\u003c/p\u003e\u003cp\u003eScreenshots of an email shared online purportedly show founder Yida Gao stepping down as managing director of Shima Capital and outlining plans for an orderly wind-down of the fund.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 08:43:15 +0000",
-      "fetched_at": "2025-12-17T08:50:51.983202487Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BBC outside Rabbi Schlanger's funeral as mourners pay tribute",
-      "link": "https://www.bbc.com/news/videos/c5yjvx4vp5do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "His death was described as an \"unspeakable loss\" in a service held at the Chabad of Bondi.",
-      "published": "Wed, 17 Dec 2025 04:39:56 GMT",
-      "fetched_at": "2025-12-17T08:18:58.379647462Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1215,
-  "last_update": "2025-12-26T04:53:52.770309709Z"
+  "total_captured": 1219,
+  "last_update": "2025-12-26T05:15:14.035906651Z"
 }
