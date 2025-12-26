@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined",
+      "link": "https://cointelegraph.com/news/bitcoin-crawls-88k-aave-governance-drama?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODliZmUtYTU0My03ZjU2LTg3NGMtNjE1MGNmZDg2MWQw.jpg\" alt=\"Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eCryptocurrency markets experienced a modest recovery this week, but spot Bitcoin ETFs extended a five-day losing streak amid thin year-end liquidity.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 19:00:00 +0000",
+      "fetched_at": "2025-12-26T19:10:30.792132824Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "USX briefly depegs on Solana DEXs before liquidity support restores price",
       "link": "https://cointelegraph.com/news/usx-stabilizes-after-brief-depeg-secondary-market-sell-pressure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 14:18:39 +0000",
       "fetched_at": "2025-12-17T14:42:20.765463817Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Securitize announces ‘real’ tokenized stocks, touts DeFi integration",
-      "link": "https://cointelegraph.com/news/stocks-reach-web3-as-securitize-announces-real-regulated-shares-stocks-for-on-chain-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUyODgtMTY5ZS03ZDQ4LWIwYmItYzAxZTYwNWY4YjAz.jpg\" alt=\"Securitize announces ‘real’ tokenized stocks, touts DeFi integration\"\u003e\u003c/p\u003e\u003cp\u003eSecuritize plans to launch compliant, natively tokenized stocks in early 2026, enabling real equity ownership to trade 24/7 fully onchain.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 14:23:34 +0000",
-      "fetched_at": "2025-12-17T14:42:20.7654394Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1247,
-  "last_update": "2025-12-26T18:49:05.151834311Z"
+  "total_captured": 1248,
+  "last_update": "2025-12-26T19:10:31.26271453Z"
 }
