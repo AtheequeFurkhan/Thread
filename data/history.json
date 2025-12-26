@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "AI bubble risks in 2026: What’s the potential impact on Bitcoin price?",
+      "link": "https://cointelegraph.com/news/ai-bubble-risks-in-2026-whats-potential-impact-on-bitcoin-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhMjItMWYxYi03MzZhLWJjYWEtNjVhMTljODJkNzE1LmpwZw==.jpg\" alt=\"AI bubble risks in 2026: What’s the potential impact on Bitcoin price?\"\u003e\u003c/p\u003e\u003cp\u003eTether CEO Paolo Ardoino warned an AI sector correction could spill over into crypto markets in 2026, with some analysts projecting BTC to drop to as low as $65,000.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 10:15:00 +0000",
+      "fetched_at": "2025-12-26T10:38:17.664039466Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Marijuana rescheduling would bring some immediate changes, but others will take time",
       "link": "https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 10:56:48 +0000",
       "fetched_at": "2025-12-17T11:14:03.421423422Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "F1's Kimi Antonelli goes incognito while go-karting",
-      "link": "https://www.bbc.com/news/articles/cgke26n55zgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The driver gets two penalty points but manages to clock the fastest lap of the session.",
-      "published": "Wed, 17 Dec 2025 07:51:10 GMT",
-      "fetched_at": "2025-12-17T10:43:23.441961777Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1230,
-  "last_update": "2025-12-26T10:13:36.710010833Z"
+  "total_captured": 1231,
+  "last_update": "2025-12-26T10:38:17.67146226Z"
 }
