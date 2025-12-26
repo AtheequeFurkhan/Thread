@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trust Wallet will cover $7M lost in Christmas Day hack, CZ says",
+      "link": "https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlY2EtZTcxNi03ZDNkLWE4NjktNjc5NTA4ODk0YTcw.jpg\" alt=\"Trust Wallet will cover $7M lost in Christmas Day hack, CZ says\"\u003e\u003c/p\u003e\u003cp\u003eThe malicious Trust Wallet extension has also been exporting users’ personal information, pointing to potential insider activity, according to cybersecurity company SlowMist.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 08:53:06 +0000",
+      "fetched_at": "2025-12-26T09:14:42.83587161Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Aave governance vote ends in rejection after community pushback",
       "link": "https://cointelegraph.com/news/aave-governance-vote-rejected-brand-ownership-dao?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 09:56:58 +0000",
       "fetched_at": "2025-12-17T10:14:58.371047703Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Is the viral cheese pull saving chain restaurants?",
-      "link": "https://www.npr.org/2025/12/17/nx-s1-5598332/chain-restaurants-viral-cheese-pull-social-media",
-      "category": "Business",
-      "summary": "For restaurants, going viral is appetizing. But at what cost?",
-      "published": "Wed, 17 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-17T10:14:58.032133005Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1225,
-  "last_update": "2025-12-26T08:47:57.909888037Z"
+  "total_captured": 1226,
+  "last_update": "2025-12-26T09:14:43.191687488Z"
 }
