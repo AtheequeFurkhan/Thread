@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "BNB Chain Fermi hard fork scheduled for January activation",
+      "link": "https://cointelegraph.com/news/binance-smart-chain-bnb-fermi-hard-fork-scheduled-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViN2MtOWU1OS03YzYxLWE0ZGMtODE1YzQ1NDVjZGVlLmpwZw==.jpg\" alt=\"BNB Chain Fermi hard fork scheduled for January activation\"\u003e\u003c/p\u003e\u003cp\u003eThe mainnet rollout follows the Fermi testnet activation in November, further reducing block times on the layer-1 blockchain network.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 17:28:34 +0000",
+      "fetched_at": "2025-12-26T17:47:41.015255682Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin’s current setup looks like 2019, says Benjamin Cowen",
       "link": "https://cointelegraph.com/news/why-bitcoin-setup-looks-more-like-2019-benjamin-cowen?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 14:00:00 +0000",
       "fetched_at": "2025-12-17T14:14:38.243349533Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Binance names alleged fake listing agents, offers up to $5M whistleblower reward",
-      "link": "https://cointelegraph.com/news/binance-crackdown-fake-token-agents-listing-process?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMmEtMWI1Zi03YjY4LWE2ZjEtY2YyODUzZmY5MTY4LmpwZw==.jpg\" alt=\"Binance names alleged fake listing agents, offers up to $5M whistleblower reward\"\u003e\u003c/p\u003e\u003cp\u003eBinance has warned users to avoid token listing agents at all costs, offering up to $5 million to whistleblowers who report listing frauds.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 13:21:36 +0000",
-      "fetched_at": "2025-12-17T13:45:46.59883555Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1243,
-  "last_update": "2025-12-26T17:30:51.752450512Z"
+  "total_captured": 1244,
+  "last_update": "2025-12-26T17:47:41.233298547Z"
 }
