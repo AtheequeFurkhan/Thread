@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ethereum unlikely to reach new highs in 2026: Ben Cowen",
+      "link": "https://cointelegraph.com/news/ether-price-new-highs-2026-unlikely-ben-cowen-crypto-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU4MWQtMTMyNy03NzY2LTlmYjAtOWM3ZjdlOWEyMzdhLmpwZw==.jpg\" alt=\"Ethereum unlikely to reach new highs in 2026: Ben Cowen\"\u003e\u003c/p\u003e\u003cp\u003eIf Ether manages to reclaim its all-time high in 2026, it may just be a “bull trap,” says crypto analyst Ben Cowen.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 03:53:13 +0000",
+      "fetched_at": "2025-12-26T04:28:46.744190545Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Vitalik says Grok arguably a 'net improvement' to X despite flaws",
       "link": "https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 04:34:05 GMT",
       "fetched_at": "2025-12-17T07:16:25.441139412Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
-      "link": "https://cointelegraph.com/news/bitcoin-sub-50k-quantum-threat-2028?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhYTAtOTIxNy03YjAwLThhYmQtNzhhMGRmNzFjZjM1LmpwZw==.jpg\" alt=\"Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole\"\u003e\u003c/p\u003e\u003cp\u003eQuantitative Bitcoin and digital asset fund Capriole says the price of Bitcoin could plummet if the network doesn’t develop resistance to quantum computing.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 06:18:19 +0000",
-      "fetched_at": "2025-12-17T06:53:35.078402187Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1213,
-  "last_update": "2025-12-26T03:54:23.776008374Z"
+  "total_captured": 1214,
+  "last_update": "2025-12-26T04:28:46.799644645Z"
 }
