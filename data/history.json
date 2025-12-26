@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Marijuana rescheduling would bring some immediate changes, but others will take time",
+      "link": "https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order",
+      "category": "Business",
+      "summary": "President Trump set the process in motion to ease federal restrictions on marijuana. But his order doesn't automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.",
+      "published": "Fri, 26 Dec 2025 05:01:00 -0500",
+      "fetched_at": "2025-12-26T10:13:36.691184785Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Inside the Swiss city where you can pay for almost everything in Bitcoin",
+      "link": "https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhMWUtOWJiOS03NDQxLWFjZjEtMDVjNDgxZTE3OWI1LmpwZWc=.jpeg\" alt=\"Inside the Swiss city where you can pay for almost everything in Bitcoin\"\u003e\u003c/p\u003e\u003cp\u003eFrom McDonald’s to municipal taxes, Lugano is proving that Bitcoin adoption is not about predicting the future; it is about building the infrastructure to handle it today.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 09:50:05 +0000",
+      "fetched_at": "2025-12-26T10:13:36.091871479Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Economic analyst says consumer spending has been resilient despite uncertainty",
       "link": "https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 07:51:10 GMT",
       "fetched_at": "2025-12-17T10:43:23.441961777Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US accused of using illegal workers at centre processing refugee claims in South Africa",
-      "link": "https://www.bbc.com/news/articles/c2468q3y75vo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The seven Kenyans had previously been denied working visas and will now be deported, South Africa says.",
-      "published": "Wed, 17 Dec 2025 10:08:52 GMT",
-      "fetched_at": "2025-12-17T10:43:23.441945196Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting",
-      "link": "https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "UK-born Rabbi Schlanger mourned as someone beloved by his community and who spread \"love and joy\".",
-      "published": "Wed, 17 Dec 2025 08:25:50 GMT",
-      "fetched_at": "2025-12-17T10:43:23.441928435Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1228,
-  "last_update": "2025-12-26T09:50:53.309051765Z"
+  "total_captured": 1230,
+  "last_update": "2025-12-26T10:13:36.710010833Z"
 }

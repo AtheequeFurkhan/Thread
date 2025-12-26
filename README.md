@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 09:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1228-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 10:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1230-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 09:50 UTC)*
+*(Updated: 26 Dec 10:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) | ⚪ Neutral |
+| **Crypto** | [Inside the Swiss city where you can pay for almost everything in Bitcoin](https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) | ⚪ Neutral |
 | **Business** | [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) | ⚪ Neutral |
 | **Crypto** | [Trust Wallet will cover $7M lost in Christmas Day hack, CZ says](https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Vitalik says Grok arguably a 'net improvement' to X despite flaws](https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO](https://cointelegraph.com/news/bitcoin-market-fundamentals-strong-strategy-ceo-phong-le?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Heavy rain storms in California leave three dead as of Christmas night](https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Business** | [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) | ⚪ Neutral |
-| **World** | [Zelensky hails 'new ideas' on peace after talks with US envoys](https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) (⚪ Neutral)
 - [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) (⚪ Neutral)
 - [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) (⚪ Neutral)
 - [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) (⚪ Neutral)
 - [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) (⚪ Neutral)
-- [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Inside the Swiss city where you can pay for almost everything in Bitcoin](https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trust Wallet will cover $7M lost in Christmas Day hack, CZ says](https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Aave governance vote ends in rejection after community pushback](https://cointelegraph.com/news/aave-governance-vote-rejected-brand-ownership-dao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records](https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Tips for crypto newbies, vets and skeptics from a Bitcoiner who buried $700M](https://cointelegraph.com/news/crypto-tips-newcomers-vets-skeptics-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto sentiment holds ‘extreme fear’ for 14th straight day](https://cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
