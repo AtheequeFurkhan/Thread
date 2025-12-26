@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 11:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1231-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 11:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1232-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 11:11 UTC)*
+*(Updated: 26 Dec 11:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [The crypto events that reshaped the industry in 2025](https://cointelegraph.com/explained/the-crypto-events-that-reshaped-the-industry-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [AI bubble risks in 2026: What’s the potential impact on Bitcoin price?](https://cointelegraph.com/news/ai-bubble-risks-in-2026-whats-potential-impact-on-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Business** | [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) | ⚪ Neutral |
 | **Crypto** | [Inside the Swiss city where you can pay for almost everything in Bitcoin](https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Crypto sentiment holds ‘extreme fear’ for 14th straight day](https://cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum unlikely to reach new highs in 2026: Ben Cowen](https://cointelegraph.com/news/ether-price-new-highs-2026-unlikely-ben-cowen-crypto-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Vitalik says Grok arguably a 'net improvement' to X despite flaws](https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO](https://cointelegraph.com/news/bitcoin-market-fundamentals-strong-strategy-ceo-phong-le?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [The crypto events that reshaped the industry in 2025](https://cointelegraph.com/explained/the-crypto-events-that-reshaped-the-industry-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [AI bubble risks in 2026: What’s the potential impact on Bitcoin price?](https://cointelegraph.com/news/ai-bubble-risks-in-2026-whats-potential-impact-on-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Inside the Swiss city where you can pay for almost everything in Bitcoin](https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trust Wallet will cover $7M lost in Christmas Day hack, CZ says](https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Aave governance vote ends in rejection after community pushback](https://cointelegraph.com/news/aave-governance-vote-rejected-brand-ownership-dao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records](https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
