@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Economic analyst says consumer spending has been resilient despite uncertainty",
+      "link": "https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty",
+      "category": "Business",
+      "summary": "NPR's Leila Fadel speaks to an economic analyst for Visa about consumer spending this year, and what we could expect going into 2026.",
+      "published": "Fri, 26 Dec 2025 04:40:36 -0500",
+      "fetched_at": "2025-12-26T09:50:53.308873863Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Holiday spending expected to be up despite low consumer confidence",
+      "link": "https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence",
+      "category": "Business",
+      "summary": "Holiday spending was higher than expected this year, despite low confidence in the economy and many people reporting tightening their budgets.",
+      "published": "Fri, 26 Dec 2025 04:40:42 -0500",
+      "fetched_at": "2025-12-26T09:50:53.308675451Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trust Wallet will cover $7M lost in Christmas Day hack, CZ says",
       "link": "https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 08:25:50 GMT",
       "fetched_at": "2025-12-17T10:43:23.441928435Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans",
-      "link": "https://cointelegraph.com/news/kucoin-taps-tomorrowland-festivals-mica-onramp?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiMmMtYTQ1Zi03ZmE5LWJkZDEtYzljZjNhMWE3OWY3LmpwZw==.jpg\" alt=\"KuCoin taps Tomorrowland festivals as MiCA-era on-ramp for European fans\"\u003e\u003c/p\u003e\u003cp\u003eKuCoin is using a freshly minted MiCA license to wire crypto payments and perks into Tomorrowland’s flagship festivals.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 09:45:00 +0000",
-      "fetched_at": "2025-12-17T10:14:58.371113066Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
-      "link": "https://cointelegraph.com/news/bitcoin-institutional-buys-flip-new-supply-for-first-time-in-6-weeks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYWQtMTc2Yy03MDc1LWFkYjAtYmNjMzE4Yjk5ZWQ2LmpwZw==.jpg\" alt=\"Bitcoin institutional buys flip new supply for the first time in 6 weeks\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin buying power from institutions flipped the daily mined BTC supply for the first time since the start of November, new data showed.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 09:56:58 +0000",
-      "fetched_at": "2025-12-17T10:14:58.371047703Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1226,
-  "last_update": "2025-12-26T09:35:45.093691549Z"
+  "total_captured": 1228,
+  "last_update": "2025-12-26T09:50:53.309051765Z"
 }

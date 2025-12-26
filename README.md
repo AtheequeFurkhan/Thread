@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 09:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1226-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 09:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1228-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 09:35 UTC)*
+*(Updated: 26 Dec 09:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) | ⚪ Neutral |
+| **Business** | [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) | ⚪ Neutral |
 | **Crypto** | [Trust Wallet will cover $7M lost in Christmas Day hack, CZ says](https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Aave governance vote ends in rejection after community pushback](https://cointelegraph.com/news/aave-governance-vote-rejected-brand-ownership-dao?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records](https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Heavy rain storms in California leave three dead as of Christmas night](https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Business** | [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) | ⚪ Neutral |
 | **World** | [Zelensky hails 'new ideas' on peace after talks with US envoys](https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas](https://cointelegraph.com/news/pudgy-penguins-nft-characters-las-vegas-sphere-christmas-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Narratives versus reality: What really drives Bitcoin and altcoin prices?](https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) (⚪ Neutral)
+- [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) (⚪ Neutral)
 - [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) (⚪ Neutral)
 - [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) (⚪ Neutral)
 - [Baking cookbooks boomed in 2025](https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025) (⚪ Neutral)
-- [Student loan borrowers in default may soon see their wages garnished](https://www.npr.org/2025/12/23/nx-s1-5653312/student-loans-default-education-department) (⚪ Neutral)
-- [The U.S. economy grew robustly as Americans continued to spend](https://www.npr.org/2025/12/23/nx-s1-5651932/economy-delayed-gdp-tariffs) (⚪ Neutral)
 
 
 ### 📂 Crypto
