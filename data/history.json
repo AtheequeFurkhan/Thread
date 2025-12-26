@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Price predictions 12/26: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
+      "link": "https://cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViNjQtNzAxZC03MjVjLWFjY2YtNDRjMDU0MjdjM2IzLmpwZw==.jpg\" alt=\"Price predictions 12/26: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins attempted to start a relief rally, but higher levels continue to attract strong selling by the bears.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 16:04:41 +0000",
+      "fetched_at": "2025-12-26T16:14:30.006232033Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
       "link": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 13:22:50 GMT",
       "fetched_at": "2025-12-17T13:45:46.164536189Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana tests quantum-resistant transactions in new Project Eleven pilot",
-      "link": "https://cointelegraph.com/news/solana-bids-for-quantum-resistance-testnet-goes-post-quantum?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiYjgtMmE4OC03NjQ3LTg3M2EtMWYxOGJjZmE3ZGRiLmpwZw==.jpg\" alt=\"Solana tests quantum-resistant transactions in new Project Eleven pilot\"\u003e\u003c/p\u003e\u003cp\u003eSolana has partnered with a security company to test quantum-resistant technology on a Solana testnet, claiming to offer a scalable end-to-end solution.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 12:29:06 +0000",
-      "fetched_at": "2025-12-17T13:11:09.306270979Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1241,
-  "last_update": "2025-12-26T15:50:27.194006429Z"
+  "total_captured": 1242,
+  "last_update": "2025-12-26T16:14:31.084199227Z"
 }
