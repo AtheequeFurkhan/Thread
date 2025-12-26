@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
+      "link": "https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Cambodia accuses Thailand of \"indiscriminate attacks\", as negotiators meet for a third day to try to end weeks of renewed fighting.",
+      "published": "Fri, 26 Dec 2025 12:18:26 GMT",
+      "fetched_at": "2025-12-26T13:07:12.988895764Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
+      "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
+      "published": "Fri, 26 Dec 2025 13:03:18 GMT",
+      "fetched_at": "2025-12-26T13:07:12.988878051Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "2026 is the year Ethereum starts scaling exponentially with ZK tech",
+      "link": "https://cointelegraph.com/news/2026-is-the-year-ethereum-starts-scaling-exponentially-with-zk-tech?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ZGYtMTQzMi03ODE4LWE4YzMtMTEwZDlkYTcxMmM4LmpwZw==.jpg\" alt=\"2026 is the year Ethereum starts scaling exponentially with ZK tech\"\u003e\u003c/p\u003e\u003cp\u003eThe lowdown on how the switchover to ZK-proofs is expected to work this year as part of Ethereum’s plan to scale to 10,000 TPS.\u003c/p\u003e",
+      "published": "Fri, 26 Dec 2025 13:00:00 +0000",
+      "fetched_at": "2025-12-26T13:07:12.980268709Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Memecoins go from Christmas cheer to cold reality, sinking 65% in a year",
       "link": "https://cointelegraph.com/news/memecoins-christmas-2025-yearly-decline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 17 Dec 2025 12:08:40 +0000",
       "fetched_at": "2025-12-17T12:25:50.385907791Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
-      "link": "https://cointelegraph.com/news/central-african-republic-crypto-state-capture-criminal-networks-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiZjktMTA3MS03NWM4LThjNDEtMjBhYjViNmJhYTljLmpwZw==.jpg\" alt=\"CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report\"\u003e\u003c/p\u003e\u003cp\u003eA new report warns that the Central African Republic’s crypto push favored elites and exposed the country to foreign criminal networks, rather than boosting financial inclusion.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 12:17:51 +0000",
-      "fetched_at": "2025-12-17T12:25:50.385885759Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'It's just a nightmare': Ten-year-old victim's mum speaks at Bondi memorial",
-      "link": "https://www.bbc.com/news/videos/c93w7y8475qo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The mother of 10-year-old Matilda, the youngest victim of the Bondi Beach attack, paid tribute to her daughter at a flower memorial on Tuesday evening.",
-      "published": "Wed, 17 Dec 2025 10:23:55 GMT",
-      "fetched_at": "2025-12-17T11:32:26.932820041Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "What are the 'ghost ships' Venezuela is using to evade oil sanctions?",
-      "link": "https://www.bbc.com/news/articles/c4g562vz34ro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A tanker seized by the US is believed to be part of a \"ghost fleet\" used by Venezuela to evade oil sanctions.",
-      "published": "Wed, 17 Dec 2025 11:16:17 GMT",
-      "fetched_at": "2025-12-17T11:32:26.932797579Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1233,
-  "last_update": "2025-12-26T12:24:13.538476479Z"
+  "total_captured": 1236,
+  "last_update": "2025-12-26T13:07:13.204929084Z"
 }
