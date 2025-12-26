@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
+      "link": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The explosion in Homs targeted a predominantly Alawite area, a sect that has faced crackdowns and violence since the fall of former-President Bashar al-Assad.",
+      "published": "Fri, 26 Dec 2025 15:01:16 GMT",
+      "fetched_at": "2025-12-26T15:13:14.837411032Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
       "link": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 12:29:06 +0000",
       "fetched_at": "2025-12-17T13:11:09.306270979Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "New Coinbase report points to ‘broken’ traditional finance system: Armstrong",
-      "link": "https://cointelegraph.com/news/new-coinbase-report-broken-traditional-finance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMWYtZDRjMS03NDFmLWFiODctYmUzZDZhYjM1ZWYwLmpwZw==.jpg\" alt=\"New Coinbase report points to ‘broken’ traditional finance system: Armstrong\"\u003e\u003c/p\u003e\u003cp\u003eA new Coinbase–Ipsos survey shows younger US investors are trading more often, taking more risk and putting a far larger share of their portfolios into crypto.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 12:53:52 +0000",
-      "fetched_at": "2025-12-17T13:11:09.306257193Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1240,
-  "last_update": "2025-12-26T14:51:58.256701758Z"
+  "total_captured": 1241,
+  "last_update": "2025-12-26T15:13:15.214405869Z"
 }
