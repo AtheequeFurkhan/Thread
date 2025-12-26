@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-26 Dec 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1252-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-26 Dec 22:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1253-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 26 Dec 22:12 UTC)*
+*(Updated: 26 Dec 22:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise) | 🔴 Negative |
 | **Crypto** | [Bitmain slashes ASIC prices amid mining industry turmoil: Report](https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook](https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price, onchain flows and global macro: Here’s what changed in 2025](https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Thailand bombs Cambodian border area as ceasefire talks continue](https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Two killed in suspected Palestinian ramming and knife attack in Israel](https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [2026 is the year Ethereum starts scaling exponentially with ZK tech](https://cointelegraph.com/news/2026-is-the-year-ethereum-starts-scaling-exponentially-with-zk-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Memecoins go from Christmas cheer to cold reality, sinking 65% in a year](https://cointelegraph.com/news/memecoins-christmas-2025-yearly-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise) (🔴 Negative)
 - [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) (⚪ Neutral)
 - [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) (⚪ Neutral)
 - [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) (⚪ Neutral)
 - [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) (⚪ Neutral)
-- [What tariffs have meant for holiday candle sales](https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales) (⚪ Neutral)
 
 
 ### 📂 Crypto

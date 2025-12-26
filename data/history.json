@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Memory loss: As AI gobbles up chips, prices for devices may rise",
+      "link": "https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise",
+      "category": "Business",
+      "summary": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.",
+      "published": "Fri, 26 Dec 2025 17:17:50 -0500",
+      "fetched_at": "2025-12-26T22:34:28.002288478Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitmain slashes ASIC prices amid mining industry turmoil: Report",
       "link": "https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 15:50:00 +0000",
       "fetched_at": "2025-12-17T15:57:35.558949245Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Warner Bros favours Netflix offer over $108bn Paramount bid",
-      "link": "https://www.bbc.com/news/articles/cz687wv9vqxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Warner Brothers says the offer for its film and streaming businesses is inferior to Netflix's.",
-      "published": "Wed, 17 Dec 2025 14:38:34 GMT",
-      "fetched_at": "2025-12-17T15:44:42.82701022Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1252,
-  "last_update": "2025-12-26T22:12:13.651674378Z"
+  "total_captured": 1253,
+  "last_update": "2025-12-26T22:34:28.002328733Z"
 }
