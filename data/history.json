@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession",
+      "link": "https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Nine years after her husband disappeared, Susanna Liew had a stunning legal win in one of Malaysia's biggest mysteries.",
+      "published": "Fri, 26 Dec 2025 23:14:10 GMT",
+      "fetched_at": "2025-12-27T06:51:00.385966569Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Thousands of US flights disrupted as winter storm looms",
+      "link": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Heavy snow is expected in New York and southern Connecticut during one of the busiest travel weekends of the year.",
+      "published": "Sat, 27 Dec 2025 01:36:28 GMT",
+      "fetched_at": "2025-12-27T06:51:00.385950208Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "'We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers",
+      "link": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "This is the first election since the army's coup in early 2021 - and it is being widely condemned as a sham.",
+      "published": "Fri, 26 Dec 2025 23:01:59 GMT",
+      "fetched_at": "2025-12-27T06:51:00.385934749Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Thailand and Cambodia agree ceasefire after weeks of deadly clashes",
+      "link": "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Almost one million people have been displaced since hostilities resumed earlier this month.",
+      "published": "Sat, 27 Dec 2025 05:51:10 GMT",
+      "fetched_at": "2025-12-27T06:51:00.3859193Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "XRP may trade sideways in 2026 until bullish catalysts emerge: Analysts",
       "link": "https://cointelegraph.com/news/xrp-price-sideways-bullish-catalyst-crypto-analysts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Wed, 17 Dec 2025 18:50:29 +0000",
       "fetched_at": "2025-12-17T19:14:13.145609731Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Spain to open network of climate shelters",
-      "link": "https://www.bbc.com/news/articles/c5yj8ew1pnlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Prime Minister Pedro Sanchez says the shelters will be in public buildings across the country.",
-      "published": "Wed, 17 Dec 2025 17:50:37 GMT",
-      "fetched_at": "2025-12-17T18:53:05.608506732Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fifa video game to return after four years in Netflix exclusive",
-      "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup.",
-      "published": "Wed, 17 Dec 2025 18:20:44 GMT",
-      "fetched_at": "2025-12-17T18:53:05.215317067Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement",
-      "link": "https://cointelegraph.com/news/silvergate-bank-lawsuit-ftx-alameda-settlement?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjZDktMTZlMS03MWQwLTgzM2UtOGJlMWZmNmY5NWQyLmpwZw==.jpg\" alt=\"Silvergate Bank lawsuit calls for FTX, Alameda clients to weigh in on $10M settlement\"\u003e\u003c/p\u003e\u003cp\u003eMore than 46,000 claimants could potentially receive a payout from a court-approved settlement involving the FTX-tied Silvergate Bank, which shuttered in 2023.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 17:43:34 +0000",
-      "fetched_at": "2025-12-17T17:55:04.390718878Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Jack Smith defends Trump prosecutions in testimony to Congress",
-      "link": "https://www.bbc.com/news/articles/cm21rvdwv1ro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The former US Special Counsel is facing questions about his two defunct criminal investigations into President Donald Trump.",
-      "published": "Wed, 17 Dec 2025 15:57:29 GMT",
-      "fetched_at": "2025-12-17T16:23:41.621085691Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1256,
-  "last_update": "2025-12-27T06:19:09.140851101Z"
+  "total_captured": 1260,
+  "last_update": "2025-12-27T06:51:00.608745023Z"
 }

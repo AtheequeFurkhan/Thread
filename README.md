@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-27 Dec 06:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1256-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-27 Dec 06:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1260-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 27 Dec 06:19 UTC)*
+*(Updated: 27 Dec 06:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | ['We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers](https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Thailand and Cambodia agree ceasefire after weeks of deadly clashes](https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [XRP may trade sideways in 2026 until bullish catalysts emerge: Analysts](https://cointelegraph.com/news/xrp-price-sideways-bullish-catalyst-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow](https://cointelegraph.com/news/bitcoin-bear-market-bull-decade-ahead-jan3-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO](https://cointelegraph.com/news/ethereum-total-value-locked-skyrocket-2026-sharplink-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Crypto** | [Bitcoin’s current setup looks like 2019, says Benjamin Cowen](https://cointelegraph.com/news/why-bitcoin-setup-looks-more-like-2019-benjamin-cowen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Price predictions 12/26: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-26-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Blast at Syrian mosque during Friday prayers leaves at least eight dead](https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Zelensky plans to meet Trump on Sunday for talks on ending Russian war](https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Former Malaysia PM Najib Razak found guilty in state funds scandal](https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [AI-era internet: Can blockchain prove what’s real anymore?](https://cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Tokenized commodities near $4B, as gold extends all-time rally](https://cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- ['We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers](https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Thailand and Cambodia agree ceasefire after weeks of deadly clashes](https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Israel recognises Somaliland as independent state, Netanyahu says](https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Blast at Syrian mosque during Friday prayers leaves at least eight dead](https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Zelensky plans to meet Trump on Sunday for talks on ending Russian war](https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Former Malaysia PM Najib Razak found guilty in state funds scandal](https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thailand bombs Cambodian border area as ceasefire talks continue](https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
