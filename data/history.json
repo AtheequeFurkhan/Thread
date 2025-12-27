@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report",
+      "link": "https://cointelegraph.com/news/jpmorgan-freezes-stablecoin-startup-accounts-sanctions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVlOTQtMmNmZi03ZTIwLWE1OGEtNzA3YjM5NDEzNDIwLmpwZw==.jpg\" alt=\"JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report\"\u003e\u003c/p\u003e\u003cp\u003eJPMorgan has reportedly frozen accounts linked to Y Combinator–backed stablecoin startups BlindPay and Kontigo after flagging exposure to sanctioned jurisdictions.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 06:54:36 +0000",
+      "fetched_at": "2025-12-27T07:12:17.640646721Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fifa video game to return after four years in Netflix exclusive",
+      "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup.",
+      "published": "Wed, 17 Dec 2025 18:20:44 GMT",
+      "fetched_at": "2025-12-27T07:12:17.412493055Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession",
       "link": "https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 17 Dec 2025 20:26:21 +0000",
       "fetched_at": "2025-12-17T20:38:59.083941462Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The Oscars to leave ABC and stream on YouTube starting in 2029",
-      "link": "https://www.bbc.com/news/articles/c1kpr0dg130o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The show was hosted by ABC for more than a half-century and reveals the latest major shakeup in Hollywood.",
-      "published": "Wed, 17 Dec 2025 19:07:13 GMT",
-      "fetched_at": "2025-12-17T19:14:13.359748618Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Binance mulls new US strategy, CZ potentially reducing stake: Report",
-      "link": "https://cointelegraph.com/news/binance-us-strategy-cz-reduce-stake?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNWEtNzliYS03NTBmLWE2MjktN2Q0NDIzNGE5MTg1LmpwZw==.jpg\" alt=\"Binance mulls new US strategy, CZ potentially reducing stake: Report\"\u003e\u003c/p\u003e\u003cp\u003eBinance exited the United States in 2019, and a separate company, Binance.US, has been serving US customers since that time.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 18:50:29 +0000",
-      "fetched_at": "2025-12-17T19:14:13.145609731Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1260,
-  "last_update": "2025-12-27T06:51:00.608745023Z"
+  "total_captured": 1262,
+  "last_update": "2025-12-27T07:12:18.259044359Z"
 }
