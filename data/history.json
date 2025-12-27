@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "XRP may trade sideways in 2026 until bullish catalysts emerge: Analysts",
+      "link": "https://cointelegraph.com/news/xrp-price-sideways-bullish-catalyst-crypto-analysts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVkNmMtMTM0YS03MGQ2LWE5OTgtM2NjZDJiYzY2YzhhLmpwZw==.jpg\" alt=\"XRP may trade sideways in 2026 until bullish catalysts emerge: Analysts\"\u003e\u003c/p\u003e\u003cp\u003eThe second half of 2026 will provide “more constructive conditions” for XRP to potentially surge, according to Nansen crypto analyst Jake Kennis.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 05:03:46 +0000",
+      "fetched_at": "2025-12-27T05:14:07.601245968Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow",
       "link": "https://cointelegraph.com/news/bitcoin-bear-market-bull-decade-ahead-jan3-samson-mow?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 15:57:29 GMT",
       "fetched_at": "2025-12-17T16:23:41.621085691Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Polar bear mother adopts cub in rarely documented case",
-      "link": "https://www.bbc.com/news/articles/cvg803v3erko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "It's only the 13th known case of adoption out of the 4,600 bears studied for nearly five decades in the northern Canadian area.",
-      "published": "Wed, 17 Dec 2025 15:55:24 GMT",
-      "fetched_at": "2025-12-17T16:23:41.621072186Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1255,
-  "last_update": "2025-12-27T04:50:08.255316298Z"
+  "total_captured": 1256,
+  "last_update": "2025-12-27T05:14:07.722471439Z"
 }
