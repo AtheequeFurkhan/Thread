@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
+      "link": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police say the suspects raised around €7m (£6m) for the militant group over more than two years.",
+      "published": "Sat, 27 Dec 2025 15:25:18 GMT",
+      "fetched_at": "2025-12-27T15:30:39.681351511Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Two dead in 50-vehicle pile up on Japan highway",
       "link": "https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 00:43:59 GMT",
       "fetched_at": "2025-12-18T00:56:35.402564478Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-      "link": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Footage shows a man believed to be the 32-year-old wandering in a convenience store before his arrest in the deaths of his parents, Rob and Michele.",
-      "published": "Wed, 17 Dec 2025 22:35:43 GMT",
-      "fetched_at": "2025-12-17T23:12:21.511962354Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1272,
-  "last_update": "2025-12-27T15:11:33.984619874Z"
+  "total_captured": 1273,
+  "last_update": "2025-12-27T15:30:40.330374498Z"
 }
