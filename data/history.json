@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Two dead in 50-vehicle pile up on Japan highway",
+      "link": "https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A further 26 people are injured in the crash on a highway in central Japan, police say.",
+      "published": "Sat, 27 Dec 2025 12:03:20 GMT",
+      "fetched_at": "2025-12-27T13:04:18.428376544Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Four hikers found dead after avalanche in central Greece",
+      "link": "https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A search operation was launched after three men and a woman went missing on Christmas Day.",
+      "published": "Sat, 27 Dec 2025 12:36:09 GMT",
+      "fetched_at": "2025-12-27T13:04:18.428361366Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying",
+      "link": "https://cointelegraph.com/news/coinbase-ceo-genius-act-red-line-bank-lobbying-stablecoins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVmYzEtNDRiYi03N2UxLWIzMzItOWQzNWY5OWM0NmEzLmpwZw==.jpg\" alt=\"Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase CEO Brian Armstrong warned that reopening the GENIUS Act would cross a “red line,” accusing banks of lobbying Congress to block stablecoin rewards and limit competition.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 12:24:30 +0000",
+      "fetched_at": "2025-12-27T13:04:18.417987403Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "No $90K Bitcoin till next year: BTC futures open interest hits 8-month low",
       "link": "https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 17 Dec 2025 22:35:43 GMT",
       "fetched_at": "2025-12-17T23:12:21.511962354Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Coinbase adds stock trading, prediction markets in ‘everything app’ push",
-      "link": "https://cointelegraph.com/news/coinbase-stock-trading-prediction-markets-in-everything-app-push?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlNjktNjFmZi03OWM4LWE0ZjYtZGI5MTcyMTg4OGE1LmpwZw==.jpg\" alt=\"Coinbase adds stock trading, prediction markets in ‘everything app’ push\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase is racing toward its goal of creating an “everything app” with its platform adding a slew of new offerings, including stock trading and prediction markets.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 22:54:17 +0000",
-      "fetched_at": "2025-12-17T23:12:21.256832446Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Rob Reiner's family breaks silence as son Nick faces court for murder charges",
-      "link": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death.",
-      "published": "Wed, 17 Dec 2025 20:31:10 GMT",
-      "fetched_at": "2025-12-17T22:35:40.244008679Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Are Americans letting go of 'slop bowls?'",
-      "link": "https://www.npr.org/2025/12/17/nx-s1-5645077/are-americans-letting-go-of-slop-bowls",
-      "category": "Business",
-      "summary": "NPR's Ailsa Chang talks with Bloomberg's Consumer Reporter Redd Brown, who wrote about the changing sentiments toward the lunch bowl industry.",
-      "published": "Wed, 17 Dec 2025 16:41:16 -0500",
-      "fetched_at": "2025-12-17T22:12:32.634224662Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1269,
-  "last_update": "2025-12-27T12:22:46.940155529Z"
+  "total_captured": 1272,
+  "last_update": "2025-12-27T13:04:18.428396752Z"
 }
