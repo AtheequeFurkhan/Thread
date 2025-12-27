@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Election betting on prediction markets apps is set to boom ahead of midterms",
+      "link": "https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets",
+      "category": "Business",
+      "summary": "Online prediction markets, like Polymarket and Kalshi, were under intense scrutiny in the Biden administration. But Trump officials are embracing the controversial apps, raising new fears about election interference ahead of the midterms.",
+      "published": "Tue, 23 Dec 2025 16:43:33 -0500",
+      "fetched_at": "2025-12-27T10:12:16.894903668Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Watch: Meteor lights up sky over Japan's Mount Fuji",
+      "link": "https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The meteor could be seen blazing through the night sky over Japan's Mount Fuji",
+      "published": "Sat, 27 Dec 2025 10:01:44 GMT",
+      "fetched_at": "2025-12-27T10:12:16.47630408Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Both of these influencers are successful - but only one is human",
+      "link": "https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Some say AI is ruining social media, but others see its potential to democratise who gains fame online.",
+      "published": "Sat, 27 Dec 2025 00:41:28 GMT",
+      "fetched_at": "2025-12-27T10:12:16.476288492Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "One general, one mathematician: The men competing for power in two African elections",
+      "link": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The leaders of Guinea and the Central African Republic aim to consolidate power after Sunday's polls.",
+      "published": "Sat, 27 Dec 2025 00:57:52 GMT",
+      "fetched_at": "2025-12-27T10:12:16.476273695Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
+      "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Poland's military says its air force took a \"preventative\" response to secure its airspace.",
+      "published": "Sat, 27 Dec 2025 09:52:05 GMT",
+      "fetched_at": "2025-12-27T10:12:16.47625429Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report",
       "link": "https://cointelegraph.com/news/jpmorgan-freezes-stablecoin-startup-accounts-sanctions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Wed, 17 Dec 2025 22:04:05 +0000",
       "fetched_at": "2025-12-17T22:12:32.105025811Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-dollar70k-flush-would-reset-cycle-not-confirm-new-bear-market-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkZmYtYTZhMi03YjZiLThjZjUtODk2NDgxNGJkOTQ3LmpwZw==.jpg\" alt=\"Bitcoin $70K flush would reset cycle, not confirm new bear market: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eThe likelihood of a Bitcoin correction to $70,000 has increased, but one analyst said the price drop would confirm a macroeconomic reset, rather than the start of a new bear market.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 21:30:00 +0000",
-      "fetched_at": "2025-12-17T21:49:21.442486441Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ex-Alameda CEO won’t be spending the holidays in federal prison",
-      "link": "https://cointelegraph.com/news/caroline-ellison-alameda-transferred-prison?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNjQtOWFlYi03ZGE5LWEwZDItZDY5YThjYmFkZWJkLmpwZw==.jpg\" alt=\"Ex-Alameda CEO won’t be spending the holidays in federal prison\"\u003e\u003c/p\u003e\u003cp\u003eWith about two months remaining until her expected release date, former Alameda Research CEO Caroline Ellison has been transferred out of federal prison.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 21:15:45 +0000",
-      "fetched_at": "2025-12-17T21:32:47.165485918Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Acting CFTC chair to join MoonPay after leaving agency",
-      "link": "https://cointelegraph.com/news/caroline-pham-cftc-chair-moonpay?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkZmMtZGI5NS03ZDJiLTlhOWEtNDgyMGJjOGQyYjQ2LmpwZw==.jpg\" alt=\"Acting CFTC chair to join MoonPay after leaving agency\"\u003e\u003c/p\u003e\u003cp\u003eThe sole remaining CFTC commissioner, Caroline Pham, said earlier this year that she would leave the agency after the US Senate confirms a replacement.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 21:21:36 +0000",
-      "fetched_at": "2025-12-17T21:32:47.165467974Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Heavy rains worsen conditions for displaced Gazans, UN warns",
-      "link": "https://www.bbc.com/news/articles/cx2e6r10rdeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Gaza's health ministry says one baby has died from hypothermia and 11 other people have died in building collapses over the past week.",
-      "published": "Wed, 17 Dec 2025 20:45:22 GMT",
-      "fetched_at": "2025-12-17T21:13:04.425020924Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-12-17-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkNmQtYzc4OC03NDE2LWE5OWYtNDdhNzk2ZGQzNDMwLmpwZw==.jpg\" alt=\"Price predictions 12/17: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and altcoin rallies are being capped by heavy selling near the intraday range highs, leading some analysts to revise their end-of-year price estimates. What do technical charts say?\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 20:26:21 +0000",
-      "fetched_at": "2025-12-17T20:38:59.083941462Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1262,
-  "last_update": "2025-12-27T09:48:15.460127169Z"
+  "total_captured": 1267,
+  "last_update": "2025-12-27T10:12:16.894925769Z"
 }

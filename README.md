@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-27 Dec 09:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1262-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-27 Dec 10:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1267-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 27 Dec 09:48 UTC)*
+*(Updated: 27 Dec 10:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Election betting on prediction markets apps is set to boom ahead of midterms](https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets) | 🟢 Positive |
+| **World** | [Watch: Meteor lights up sky over Japan's Mount Fuji](https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [One general, one mathematician: The men competing for power in two African elections](https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks](https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report](https://cointelegraph.com/news/jpmorgan-freezes-stablecoin-startup-accounts-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **Crypto** | [Bitcoin price, onchain flows and global macro: Here’s what changed in 2025](https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Aave founder denies buying tokens to influence failed DAO vote](https://cointelegraph.com/news/aave-founder-tokens-influence-failed-dao-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined](https://cointelegraph.com/news/bitcoin-crawls-88k-aave-governance-drama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [USX briefly depegs on Solana DEXs before liquidity support restores price](https://cointelegraph.com/news/usx-stabilizes-after-brief-depeg-secondary-market-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Israel recognises Somaliland as independent state, Netanyahu says](https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Crypto ETFs set to explode higher in 2026, analysts say](https://cointelegraph.com/news/crypto-etfs-explode-higher-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [BNB Chain Fermi hard fork scheduled for January activation](https://cointelegraph.com/news/binance-smart-chain-bnb-fermi-hard-fork-scheduled-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin’s current setup looks like 2019, says Benjamin Cowen](https://cointelegraph.com/news/why-bitcoin-setup-looks-more-like-2019-benjamin-cowen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Election betting on prediction markets apps is set to boom ahead of midterms](https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets) (🟢 Positive)
 - [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise) (🔴 Negative)
 - [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) (⚪ Neutral)
 - [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) (⚪ Neutral)
 - [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) (⚪ Neutral)
-- [Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain](https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: Meteor lights up sky over Japan's Mount Fuji](https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [One general, one mathematician: The men competing for power in two African elections](https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks](https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- ['We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers](https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thailand and Cambodia agree ceasefire after weeks of deadly clashes](https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Israel recognises Somaliland as independent state, Netanyahu says](https://www.bbc.com/news/articles/c4g417md05go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
