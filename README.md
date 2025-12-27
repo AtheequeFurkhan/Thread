@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-27 Dec 21:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1275-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-27 Dec 22:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1276-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 27 Dec 21:47 UTC)*
+*(Updated: 27 Dec 22:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nine arrested in Italy for allegedly raising millions for Hamas](https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | ['We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers](https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thailand and Cambodia agree ceasefire after weeks of deadly clashes](https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [XRP may trade sideways in 2026 until bullish catalysts emerge: Analysts](https://cointelegraph.com/news/xrp-price-sideways-bullish-catalyst-crypto-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying](https://cointelegraph.com/news/coinbase-ceo-genius-act-red-line-bank-lobbying-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [No $90K Bitcoin till next year: BTC futures open interest hits 8-month low](https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract](https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

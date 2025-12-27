@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis",
+      "link": "https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjYxYzgtZjU0OS03NWYwLTkzZDYtMjk3OTFhYWM5ZjQzLmpwZw==.jpg\" alt=\"Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis\"\u003e\u003c/p\u003e\u003cp\u003eGiving crypto companies and fintech startups access to accounts at the Federal Reserve is a hedge against debanking by commercial banks.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 22:04:54 +0000",
+      "fetched_at": "2025-12-27T22:11:49.845651384Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Google search volume for 'crypto' craters as 2025 comes to a close",
       "link": "https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 02:04:20 +0000",
       "fetched_at": "2025-12-18T02:46:39.432301055Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "In this secret missile factory, Ukraine is ramping up its domestic arms industry",
-      "link": "https://www.bbc.com/news/articles/c1dz6wgn2w9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC goes to a secret Ukrainian factory, where they are manufacturing new long-range missiles.",
-      "published": "Thu, 18 Dec 2025 00:00:22 GMT",
-      "fetched_at": "2025-12-18T00:56:35.402595275Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1275,
-  "last_update": "2025-12-27T21:47:49.116046462Z"
+  "total_captured": 1276,
+  "last_update": "2025-12-27T22:11:51.433702334Z"
 }
