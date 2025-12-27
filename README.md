@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-27 Dec 02:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1254-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-27 Dec 03:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1255-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 27 Dec 02:49 UTC)*
+*(Updated: 27 Dec 03:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow](https://cointelegraph.com/news/bitcoin-bear-market-bull-decade-ahead-jan3-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO](https://cointelegraph.com/news/ethereum-total-value-locked-skyrocket-2026-sharplink-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise) | 🔴 Negative |
 | **Crypto** | [Bitmain slashes ASIC prices amid mining industry turmoil: Report](https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [AI-era internet: Can blockchain prove what’s real anymore?](https://cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Tokenized commodities near $4B, as gold extends all-time rally](https://cointelegraph.com/news/tokenized-commodities-4b-gold-silver-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Thailand bombs Cambodian border area as ceasefire talks continue](https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Two killed in suspected Palestinian ramming and knife attack in Israel](https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow](https://cointelegraph.com/news/bitcoin-bear-market-bull-decade-ahead-jan3-samson-mow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO](https://cointelegraph.com/news/ethereum-total-value-locked-skyrocket-2026-sharplink-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitmain slashes ASIC prices amid mining industry turmoil: Report](https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook](https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin price, onchain flows and global macro: Here’s what changed in 2025](https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Aave founder denies buying tokens to influence failed DAO vote](https://cointelegraph.com/news/aave-founder-tokens-influence-failed-dao-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-27.md | [View Log](data/2025-12-27.md) |
 | 2025-12-26.md | [View Log](data/2025-12-26.md) |
 | 2025-12-25.md | [View Log](data/2025-12-25.md) |
 | 2025-12-24.md | [View Log](data/2025-12-24.md) |
 | 2025-12-23.md | [View Log](data/2025-12-23.md) |
 | 2025-12-22.md | [View Log](data/2025-12-22.md) |
 | 2025-12-21.md | [View Log](data/2025-12-21.md) |
-| 2025-12-20.md | [View Log](data/2025-12-20.md) |
 
 
 ---

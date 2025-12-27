@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow",
+      "link": "https://cointelegraph.com/news/bitcoin-bear-market-bull-decade-ahead-jan3-samson-mow?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVkMWItMWY4OC03MzZkLWI3MTQtMTExNmM4MzczYmM4LmpwZw==.jpg\" alt=\"Bitcoin saw bear market in 2025, 'decade long' bull run ahead: Mow\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin reached new all-time highs in October, yet Jan3 founder Samson Mow has described the year as a “bear market” and anticipates a major bull run ahead.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 02:54:31 +0000",
+      "fetched_at": "2025-12-27T03:52:00.938440977Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO",
       "link": "https://cointelegraph.com/news/ethereum-total-value-locked-skyrocket-2026-sharplink-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 15:55:24 GMT",
       "fetched_at": "2025-12-17T16:23:41.621072186Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin tags $90K as crypto market spike liquidates $120M shorts",
-      "link": "https://cointelegraph.com/news/bitcoin-returns-90k-btc-price-impulse-liquidates-shorts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzYjItZjU2OS03ZjMxLWFkZDktZjVkMjIwNTEwMDFl.jpg\" alt=\"Bitcoin tags $90K as crypto market spike liquidates $120M shorts\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin took out liquidity at the Wall Street open as a move above $90,000 was followed by a snap retracement, liquidating late long and short entries.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 15:56:20 +0000",
-      "fetched_at": "2025-12-17T16:23:41.57468757Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1254,
-  "last_update": "2025-12-27T02:49:18.383610594Z"
+  "total_captured": 1255,
+  "last_update": "2025-12-27T03:52:00.957298447Z"
 }
