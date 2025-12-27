@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "No $90K Bitcoin till next year: BTC futures open interest hits 8-month low",
+      "link": "https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1YWQtYTBmYy03MjE1LTkxNmUtMmIzMzZjYTM0NGEz.jpg\" alt=\"No $90K Bitcoin till next year: BTC futures open interest hits 8-month low\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s resilient basis rate and options data suggest limited downside despite ETF outflows, while BTC waits for a catalyst that can help it reclaim $90,000.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 12:15:00 +0000",
+      "fetched_at": "2025-12-27T12:22:46.940125833Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract",
       "link": "https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 16:41:16 -0500",
       "fetched_at": "2025-12-17T22:12:32.634224662Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Jito Foundation to return to US amid 'clearer rules' for digital assets",
-      "link": "https://cointelegraph.com/news/jito-foundation-return-us?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJkZmUtNjc1Yi03MDQ4LWI5NmEtYjQ3NzQ0OWEwOWJjLmpwZw==.jpg\" alt=\"Jito Foundation to return to US amid 'clearer rules' for digital assets\"\u003e\u003c/p\u003e\u003cp\u003eJito Labs' CEO said the foundation was forced offshore due to hostile regulators under the previous SEC leadership.\u003c/p\u003e",
-      "published": "Wed, 17 Dec 2025 21:49:38 +0000",
-      "fetched_at": "2025-12-17T22:12:32.105039787Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1268,
-  "last_update": "2025-12-27T11:47:51.660754515Z"
+  "total_captured": 1269,
+  "last_update": "2025-12-27T12:22:46.940155529Z"
 }
