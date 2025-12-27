@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Emerging market economies to drive RWA tokenization in 2026: Crypto exec",
+      "link": "https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmZDUtY2E3MS03ZTEwLWFlZDUtOTc5NDFkODk1ZTM3.jpg\" alt=\"Emerging market economies to drive RWA tokenization in 2026: Crypto exec\"\u003e\u003c/p\u003e\u003cp\u003eDeveloping economies that lack entrenched financial market infrastructure will adopt tokenized real-world assets before developed countries.\u003c/p\u003e",
+      "published": "Sat, 27 Dec 2025 18:20:45 +0000",
+      "fetched_at": "2025-12-27T18:48:01.739406039Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
       "link": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 00:12:25 GMT",
       "fetched_at": "2025-12-18T00:56:35.402579055Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-      "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The leaders are to decide whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs.",
-      "published": "Thu, 18 Dec 2025 00:43:59 GMT",
-      "fetched_at": "2025-12-18T00:56:35.402564478Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1273,
-  "last_update": "2025-12-27T18:17:20.337156914Z"
+  "total_captured": 1274,
+  "last_update": "2025-12-27T18:48:02.288084715Z"
 }
