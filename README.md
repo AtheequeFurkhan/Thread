@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 10:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1298-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 11:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1299-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 10:51 UTC)*
+*(Updated: 28 Dec 11:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) | 🔴 Negative |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Cruise ship hits reef on first trip since leaving passenger on island](https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Snow-capped Mount Etna erupts as skiers glide down slopes](https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [BBC visits Myanmar polling station as civil war rages on](https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [War-torn Myanmar voting in widely criticised 'sham' election](https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) (🔴 Negative)
 - [Election betting on prediction markets apps is set to boom ahead of midterms](https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets) (🟢 Positive)
 - [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise) (🔴 Negative)
 - [Marijuana rescheduling would bring some immediate changes, but others will take time](https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order) (⚪ Neutral)
 - [Economic analyst says consumer spending has been resilient despite uncertainty](https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty) (⚪ Neutral)
-- [Holiday spending expected to be up despite low consumer confidence](https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence) (⚪ Neutral)
 
 
 ### 📂 Crypto
