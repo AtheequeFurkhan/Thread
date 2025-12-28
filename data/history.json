@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Uniswap executes 100M UNI burn after governance approval",
+      "link": "https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjYzYmItYmZjOC03ZTBmLWI3NWItMGY0ZTEzNzc5NGY5LmpwZw==.jpg\" alt=\"Uniswap executes 100M UNI burn after governance approval\"\u003e\u003c/p\u003e\u003cp\u003eUniswap has removed 100 million UNI from circulation after its fee-burning proposal passed with near-unanimous support.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 06:58:11 +0000",
+      "fetched_at": "2025-12-28T07:13:52.872268348Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Watch Australian teens test out social media on first day of ban",
+      "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.",
+      "published": "Wed, 10 Dec 2025 04:38:55 GMT",
+      "fetched_at": "2025-12-28T07:13:52.779593609Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Rich and voiceless: How Putin has kept Russia's billionaires on side in the war",
       "link": "https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 08:32:56 +0000",
       "fetched_at": "2025-12-18T08:50:06.683145907Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ethereum needs simple explanation to see true trustlessness: Buterin",
-      "link": "https://cointelegraph.com/news/ethereum-simplify-trustless-user-experience-buterin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmYWMtYTIwOS03YTBhLWEzMzYtNmQ5MDBiNGQ5MGFlLmpwZw==.jpg\" alt=\"Ethereum needs simple explanation to see true trustlessness: Buterin\"\u003e\u003c/p\u003e\u003cp\u003eVitalik Buterin says Ethereum needs to boost the number of people who can understand the entire blockchain, and it can “get better at this by making the protocol simpler.”\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 05:50:45 +0000",
-      "fetched_at": "2025-12-18T05:54:24.088460932Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "MSCI’s crypto treasury rules could spur $15B of forced selling",
-      "link": "https://cointelegraph.com/news/msci-crypto-treasury-rule-15-billion-forced-selling?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmOTktNGFjMy03OGEzLWJlNDctYjdkYzc2OWIyMjFjLmpwZw==.jpg\" alt=\"MSCI’s crypto treasury rules could spur $15B of forced selling\"\u003e\u003c/p\u003e\u003cp\u003eAnalysts estimated that crypto treasury firms face up to $11.6 billion in outflows if MSCI excluded them from its indexes.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 05:40:34 +0000",
-      "fetched_at": "2025-12-18T05:44:12.067087005Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1286,
-  "last_update": "2025-12-28T06:51:12.880890458Z"
+  "total_captured": 1288,
+  "last_update": "2025-12-28T07:13:52.895196518Z"
 }

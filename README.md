@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 06:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1286-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 07:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1288-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 06:51 UTC)*
+*(Updated: 28 Dec 07:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [UK restricts DR Congo visas over migrant return policy](https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Annette Dionne, last surviving Dionne quintuplet, dies aged 91](https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Four hikers found dead after avalanche in central Greece](https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying](https://cointelegraph.com/news/coinbase-ceo-genius-act-red-line-bank-lobbying-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [No $90K Bitcoin till next year: BTC futures open interest hits 8-month low](https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract](https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Election betting on prediction markets apps is set to boom ahead of midterms](https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets) | 🟢 Positive |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin doesn’t need gold and silver 'to slow down,' say analysts](https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
