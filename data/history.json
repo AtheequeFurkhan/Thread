@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Parents told to lead by example and turn off phones this Christmas",
+      "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The children's commissioner says children are \"crying  out\" for family time over the festive break.",
+      "published": "Thu, 18 Dec 2025 02:28:22 GMT",
+      "fetched_at": "2025-12-28T09:32:49.444793681Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Godfather of Ethiopian jazz plays his last live concert",
       "link": "https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 10:25:11 +0000",
       "fetched_at": "2025-12-18T10:41:47.112139446Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Tokenized stocks may be onchain, but the SEC still wants the keys",
-      "link": "https://cointelegraph.com/news/sec-tokenized-securities-custody-trading-framework?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwOTQtZGFlNy03ODQ3LWE0NWYtNGRjODc5MmQyZGMwLmpwZw==.jpg\" alt=\"Tokenized stocks may be onchain, but the SEC still wants the keys\"\u003e\u003c/p\u003e\u003cp\u003eThe US Securities and Exchange Commission outlined how tokenized equities can exist inside US market safeguards, favoring broker-led custody over crypto-native self-custody.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 10:29:13 +0000",
-      "fetched_at": "2025-12-18T10:41:47.112121312Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1293,
-  "last_update": "2025-12-28T09:13:15.052736163Z"
+  "total_captured": 1294,
+  "last_update": "2025-12-28T09:32:49.915537701Z"
 }

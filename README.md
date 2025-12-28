@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 09:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1293-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 09:32 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1294-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 09:13 UTC)*
+*(Updated: 28 Dec 09:32 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How frogs went from right-wing meme to anti-ICE protest symbol](https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Fearing deportation, Hondurans in the US send more cash home than ever before](https://www.bbc.com/news/articles/c93wjn1y72vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
