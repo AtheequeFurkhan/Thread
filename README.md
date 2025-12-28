@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 06:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1278-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 06:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1286-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,18 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 06:19 UTC)*
+*(Updated: 28 Dec 06:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [UK restricts DR Congo visas over migrant return policy](https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Annette Dionne, last surviving Dionne quintuplet, dies aged 91](https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue](https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Cruise ship hits reef on first trip since leaving passenger on island](https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Snow-capped Mount Etna erupts as skiers glide down slopes](https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [BBC visits Myanmar polling station as civil war rages on](https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [War-torn Myanmar voting in widely criticised 'sham' election](https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin doesn’t need gold and silver 'to slow down,' say analysts](https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -33,14 +41,6 @@
 | **Crypto** | [No $90K Bitcoin till next year: BTC futures open interest hits 8-month low](https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract](https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Election betting on prediction markets apps is set to boom ahead of midterms](https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets) | 🟢 Positive |
-| **World** | [Watch: Meteor lights up sky over Japan's Mount Fuji](https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [One general, one mathematician: The men competing for power in two African elections](https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks](https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report](https://cointelegraph.com/news/jpmorgan-freezes-stablecoin-startup-accounts-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- [Nine arrested in Italy for allegedly raising millions for Hamas](https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Two dead in 50-vehicle pile up on Japan highway](https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Four hikers found dead after avalanche in central Greece](https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Meteor lights up sky over Japan's Mount Fuji](https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Both of these influencers are successful - but only one is human](https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [UK restricts DR Congo visas over migrant return policy](https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Annette Dionne, last surviving Dionne quintuplet, dies aged 91](https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue](https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Cruise ship hits reef on first trip since leaving passenger on island](https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

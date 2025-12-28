@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "title": "Rich and voiceless: How Putin has kept Russia's billionaires on side in the war",
+      "link": "https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Western sanctions have failed to turn the uber-rich into opponents, and Putin's policies have turned them into silent backers.",
+      "published": "Sun, 28 Dec 2025 00:44:40 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437920912Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "UK restricts DR Congo visas over migrant return policy",
+      "link": "https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Home Office says Kinshasa has failed to agree to measures allowing the return of illegal immigrants and foreign national offenders.",
+      "published": "Sat, 27 Dec 2025 22:35:46 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437696131Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Annette Dionne, last surviving Dionne quintuplet, dies aged 91",
+      "link": "https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The sisters, who were the first known quintuplets to survive past infancy, became a global phenomenon after their 1934 birth.",
+      "published": "Sat, 27 Dec 2025 22:24:56 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437573219Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
+      "link": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Drummer Chuck Redd reportedly called off his Christmas Eve performance after a vote by the board to rename the site.",
+      "published": "Sat, 27 Dec 2025 19:00:55 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437445907Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Cruise ship hits reef on first trip since leaving passenger on island",
+      "link": "https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Coral Adventurer is under investigation for the death of Suzanne Rees, who was found dead on a remote island after being left behind by the ship.",
+      "published": "Sun, 28 Dec 2025 04:35:10 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437317369Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Snow-capped Mount Etna erupts as skiers glide down slopes",
+      "link": "https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Scientists say volcanic activity at the site, which frequently erupts, had intensified this week, with craters continuously emitting ash.",
+      "published": "Sun, 28 Dec 2025 01:40:21 GMT",
+      "fetched_at": "2025-12-28T06:51:12.437122488Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "BBC visits Myanmar polling station as civil war rages on",
+      "link": "https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Voters in Myanmar's election say the poll is taking place in a \"climate of fear\", the \nBBC's South East Asia Correspondent Jonathan Head reports.",
+      "published": "Sun, 28 Dec 2025 04:23:42 GMT",
+      "fetched_at": "2025-12-28T06:51:12.436961051Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "War-torn Myanmar voting in widely criticised 'sham' election",
+      "link": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power.",
+      "published": "Sun, 28 Dec 2025 06:49:55 GMT",
+      "fetched_at": "2025-12-28T06:51:12.436912395Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bitcoin doesn’t need gold and silver 'to slow down,' say analysts",
       "link": "https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4427,80 +4499,8 @@
       "published": "Thu, 18 Dec 2025 05:40:34 +0000",
       "fetched_at": "2025-12-18T05:44:12.067087005Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch Australian teens test out social media on first day of ban",
-      "link": "https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Teenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.",
-      "published": "Wed, 10 Dec 2025 04:38:55 GMT",
-      "fetched_at": "2025-12-18T04:53:00.175229912Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
-      "link": "https://cointelegraph.com/news/many-crypto-etfs-could-get-liquidated-after-launching?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmMGMtYjBlMi03MWIwLWE1NzYtMjU3YWM2NDcxZGQ5LmpwZw==.jpg\" alt=\"Crypto ETPs could see a flood of liquidations by 2027: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eMany of the crypto ETP applications awaiting SEC approval will launch in 2026, but a lot of those won’t survive beyond 2027, says Bloomberg analyst James Seyffart.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 04:09:48 +0000",
-      "fetched_at": "2025-12-18T04:27:07.920164024Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
-      "link": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Measures include fresh penalties for 'those who spread hate' as well as new powers to cancel or refuse visas.",
-      "published": "Thu, 18 Dec 2025 02:47:07 GMT",
-      "fetched_at": "2025-12-18T04:27:06.837114264Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
-      "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went.",
-      "published": "Thu, 18 Dec 2025 04:15:30 GMT",
-      "fetched_at": "2025-12-18T04:27:06.83709501Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up",
-      "link": "https://cointelegraph.com/news/top-announcements-coinbase-system-update?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlYWUtYmFjZC03ZGU1LTkyNDItMWZiODE0OThjMWQwLmpwZw==.jpg\" alt=\"Robo-advisers, custom stablecoins: 8 things Coinbase is cooking up\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase shared a slate of new offerings at its System Update conference, including prediction markets, robo-advisers and custom stablecoins.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 02:55:04 +0000",
-      "fetched_at": "2025-12-18T03:51:32.501332916Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US Fed pulls guidance blocking its banks from engaging with crypto",
-      "link": "https://cointelegraph.com/news/fed-withdraws-crypto-guidance-banks-innovation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlYzQtZmIzMC03MmIxLTk0ZGQtNzYwMGEyZWJlMDdmLmpwZw==.jpg\" alt=\"US Fed pulls guidance blocking its banks from engaging with crypto\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Reserve says it has withdrawn its old guidance around crypto as it was outdated, and its understanding has evolved.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 03:05:48 +0000",
-      "fetched_at": "2025-12-18T03:51:32.501315263Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
-      "link": "https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJmNDItOTQzMi03OWIyLThkZDEtN2ZlZjg0OTA4ZTBmLmpwZw==.jpg\" alt=\"Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise\"\u003e\u003c/p\u003e\u003cp\u003eBitwise predicted Bitcoin's volatility will stay below Nvidia's in 2026, citing institutional adoption and ETFs as drivers of the asset’s maturation.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 03:40:52 +0000",
-      "fetched_at": "2025-12-18T03:51:32.501290217Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Indian scientists predict how bird flu could spread to humans",
-      "link": "https://www.bbc.com/news/articles/cgl66ez489po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Scientists have warned H5N1 bird flu could make a dangerous leap to humans, triggering a global health crisis.",
-      "published": "Wed, 17 Dec 2025 23:56:02 GMT",
-      "fetched_at": "2025-12-18T02:46:39.451604184Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1278,
-  "last_update": "2025-12-28T06:19:16.571251536Z"
+  "total_captured": 1286,
+  "last_update": "2025-12-28T06:51:12.880890458Z"
 }
