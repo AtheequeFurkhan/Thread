@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report",
+      "link": "https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0YzEtZDQ4ZS03N2E3LWJlNTMtYTUzOWJjZTljYzAyLmpwZw==.jpg\" alt=\"Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report\"\u003e\u003c/p\u003e\u003cp\u003eMirae Asset Group is reportedly in talks to acquire South Korea’s crypto exchange Korbit in a deal valued at up to $100M, according to local media.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 11:41:58 +0000",
+      "fetched_at": "2025-12-28T11:47:43.80443192Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin risks first post-halving year red candle with price stuck at $88K",
       "link": "https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 11:58:03 +0000",
       "fetched_at": "2025-12-18T12:25:08.870759255Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up",
-      "link": "https://cointelegraph.com/news/bitcoin-quantum-resistant-bip-360-post-quantum-signatures-taproot?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxMTUtZmM3Ni03MTA1LWEwNDgtZGY4ZTMyNTdkY2U3LmpwZw==.jpg\" alt=\"Bitcoiners push for quantum-resistant BIP-360 upgrade as debate heats up\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s Taproot usage is declining, signaling wider concerns around its quantum future, as the leading cryptographers race to solve the quantum threat in 2026.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 12:19:16 +0000",
-      "fetched_at": "2025-12-18T12:25:08.870737484Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1300,
-  "last_update": "2025-12-28T11:37:34.111498707Z"
+  "total_captured": 1301,
+  "last_update": "2025-12-28T11:47:44.537720345Z"
 }
