@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin returns will be strong but 'not spectacular' over next decade: Exec",
+      "link": "https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjYyODctMGQ1MC03MjlhLTkxMDItNTc5ZjlkZWE0ZDE3LmpwZWc=.jpeg\" alt=\"Bitcoin returns will be strong but 'not spectacular' over next decade: Exec\"\u003e\u003c/p\u003e\u003cp\u003eThe “fast-moving retail crowd” is one of the reasons Bitcoin is ending the year lower than it started, according to Bitwise CIO Matt Hougan.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 02:03:41 +0000",
+      "fetched_at": "2025-12-28T03:16:24.19381486Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis",
       "link": "https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 01:54:59 +0000",
       "fetched_at": "2025-12-18T02:46:39.432318017Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "World Liberty proposes using 5% of treasury to boost its stablecoin",
-      "link": "https://cointelegraph.com/news/world-liberty-proposes-using-5-treasury-grow-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNTUtNTM4ZC03NGY0LWE4YzAtZjk2N2Y5ZTg0ZWRl.jpg\" alt=\"World Liberty proposes using 5% of treasury to boost its stablecoin\"\u003e\u003c/p\u003e\u003cp\u003eThe Trump-linked firm is considering using $120 million from its treasury to boost USD1 stablecoin adoption and challenge larger rivals.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 02:04:20 +0000",
-      "fetched_at": "2025-12-18T02:46:39.432301055Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1276,
-  "last_update": "2025-12-28T01:06:34.403381877Z"
+  "total_captured": 1277,
+  "last_update": "2025-12-28T03:16:24.60420144Z"
 }

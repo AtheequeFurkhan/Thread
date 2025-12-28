@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 01:06 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1276-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 03:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1277-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 01:06 UTC)*
+*(Updated: 28 Dec 03:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession](https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands of US flights disrupted as winter storm looms](https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | ['We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers](https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Thailand and Cambodia agree ceasefire after weeks of deadly clashes](https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Emerging market economies to drive RWA tokenization in 2026: Crypto exec](https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying](https://cointelegraph.com/news/coinbase-ceo-genius-act-red-line-bank-lobbying-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [No $90K Bitcoin till next year: BTC futures open interest hits 8-month low](https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-28.md | [View Log](data/2025-12-28.md) |
 | 2025-12-27.md | [View Log](data/2025-12-27.md) |
 | 2025-12-26.md | [View Log](data/2025-12-26.md) |
 | 2025-12-25.md | [View Log](data/2025-12-25.md) |
 | 2025-12-24.md | [View Log](data/2025-12-24.md) |
 | 2025-12-23.md | [View Log](data/2025-12-23.md) |
 | 2025-12-22.md | [View Log](data/2025-12-22.md) |
-| 2025-12-21.md | [View Log](data/2025-12-21.md) |
 
 
 ---
