@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Godfather of Ethiopian jazz plays his last live concert",
+      "link": "https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Mulatu Astatke has been blending jazz influences from home and abroad for the past six decades.",
+      "published": "Sun, 28 Dec 2025 00:00:21 GMT",
+      "fetched_at": "2025-12-28T09:13:14.654136859Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "How frogs went from right-wing meme to anti-ICE protest symbol",
+      "link": "https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The frog has become a frequent symbol at protests against the Trump administration.",
+      "published": "Sun, 28 Dec 2025 00:47:32 GMT",
+      "fetched_at": "2025-12-28T09:13:14.65405301Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Fearing deportation, Hondurans in the US send more cash home than ever before",
+      "link": "https://www.bbc.com/news/articles/c93wjn1y72vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "There's been a surge in remittances going back to Honduras amid Trump's immigration crackdown.",
+      "published": "Sun, 28 Dec 2025 00:48:09 GMT",
+      "fetched_at": "2025-12-28T09:13:14.654036729Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Two killed in Sweden as major storm sweeps across Nordic countries",
+      "link": "https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Thousands of homes in parts of Finland, Sweden and Norway have been left without power.",
+      "published": "Sun, 28 Dec 2025 08:55:35 GMT",
+      "fetched_at": "2025-12-28T09:13:14.65402111Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0MTEtNDI0Ny03MTcyLThiMmQtMzZmZTc1YmE1NjJlLmpwZw==.jpg\" alt=\"Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’\"\u003e\u003c/p\u003e\u003cp\u003eSpot Bitcoin ETFs extended a six-day withdrawal streak as analysts point to seasonal factors rather than weakening institutional demand.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 08:54:37 +0000",
+      "fetched_at": "2025-12-28T09:13:14.627791996Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Uniswap executes 100M UNI burn after governance approval",
       "link": "https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Thu, 18 Dec 2025 10:29:13 +0000",
       "fetched_at": "2025-12-18T10:41:47.112121312Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
-      "link": "https://www.npr.org/2025/12/18/nx-s1-5645034/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
-      "category": "Business",
-      "summary": "Shrimpers along the South Carolina coast are still waiting for a positive impact from President Trump's tariffs on imported shrimp that are meant to help them compete.",
-      "published": "Thu, 18 Dec 2025 04:43:36 -0500",
-      "fetched_at": "2025-12-18T10:14:14.595187655Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "These federal workers proudly served the American people. Then came Trump's upheaval",
-      "link": "https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-civil-servants",
-      "category": "Business",
-      "summary": "Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December.",
-      "published": "Thu, 18 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-18T10:14:14.595174239Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "French anaesthetist who poisoned 12 patients to death jailed for life",
-      "link": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A court finds Frédéric Péchier guilty of contaminating infusion bags with substances that caused cardiac arrest or hemorrhaging.",
-      "published": "Thu, 18 Dec 2025 09:10:04 GMT",
-      "fetched_at": "2025-12-18T09:18:47.272974103Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Parents told to lead by example and turn off phones this Christmas",
-      "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The children's commissioner says children are \"crying  out\" for family time over the festive break.",
-      "published": "Thu, 18 Dec 2025 02:28:22 GMT",
-      "fetched_at": "2025-12-18T09:18:46.973325736Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-457m-inflows-early-positioning?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwNzUtZjk4OC03OTU4LTgzOWQtOGVhNzczNTA3YjlhLmpwZw==.jpg\" alt=\"Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push\"\u003e\u003c/p\u003e\u003cp\u003eSpot Bitcoin ETFs logged their strongest inflows in over a month amid renewed institutional demand tied to shifting macro expectations.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 08:32:56 +0000",
-      "fetched_at": "2025-12-18T08:50:06.683145907Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1288,
-  "last_update": "2025-12-28T08:46:13.309245252Z"
+  "total_captured": 1293,
+  "last_update": "2025-12-28T09:13:15.052736163Z"
 }
