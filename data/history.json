@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Executions in Iran more than double in 2025, report says",
+      "link": "https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Iran Human Rights (IHR) group says it has verified at least 1,500 executions up until the start of December.",
+      "published": "Sun, 28 Dec 2025 12:02:13 GMT",
+      "fetched_at": "2025-12-28T12:22:54.245236777Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up",
+      "link": "https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1YmEtYjllYS03MDRkLTliZDMtNmNiZTRkNjM4NzQzLmpwZw==.jpg\" alt=\"Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up\"\u003e\u003c/p\u003e\u003cp\u003eTrump‑era tariffs, bruising rate realities and a burned‑out memecoin cycle are forcing crypto to shed its Peter Pan phase and build tokens with real utility, says Animoca Brands’ Yat Siu.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 12:00:00 +0000",
+      "fetched_at": "2025-12-28T12:22:54.236832221Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report",
       "link": "https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 12:13:14 GMT",
       "fetched_at": "2025-12-18T13:09:36.963038761Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "One in three using AI for emotional support and conversation, UK says",
-      "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.",
-      "published": "Thu, 18 Dec 2025 12:37:46 GMT",
-      "fetched_at": "2025-12-18T13:09:36.963020908Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "ETHGas raises $12M as Buterin spotlights onchain gas futures",
-      "link": "https://cointelegraph.com/news/ethgas-raised-12m-as-it-launches-buterin-proposed-gas-futures?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwOWYtYTQ5OS03NGE5LWIwZWUtZDE0MjY4NGE3YTRmLmpwZw==.jpg\" alt=\"ETHGas raises $12M as Buterin spotlights onchain gas futures\"\u003e\u003c/p\u003e\u003cp\u003eEthereum blockspace trading platform ETHGas announced a $12 million raise shortly after ETH co-founder Vitalik Buterin endorsed the idea, promising 50ms transaction times.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 11:58:03 +0000",
-      "fetched_at": "2025-12-18T12:25:08.870759255Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1301,
-  "last_update": "2025-12-28T11:47:44.537720345Z"
+  "total_captured": 1303,
+  "last_update": "2025-12-28T12:22:54.491352497Z"
 }

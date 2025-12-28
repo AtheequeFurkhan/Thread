@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 11:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1301-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 12:22 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1303-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 11:47 UTC)*
+*(Updated: 28 Dec 12:22 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [UK restricts DR Congo visas over migrant return policy](https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Annette Dionne, last surviving Dionne quintuplet, dies aged 91](https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue](https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Cruise ship hits reef on first trip since leaving passenger on island](https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin doesn’t need gold and silver 'to slow down,' say analysts](https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How frogs went from right-wing meme to anti-ICE protest symbol](https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
