@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Brazil's Bolsonaro undergoes medical treatment for hiccups",
+      "link": "https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 70-year-old had suffered with the spasms for nine months, his wife says, and was already in hospital for hernia surgery.",
+      "published": "Sun, 28 Dec 2025 16:41:45 GMT",
+      "fetched_at": "2025-12-28T16:54:13.244256269Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French cinema actress Brigitte Bardot dies aged 91",
       "link": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 13:12:47 +0000",
       "fetched_at": "2025-12-18T13:48:15.782113146Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO",
-      "link": "https://cointelegraph.com/news/dat-longevity-mnav-roller-coaster?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxMjYtNDVhNC03OGQ5LWEwYmItYjFlNGIwYTdiNzUxLmpwZw==.jpg\" alt=\"DAT longevity hinges on avoiding ‘mNAV roller coaster’: Solmate CEO\"\u003e\u003c/p\u003e\u003cp\u003e“Pure play” digital asset treasury companies will have to contend with volatility tied to the net asset value of their token holdings if they don’t build successful business ventures.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 13:34:30 +0000",
-      "fetched_at": "2025-12-18T13:48:15.782087558Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1307,
-  "last_update": "2025-12-28T16:40:43.781963779Z"
+  "total_captured": 1308,
+  "last_update": "2025-12-28T16:54:13.40228686Z"
 }
