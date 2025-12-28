@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 11:10 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1299-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 11:27 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1300-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 11:10 UTC)*
+*(Updated: 28 Dec 11:27 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) | 🔴 Negative |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue](https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Cruise ship hits reef on first trip since leaving passenger on island](https://www.bbc.com/news/articles/cd9z1k4g40jo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Snow-capped Mount Etna erupts as skiers glide down slopes](https://www.bbc.com/news/videos/cz7n4px7e41o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [BBC visits Myanmar polling station as civil war rages on](https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin doesn’t need gold and silver 'to slow down,' say analysts](https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

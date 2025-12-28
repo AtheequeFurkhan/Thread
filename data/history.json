@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin risks first post-halving year red candle with price stuck at $88K",
+      "link": "https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY0OWItOTJkNy03NGE2LTliMDUtMGNjOGNhNmI2MTEzLmpwZw==.jpg\" alt=\"Bitcoin risks first post-halving year red candle with price stuck at $88K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin analysis said that while a retest of $93,500 could still occur by the yearly close, a red 2025 candle would threaten the four-year cycle theory.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 11:15:56 +0000",
+      "fetched_at": "2025-12-28T11:27:44.738537807Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Memory loss: As AI gobbles up chips, prices for devices may rise",
       "link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 12:19:16 +0000",
       "fetched_at": "2025-12-18T12:25:08.870737484Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ecuador defender Pineida killed in shooting",
-      "link": "https://www.bbc.com/sport/football/articles/cwyvdrkd9j7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ecuador defender Mario Pineida dies at the age of 33 after being shot outside a shop in Guayaquil.",
-      "published": "Thu, 18 Dec 2025 10:17:26 GMT",
-      "fetched_at": "2025-12-18T12:25:08.383775706Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1299,
-  "last_update": "2025-12-28T11:10:52.251663396Z"
+  "total_captured": 1300,
+  "last_update": "2025-12-28T11:27:45.007150301Z"
 }
