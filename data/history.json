@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin doesn’t need gold and silver 'to slow down,' say analysts",
+      "link": "https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkNTAtNGJjMS03ZDhjLWFjZmMtNzFiYzJlZDQ1YWJmLmpwZw==.jpg\" alt=\"Bitcoin doesn’t need gold and silver 'to slow down,' say analysts\"\u003e\u003c/p\u003e\u003cp\u003eThe Bitcoin-to-gold ratio has strengthened because Bitcoin spent the past year in a “stagnant stage,” while gold enjoyed a “tremendous year,” according to Lyn Alden.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 05:32:04 +0000",
+      "fetched_at": "2025-12-28T05:45:31.243442357Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin returns will be strong but 'not spectacular' over next decade: Exec",
       "link": "https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 23:56:02 GMT",
       "fetched_at": "2025-12-18T02:46:39.451604184Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ethereum could get faster in January with gas limit rise to 80M",
-      "link": "https://cointelegraph.com/news/ethereum-could-get-faster-gas-limit-rise-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJlNzAtMjMzZS03Mzc2LWI3ZmItNzQ3ZjEyOTY2OTY5LmpwZw==.jpg\" alt=\"Ethereum could get faster in January with gas limit rise to 80M\"\u003e\u003c/p\u003e\u003cp\u003eEthereum could see another rise in transaction speed in January, with developers considering raising the gas limit to 80 million after the next blob parameter-only hard fork.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 01:54:59 +0000",
-      "fetched_at": "2025-12-18T02:46:39.432318017Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1277,
-  "last_update": "2025-12-28T05:26:17.652444747Z"
+  "total_captured": 1278,
+  "last_update": "2025-12-28T05:45:31.725256856Z"
 }
