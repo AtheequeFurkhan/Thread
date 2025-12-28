@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1313-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 22:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1314-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 22:12 UTC)*
+*(Updated: 28 Dec 22:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World

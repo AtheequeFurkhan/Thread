@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
+      "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\".",
+      "published": "Wed, 10 Dec 2025 12:14:14 GMT",
+      "fetched_at": "2025-12-28T22:34:27.54644491Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst",
       "link": "https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 14:46:24 +0000",
       "fetched_at": "2025-12-18T14:56:19.251129934Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Peter Arnett, Pulitzer-winning war reporter, dies aged 91",
-      "link": "https://www.bbc.com/news/articles/ce86j7n6d3do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "He was known for covering the Vietnam and Gulf Wars - and for interviewing both Saddam Hussein and Osama bin Laden.",
-      "published": "Thu, 18 Dec 2025 14:07:44 GMT",
-      "fetched_at": "2025-12-18T14:42:02.883008051Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1313,
-  "last_update": "2025-12-28T22:12:18.331811435Z"
+  "total_captured": 1314,
+  "last_update": "2025-12-28T22:34:28.288172631Z"
 }
