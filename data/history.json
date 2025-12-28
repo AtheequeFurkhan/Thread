@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
+      "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts.",
+      "published": "Thu, 18 Dec 2025 12:13:14 GMT",
+      "fetched_at": "2025-12-28T13:39:23.739365005Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "One in three using AI for emotional support and conversation, UK says",
       "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 11:42:23 GMT",
       "fetched_at": "2025-12-18T13:09:37.18319096Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’",
-      "link": "https://cointelegraph.com/news/kraken-xstocks-tokenized-stocks-telegram-ton-wallet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxNDAtZGJiMy03YmM2LWFjMWUtNmFlMTFhNTlhMWUxLmpwZw==.jpg\" alt=\"Kraken-backed xStocks launches on TON Wallet in ‘nearly all markets’\"\u003e\u003c/p\u003e\u003cp\u003eThe rollout provides Telegram users with access to tokenized US stocks via a self-custodial wallet, but it will not be available in the US at launch.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 12:35:47 +0000",
-      "fetched_at": "2025-12-18T13:09:37.165736142Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1305,
-  "last_update": "2025-12-28T13:05:17.988952401Z"
+  "total_captured": 1306,
+  "last_update": "2025-12-28T13:39:23.939069492Z"
 }

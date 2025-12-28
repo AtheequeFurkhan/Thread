@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 13:05 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1305-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 13:39 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1306-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 13:05 UTC)*
+*(Updated: 28 Dec 13:39 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Iranian cinema giant, Bahram Beyzai, dies aged 87](https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
