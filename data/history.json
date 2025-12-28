@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Spaniards hurl flour, eggs and fireworks in mock battle",
+      "link": "https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The annual food fight festival ''Els Enfarinats'' has left the Spanish town of Ibi covered in flour and egg shells.",
+      "published": "Sun, 28 Dec 2025 17:10:19 GMT",
+      "fetched_at": "2025-12-28T17:31:30.411896769Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin outperformed gold and silver over the last 10 years: Analyst",
+      "link": "https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY1ZWItMjYwZS03NWQ4LTg3YTAtZjM4ZjVmZTA5NDE2LmpwZw==.jpg\" alt=\"Bitcoin outperformed gold and silver over the last 10 years: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin has outperformed precious metals over the last decade, but critics say the comparison doesn't hold up under shorter time horizons.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 17:08:32 +0000",
+      "fetched_at": "2025-12-28T17:31:30.388115296Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Brazil's Bolsonaro undergoes medical treatment for hiccups",
       "link": "https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 12:23:08 GMT",
       "fetched_at": "2025-12-18T13:48:16.031661719Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Thailand bombs near Cambodia's Poipet border crossing",
-      "link": "https://www.bbc.com/news/articles/czxgrl4937yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The bombings come as renewed border clashes show no sign of letting up between the two countries.",
-      "published": "Thu, 18 Dec 2025 13:08:10 GMT",
-      "fetched_at": "2025-12-18T13:48:16.031644757Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Attacker takes over multisig minutes after creation, drains up to $40M slowly",
-      "link": "https://cointelegraph.com/news/attacker-seizes-whale-multisig-drains-40m-in-stages?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y4ZDQtM2Q5My03ZmJjLThhYjktZGExMDdiYjI2NmY5.jpg\" alt=\"Attacker takes over multisig minutes after creation, drains up to $40M slowly\"\u003e\u003c/p\u003e\u003cp\u003eForensic analysis suggests an attacker took control of a whale’s multisig wallet minutes after creation and has been slowly draining funds since.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 13:12:47 +0000",
-      "fetched_at": "2025-12-18T13:48:15.782113146Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1308,
-  "last_update": "2025-12-28T17:11:08.278844426Z"
+  "total_captured": 1310,
+  "last_update": "2025-12-28T17:31:30.714067714Z"
 }

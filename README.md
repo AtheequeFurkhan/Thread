@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 17:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1308-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 17:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1310-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 17:11 UTC)*
+*(Updated: 28 Dec 17:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Brazil's Bolsonaro undergoes medical treatment for hiccups](https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [French cinema actress Brigitte Bardot dies aged 91](https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How frogs went from right-wing meme to anti-ICE protest symbol](https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Fearing deportation, Hondurans in the US send more cash home than ever before](https://www.bbc.com/news/articles/c93wjn1y72vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Two killed in Sweden as major storm sweeps across Nordic countries](https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot Bitcoin ETFs bleed $782M during Christmas week amid ‘holiday positioning’](https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-782m-during-christmas-week-holiday-positioning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brazil's Bolsonaro undergoes medical treatment for hiccups](https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French cinema actress Brigitte Bardot dies aged 91](https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iranian cinema giant, Bahram Beyzai, dies aged 87](https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
