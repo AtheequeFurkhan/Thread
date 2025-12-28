@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Nine people, including five children, stabbed to death in Suriname",
+      "link": "https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police detained the male suspect after shooting him in the leg, while two others are seriously injured.",
+      "published": "Sun, 28 Dec 2025 19:32:17 GMT",
+      "fetched_at": "2025-12-28T19:35:11.038419418Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan",
+      "link": "https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2NTYtMjI5Zi03ZTdlLTg1MjItNTczMWFmMGJlNmQ2LmpwZw==.jpg\" alt=\"BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan\"\u003e\u003c/p\u003e\u003cp\u003eThe rising Bitcoin network mining difficulty ensures the network remains sufficiently decentralized but also makes life harder for miners.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 19:29:39 +0000",
+      "fetched_at": "2025-12-28T19:35:10.988196196Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Spaniards hurl flour, eggs and fireworks in mock battle",
       "link": "https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 10 Dec 2025 12:14:14 GMT",
       "fetched_at": "2025-12-18T14:15:14.365932253Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Inflation cools slightly in November as worries about affordability grip Americans",
-      "link": "https://www.npr.org/2025/12/18/nx-s1-5647510/inflation-economy-prices-affordability",
-      "category": "Business",
-      "summary": "The cost of living in November was up 2.7% from a year ago, according to a report Thursday from the Labor Department.  That's a smaller annual increase than for the 12 months ending in September.",
-      "published": "Thu, 18 Dec 2025 09:00:01 -0500",
-      "fetched_at": "2025-12-18T14:15:14.127770611Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Rebels start to withdraw from key DR Congo city, leaders say",
-      "link": "https://www.bbc.com/news/articles/c865exedy24o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "DR Congo's government say the announced withdrawal is intended to distract the US mediation team.",
-      "published": "Thu, 18 Dec 2025 12:23:08 GMT",
-      "fetched_at": "2025-12-18T13:48:16.031661719Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1310,
-  "last_update": "2025-12-28T19:26:22.728749891Z"
+  "total_captured": 1312,
+  "last_update": "2025-12-28T19:35:11.355369703Z"
 }
