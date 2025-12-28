@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 10:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1294-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 10:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1297-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 10:12 UTC)*
+*(Updated: 28 Dec 10:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How frogs went from right-wing meme to anti-ICE protest symbol](https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **World** | [BBC visits Myanmar polling station as civil war rages on](https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [War-torn Myanmar voting in widely criticised 'sham' election](https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin doesn’t need gold and silver 'to slow down,' say analysts](https://cointelegraph.com/news/bitcoin-gold-silver-price-performance-not-relevant-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin returns will be strong but 'not spectacular' over next decade: Exec](https://cointelegraph.com/news/bitcoin-returns-strong-decade-analysts-2026-bitwise-matt-hougan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis](https://cointelegraph.com/news/fed-skinny-accounts-end-operation-chokepoint-lummis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Google search volume for 'crypto' craters as 2025 comes to a close](https://cointelegraph.com/news/google-search-volume-crypto-craters-2025-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How frogs went from right-wing meme to anti-ICE protest symbol](https://www.bbc.com/news/articles/cn987yqnee9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Fearing deportation, Hondurans in the US send more cash home than ever before](https://www.bbc.com/news/articles/c93wjn1y72vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Two killed in Sweden as major storm sweeps across Nordic countries](https://www.bbc.com/news/articles/cdj817m37rgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

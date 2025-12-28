@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Brigitte Bardot: From French cinema to international fame",
+      "link": "https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The French model and actress has died at the age of 91.",
+      "published": "Sun, 28 Dec 2025 10:23:59 GMT",
+      "fetched_at": "2025-12-28T10:35:58.824291027Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "In pictures: The life and career of Brigitte Bardot",
+      "link": "https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The French actress redefined cinematic allure, captivating the world before championing animal rights.",
+      "published": "Sun, 28 Dec 2025 10:18:24 GMT",
+      "fetched_at": "2025-12-28T10:35:58.824266913Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s",
+      "link": "https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The cocktail of kittenish charm and continental sensuality who swept away the cinematic cobwebs of the 1950s.",
+      "published": "Sun, 28 Dec 2025 10:18:57 GMT",
+      "fetched_at": "2025-12-28T10:35:58.824244301Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Parents told to lead by example and turn off phones this Christmas",
       "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 18 Dec 2025 10:38:11 GMT",
       "fetched_at": "2025-12-18T11:12:33.201071158Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Coinbase expands in Poland with Blik mobile payments integration",
-      "link": "https://cointelegraph.com/news/coinbase-expands-poland-blik-mobile-payments?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE3YTctNjhkMC03YzViLWJjOWUtYmRiZmJiNjNmNzcx.jpg\" alt=\"Coinbase expands in Poland with Blik mobile payments integration\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase expands in Poland with PPro to support Blik, making crypto transactions faster and easier amid stalled local regulations.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 10:55:45 +0000",
-      "fetched_at": "2025-12-18T11:12:33.020191472Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A popular streamer tells us about the downsides of making online content.",
-      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-18T10:41:47.519607564Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP’s ‘bearish’ setup may crash price below $1: Analyst",
-      "link": "https://cointelegraph.com/news/xrp-bearish-setup-crash-price-below-1-dollar-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwYjYtMjQ3ZS03ZmMwLTk4OWEtMmRmZjU4OThmMmVjLmpwZw==.jpg\" alt=\"XRP’s ‘bearish’ setup may crash price below $1: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eXRP looked increasingly bearish below $2, with multiple indicators suggesting that a downward move toward $1 was possible in the coming weeks.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 10:25:11 +0000",
-      "fetched_at": "2025-12-18T10:41:47.112139446Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1294,
-  "last_update": "2025-12-28T10:12:26.386511802Z"
+  "total_captured": 1297,
+  "last_update": "2025-12-28T10:35:59.066719355Z"
 }
