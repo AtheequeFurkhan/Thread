@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "French cinema actress Brigitte Bardot dies aged 91",
+      "link": "https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The actress was a symbol of sexual liberation in the 1950s but became increasingly controversial after making homophobic and racist slurs.",
+      "published": "Sun, 28 Dec 2025 13:34:26 GMT",
+      "fetched_at": "2025-12-28T14:33:27.294916243Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
       "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 13:34:30 +0000",
       "fetched_at": "2025-12-18T13:48:15.782087558Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Nigeria apologises over Burkina Faso military flight that saw 11 servicemen detained",
-      "link": "https://www.bbc.com/news/articles/c74xvp00wj3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The air force personnel have been released but have not yet returned home, Nigeria says.",
-      "published": "Thu, 18 Dec 2025 11:42:23 GMT",
-      "fetched_at": "2025-12-18T13:09:37.18319096Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1306,
-  "last_update": "2025-12-28T14:12:04.09990231Z"
+  "total_captured": 1307,
+  "last_update": "2025-12-28T14:33:27.49418058Z"
 }
