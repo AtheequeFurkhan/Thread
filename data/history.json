@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A popular streamer tells us about the downsides of making online content.",
+      "published": "Tue, 09 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2025-12-28T10:51:45.464444966Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Brigitte Bardot: From French cinema to international fame",
       "link": "https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 11:25:12 GMT",
       "fetched_at": "2025-12-18T12:25:08.383764345Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Family release video of Matilda at beach as aunt calls for 'happiness and love'",
-      "link": "https://www.bbc.com/news/videos/clyx60v23g6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The aunt of the youngest victim of the Bondi shooting says those who are angry should \"plant a seed of happiness\" in their heart in memory of her niece Matilda..",
-      "published": "Thu, 18 Dec 2025 10:38:11 GMT",
-      "fetched_at": "2025-12-18T11:12:33.201071158Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1297,
-  "last_update": "2025-12-28T10:35:59.066719355Z"
+  "total_captured": 1298,
+  "last_update": "2025-12-28T10:51:46.055930121Z"
 }
