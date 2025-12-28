@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 12:22 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1303-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 13:05 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1305-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 12:22 UTC)*
+*(Updated: 28 Dec 13:05 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Iranian cinema giant, Bahram Beyzai, dies aged 87](https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Uniswap executes 100M UNI burn after governance approval](https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Rich and voiceless: How Putin has kept Russia's billionaires on side in the war](https://www.bbc.com/news/articles/c4g6xgv1n41o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [UK restricts DR Congo visas over migrant return policy](https://www.bbc.com/news/articles/c5y21xlxng2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Annette Dionne, last surviving Dionne quintuplet, dies aged 91](https://www.bbc.com/news/articles/cpvd90k2zn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch Australian teens test out social media on first day of ban](https://www.bbc.com/news/videos/c3e0p8jj84lo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Iranian cinema giant, Bahram Beyzai, dies aged 87](https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

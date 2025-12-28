@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "One in three using AI for emotional support and conversation, UK says",
+      "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily.",
+      "published": "Thu, 18 Dec 2025 12:37:46 GMT",
+      "fetched_at": "2025-12-28T13:05:17.988840944Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Iranian cinema giant, Bahram Beyzai, dies aged 87",
+      "link": "https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A restored copy of his film, Bashu, the Little Stranger, won an award at this year's Venice Film Festival.",
+      "published": "Sun, 28 Dec 2025 12:25:44 GMT",
+      "fetched_at": "2025-12-28T13:05:17.693712265Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Executions in Iran more than double in 2025, report says",
       "link": "https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 12:35:47 +0000",
       "fetched_at": "2025-12-18T13:09:37.165736142Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto losses near $3.4B as hackers went ‘big game hunting’",
-      "link": "https://cointelegraph.com/news/crypto-3-4-billion-losses-2025-wallet-hacks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5OGUtMmExZS03NDA5LTk2NjQtNzJhOTliMDljZThkLmpwZw==.jpg\" alt=\"Crypto losses near $3.4B as hackers went ‘big game hunting’\"\u003e\u003c/p\u003e\u003cp\u003eThree major incidents accounted for the majority of crypto losses in 2025, while upgraded security across DeFi protocols managed to keep hackers at bay, according to Chainalysis.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-18T13:09:37.165710383Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
-      "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts.",
-      "published": "Thu, 18 Dec 2025 12:13:14 GMT",
-      "fetched_at": "2025-12-18T13:09:36.963038761Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1303,
-  "last_update": "2025-12-28T12:22:54.491352497Z"
+  "total_captured": 1305,
+  "last_update": "2025-12-28T13:05:17.988952401Z"
 }
