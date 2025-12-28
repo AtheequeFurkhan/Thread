@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 21:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1312-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-28 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1313-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 21:48 UTC)*
+*(Updated: 28 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Parents told to lead by example and turn off phones this Christmas](https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Godfather of Ethiopian jazz plays his last live concert](https://www.bbc.com/news/articles/cy073xp2yj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

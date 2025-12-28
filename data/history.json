@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst",
+      "link": "https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZTktOThhMC03YmNhLTgwOWItZTk3MmI3ZTgxMzZjLmpwZw==.jpg\" alt=\"Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eMany analysts previously forecast that Bitcoin would hit a price target between $180,000-$250,000 in 2025, but the price has fallen flat.\u003c/p\u003e",
+      "published": "Sun, 28 Dec 2025 21:48:03 +0000",
+      "fetched_at": "2025-12-28T22:12:17.883900994Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Nine people, including five children, stabbed to death in Suriname",
       "link": "https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 14:07:44 GMT",
       "fetched_at": "2025-12-18T14:42:02.883008051Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
-      "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\".",
-      "published": "Wed, 10 Dec 2025 12:14:14 GMT",
-      "fetched_at": "2025-12-18T14:15:14.365932253Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1312,
-  "last_update": "2025-12-28T21:48:16.031892237Z"
+  "total_captured": 1313,
+  "last_update": "2025-12-28T22:12:18.331811435Z"
 }
