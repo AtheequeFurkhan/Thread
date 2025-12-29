@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
+      "link": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations.",
+      "published": "Mon, 29 Dec 2025 17:51:21 GMT",
+      "fetched_at": "2025-12-29T18:19:15.598734746Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\".",
+      "published": "Mon, 29 Dec 2025 18:00:39 GMT",
+      "fetched_at": "2025-12-29T18:19:15.598717754Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+      "link": "https://cointelegraph.com/news/price-predictions-12-29-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZhZTYtZjY4ZC03MTc2LTg0MWEtOTM0Zjg5YTlhMjVhLmpwZw==.jpg\" alt=\"Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins are stumbling near their overhead resistance levels, indicating that the bears remain active at higher levels.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 18:07:52 +0000",
+      "fetched_at": "2025-12-29T18:19:15.577743357Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Zcash price has 'first stop' at $1K: Arthur Hayes",
       "link": "https://cointelegraph.com/news/zcash-price-first-stop-1k-arthur-hayes?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 19 Dec 2025 04:15:16 +0000",
       "fetched_at": "2025-12-19T04:27:31.21103524Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "SEC flags Bitcoin miner hosting services as subject to securities laws",
-      "link": "https://cointelegraph.com/news/sec-says-hosted-btc-mining-subject-to-securities-laws?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzYzktYzU0ZS03Zjg1LTk1NzgtNTI4MjdjZjU0M2JlLmpwZw==.jpg\" alt=\"SEC flags Bitcoin miner hosting services as subject to securities laws\"\u003e\u003c/p\u003e\u003cp\u003eIn a lawsuit, the SEC says some hosted Bitcoin mining services could trigger US securities laws, but an industry executive says most providers have nothing to worry about.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 03:23:48 +0000",
-      "fetched_at": "2025-12-19T03:53:56.095007429Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Australia announces gun buyback scheme in wake of Bondi attack",
-      "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "It is the largest scheme since the Port Arthur massacre in 1996, which prompted massive gun law reform.",
-      "published": "Fri, 19 Dec 2025 02:30:21 GMT",
-      "fetched_at": "2025-12-19T02:53:01.107193664Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Anxiety of quantum risk to Bitcoin is weighing on its price: Execs",
-      "link": "https://cointelegraph.com/news/bitcoin-quantum-computing-risk-investor-concerns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA4MTItMjkzNS03MjQyLWFiYzktYzA2NTM0ZTc1NDY5.jpg\" alt=\"Anxiety of quantum risk to Bitcoin is weighing on its price: Execs\"\u003e\u003c/p\u003e\u003cp\u003eCypherpunk Adam Back dismissed concerns that quantum computing poses a threat to Bitcoin, arguing the technology is still “ridiculously early.”\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 01:55:25 +0000",
-      "fetched_at": "2025-12-19T02:53:00.820353065Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1360,
-  "last_update": "2025-12-29T17:49:52.280936453Z"
+  "total_captured": 1363,
+  "last_update": "2025-12-29T18:19:15.877067227Z"
 }
