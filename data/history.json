@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Why Israel's recognition of Somaliland as an independent state is controversial",
+      "link": "https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Somaliland wants international recognition - here's why, and what could have driven Israel to recognise it now.",
+      "published": "Mon, 29 Dec 2025 20:14:12 GMT",
+      "fetched_at": "2025-12-29T21:42:29.551823835Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Onchain perpetual futures drive surge in crypto derivatives activity",
+      "link": "https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjMWItYjc2Yi03M2VjLTkxMzgtYzE3Yzg1M2FhZjUyLmpwZw==.jpg\" alt=\"Onchain perpetual futures drive surge in crypto derivatives activity\"\u003e\u003c/p\u003e\u003cp\u003eAccording to Coinbase researcher David Duong, decentralized platforms and shifting trader behavior have pushed perpetual futures into a more central market role.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 21:36:29 +0000",
+      "fetched_at": "2025-12-29T21:42:29.359897524Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Book distributor shutting down deals logistical blow to libraries",
       "link": "https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 09:44:35 +0000",
       "fetched_at": "2025-12-19T09:54:06.640793364Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fragmentation drains up to $1.3B a year from tokenized assets: Report",
-      "link": "https://cointelegraph.com/news/blockchain-fragmentation-cost-tokenized-assets-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1YWYtYWNjZS03MzFiLWJjOTQtMWYwZDdjOTE4NzVkLmpwZw==.jpg\" alt=\"Fragmentation drains up to $1.3B a year from tokenized assets: Report\"\u003e\u003c/p\u003e\u003cp\u003eNew research models how crosschain price gaps and capital friction are eroding efficiency as tokenized markets scale across blockchains.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 09:51:26 +0000",
-      "fetched_at": "2025-12-19T09:54:06.640776493Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "What does TikTok's deal mean for America's users?",
-      "link": "https://www.bbc.com/news/videos/c5yje8pvg8jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC's Asia business correspondent says it is still unclear what sort of experience TikTok users in the US will get.",
-      "published": "Fri, 19 Dec 2025 09:22:13 GMT",
-      "fetched_at": "2025-12-19T09:43:45.32411284Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1372,
-  "last_update": "2025-12-29T21:30:27.239766084Z"
+  "total_captured": 1374,
+  "last_update": "2025-12-29T21:42:29.822547724Z"
 }
