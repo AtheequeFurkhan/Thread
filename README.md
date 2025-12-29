@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1368-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 20:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1369-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 19:47 UTC)*
+*(Updated: 29 Dec 20:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report](https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [FIFA president defends World Cup ticket prices, saying demand is hitting records](https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices) | 🟢 Positive |
 | **Crypto** | [Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation](https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine](https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Five-year-old boy dies after getting caught in Japan ski travelator](https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'](https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Ukraine denies drone attack on Putin's residence](https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine](https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Five-year-old boy dies after getting caught in Japan ski travelator](https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

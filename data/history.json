@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Nepal to scrap 'failed' Mount Everest waste deposit scheme",
+      "link": "https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Under the scheme, climbers paid a $4,000 deposit that was returned if they brought 8kg of waste down the mountain.",
+      "published": "Mon, 29 Dec 2025 19:46:24 GMT",
+      "fetched_at": "2025-12-29T20:14:40.039744565Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report",
       "link": "https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 08:01:57 +0000",
       "fetched_at": "2025-12-19T08:18:22.839198371Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Surfers and swimmers pay tribute to victims of Bondi shooting",
-      "link": "https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Hundreds paddle out at Bondi beach to commemorate the shooting victims from Sunday's attack.",
-      "published": "Fri, 19 Dec 2025 02:43:13 GMT",
-      "fetched_at": "2025-12-19T05:15:05.072885365Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1368,
-  "last_update": "2025-12-29T19:47:47.690906056Z"
+  "total_captured": 1369,
+  "last_update": "2025-12-29T20:14:40.356054589Z"
 }
