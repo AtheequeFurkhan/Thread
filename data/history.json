@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report",
+      "link": "https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZhYzUtYmI3Ny03ZTM1LWJjYzItOGI3NjQyMTQ5MzBiLmpwZw==.jpg\" alt=\"South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report\"\u003e\u003c/p\u003e\u003cp\u003eA key lawmaker overseeing financial institutions reportedly tried to secure a job for one of his sons at a crypto exchange while raising concerns about a competitor.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 19:32:56 +0000",
+      "fetched_at": "2025-12-29T19:36:42.067549968Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "FIFA president defends World Cup ticket prices, saying demand is hitting records",
+      "link": "https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices",
+      "category": "Business",
+      "summary": "The FIFA President addressed outrage over ticket prices for the World Cup by pointing to record demand and reiterating that most of the proceeds will help support soccer around the world.",
+      "published": "Mon, 29 Dec 2025 14:32:12 -0500",
+      "fetched_at": "2025-12-29T19:36:41.681297017Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation",
       "link": "https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 02:43:13 GMT",
       "fetched_at": "2025-12-19T05:15:05.072885365Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC",
-      "link": "https://cointelegraph.com/news/us-senate-confirms-crypto-friendly-cftc-fdic-chairs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkMmUtZWViZC03Y2E5LWE3ZGItYWZjZDljMzk1NzA2.jpg\" alt=\"US Senate confirms pro-crypto Selig to lead CFTC, Hill to head FDIC\"\u003e\u003c/p\u003e\u003cp\u003eMike Selig pledged to make crypto a priority when he was picked to lead the CFTC in October, while Travis Hill has been speaking out against crypto debanking.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 05:01:28 +0000",
-      "fetched_at": "2025-12-19T05:15:05.06350808Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How cheap power turned Libya into a Bitcoin mining hotspot",
-      "link": "https://cointelegraph.com/news/how-cheap-power-turned-libya-into-a-bitcoin-mining-hotspot?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0ZWUtZDkwZC03MWZmLTk0YTEtNzU0M2RlYTExNTY1LmpwZw==.jpg\" alt=\"How cheap power turned Libya into a Bitcoin mining hotspot\"\u003e\u003c/p\u003e\u003cp\u003eLibya’s cheap power fueled a hidden Bitcoin mining boom, straining the grid and forcing authorities into an escalating crackdown.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 04:51:34 +0000",
-      "fetched_at": "2025-12-19T04:53:03.195389444Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1366,
-  "last_update": "2025-12-29T19:26:53.587406488Z"
+  "total_captured": 1368,
+  "last_update": "2025-12-29T19:36:42.067587549Z"
 }
