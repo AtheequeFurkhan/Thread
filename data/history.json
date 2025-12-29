@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trust Wallet hack shifts to verification amid surge in false claims",
+      "link": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZjctM2Q5My03ZWY3LWJkMWEtODMyNmZmZWIyNGY3LmpwZw==.jpg\" alt=\"Trust Wallet hack shifts to verification amid surge in false claims\"\u003e\u003c/p\u003e\u003cp\u003eTrust Wallet said it has identified 2,596 compromised addresses following its Christmas Day exploit as investigators work to separate real victims from false claims.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 13:12:24 +0000",
+      "fetched_at": "2025-12-29T13:49:03.95768138Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "TikTok owner signs deal to avoid US ban",
+      "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The deals would end years of efforts by Washington to force ByteDance to sell its US operations.",
+      "published": "Fri, 19 Dec 2025 07:27:18 GMT",
+      "fetched_at": "2025-12-29T13:49:03.742516955Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "China to let banks pay interest on digital yuan wallets from January 2026",
       "link": "https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 00:08:00 +0000",
       "fetched_at": "2025-12-19T00:59:39.510651243Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Will tech trump tradition at bakers and biscuit makers?",
-      "link": "https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Introducing robots and automation to the food industry involves extra hurdles.",
-      "published": "Fri, 19 Dec 2025 00:07:27 GMT",
-      "fetched_at": "2025-12-19T00:59:39.329156854Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "£100 contactless card limit to be lifted",
-      "link": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Card providers can decide whether to offer unlimited payments on contactless cards.",
-      "published": "Fri, 19 Dec 2025 00:04:39 GMT",
-      "fetched_at": "2025-12-19T00:59:39.32910103Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1352,
-  "last_update": "2025-12-29T13:11:25.569505356Z"
+  "total_captured": 1354,
+  "last_update": "2025-12-29T13:49:04.17786539Z"
 }

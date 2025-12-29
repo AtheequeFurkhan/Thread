@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 13:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1352-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 13:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1354-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 13:11 UTC)*
+*(Updated: 29 Dec 13:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trust Wallet hack shifts to verification amid surge in false claims](https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine](https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
 | **Business** | [Electric vehicles had a bumpy road in 2025 — and one pleasant surprise](https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025) | ⚪ Neutral |
 | **Crypto** | [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Trust Wallet hack shifts to verification amid surge in false claims](https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto ETPs shed $446M over Christmas as year-end sentiment remains fragile](https://cointelegraph.com/news/crypto-etps-446m-outflows-year-end-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin price pauses at $90K: What will trigger a New Year rally?](https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Real-world assets top DEXs to become 5th-largest category in DeFi by TVL](https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [James Bond game 007 First Light delayed to May 2026](https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
