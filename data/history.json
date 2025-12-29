@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "These three altcoins came back from the dead in 2025",
+      "link": "https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwZGQtYTI0My03NjU0LTk5YTAtNmVmMTNiNTgzZTg5LmpwZw==.jpg\" alt=\"These three altcoins came back from the dead in 2025\"\u003e\u003c/p\u003e\u003cp\u003eAltcoins lagged Bitcoin in 2025, but XRP, Zcash and Algorand outperformed on regulatory clarity, privacy demand and tokenization.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-29T14:14:35.510255285Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Will tech trump tradition at bakers and biscuit makers?",
+      "link": "https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Introducing robots and automation to the food industry involves extra hurdles.",
+      "published": "Fri, 19 Dec 2025 00:07:27 GMT",
+      "fetched_at": "2025-12-29T14:14:35.205186773Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "£100 contactless card limit to be lifted",
+      "link": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Card providers can decide whether to offer unlimited payments on contactless cards.",
+      "published": "Fri, 19 Dec 2025 15:59:19 GMT",
+      "fetched_at": "2025-12-29T14:14:35.20512643Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trust Wallet hack shifts to verification amid surge in false claims",
       "link": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 19 Dec 2025 02:49:56 +0000",
       "fetched_at": "2025-12-19T02:53:00.820280038Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-      "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The cloud computing giant's revenue miss renews questions about its financial health.",
-      "published": "Thu, 11 Dec 2025 16:24:20 GMT",
-      "fetched_at": "2025-12-19T02:53:00.534458025Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Stigma of Ukraine's forgotten soldiers who 'died the wrong way'",
-      "link": "https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "There are no official statistics surrounding suicide among Ukrainian soldiers, but they are thought to count in the hundreds.",
-      "published": "Fri, 19 Dec 2025 00:00:10 GMT",
-      "fetched_at": "2025-12-19T00:59:39.571204656Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP’s familiarity helps push ETFs past $1B assets: Exec",
-      "link": "https://cointelegraph.com/news/xrp-etf-demand-rises-price-familiarity-crypto-executive?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzZWEtODFlNC03ODk0LTllMGMtMmIzMzRkZGE0MWU3LmpwZw==.jpg\" alt=\"XRP’s familiarity helps push ETFs past $1B assets: Exec\"\u003e\u003c/p\u003e\u003cp\u003eXRP has a “number of reasons” that are attracting traditional investor dollars, which has helped to push XRP ETFs over $1 billion in assets, says CF Benchmarks CEO Sui Chung.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 00:08:00 +0000",
-      "fetched_at": "2025-12-19T00:59:39.510651243Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1354,
-  "last_update": "2025-12-29T13:49:04.17786539Z"
+  "total_captured": 1357,
+  "last_update": "2025-12-29T14:14:35.510275633Z"
 }
