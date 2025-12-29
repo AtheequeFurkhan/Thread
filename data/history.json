@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes",
+      "link": "https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "\"We cannot live freely. You cannot even play music\" - residents tell the BBC of militants' rule.",
+      "published": "Mon, 29 Dec 2025 01:30:56 GMT",
+      "fetched_at": "2025-12-29T08:20:17.444394206Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'Drop your gun': Bondi hero recounts moment he tackled gunman",
       "link": "https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 20:07:40 GMT",
       "fetched_at": "2025-12-18T20:13:38.814930694Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?",
-      "link": "https://cointelegraph.com/news/bitcoin-trips-at-dollar90k-despite-cpi-showing-curbed-us-inflation-what-gives?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWQ3YzgtOTgxZC03M2IzLWFmOGUtOWNiZGIwY2YyNTdk.jpg\" alt=\"Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin briefly clinched $90,000 after the November Consumer Price Index report showed a drop in US inflation, but the essential components for an extended rally remain elusive.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 19:57:22 +0000",
-      "fetched_at": "2025-12-18T20:13:38.635741101Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1332,
-  "last_update": "2025-12-29T07:51:28.894661021Z"
+  "total_captured": 1333,
+  "last_update": "2025-12-29T08:20:17.683213859Z"
 }

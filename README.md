@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 07:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1332-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 08:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1333-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 07:51 UTC)*
+*(Updated: 29 Dec 08:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump says progress made in Ukraine talks but 'thorny issues' remain](https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump says progress made in Ukraine talks but 'thorny issues' remain](https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Catching the hunters trapping rare songbirds in China](https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
