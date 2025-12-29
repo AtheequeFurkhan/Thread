@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 09:21 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1333-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 09:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1335-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 09:21 UTC)*
+*(Updated: 29 Dec 09:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto heavyweights slam proposed 5% wealth tax in California](https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Kosovo's ruling party wins election after months of political deadlock](https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [ETH validator entry queue is suddenly almost double the exit queue](https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility](https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin helps USD's reserve status ‘in a strange way’: Coinbase CEO](https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits](https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto heavyweights slam proposed 5% wealth tax in California](https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

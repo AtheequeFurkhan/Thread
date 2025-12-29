@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026",
+      "link": "https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhY2QtZjllNi03ZmFlLTg1MzMtZTdkNGUzODU4Zjhh.jpg\" alt=\"Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026\"\u003e\u003c/p\u003e\u003cp\u003eTrend Research founder Jack Yi pledged to continue buying Ether, claiming more financial and regulatory tailwinds will drive crypto valuations in 2026.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 09:27:56 +0000",
+      "fetched_at": "2025-12-29T09:49:11.195678197Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5NjgtNmUxNi03ODdmLTgxNzAtZjgzY2ZlM2Y4NjMxLmpwZw==.jpg\" alt=\"Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin failed to flip $90,000 to support at the start of the last week of 2025, but Bitfinex whale long positions built on their highest levels in nearly two years.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 09:45:45 +0000",
+      "fetched_at": "2025-12-29T09:49:11.195651136Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes",
       "link": "https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 21:21:57 +0000",
       "fetched_at": "2025-12-18T21:28:00.025943547Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Wiz Khalifa sentenced to nine months jail in Romania for smoking cannabis on stage",
-      "link": "https://www.bbc.com/news/articles/c93wxp2p05xo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The rapper, who has been sentenced in absentia, had admitted to smoking a cannabis joint on stage at a festival last year.",
-      "published": "Thu, 18 Dec 2025 20:00:55 GMT",
-      "fetched_at": "2025-12-18T20:13:38.814946894Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "HR exec in viral Coldplay clip speaks of abuse, threats and trying to find a new job",
-      "link": "https://www.bbc.com/news/articles/cg7vp937jyxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The former tech executive says she was bombarded with abusive and threatening messages after being filmed with her boss on the 'kiss-cam'.",
-      "published": "Thu, 18 Dec 2025 20:07:40 GMT",
-      "fetched_at": "2025-12-18T20:13:38.814930694Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1333,
-  "last_update": "2025-12-29T09:21:43.535696735Z"
+  "total_captured": 1335,
+  "last_update": "2025-12-29T09:49:11.567977353Z"
 }
