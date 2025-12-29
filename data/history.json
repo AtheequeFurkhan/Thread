@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Kosovo's ruling party wins election after months of political deadlock",
+      "link": "https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The decisive victory for the Albanian nationalist Vetevendosje party means a third term for leader Albin Kurti.",
+      "published": "Mon, 29 Dec 2025 00:27:02 GMT",
+      "fetched_at": "2025-12-29T01:04:50.167706461Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs",
+      "link": "https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4OGItZmIwMS03YmFkLThhZGMtYWJiYmJjOTliYTNlLmpwZw==.jpg\" alt=\"Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs\"\u003e\u003c/p\u003e\u003cp\u003eMany crypto and Bitcoin treasury companies may go under in 2026 as the model comes under pressure, industry executives tell Cointelegraph.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 00:16:31 +0000",
+      "fetched_at": "2025-12-29T01:04:49.821935639Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Flow validators urged to halt work after divisive blockchain rollback",
+      "link": "https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY2ZjMtYjMwMy03YWJkLTliYjUtOWFlM2VmMjc0MzdlLmpwZw==.jpg\" alt=\"Flow validators urged to halt work after divisive blockchain rollback\"\u003e\u003c/p\u003e\u003cp\u003eThe Flow Foundation has been slammed for rolling the layer 1 Flow chain back to patch up a $3.9 million exploit, with one partner advising validators to stop processing transactions until further notice.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 00:33:37 +0000",
+      "fetched_at": "2025-12-29T01:04:49.821917936Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
       "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 18 Dec 2025 15:11:11 GMT",
       "fetched_at": "2025-12-18T15:43:03.777914359Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026",
-      "link": "https://cointelegraph.com/news/ai-bubble-bitcoin-biggest-risk-2026-tether-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxOTUtMTUwZS03MDZjLWI5MTAtMGNlZjdiNTY0OWEwLmpwZw==.jpg\" alt=\"Tether CEO says AI bubble is Bitcoin’s biggest risk in 2026\"\u003e\u003c/p\u003e\u003cp\u003eTether CEO Paolo Ardoino says an AI-driven bubble could shake Bitcoin, and shares his outlook on Europe, DATs and tokenization in 2026.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 15:00:00 +0000",
-      "fetched_at": "2025-12-18T15:16:26.654364752Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
-      "link": "https://cointelegraph.com/news/bitcoin-hunts-liquidity-us-cpi-inflation-lowest-since-2021?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxZjEtZDY1ZC03OWE1LTljOWUtYzkxNzA1ZTgzMDkwLmpwZw==.jpg\" alt=\"Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin tagged $89,500 as US CPI data revealed sudden multiyear lows in inflation, but liquidations stayed high as the BTC price spiked.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 15:01:43 +0000",
-      "fetched_at": "2025-12-18T15:16:26.654345066Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ethereum down 42% from all-time high: Where will ETH price bottom?",
-      "link": "https://cointelegraph.com/news/ethereum-down-42-from-all-time-high-where-will-eth-price-bottom?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxYzMtZjNlMC03MTEyLWIwYjgtZTdkYzFjNzQ0MDAwLmpwZWc=.jpeg\" alt=\"Ethereum down 42% from all-time high: Where will ETH price bottom?\"\u003e\u003c/p\u003e\u003cp\u003eEthereum has dropped below $3,000 and is down 42% from its record high, prompting traders to question where the next bounce zone for the ETH price might be.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 14:46:24 +0000",
-      "fetched_at": "2025-12-18T14:56:19.251129934Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1314,
-  "last_update": "2025-12-28T23:48:56.747231101Z"
+  "total_captured": 1317,
+  "last_update": "2025-12-29T01:04:50.77661306Z"
 }

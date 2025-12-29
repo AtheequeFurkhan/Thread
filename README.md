@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-28 Dec 23:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1314-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 01:04 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1317-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 28 Dec 23:48 UTC)*
+*(Updated: 29 Dec 01:04 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Kosovo's ruling party wins election after months of political deadlock](https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) | 🔴 Negative |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Brigitte Bardot: From French cinema to international fame](https://www.bbc.com/news/videos/crl9gpynrdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [In pictures: The life and career of Brigitte Bardot](https://www.bbc.com/news/articles/c20p78kp8pgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Brigitte Bardot: The blonde bombshell who revolutionised cinema in the 1950s](https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Kosovo's ruling party wins election after months of political deadlock](https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brazil's Bolsonaro undergoes medical treatment for hiccups](https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French cinema actress Brigitte Bardot dies aged 91](https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Iranian cinema giant, Bahram Beyzai, dies aged 87](https://www.bbc.com/news/articles/cde61jz5653o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-29.md | [View Log](data/2025-12-29.md) |
 | 2025-12-28.md | [View Log](data/2025-12-28.md) |
 | 2025-12-27.md | [View Log](data/2025-12-27.md) |
 | 2025-12-26.md | [View Log](data/2025-12-26.md) |
 | 2025-12-25.md | [View Log](data/2025-12-25.md) |
 | 2025-12-24.md | [View Log](data/2025-12-24.md) |
 | 2025-12-23.md | [View Log](data/2025-12-23.md) |
-| 2025-12-22.md | [View Log](data/2025-12-22.md) |
 
 
 ---
