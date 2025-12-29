@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale",
+      "link": "https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiMGMtZjE5Zi03YmY0LWE5NmQtNGNkNmI0N2I4YTliLmpwZw==.jpg\" alt=\"BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale\"\u003e\u003c/p\u003e\u003cp\u003eBlackRock’s tokenized money market fund has distributed $100 million from Treasury yields, offering a real-world test of blockchain-based financial infrastructure.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 18:26:42 +0000",
+      "fetched_at": "2025-12-29T18:50:14.56228964Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Why Luke Gromen is fading Bitcoin while staying bullish on debasement",
+      "link": "https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiNjEtMzBmMS03MGYwLWE2ZTctYTJhYjIwY2MyMGIyLmpwZw==.jpg\" alt=\"Why Luke Gromen is fading Bitcoin while staying bullish on debasement\"\u003e\u003c/p\u003e\u003cp\u003eLuke Gromen still backs debasement but is trimming Bitcoin risk as BTC lags gold, trends weaken and quantum headlines weigh on sentiment.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 18:40:30 +0000",
+      "fetched_at": "2025-12-29T18:50:14.562271336Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
       "link": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 03:55:45 GMT",
       "fetched_at": "2025-12-19T04:27:31.224583095Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Raoul Pal says capital rotation could be fuelling Zcash boom",
-      "link": "https://cointelegraph.com/news/zcash-capital-rotation-trend-not-confirmed-raoul-pal-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0YjUtZjUxYS03NjNmLTg4ZTItZjhiYTZlZGY5Y2VjLmpwZw==.jpg\" alt=\"Raoul Pal says capital rotation could be fuelling Zcash boom\"\u003e\u003c/p\u003e\u003cp\u003eReal Vision CEO Raoul Pal said the key signal indicating whether Zcash shows the start of a rally is if it can hold up during a broader market uptrend.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 04:11:30 +0000",
-      "fetched_at": "2025-12-19T04:27:31.211055408Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto market cap falls to 8-month low, analysts see more pain ahead",
-      "link": "https://cointelegraph.com/news/crypto-market-cap-8-month-low-more-pain-ahead-ana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0OTAtMDVhNC03MzZkLWEyMzktZjU5ZjhiNmEzMjY1LmpwZw==.jpg\" alt=\"Crypto market cap falls to 8-month low, analysts see more pain ahead\"\u003e\u003c/p\u003e\u003cp\u003eThe total crypto market cap fell to $2.93 trillion, its lowest since April, erasing yearly gains as analysts anticipated further declines.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 04:15:16 +0000",
-      "fetched_at": "2025-12-19T04:27:31.21103524Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1363,
-  "last_update": "2025-12-29T18:19:15.877067227Z"
+  "total_captured": 1365,
+  "last_update": "2025-12-29T18:50:15.023952122Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1363-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 18:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1365-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 18:19 UTC)*
+*(Updated: 29 Dec 18:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale](https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Why Luke Gromen is fading Bitcoin while staying bullish on debasement](https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'](https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ukraine denies drone attack on Putin's residence](https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-29-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Egyptian dissident sorry for tweets after calls for deportation from UK](https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump to meet Netanyahu in Florida as focus turns to Middle East issues](https://www.bbc.com/news/articles/cwypyq9dvggo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Crypto ETPs shed $446M over Christmas as year-end sentiment remains fragile](https://cointelegraph.com/news/crypto-etps-446m-outflows-year-end-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin price pauses at $90K: What will trigger a New Year rally?](https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Real-world assets top DEXs to become 5th-largest category in DeFi by TVL](https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale](https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Why Luke Gromen is fading Bitcoin while staying bullish on debasement](https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-29-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Zcash price has 'first stop' at $1K: Arthur Hayes](https://cointelegraph.com/news/zcash-price-first-stop-1k-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [ETH price to $5K next? Ethereum rallied 120% the last time this happened](https://cointelegraph.com/news/eth-price-5k-next-ethereum-rallied-120-percent-last-time-this-happened?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [North Korea-linked theft and poor key security dominate Web3 losses: Hacken](https://cointelegraph.com/news/north-korea-theft-poor-key-security-dominate-web3-losses-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [These three altcoins came back from the dead in 2025](https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
