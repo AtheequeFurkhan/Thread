@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "North Korea-linked theft and poor key security dominate Web3 losses: Hacken",
+      "link": "https://cointelegraph.com/news/north-korea-theft-poor-key-security-dominate-web3-losses-hacken?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFmMzgtOGQ5MS03NzU4LTkzYWItODBlNTE5M2ZlMTVjLmpwZw==.jpg\" alt=\"North Korea-linked theft and poor key security dominate Web3 losses: Hacken\"\u003e\u003c/p\u003e\u003cp\u003eHacken says Web3 losses climbed to nearly $4 billion in 2025, with North Korea behind over half the damage, and regulators under pressure to turn security guidance into hard rules.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 14:18:52 +0000",
+      "fetched_at": "2025-12-29T14:40:08.646154192Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "These three altcoins came back from the dead in 2025",
       "link": "https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 02:40:02 +0000",
       "fetched_at": "2025-12-19T02:53:00.820301612Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitwise files with SEC to offer spot SUI ETF",
-      "link": "https://cointelegraph.com/news/bitwise-submits-spot-sui-etf-proposal-to-sec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVhYWUtYTVhMi03YzljLWFiZjUtNDczNDJkZGIxNzc2.jpg\" alt=\"Bitwise files with SEC to offer spot SUI ETF\"\u003e\u003c/p\u003e\u003cp\u003eBitwise has filed an initial registration for an ETF tracking Sui, joining the race to launch with Canary Captial and 21Shares.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 02:49:56 +0000",
-      "fetched_at": "2025-12-19T02:53:00.820280038Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1357,
-  "last_update": "2025-12-29T14:14:35.510275633Z"
+  "total_captured": 1358,
+  "last_update": "2025-12-29T14:40:09.409505973Z"
 }
