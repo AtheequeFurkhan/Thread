@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiN2QtZTAzNC03MjYyLWExMzAtNDIyNjk3NzAzM2M3LmpwZw==.jpg\" alt=\"Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B\"\u003e\u003c/p\u003e\u003cp\u003eTokenized stocks have surged to a $1.2 billion market, with insiders comparing their growth to stablecoins and DeFi’s early boom in 2020.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 20:55:41 +0000",
+      "fetched_at": "2025-12-29T21:11:38.03713039Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Flow scraps rollback plan after pushback over decentralization, security",
+      "link": "https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZiOTgtZjJmNC03ZWYyLWE0MjAtMDA0YTM5MTg0Yzc3LmpwZw==.jpg\" alt=\"Flow scraps rollback plan after pushback over decentralization, security\"\u003e\u003c/p\u003e\u003cp\u003eAlthough recovery of assets affected in a $3.9 million exploit of the Flow blockchain isn't guaranteed, many users responded positively to a change in the remediation plan.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 21:05:06 +0000",
+      "fetched_at": "2025-12-29T21:11:38.037112547Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Nepal to scrap 'failed' Mount Everest waste deposit scheme",
       "link": "https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 07:56:38 GMT",
       "fetched_at": "2025-12-19T08:18:22.960361219Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen",
-      "link": "https://cointelegraph.com/news/bitcoin-rebounds-japan-rate-hike-arthur-hayes-dollar-200-yen?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ODktM2FkNi03OTlkLTlhNmUtMDg1MjdjZWMyZjk1LmpwZw==.jpg\" alt=\"Bitcoin rebounds on Japan rate hike as Arthur Hayes sees dollar at 200 yen\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin headed higher despite the Bank of Japan's interest-rate hike while reactions saw bullish risk-asset signals and no further policy tightening.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 07:50:09 +0000",
-      "fetched_at": "2025-12-19T08:18:22.839222687Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Coinbase borrows Kalshi’s playbook, sues three states over prediction markets",
-      "link": "https://cointelegraph.com/news/coinbase-sues-states-prediction-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1NzEtYzFkMi03NDg0LTljNDMtODVkOGJhOTc1ZThiLmpwZw==.jpg\" alt=\"Coinbase borrows Kalshi’s playbook, sues three states over prediction markets\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase sued regulators in Connecticut, Illinois and Michigan, arguing CFTC-regulated prediction markets fall under federal commodities law, not state gambling rules.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 08:01:57 +0000",
-      "fetched_at": "2025-12-19T08:18:22.839198371Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1369,
-  "last_update": "2025-12-29T20:52:46.021566294Z"
+  "total_captured": 1371,
+  "last_update": "2025-12-29T21:11:38.3215445Z"
 }

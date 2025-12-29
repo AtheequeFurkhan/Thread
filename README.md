@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 20:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1369-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 21:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1371-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 20:52 UTC)*
+*(Updated: 29 Dec 21:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report](https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [FIFA president defends World Cup ticket prices, saying demand is hitting records](https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Trust Wallet hack shifts to verification amid surge in false claims](https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine](https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report](https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation](https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale](https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Why Luke Gromen is fading Bitcoin while staying bullish on debasement](https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-29-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
