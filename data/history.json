@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility",
+      "link": "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MTAtNGRlMC03YmRkLWIyYzYtZGZiMzRmMDg1YjgxLmpwZw==.jpg\" alt=\"Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility\"\u003e\u003c/p\u003e\u003cp\u003eSilver’s recent price surge mirrors Bitcoin’s trademark volatility. The precious metal is swinging wildly on rate cut bets and shifting industrial demand.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 05:45:27 +0000",
+      "fetched_at": "2025-12-29T05:57:46.162264526Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "UK to ban deepfake AI 'nudification' apps",
       "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 18:22:08 +0000",
       "fetched_at": "2025-12-18T18:52:20.841714088Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why Bitcoin’s popular narratives don’t match the data: James Check on 2026",
-      "link": "https://cointelegraph.com/news/debunking-bitcoin-narrative-onchain-data-james-check-outlook-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxNDUtMzBmYS03NDQ5LWIyNDYtZDVlMGQwNjg1NDI5LmpwZw==.jpg\" alt=\"Why Bitcoin’s popular narratives don’t match the data: James Check on 2026\"\u003e\u003c/p\u003e\u003cp\u003eIn a recent Cointelegraph interview, James Check uses onchain data to challenge popular Bitcoin narratives and outline his thinking for 2026.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 18:25:00 +0000",
-      "fetched_at": "2025-12-18T18:52:20.841686821Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1327,
-  "last_update": "2025-12-29T05:45:01.882599099Z"
+  "total_captured": 1328,
+  "last_update": "2025-12-29T05:57:46.607049889Z"
 }
