@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 22:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1374-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 23:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1375-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 22:51 UTC)*
+*(Updated: 29 Dec 23:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Warren Buffett is retiring: We look back at a critical turning point in his career](https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career) | ⚪ Neutral |
 | **World** | [Why Israel's recognition of Somaliland as an independent state is controversial](https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [North Korea-linked theft and poor key security dominate Web3 losses: Hacken](https://cointelegraph.com/news/north-korea-theft-poor-key-security-dominate-web3-losses-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [These three altcoins came back from the dead in 2025](https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Warren Buffett is retiring: We look back at a critical turning point in his career](https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career) (⚪ Neutral)
 - [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) (⚪ Neutral)
 - [FIFA president defends World Cup ticket prices, saying demand is hitting records](https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices) (🟢 Positive)
 - [Clean energy is surging despite political attacks. But a slowdown may be looming](https://www.npr.org/2025/12/19/nx-s1-5638909/trump-ai-energy-electricity-demand-climate-change) (⚪ Neutral)
 - [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892/book-distributor-shutting-down-deals-logistical-blow-to-libraries) (⚪ Neutral)
-- [Electric vehicles had a bumpy road in 2025 — and one pleasant surprise](https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025) (⚪ Neutral)
 
 
 ### 📂 Crypto

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Warren Buffett is retiring: We look back at a critical turning point in his career",
+      "link": "https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career",
+      "category": "Business",
+      "summary": "Warren Buffett started out by identifying opportunities in undervalued companies. Later, his strategy was buying a company that would get bigger on its own. We look at that second phase of his career.",
+      "published": "Mon, 29 Dec 2025 17:53:27 -0500",
+      "fetched_at": "2025-12-29T23:12:18.05000438Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why Israel's recognition of Somaliland as an independent state is controversial",
       "link": "https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 07:11:24 GMT",
       "fetched_at": "2025-12-19T10:13:48.903875948Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Metaplanet to debut US trading with Deutsche Bank under MPJPY",
-      "link": "https://cointelegraph.com/news/metaplanet-us-trading-adr-program-deutsche-bank?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1OWQtM2UxOS03MTNhLTgzOTAtMDY0OTRlYzBiMjI5LmpwZw==.jpg\" alt=\"Metaplanet to debut US trading with Deutsche Bank under MPJPY\"\u003e\u003c/p\u003e\u003cp\u003eMetaplanet will debut US trading via American Depositary Receipts, aiming to broaden access for US investors without raising new capital.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 09:44:35 +0000",
-      "fetched_at": "2025-12-19T09:54:06.640793364Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1374,
-  "last_update": "2025-12-29T22:51:00.828511805Z"
+  "total_captured": 1375,
+  "last_update": "2025-12-29T23:12:18.050024999Z"
 }
