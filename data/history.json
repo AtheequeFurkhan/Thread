@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "'Drop your gun': Bondi hero recounts moment he tackled gunman",
+      "link": "https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Authorities say the actions of Ahmed al Ahmed, a shop owner, saved countless lives.",
+      "published": "Mon, 29 Dec 2025 05:47:02 GMT",
+      "fetched_at": "2025-12-29T06:30:41.229892834Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
+      "link": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland.",
+      "published": "Mon, 29 Dec 2025 06:05:53 GMT",
+      "fetched_at": "2025-12-29T06:30:41.229877405Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
+      "link": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Both the US president and Zelensky describe talks in Florida as \"great\" and \"terrific\" but the issue of territory remains \"unresolved\".",
+      "published": "Mon, 29 Dec 2025 02:06:51 GMT",
+      "fetched_at": "2025-12-29T06:30:41.229855123Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "ETH validator entry queue is suddenly almost double the exit queue",
+      "link": "https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MjMtMDllNC03ZDQzLWI2YTAtZjBhMmIzMzQ5NzAzLmpwZw==.jpg\" alt=\"ETH validator entry queue is suddenly almost double the exit queue\"\u003e\u003c/p\u003e\u003cp\u003eDigital asset treasury companies such as Tom Lee’s BitMine have contributed to the increase in the entry queue, but the network’s Petcra upgrade may have also helped.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 05:58:09 +0000",
+      "fetched_at": "2025-12-29T06:30:41.22109811Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility",
       "link": "https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Thu, 18 Dec 2025 19:57:22 +0000",
       "fetched_at": "2025-12-18T20:13:38.635741101Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why the ‘great China Bitcoin mining crackdown’ fell short of early claims",
-      "link": "https://cointelegraph.com/news/bitcoin-hashrate-rebound-xinjiang-mining-fears?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyM2QtYTgyOC03M2ExLTg5ZGYtNTdiMTUzN2FmYTBlLmpwZw==.jpg\" alt=\"Why the ‘great China Bitcoin mining crackdown’ fell short of early claims\"\u003e\u003c/p\u003e\u003cp\u003eData suggests that fears about Xinjiang-related Bitcoin mining have overstated the impact, with hashrate losses proving brief and driven partly by US power curtailments.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 19:25:00 +0000",
-      "fetched_at": "2025-12-18T19:35:02.423312277Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "'She's a superhero': The acts of bravery as Bondi horror unfolded",
-      "link": "https://www.bbc.com/news/articles/czxp998rd9ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A father tells the BBC he owes the life of his child to a stranger forced into an impossible decision.",
-      "published": "Thu, 18 Dec 2025 19:10:35 GMT",
-      "fetched_at": "2025-12-18T19:27:03.606098794Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion",
-      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-de-minimis-tax-exclusion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyOTUtODlhZS03NmQyLTg1NTctOTczOTBiZWMzMjQ4LmpwZw==.jpg\" alt=\"Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion\"\u003e\u003c/p\u003e\u003cp\u003eUS lawmakers are only considering de minimis tax exemptions for dollar-pegged stablecoins, according to Bitcoin Policy advocate Conner Brown.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 19:05:35 +0000",
-      "fetched_at": "2025-12-18T19:13:00.073696122Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Intuit to use Circle’s stablecoin for financial platforms",
-      "link": "https://cointelegraph.com/news/intuit-circle-usdc-stablecoin-tax-payments?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyNGYtOGU2Zi03YmE1LTlkNGMtYmQ2NTNjMDJhNzJiLmpwZw==.jpg\" alt=\"Intuit to use Circle’s stablecoin for financial platforms\"\u003e\u003c/p\u003e\u003cp\u003eThe company’s stablecoin infrastructure and USDC coin will be part of the deal, potentially to be embedded in Intuit’s financial platforms.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 18:22:08 +0000",
-      "fetched_at": "2025-12-18T18:52:20.841714088Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1328,
-  "last_update": "2025-12-29T05:57:46.607049889Z"
+  "total_captured": 1332,
+  "last_update": "2025-12-29T06:30:41.571707185Z"
 }

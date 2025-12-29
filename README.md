@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 05:57 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1328-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 06:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1332-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 05:57 UTC)*
+*(Updated: 29 Dec 06:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump says progress made in Ukraine talks but 'thorny issues' remain](https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [ETH validator entry queue is suddenly almost double the exit queue](https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility](https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **Crypto** | [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [ETH validator entry queue is suddenly almost double the exit queue](https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility](https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin helps USD's reserve status ‘in a strange way’: Coinbase CEO](https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits](https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto heavyweights slam proposed 5% wealth tax in California](https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump says progress made in Ukraine talks but 'thorny issues' remain](https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Catching the hunters trapping rare songbirds in China](https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Mexico train crash kills 13 and injures almost 100](https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [China holds military drills around Taiwan as warning to 'separatist forces'](https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
