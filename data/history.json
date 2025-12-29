@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin price pauses at $90K: What will trigger a New Year rally?",
+      "link": "https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFjNjctZTg2Yy03MjM0LWFlMWEtY2FkNGJhZTllMGEzLmpwZw==.jpg\" alt=\"Bitcoin price pauses at $90K: What will trigger a New Year rally?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin needed a return of retail and institutional demand for BTC to clear the next big hurdle at $90,000 and to spark a new rally toward six figures.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 11:22:02 +0000",
+      "fetched_at": "2025-12-29T11:30:53.757557714Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Real-world assets top DEXs to become 5th-largest category in DeFi by TVL",
+      "link": "https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5YTgtZTcxYS03MGQ4LTgxYjAtMDBjZTE5N2U0YWYzLmpwZw==.jpg\" alt=\"Real-world assets top DEXs to become 5th-largest category in DeFi by TVL\"\u003e\u003c/p\u003e\u003cp\u003eRWA protocols have overtaken decentralized exchanges by total value locked, as tokenized Treasurys, private credit, and commodities become core onchain building blocks.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 11:22:54 +0000",
+      "fetched_at": "2025-12-29T11:30:53.757540431Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Thailand accuses Cambodia of breaking newly signed ceasefire deal",
       "link": "https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 18 Dec 2025 20:29:19 GMT",
       "fetched_at": "2025-12-18T22:34:38.838679704Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto CLARITY Act set for Senate markup in January, says Sacks",
-      "link": "https://cointelegraph.com/news/white-house-david-sacks-crypto-clarity-act-senate-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzYtMzNiMC03YjRjLWI3MDktZDg4MjdhMjEwYzhlLmpwZw==.jpg\" alt=\"Crypto CLARITY Act set for Senate markup in January, says Sacks\"\u003e\u003c/p\u003e\u003cp\u003eWhite House AI and crypto czar David Sacks said the CLARITY Act will reach the Senate next month for debate and amendment before a full vote.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 22:32:29 +0000",
-      "fetched_at": "2025-12-18T22:34:38.641692284Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ex-Nascar driver and family believed to be among seven killed in US aircrash",
-      "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Officials confirm racer Greg Biffle was among those who boarded the small aircraft that crashed at a regional airport in North Carolina.",
-      "published": "Thu, 18 Dec 2025 22:06:27 GMT",
-      "fetched_at": "2025-12-18T22:12:13.79270704Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1343,
-  "last_update": "2025-12-29T11:12:32.616103197Z"
+  "total_captured": 1345,
+  "last_update": "2025-12-29T11:30:54.250818302Z"
 }

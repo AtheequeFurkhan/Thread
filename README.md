@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 11:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1343-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 11:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1345-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 11:12 UTC)*
+*(Updated: 29 Dec 11:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin price pauses at $90K: What will trigger a New Year rally?](https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Real-world assets top DEXs to become 5th-largest category in DeFi by TVL](https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Thailand accuses Cambodia of breaking newly signed ceasefire deal](https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility](https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Catching the hunters trapping rare songbirds in China](https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin price pauses at $90K: What will trigger a New Year rally?](https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Real-world assets top DEXs to become 5th-largest category in DeFi by TVL](https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Higher activity, lower fees: Here’s what December’s onchain data shows](https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [ETH validator entry queue is suddenly almost double the exit queue](https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
