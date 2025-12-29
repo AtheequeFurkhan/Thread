@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation",
+      "link": "https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZhZjktODk5Ni03MjY1LWEwN2UtOTMxYTgwMTcyZTdkLmpwZw==.jpg\" alt=\"Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation\"\u003e\u003c/p\u003e\u003cp\u003eThe purchase lifts the company’s total Bitcoin holdings to 672,497 BTC and ranks among its smaller acquisitions this year compared with earlier multibillion-dollar buys.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 18:59:17 +0000",
+      "fetched_at": "2025-12-29T19:10:31.863931686Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale",
       "link": "https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 04:51:34 +0000",
       "fetched_at": "2025-12-19T04:53:03.195389444Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "EU agree €90bn loan for Ukraine but without using Russian assets",
-      "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ukrainian had wanted the EU to use €200 billion of frozen Russian assets but Belgium opposed the move.",
-      "published": "Fri, 19 Dec 2025 03:55:45 GMT",
-      "fetched_at": "2025-12-19T04:27:31.224583095Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1365,
-  "last_update": "2025-12-29T18:50:15.023952122Z"
+  "total_captured": 1366,
+  "last_update": "2025-12-29T19:10:32.294798222Z"
 }
