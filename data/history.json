@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "China to let banks pay interest on digital yuan wallets from January 2026",
+      "link": "https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ZWEtZGUxMS03MGU2LWI4NmEtMWE5YjQ0NGIwZGU4LmpwZw==.jpg\" alt=\"China to let banks pay interest on digital yuan wallets from January 2026\"\u003e\u003c/p\u003e\u003cp\u003eChina’s central bank will let banks pay interest on digital yuan wallets from Jan. 1, 2026, reshaping e-CNY as deposit-like money as the US bans CBDCs.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 12:50:21 +0000",
+      "fetched_at": "2025-12-29T13:11:25.1194431Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable",
       "link": "https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 00:04:39 GMT",
       "fetched_at": "2025-12-19T00:59:39.32910103Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "TikTok owner signs deal to sell US business",
-      "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The deal would end years of efforts by Washington to force ByteDance to sell its US operations.",
-      "published": "Fri, 19 Dec 2025 00:41:28 GMT",
-      "fetched_at": "2025-12-19T00:59:39.329087646Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1351,
-  "last_update": "2025-12-29T12:26:40.26589935Z"
+  "total_captured": 1352,
+  "last_update": "2025-12-29T13:11:25.569505356Z"
 }

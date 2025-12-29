@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 12:26 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1351-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 13:11 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1352-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 12:26 UTC)*
+*(Updated: 29 Dec 13:11 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump and Zelensky appear more upbeat - but show little evidence that peace is near for Ukraine](https://www.bbc.com/news/articles/c17x7lnd1r7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Five-year-old boy dies after getting caught in Japan ski travelator](https://www.bbc.com/news/articles/c4g6gw30epvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto ETPs shed $446M over Christmas as year-end sentiment remains fragile](https://cointelegraph.com/news/crypto-etps-446m-outflows-year-end-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin price pauses at $90K: What will trigger a New Year rally?](https://cointelegraph.com/news/btc-price-pauses-90k-what-will-trigger-new-year-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Real-world assets top DEXs to become 5th-largest category in DeFi by TVL](https://cointelegraph.com/news/rwas-surpassed-dexs-defi-tvl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Higher activity, lower fees: Here’s what December’s onchain data shows](https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
