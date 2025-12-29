@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 05:06 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1326-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 05:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1327-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 05:06 UTC)*
+*(Updated: 29 Dec 05:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Catching the hunters trapping rare songbirds in China](https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Brazil's Bolsonaro undergoes medical treatment for hiccups](https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [French cinema actress Brigitte Bardot dies aged 91](https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "UK to ban deepfake AI 'nudification' apps",
+      "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A new offence looks to build on existing rules outlawing sexually explicit deepfakes and intimate image abuse.",
+      "published": "Thu, 18 Dec 2025 17:43:14 GMT",
+      "fetched_at": "2025-12-29T05:45:01.355930629Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Porn company starts new age checks after £1m Ofcom fine",
       "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 18 Dec 2025 18:25:00 +0000",
       "fetched_at": "2025-12-18T18:52:20.841686821Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "SoFi rolls out US dollar stablecoin issued by bank subsidiary",
-      "link": "https://cointelegraph.com/news/sofi-us-dollar-stablecoin-bank-fintechs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyNGEtZTdmZC03NjM0LWFhMmYtOTU4NzZlOGJjMjA4LmpwZw==.jpg\" alt=\"SoFi rolls out US dollar stablecoin issued by bank subsidiary\"\u003e\u003c/p\u003e\u003cp\u003eIssued by SoFi Bank, the dollar-backed token is designed for payments and settlement across banks, fintechs and enterprise platforms.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 18:07:58 +0000",
-      "fetched_at": "2025-12-18T18:19:18.335833679Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1326,
-  "last_update": "2025-12-29T05:06:06.467095494Z"
+  "total_captured": 1327,
+  "last_update": "2025-12-29T05:45:01.882599099Z"
 }
