@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 21:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1371-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 21:30 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1372-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 21:11 UTC)*
+*(Updated: 29 Dec 21:30 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
 | **Crypto** | [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Technology** | [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trust Wallet hack shifts to verification amid surge in false claims](https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [China to let banks pay interest on digital yuan wallets from January 2026](https://cointelegraph.com/news/china-digital-yuan-interest-wallets-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) (⚪ Neutral)
 - [FIFA president defends World Cup ticket prices, saying demand is hitting records](https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices) (🟢 Positive)
 - [Clean energy is surging despite political attacks. But a slowdown may be looming](https://www.npr.org/2025/12/19/nx-s1-5638909/trump-ai-energy-electricity-demand-climate-change) (⚪ Neutral)
 - [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892/book-distributor-shutting-down-deals-logistical-blow-to-libraries) (⚪ Neutral)
 - [Electric vehicles had a bumpy road in 2025 — and one pleasant surprise](https://www.npr.org/2025/12/29/nx-s1-5638592/electric-vehicles-2025) (⚪ Neutral)
-- [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) (🔴 Negative)
 
 
 ### 📂 Crypto
