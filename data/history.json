@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "ETH price to $5K next? Ethereum rallied 120% the last time this happened",
+      "link": "https://cointelegraph.com/news/eth-price-5k-next-ethereum-rallied-120-percent-last-time-this-happened?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGQzOGEtMmNhNi03ZWM4LWE3OTItMWFjNGI3YmQ5Mzhl.jpg\" alt=\"ETH price to $5K next? Ethereum rallied 120% the last time this happened\"\u003e\u003c/p\u003e\u003cp\u003eThe amount of Ethereum waiting to be staked has surpassed that awaiting withdrawal, making a rally to $5,000 possible in 2026.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 15:15:00 +0000",
+      "fetched_at": "2025-12-29T15:35:53.869596304Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "North Korea-linked theft and poor key security dominate Web3 losses: Hacken",
       "link": "https://cointelegraph.com/news/north-korea-theft-poor-key-security-dominate-web3-losses-hacken?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 02:09:51 +0000",
       "fetched_at": "2025-12-19T02:53:00.820322816Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto has everything needed for a bull market, so why is the market down?",
-      "link": "https://cointelegraph.com/news/crypto-everything-needed-for-bull-market-why-trending-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM0MmUtYjM2OC03N2E4LWIyNzMtMzkxZDliOGUzYjJjLmpwZw==.jpg\" alt=\"Crypto has everything needed for a bull market, so why is the market down?\"\u003e\u003c/p\u003e\u003cp\u003eCrypto has tracked lower late this year despite pro-regulation shifts, ETF launches, and institutional buying, prompting analysts to question structural issues.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 02:40:02 +0000",
-      "fetched_at": "2025-12-19T02:53:00.820301612Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1358,
-  "last_update": "2025-12-29T15:14:09.356303717Z"
+  "total_captured": 1359,
+  "last_update": "2025-12-29T15:35:54.114790696Z"
 }
