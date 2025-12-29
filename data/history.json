@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
+      "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "2025 has been a year of multiple major conflicts and it is becoming clear that one of them has geopolitical implications of unparalleled importance.",
+      "published": "Mon, 29 Dec 2025 03:03:56 GMT",
+      "fetched_at": "2025-12-29T03:16:31.86799593Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits",
+      "link": "https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWMtNDc2Ni03ODUxLWJlOGUtMmJkZWEwZDA4ZmM5LmpwZw==.jpg\" alt=\"Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits\"\u003e\u003c/p\u003e\u003cp\u003eA server-wide hack flooded Rainbow Six Siege with billions in credits, forcing an emergency shutdown and a major rollback operation.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 02:00:48 +0000",
+      "fetched_at": "2025-12-29T03:16:31.404372336Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto heavyweights slam proposed 5% wealth tax in California",
+      "link": "https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3NWItMDQyZS03ZDI1LWIwOWQtMWMwY2FlN2EzZjZhLmpwZw==.jpg\" alt=\"Crypto heavyweights slam proposed 5% wealth tax in California\"\u003e\u003c/p\u003e\u003cp\u003eCrypto executives, including Bitwise CEO Hunter Horsley and Castle Island Ventures founding partner Nic Carter, have pushed back against a proposed 5% billionaire tax in California.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 02:48:55 +0000",
+      "fetched_at": "2025-12-29T03:16:31.404357658Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Kosovo's ruling party wins election after months of political deadlock",
       "link": "https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 18 Dec 2025 16:40:32 +0000",
       "fetched_at": "2025-12-18T16:52:09.670418069Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Lone FCC Democrat warns of political pressure on media if agency loses independence",
-      "link": "https://www.npr.org/2025/12/18/nx-s1-5647430/fcc-commissioner-says-broadcasters-should-push-back-against-trump-administration",
-      "category": "Business",
-      "summary": "The only Democrat on the Federal Communications Commission says chairman Brendan Carr's belief that the FCC isn't independent leaves news media vulnerable to political pressure.",
-      "published": "Thu, 18 Dec 2025 04:42:21 -0500",
-      "fetched_at": "2025-12-18T15:54:44.947906985Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Pulitzer Prize-winning correspondent Peter Arnett has died",
-      "link": "https://www.npr.org/2025/12/18/g-s1-102742/pulitzer-prize-winning-correspondent-peter-arnett-has-died",
-      "category": "Business",
-      "summary": "Peter Arnett, the Pulitzer Prize-winning reporter who spent decades dodging bullets and bombs to bring the world eyewitness accounts of war from Vietnam to Iraq, has died. He was 91.",
-      "published": "Thu, 18 Dec 2025 01:44:49 -0500",
-      "fetched_at": "2025-12-18T15:43:04.243256979Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump Media to merge with nuclear fusion firm in $6bn deal",
-      "link": "https://www.bbc.com/news/articles/cp9kv9lld38o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The company behind President Trump's Truth Social platform makes a surprising move into the energy sector.",
-      "published": "Thu, 18 Dec 2025 15:11:11 GMT",
-      "fetched_at": "2025-12-18T15:43:03.777914359Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1317,
-  "last_update": "2025-12-29T01:04:50.77661306Z"
+  "total_captured": 1320,
+  "last_update": "2025-12-29T03:16:32.510444225Z"
 }

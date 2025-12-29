@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 01:04 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1317-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 03:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1320-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 01:04 UTC)*
+*(Updated: 29 Dec 03:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits](https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto heavyweights slam proposed 5% wealth tax in California](https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Kosovo's ruling party wins election after months of political deadlock](https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Executions in Iran more than double in 2025, report says](https://www.bbc.com/news/articles/c3v1g227p4xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Trump, tariffs and utility tokens: Animoca’s Yat Siu says crypto finally has to grow up](https://cointelegraph.com/news/trump-tariffs-and-the-year-of-the-utility-token-animoca-s-yat-siu-says-crypto-finally-has-to-grow-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Mirae Asset in talks to buy Korean crypto exchange Korbit in $100M deal: Report](https://cointelegraph.com/news/mirae-asset-in-talks-to-buy-korean-crypto-exchange-korbit-in-100m-deal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin risks first post-halving year red candle with price stuck at $88K](https://cointelegraph.com/news/bitcoin-risks-post-halving-year-red-candle-price-stuck-88k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Memory loss: As AI gobbles up chips, prices for devices may rise](https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram) | 🔴 Negative |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpt?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ubisoft halts Rainbow Six Siege after hackers give each player $13.3M credits](https://cointelegraph.com/news/ubisoft-halts-rainbow-six-seige-after-hackers-grant-every-player-2-billion-credits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto heavyweights slam proposed 5% wealth tax in California](https://cointelegraph.com/news/california-billionaire-tax-crypto-executives-slam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs](https://cointelegraph.com/news/crypto-treasuries-disappear-face-bleak-2026-outlook-datexecutives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Flow validators urged to halt work after divisive blockchain rollback](https://cointelegraph.com/news/flow-validators-urged-halt-work-after-chain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin needs a 6.24% rally to close 2025 in the green: Analyst](https://cointelegraph.com/news/bitcoin-6-24-gain-close-2025-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [BTC mining difficulty records last adjustment in 2025, forecast to rise in Jan](https://cointelegraph.com/news/btc-mining-difficulty-adjustment-2025-rise-jan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin outperformed gold and silver over the last 10 years: Analyst](https://cointelegraph.com/news/bitcoin-outperformed-gold-silver-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Kosovo's ruling party wins election after months of political deadlock](https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Nine people, including five children, stabbed to death in Suriname](https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Spaniards hurl flour, eggs and fireworks in mock battle](https://www.bbc.com/news/videos/c05834pp6jno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brazil's Bolsonaro undergoes medical treatment for hiccups](https://www.bbc.com/news/articles/c3r7ge7937qo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [French cinema actress Brigitte Bardot dies aged 91](https://www.bbc.com/news/articles/cly92pr8qryo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
