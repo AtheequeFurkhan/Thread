@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "An orphan's brutal murder shines a spotlight on child abuse in Somalia",
+      "link": "https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The woman who was supposed to care for Saabirin Saylaan was found to have beaten and tortured her.",
+      "published": "Mon, 29 Dec 2025 03:22:26 GMT",
+      "fetched_at": "2025-12-29T04:32:27.127303951Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Catching the hunters trapping rare songbirds in China",
+      "link": "https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC catches a man trapping songbirds - selling them is a profitable business because many keep them as pets.",
+      "published": "Sun, 28 Dec 2025 23:00:27 GMT",
+      "fetched_at": "2025-12-29T04:32:27.127290045Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Mexico train crash kills 13 and injures almost 100",
+      "link": "https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An investigation is under way after the train derailed as it rounded a bend near the town of Nizanda.",
+      "published": "Mon, 29 Dec 2025 02:15:36 GMT",
+      "fetched_at": "2025-12-29T04:32:27.127272663Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
+      "link": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan.",
+      "published": "Mon, 29 Dec 2025 04:14:11 GMT",
+      "fetched_at": "2025-12-29T04:32:27.127257525Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin helps USD's reserve status ‘in a strange way’: Coinbase CEO",
+      "link": "https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY3OGMtZTIyOS03N2ExLWEwYWEtNWFkN2NlYTE0MTQ4LmpwZw==.jpg\" alt=\"Bitcoin helps USD's reserve status ‘in a strange way’: Coinbase CEO\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin is helping reinforce the US dollar’s reserve currency status by acting as a market check on excessive inflation and deficit spending, Coinbase CEO Brian Armstrong said.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 03:48:22 +0000",
+      "fetched_at": "2025-12-29T04:32:27.116695556Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'",
       "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4454,53 +4499,8 @@
       "published": "Thu, 18 Dec 2025 17:43:14 GMT",
       "fetched_at": "2025-12-18T17:44:50.852097929Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "MEV trading returns to court in Pump.fun class-action lawsuit",
-      "link": "https://cointelegraph.com/news/mev-trading-returns-court-pump-fun-class-action-lawsuit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMxYTgtNzE0MS03NTUxLWI1NjctZTJiZjM1Yjc0MDY2LmpwZw==.jpg\" alt=\"MEV trading returns to court in Pump.fun class-action lawsuit\"\u003e\u003c/p\u003e\u003cp\u003eThe lawsuit against the memecoin launch platform Pump.fun, Solana Labs, the Solana Foundation and Jito was amended to include new evidence over MEV trading practices.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 17:28:32 +0000",
-      "fetched_at": "2025-12-18T17:44:50.161114573Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm",
-      "link": "https://cointelegraph.com/news/eth-nears-3k-after-cool-cpi-print-but-553m-ether-etf-outflow-raises-alarm?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2Y1NDktMjk4OS03Njg0LThmNWUtZDg4NDkyZjMyNzMy.jpg\" alt=\"ETH nears $3K after cool CPI print but $553M Ether ETF outflow raises alarm\"\u003e\u003c/p\u003e\u003cp\u003eETH rebounded toward $3,000 as stocks reacted positively to a cooler-than-anticipated CPI print, but this week’s $553 million spot ETHER ETF outflow could keep a cap on prices.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 17:07:05 +0000",
-      "fetched_at": "2025-12-18T17:17:06.876970636Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Porn company starts new age checks after £1m Ofcom fine",
-      "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites.",
-      "published": "Wed, 10 Dec 2025 14:05:23 GMT",
-      "fetched_at": "2025-12-18T17:17:06.631465516Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump expected to expand access to  cannabis in a major shift in drug policy",
-      "link": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The order to place cannabis in the same category as Tylenol with codeine would mark the most significant change in US drug policy since 1971.",
-      "published": "Thu, 18 Dec 2025 16:01:32 GMT",
-      "fetched_at": "2025-12-18T16:52:09.685343009Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Aptos introduces post-quantum signatures before they’re urgently needed",
-      "link": "https://cointelegraph.com/news/aptos-introduces-post-quantum-signatures-proposal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMyMTAtZTFiNS03NGRhLTgxYjQtNGQ2ZDEzYWY4OTU5LmpwZw==.jpg\" alt=\"Aptos introduces post-quantum signatures before they’re urgently needed\"\u003e\u003c/p\u003e\u003cp\u003eAptos has proposed an optional post-quantum signature scheme, citing long-term risks that advances in quantum computing could pose to existing cryptography.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 16:40:32 +0000",
-      "fetched_at": "2025-12-18T16:52:09.670418069Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1320,
-  "last_update": "2025-12-29T03:16:32.510444225Z"
+  "total_captured": 1325,
+  "last_update": "2025-12-29T04:32:27.356835873Z"
 }
