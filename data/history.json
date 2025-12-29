@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Thailand accuses Cambodia of breaking newly signed ceasefire deal",
+      "link": "https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The ceasefire took effect at noon local time (05:00 GMT) on Saturday.",
+      "published": "Mon, 29 Dec 2025 10:38:29 GMT",
+      "fetched_at": "2025-12-29T10:46:31.368346747Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "BitMine locks up $1B in Ether as big corporates stake ETH for yield",
+      "link": "https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg\" alt=\"BitMine locks up $1B in Ether as big corporates stake ETH for yield\"\u003e\u003c/p\u003e\u003cp\u003eThe largest corporate Ethereum holders continue seeking passive yield through staking, effectively reducing the sellable Ether supply on the open market.\u003c/p\u003e",
+      "published": "Mon, 29 Dec 2025 10:36:46 +0000",
+      "fetched_at": "2025-12-29T10:46:31.338792119Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Many new UK drone users must take theory test before flying outside",
+      "link": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements.",
+      "published": "Mon, 29 Dec 2025 00:02:30 GMT",
+      "fetched_at": "2025-12-29T10:46:31.039194617Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "James Bond game 007 First Light delayed to May 2026",
+      "link": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May.",
+      "published": "Mon, 29 Dec 2025 10:22:44 GMT",
+      "fetched_at": "2025-12-29T10:46:31.039175Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Higher activity, lower fees: Here’s what December’s onchain data shows",
       "link": "https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Thu, 18 Dec 2025 22:06:27 GMT",
       "fetched_at": "2025-12-18T22:12:13.79270704Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Violence breaks out in Bangladesh after death of youth protest leader",
-      "link": "https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Sharif Osman Hadi was a prominent figure in the movement that ousted former prime minister Sheik Hasina.",
-      "published": "Thu, 18 Dec 2025 21:55:57 GMT",
-      "fetched_at": "2025-12-18T22:12:13.792688717Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Coinbase appoints former UK minister George Osborne to chair advisory council",
-      "link": "https://cointelegraph.com/news/coinbase-george-osborne-uk-minister-advisory-council?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzUtNGJlNy03Zjc3LWE3NzItZWEzMGFmMGFiYWI4LmpwZw==.jpg\" alt=\"Coinbase appoints former UK minister George Osborne to chair advisory council\"\u003e\u003c/p\u003e\u003cp\u003eOsborne began advising Coinbase in 2024 and has been critical of the UK government's lack of robust digital asset regulations.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 21:59:06 +0000",
-      "fetched_at": "2025-12-18T22:12:13.779215458Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Shrimpers hoped tariffs would provide a lifeline. They're still waiting for relief",
-      "link": "https://www.npr.org/2025/12/18/nx-s1-5645034-e1/shrimpers-hoped-tariffs-would-provide-a-lifeline-theyre-still-waiting-for-relief",
-      "category": "Business",
-      "summary": "Shrimpers along the South Carolina coast are still waiting for a positive impact from President Trump's tariffs on imported shrimp that are meant to help them compete.",
-      "published": "Thu, 18 Dec 2025 16:39:09 -0500",
-      "fetched_at": "2025-12-18T21:47:59.549705211Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Brazilian stock exchange to launch tokenization platform and stablecoin",
-      "link": "https://cointelegraph.com/news/brazil-stocks-b3-tokenization-stablecoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzMDMtMDVkYi03M2RiLTliYzItZjU4MjA5NGZlMTExLmpwZw==.jpg\" alt=\"Brazilian stock exchange to launch tokenization platform and stablecoin\"\u003e\u003c/p\u003e\u003cp\u003eA representative from Brazil's stock exchange, B3, said the stablecoin would be “a tool to enable trading in tokens,\" which it planned to offer in 2026.\u003c/p\u003e",
-      "published": "Thu, 18 Dec 2025 21:46:52 +0000",
-      "fetched_at": "2025-12-18T21:47:59.16715435Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1339,
-  "last_update": "2025-12-29T10:15:30.749099818Z"
+  "total_captured": 1343,
+  "last_update": "2025-12-29T10:46:31.738374472Z"
 }

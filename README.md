@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 10:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1339-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-29 Dec 10:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1343-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 10:15 UTC)*
+*(Updated: 29 Dec 10:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Thailand accuses Cambodia of breaking newly signed ceasefire deal](https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Technology** | [James Bond game 007 First Light delayed to May 2026](https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Higher activity, lower fees: Here’s what December’s onchain data shows](https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Clean energy is surging despite political attacks. But a slowdown may be looming](https://www.npr.org/2025/12/19/nx-s1-5638909/trump-ai-energy-electricity-demand-climate-change) | ⚪ Neutral |
 | **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Technology** | [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Catching the hunters trapping rare songbirds in China](https://www.bbc.com/news/articles/cdxw7593x9zo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Mexico train crash kills 13 and injures almost 100](https://www.bbc.com/news/articles/cx2328e70y7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [China holds military drills around Taiwan as warning to 'separatist forces'](https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin helps USD's reserve status ‘in a strange way’: Coinbase CEO](https://cointelegraph.com/news/bitcoin-helps-us-dollar-reserve-status-coinbase-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [BitMine locks up $1B in Ether as big corporates stake ETH for yield](https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Higher activity, lower fees: Here’s what December’s onchain data shows](https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026](https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitfinex whales go long BTC for 2026: 5 things to know in Bitcoin this week](https://cointelegraph.com/news/bitfinex-whales-go-long-btc-for-2026-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [ETH validator entry queue is suddenly almost double the exit queue](https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Silver’s wild 6% price spike and 10% plunge mirrors crypto volatility](https://cointelegraph.com/news/silver-price-surge-bitcoin-crypto-volatility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [James Bond game 007 First Light delayed to May 2026](https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK to ban deepfake AI 'nudification' apps](https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Porn company starts new age checks after £1m Ofcom fine](https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [McDonald's Netherlands pulls AI Christmas ad after backlash](https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Facebook tests £9.99 monthly subscription for sharing more than two links](https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [One in three using AI for emotional support and conversation, UK says](https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Thailand accuses Cambodia of breaking newly signed ceasefire deal](https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Living in fear of Lakurawa - the militant group Trump targeted in Nigeria strikes](https://www.bbc.com/news/articles/cy7vr76l521o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Drop your gun': Bondi hero recounts moment he tackled gunman](https://www.bbc.com/news/articles/cx2g263v3kzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - ['There are many challenges': Syrians in Turkey consider return after fall of Assad](https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump says progress made in Ukraine talks but 'thorny issues' remain](https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [An orphan's brutal murder shines a spotlight on child abuse in Somalia](https://www.bbc.com/news/articles/c0je281pnwyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
