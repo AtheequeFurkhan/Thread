@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+      "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia.",
+      "published": "Tue, 30 Dec 2025 17:33:40 GMT",
+      "fetched_at": "2025-12-30T17:51:23.854339286Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
+      "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights.",
+      "published": "Fri, 12 Dec 2025 00:02:02 GMT",
+      "fetched_at": "2025-12-30T17:51:23.663040916Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Grayscale moves toward exchange listing for TAO trust in US",
       "link": "https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 00:45:23 GMT",
       "fetched_at": "2025-12-20T00:56:04.282404479Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
-      "link": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Russia's leader told our Russia editor that claims an attack on Europe was planned were \"rubbish\".",
-      "published": "Sat, 20 Dec 2025 00:00:19 GMT",
-      "fetched_at": "2025-12-20T00:56:04.282383018Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
-      "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.",
-      "published": "Fri, 12 Dec 2025 00:21:41 GMT",
-      "fetched_at": "2025-12-19T23:30:38.605029379Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1428,
-  "last_update": "2025-12-30T17:36:07.724541742Z"
+  "total_captured": 1430,
+  "last_update": "2025-12-30T17:51:24.113989235Z"
 }

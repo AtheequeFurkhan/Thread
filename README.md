@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 17:36 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1428-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 17:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1430-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 17:36 UTC)*
+*(Updated: 30 Dec 17:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin 2026 bull case: Traders see 'strong signals' for 6-figure BTC price](https://cointelegraph.com/news/bitcoin-2026-bull-case-traders-strong-signals-6-figure-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto executives share 6 stablecoin predictions for 2026](https://cointelegraph.com/news/20-crypto-execs-share-6-stablecoin-predictions-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users](https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M](https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the US TikTok deal make it safer but less relevant?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
