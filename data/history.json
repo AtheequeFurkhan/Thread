@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "title": "Naan: How the 'world's best bread' travelled from Islamic courts to our plates",
+      "link": "https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Naan, a leavened flatbread, was once the food of nobility but is now a global culinary delight.",
+      "published": "Tue, 30 Dec 2025 00:47:06 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287986499Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Coups, elections and protests - a difficult year for democracy in Africa",
+      "link": "https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Post-election violence in Tanzania and more coups were part of a turbulent 12 months on the continent.",
+      "published": "Tue, 30 Dec 2025 00:39:04 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287977262Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Photographing the hidden world of slime mould",
+      "link": "https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Meet Barry Webb and his award-winning images of the tiny world of slime mould.",
+      "published": "Tue, 30 Dec 2025 00:51:36 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287968395Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Brazil's Bolsonaro undergoes second medical procedure for hiccups",
+      "link": "https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former far-right leader receives second treatment in three days for chronic hiccups.",
+      "published": "Tue, 30 Dec 2025 00:53:34 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287953347Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump says US hit 'big facility' linked to alleged Venezuelan drug boats",
+      "link": "https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The president said it was a dock area \"where they load the boats up with drugs\".",
+      "published": "Mon, 29 Dec 2025 23:33:38 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287941164Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "K-pop band NewJeans breaks up after bitter feud with record label",
+      "link": "https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ador says it has dropped NewJeans member Danielle Marsh while the return of Minji remains uncertain.",
+      "published": "Mon, 29 Dec 2025 23:03:18 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287930755Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Russia's losses in Ukraine rise faster than ever, as US pushes for peace deal",
+      "link": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses.",
+      "published": "Tue, 30 Dec 2025 00:12:41 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287919584Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+      "link": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu.",
+      "published": "Tue, 30 Dec 2025 00:08:58 GMT",
+      "fetched_at": "2025-12-30T00:59:53.287905959Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Warren Buffett is retiring: We look back at a critical turning point in his career",
       "link": "https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career",
       "category": "Business",
@@ -4427,80 +4499,8 @@
       "published": "Fri, 19 Dec 2025 08:12:19 -0500",
       "fetched_at": "2025-12-19T13:44:44.872120836Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "South Africa defiant after US threatens 'consequences' over refugee centre raid",
-      "link": "https://www.bbc.com/news/articles/cj69px875ewo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "South Africa has accused the US of employing Kenyans without work permits to process refugee applications.",
-      "published": "Fri, 19 Dec 2025 11:59:56 GMT",
-      "fetched_at": "2025-12-19T12:24:10.35050875Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bangladesh newspaper staff recall 'gasping for air' as offices set ablaze",
-      "link": "https://www.bbc.com/news/articles/c2462r82864o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The fresh protests are sparked by the death of one of the leaders of protests that ousted ex-PM Sheikh Hasina.",
-      "published": "Fri, 19 Dec 2025 10:54:05 GMT",
-      "fetched_at": "2025-12-19T11:11:55.518829896Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle",
-      "link": "https://cointelegraph.com/news/fidelity-macro-lead-65k-bitcoin-bottom-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzBjYWMtNmU1NS03NzBhLWJmYjktMDQwYmYzY2I1YTE2.jpg\" alt=\"Fidelity macro lead calls $65K Bitcoin bottom in 2026, end of bull cycle\"\u003e\u003c/p\u003e\u003cp\u003eFidelity’s director of macro is predicting a Bitcoin bottom near $65,000 in 2026, but remains a “secular bull” despite predicting an end to the current four-year cycle.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 10:51:10 +0000",
-      "fetched_at": "2025-12-19T10:53:38.727778222Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bybit relaunches UK platform via Archax under FCA promotion rules",
-      "link": "https://cointelegraph.com/news/bybit-returns-uk-after-two-year-pause-fca?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2MDUtY2NlNy03MGM0LWFjOTAtOGIyMTJmMjQ1NWNmLmpwZw==.jpg\" alt=\"Bybit relaunches UK platform via Archax under FCA promotion rules\"\u003e\u003c/p\u003e\u003cp\u003eBybit is relaunching in the UK with a stripped‑back spot and P2P platform, reopening a market it exited after the Financial Conduct Authority’s (FCA) 2023 crackdown.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 10:10:32 +0000",
-      "fetched_at": "2025-12-19T10:39:39.499667318Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ",
-      "link": "https://cointelegraph.com/news/jump-trading-4b-lawsuit-tied-to-50b-terra-crash?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1YWQtNDIzOC03NjBmLWEyNzUtZDU0ZjBhNWNmNzdiLmpwZw==.jpg\" alt=\"Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ\"\u003e\u003c/p\u003e\u003cp\u003eTerraform Labs sued Jump Trading and senior executives for $4 billion, alleging the firm manipulated Terra’s ecosystem and unlawfully profited from the crash, the WSJ reported.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 10:14:55 +0000",
-      "fetched_at": "2025-12-19T10:39:39.499640598Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Meet the new WaPo food critic who won't dine in anonymity",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5609220/washington-post-food-critic-elazar-sontag-dc-saints-paradise-cafeteria",
-      "category": "Business",
-      "summary": "NPR's Leila Fadel tags along for lunch with Elazar Sontag, the \u003cem\u003eWashington Post'\u003c/em\u003es new food critic.",
-      "published": "Fri, 19 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-19T10:13:48.997734013Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "In the shadow of U.S. export controls, China rallies its own chip industry",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5637428/china-chip-industry-trade-restrictions",
-      "category": "Business",
-      "summary": "The chip industry in China is hustling to overcome a Western tech choke hold, even as President Trump appears poised to loosen U.S. chip restrictions.",
-      "published": "Fri, 19 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-19T10:13:48.997717482Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Parents in India devastated as children with thalassemia test HIV positive",
-      "link": "https://www.bbc.com/news/articles/c4g94ywgxd6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The five cases in Madhya Pradesh state come weeks after a similar incident was reported in Jharkhand state.",
-      "published": "Fri, 19 Dec 2025 07:11:24 GMT",
-      "fetched_at": "2025-12-19T10:13:48.903875948Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1375,
-  "last_update": "2025-12-29T23:49:03.529244271Z"
+  "total_captured": 1383,
+  "last_update": "2025-12-30T00:59:53.572532343Z"
 }

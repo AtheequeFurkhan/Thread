@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-29 Dec 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1375-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 00:59 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1383-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,18 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 29 Dec 23:49 UTC)*
+*(Updated: 30 Dec 00:59 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Coups, elections and protests - a difficult year for democracy in Africa](https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Brazil's Bolsonaro undergoes second medical procedure for hiccups](https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump says US hit 'big facility' linked to alleged Venezuelan drug boats](https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [K-pop band NewJeans breaks up after bitter feud with record label](https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Russia's losses in Ukraine rise faster than ever, as US pushes for peace deal](https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Trump hopes to reach phase two of Gaza ceasefire 'very quickly'](https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Warren Buffett is retiring: We look back at a critical turning point in his career](https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career) | ⚪ Neutral |
 | **World** | [Why Israel's recognition of Somaliland as an independent state is controversial](https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -33,14 +41,6 @@
 | **Crypto** | [Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation](https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale](https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Why Luke Gromen is fading Bitcoin while staying bullish on debasement](https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'](https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Ukraine denies drone attack on Putin's residence](https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Price predictions 12/29: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-12-29-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Zcash price has 'first stop' at $1K: Arthur Hayes](https://cointelegraph.com/news/zcash-price-first-stop-1k-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [ETH price to $5K next? Ethereum rallied 120% the last time this happened](https://cointelegraph.com/news/eth-price-5k-next-ethereum-rallied-120-percent-last-time-this-happened?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [North Korea-linked theft and poor key security dominate Web3 losses: Hacken](https://cointelegraph.com/news/north-korea-theft-poor-key-security-dominate-web3-losses-hacken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [These three altcoins came back from the dead in 2025](https://cointelegraph.com/news/xrp-zcash-algorand-outperformed-2025-altcoin-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Technology** | [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- [Why Israel's recognition of Somaliland as an independent state is controversial](https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'](https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Ukraine denies drone attack on Putin's residence](https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Toxic air, broken roads and unpicked rubbish - why India's big cities are becoming unliveable](https://www.bbc.com/news/articles/cp9kp2kx329o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Coups, elections and protests - a difficult year for democracy in Africa](https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Brazil's Bolsonaro undergoes second medical procedure for hiccups](https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump says US hit 'big facility' linked to alleged Venezuelan drug boats](https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2025-12-30.md | [View Log](data/2025-12-30.md) |
 | 2025-12-29.md | [View Log](data/2025-12-29.md) |
 | 2025-12-28.md | [View Log](data/2025-12-28.md) |
 | 2025-12-27.md | [View Log](data/2025-12-27.md) |
 | 2025-12-26.md | [View Log](data/2025-12-26.md) |
 | 2025-12-25.md | [View Log](data/2025-12-25.md) |
 | 2025-12-24.md | [View Log](data/2025-12-24.md) |
-| 2025-12-23.md | [View Log](data/2025-12-23.md) |
 
 
 ---
