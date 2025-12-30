@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 10:41 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1406-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 10:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1407-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 10:41 UTC)*
+*(Updated: 30 Dec 10:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [$11B Bitcoin whale sells $330M ETH, opens massive $748M long on top cryptos](https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | ['No worries': Trump downplays Chinese military drills around Taiwan](https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Bangladesh's first female prime minister Khaleda Zia dies aged 80](https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [$11B Bitcoin whale sells $330M ETH, opens massive $748M long on top cryptos](https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate](https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
