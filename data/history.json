@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Israel to revoke licenses of 37 aid groups working in Gaza",
+      "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\".",
+      "published": "Tue, 30 Dec 2025 21:39:55 GMT",
+      "fetched_at": "2025-12-30T21:49:27.788496805Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand",
+      "link": "https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcwY2MtODNlMy03NzVkLWFmZTMtOTQwZGM5ZWI4NDcyLmpwZw==.jpg\" alt=\"Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand\"\u003e\u003c/p\u003e\u003cp\u003eThe company will keep its Bitcoin holdings but stopped accumulating BTC as it shifts capital toward scaling its consumer health brand.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 21:45:01 +0000",
+      "fetched_at": "2025-12-30T21:49:27.628530768Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump signs order to block states from enforcing own AI rules",
       "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 07:20:49 GMT",
       "fetched_at": "2025-12-20T07:28:50.492399697Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Watch: Images, cassettes and high-profile figures - What's in the latest Epstein files?",
-      "link": "https://www.bbc.com/news/videos/cn7kpnjnmklo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The partial release of documents includes photos of the late sex offender's properties, audio files and redacted documents.",
-      "published": "Sat, 20 Dec 2025 05:40:35 GMT",
-      "fetched_at": "2025-12-20T07:11:34.417373297Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk",
-      "link": "https://cointelegraph.com/news/quantum-computing-bitcoin-adam-back-nic-carter-debate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM5MWQtMTA0ZC03ZDA3LWIwMDEtODUzMmQzOTQzNTQ0LmpwZw==.jpg\" alt=\"Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk\"\u003e\u003c/p\u003e\u003cp\u003eBlockstream CEO Adam Back said that Castle Island Ventures founding partner Nic Carter is “not helping” the ongoing quantum-Bitcoin narrative for Bitcoiners.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 05:21:04 +0000",
-      "fetched_at": "2025-12-20T05:34:09.381320131Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1437,
-  "last_update": "2025-12-30T21:31:54.750923631Z"
+  "total_captured": 1439,
+  "last_update": "2025-12-30T21:49:28.248583853Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 21:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1437-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 21:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1439-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 21:31 UTC)*
+*(Updated: 30 Dec 21:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Israel to revoke licenses of 37 aid groups working in Gaza](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand](https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Judge orders Trump administration to continue to seek funding for the CFPB](https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order) | ⚪ Neutral |
 | **Crypto** | [South Korea delays crypto bill over stablecoin concerns: Report](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Strategy in 2026: Can its Bitcoin-first model hold up?](https://cointelegraph.com/news/strategy-in-2026-can-its-bitcoin-first-model-hold-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand](https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [South Korea delays crypto bill over stablecoin concerns: Report](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How privacy prevailed in an otherwise dismal Q4 for crypto](https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Cypherpunk lifts crypto treasury with $29M Zcash purchase](https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Israel to revoke licenses of 37 aid groups working in Gaza](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
