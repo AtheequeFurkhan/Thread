@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Protests spread across Iran for third day after currency hits record low",
+      "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The protests began on Sunday after shopkeepers in Tehran staged a strike when the Iranian rial hit a record low against the US dollar.",
+      "published": "Tue, 30 Dec 2025 16:31:18 GMT",
+      "fetched_at": "2025-12-30T16:49:08.66893118Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Ethereum quietly sets a record: 8.7M contracts deployed in one quarter",
+      "link": "https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcwMTEtYzRjZC03NDQxLWFkMzktZGM4YjQzYmMyZmFjLmpwZw==.jpg\" alt=\"Ethereum quietly sets a record: 8.7M contracts deployed in one quarter\"\u003e\u003c/p\u003e\u003cp\u003eOnchain development activity on Ethereum has rebounded sharply, driven by tokenized assets, stablecoins and infrastructure, according to Token Terminal.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 16:43:54 +0000",
+      "fetched_at": "2025-12-30T16:49:08.620549647Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Guinea junta chief takes lead in controversial election as social media restricted",
       "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 22:42:55 GMT",
       "fetched_at": "2025-12-19T22:50:42.509493687Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt",
-      "link": "https://cointelegraph.com/news/us-clarity-act-bitcoin-price-action-peter-brandt-crypto-trader?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4N2QtNGMzNC03YmY1LTllOWQtZWU4Mzc4M2QzZDEyLmpwZw==.jpg\" alt=\"US Clarity Act unlikely to be ‘world-shaking’ for Bitcoin’s price: Brandt\"\u003e\u003c/p\u003e\u003cp\u003eVeteran trader Peter Brandt said that the US Clarity Act will be a positive for the industry, but probably won’t “redefine” Bitcoin’s price.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 22:36:05 +0000",
-      "fetched_at": "2025-12-19T22:50:42.486546524Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "From forestry to skiing, Maine relies on temporary foreign workers",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5645111/from-forestry-to-skiing-maine-relies-on-temporary-foreign-workers",
-      "category": "Business",
-      "summary": "Maine's business owners rely on H-2B visas for temporary foreign workers. But the 2026 cap on H-2B workers remains uncertain leaving some seasonal businesses unsure their staffing needs will be met.",
-      "published": "Fri, 19 Dec 2025 17:26:12 -0500",
-      "fetched_at": "2025-12-19T22:50:41.880258725Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1423,
-  "last_update": "2025-12-30T16:16:19.878781616Z"
+  "total_captured": 1425,
+  "last_update": "2025-12-30T16:49:08.822460397Z"
 }

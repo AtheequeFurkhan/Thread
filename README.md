@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 16:16 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1423-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 16:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1425-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 16:16 UTC)*
+*(Updated: 30 Dec 16:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Technology** | [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [$11B Bitcoin whale sells $330M ETH, opens massive $748M long on top cryptos](https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Strategy in 2026: Can its Bitcoin-first model hold up?](https://cointelegraph.com/news/strategy-in-2026-can-its-bitcoin-first-model-hold-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French right pushes for national tribute to film star Brigitte Bardot](https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
