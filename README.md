@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 11:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1410-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 12:26 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1411-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 11:48 UTC)*
+*(Updated: 30 Dec 12:26 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users](https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M](https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Spanish woman who found fame for botching fresco restoration dies](https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Australia’s search ID goes into force, Ireland lobbies to ban anonymity](https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users](https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M](https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [$11B Bitcoin whale sells $330M ETH, opens massive $748M long on top cryptos](https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
