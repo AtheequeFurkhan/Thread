@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 15:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1421-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 15:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1422-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 15:13 UTC)*
+*(Updated: 30 Dec 15:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Strategy in 2026: Can its Bitcoin-first model hold up?](https://cointelegraph.com/news/strategy-in-2026-can-its-bitcoin-first-model-hold-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [How the UK plans to regulate crypto like traditional finance](https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
