@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "How the UK plans to regulate crypto like traditional finance",
+      "link": "https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmNWQtZmFiZC03YTAxLTk1M2EtMWJiMWNhNWRhMDk2LmpwZw==.jpg\" alt=\"How the UK plans to regulate crypto like traditional finance\"\u003e\u003c/p\u003e\u003cp\u003eThe UK plans to bring crypto in line with traditional finance by 2027, with FCA proposals shaping trading platforms, DeFi and oversight of political donations.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 13:10:34 +0000",
+      "fetched_at": "2025-12-30T13:47:47.480504705Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Eurostar cancels all trains out of London as power outage hits Channel Tunnel",
+      "link": "https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Le Shuttle has also had to suspend services between Folkestone and Calais over a \"power supply issue\".",
+      "published": "Tue, 30 Dec 2025 13:32:39 GMT",
+      "fetched_at": "2025-12-30T13:47:46.91533574Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "French right pushes for national tribute to film star Brigitte Bardot",
       "link": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 21:00:00 +0000",
       "fetched_at": "2025-12-19T21:12:01.628314292Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Blockchain Association says no to expanding stablecoin yield prohibition",
-      "link": "https://cointelegraph.com/news/blockchain-association-no-expanding-stablecoin-yield-prohibition?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4MjQtYmQ4OC03YWQ2LTliNmEtNTMyNjM2M2IzNzJhLmpwZw==.jpg\" alt=\"Blockchain Association says no to expanding stablecoin yield prohibition\"\u003e\u003c/p\u003e\u003cp\u003eExpanding the stablecoin yield prohibition to include the application layer is an anti-competitive practice, industry advocacy groups say.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 21:04:01 +0000",
-      "fetched_at": "2025-12-19T21:12:01.62829725Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ZTQtNTMyMy03NDliLWFmOGEtNzYzM2UyZmQ4Mjk0LmpwZw==.jpg\" alt=\"Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins are attempting to start a recovery, but negative investor sentiment, combined with selling at the range highs, is preventing the formation of a stronger bull trend.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 20:15:00 +0000",
-      "fetched_at": "2025-12-19T20:35:35.647315271Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1414,
-  "last_update": "2025-12-30T13:10:04.73966664Z"
+  "total_captured": 1416,
+  "last_update": "2025-12-30T13:47:47.480529151Z"
 }

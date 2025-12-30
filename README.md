@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 13:10 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1414-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 13:47 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1416-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 13:10 UTC)*
+*(Updated: 30 Dec 13:47 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How the UK plans to regulate crypto like traditional finance](https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **World** | [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [French right pushes for national tribute to film star Brigitte Bardot](https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin 2026 bull case: Traders see 'strong signals' for 6-figure BTC price](https://cointelegraph.com/news/bitcoin-2026-bull-case-traders-strong-signals-6-figure-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto executives share 6 stablecoin predictions for 2026](https://cointelegraph.com/news/20-crypto-execs-share-6-stablecoin-predictions-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Rep Waters demands SEC oversight hearing about its approach to crypto](https://cointelegraph.com/news/rep-waters-demands-sec-oversight-hearing-crypto-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Will the US TikTok deal make it safer but less relevant?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Iranian protests over currency collapse show why Bitcoin's needed: Bitwise CEO](https://cointelegraph.com/news/iranians-protest-against-currency-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Khaleda Zia: Slain leader's widow who became Bangladesh's first PM](https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [How growing up in war really affects an 11-year-old](https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How the UK plans to regulate crypto like traditional finance](https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin 2026 bull case: Traders see 'strong signals' for 6-figure BTC price](https://cointelegraph.com/news/bitcoin-2026-bull-case-traders-strong-signals-6-figure-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto executives share 6 stablecoin predictions for 2026](https://cointelegraph.com/news/20-crypto-execs-share-6-stablecoin-predictions-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users](https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M](https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French right pushes for national tribute to film star Brigitte Bardot](https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Anthony Joshua injured in Nigeria car crash that killed two team members](https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Khaleda Zia: Slain leader's widow who became Bangladesh's first PM](https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
