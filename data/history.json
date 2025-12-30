@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Guinea junta chief takes lead in controversial election as social media restricted",
+      "link": "https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "TikTok, YouTube and Facebook are down, as the nation awaits the final result from the presidential poll.",
+      "published": "Tue, 30 Dec 2025 14:52:31 GMT",
+      "fetched_at": "2025-12-30T15:51:58.918035268Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?",
       "link": "https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 17:26:12 -0500",
       "fetched_at": "2025-12-19T22:50:41.880258725Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "TikTok signs a deal to spin off its U.S. operation",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5649605/tiktok-signs-a-deal-to-spin-off-its-u-s-operation",
-      "category": "Business",
-      "summary": "According to an internal company memo obtained by NPR, the Chinese-owned company has signed a deal to form a new  joint venture to run the app in the U.S.",
-      "published": "Fri, 19 Dec 2025 17:39:45 -0500",
-      "fetched_at": "2025-12-19T22:50:41.880234941Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1422,
-  "last_update": "2025-12-30T15:35:28.276844724Z"
+  "total_captured": 1423,
+  "last_update": "2025-12-30T15:51:59.433422481Z"
 }

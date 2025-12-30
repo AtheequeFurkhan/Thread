@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 15:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1422-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 15:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1423-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 15:35 UTC)*
+*(Updated: 30 Dec 15:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [$11B Bitcoin whale sells $330M ETH, opens massive $748M long on top cryptos](https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC](https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [French right pushes for national tribute to film star Brigitte Bardot](https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
