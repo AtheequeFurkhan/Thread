@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 14:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1419-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 14:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1421-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 14:13 UTC)*
+*(Updated: 30 Dec 14:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Strategy in 2026: Can its Bitcoin-first model hold up?](https://cointelegraph.com/news/strategy-in-2026-can-its-bitcoin-first-model-hold-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Spot XRP ETFs maintain 29-day inflow streak despite turbulent December](https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Anthony Joshua injured in Nigeria car crash that killed two team members](https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate](https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Strategy in 2026: Can its Bitcoin-first model hold up?](https://cointelegraph.com/news/strategy-in-2026-can-its-bitcoin-first-model-hold-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [How the UK plans to regulate crypto like traditional finance](https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin 2026 bull case: Traders see 'strong signals' for 6-figure BTC price](https://cointelegraph.com/news/bitcoin-2026-bull-case-traders-strong-signals-6-figure-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto executives share 6 stablecoin predictions for 2026](https://cointelegraph.com/news/20-crypto-execs-share-6-stablecoin-predictions-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

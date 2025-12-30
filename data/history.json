@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Russia targets unregistered crypto miners with new criminal penalties",
+      "link": "https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmN2EtZmRkNi03MjBjLWJkYTctZTcwMGMyYjZmNTU4LmpwZw==.jpg\" alt=\"Russia targets unregistered crypto miners with new criminal penalties\"\u003e\u003c/p\u003e\u003cp\u003eRussia’s justice ministry proposed fines and prison for illegal crypto mining, as officials say most miners still haven’t joined the tax register.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 14:15:46 +0000",
+      "fetched_at": "2025-12-30T14:37:44.921150046Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "How Strategy keeps buying Bitcoin during market downturns",
+      "link": "https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmNjQtNmYxMy03ZDYxLWFmOWItZGU1NTg5NmU3Mzk3LmpwZw==.jpg\" alt=\"How Strategy keeps buying Bitcoin during market downturns\"\u003e\u003c/p\u003e\u003cp\u003eStrategy keeps buying Bitcoin during downturns by tapping equity markets and reserves, turning dilution and financing costs into a repeatable accumulation engine.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 14:30:00 +0000",
+      "fetched_at": "2025-12-30T14:37:44.921116373Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know",
       "link": "https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 20:48:44 GMT",
       "fetched_at": "2025-12-19T22:12:49.816617112Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Palestinians tell BBC they were sexually abused in Israeli prisons",
-      "link": "https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Two men say they experienced the kind of abuse highlighted in recent reports on Israel's treatment of prisoners, which Israel denies.",
-      "published": "Fri, 19 Dec 2025 22:01:20 GMT",
-      "fetched_at": "2025-12-19T22:12:49.816598948Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "SEC confirms years-long director bans for former Alameda, FTX executives",
-      "link": "https://cointelegraph.com/news/sec-confirms-years-long-director-bans-for-former-alameda-ftx-executives?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4MjItMjU3Mi03NWM3LTgxZDUtZTA2NDAyMTkwYjNhLmpwZw==.jpg\" alt=\"SEC confirms years-long director bans for former Alameda, FTX executives\"\u003e\u003c/p\u003e\u003cp\u003eIn the latest update on the FTX saga, the SEC confirmed Caroline Ellison had consented to a officer-and-director bar, preventing her from leading any companies for 10 years.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 21:30:00 +0000",
-      "fetched_at": "2025-12-19T21:41:06.787350612Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1419,
-  "last_update": "2025-12-30T14:13:38.201587895Z"
+  "total_captured": 1421,
+  "last_update": "2025-12-30T14:37:45.094810225Z"
 }
