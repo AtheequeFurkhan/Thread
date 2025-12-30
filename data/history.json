@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.",
+      "published": "Fri, 12 Dec 2025 15:02:57 GMT",
+      "fetched_at": "2025-12-30T20:36:00.717687099Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Judge orders Trump administration to continue to seek funding for the CFPB",
       "link": "https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 20 Dec 2025 05:21:04 +0000",
       "fetched_at": "2025-12-20T05:34:09.381320131Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro",
-      "link": "https://cointelegraph.com/news/bitcoin-rallies-thwarted-by-fading-fed-rate-cut-odds-softening-us-macro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4NGYtNGQ4YS03ZmRmLWJlYzUtYjU3ZTg1NTMzNTM2LmpwZw==.jpg\" alt=\"Bitcoin rallies thwarted by fading Fed rate cut odds, softening US macro\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin continued to sell near $90,000 as investors reacted to weak US jobs data and slowing economic growth by shifting into safer assets.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 02:42:00 +0000",
-      "fetched_at": "2025-12-20T03:36:46.177497551Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1436,
-  "last_update": "2025-12-30T20:14:12.992908589Z"
+  "total_captured": 1437,
+  "last_update": "2025-12-30T20:36:00.932726273Z"
 }
