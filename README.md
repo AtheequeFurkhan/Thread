@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 18:19 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1432-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 18:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1434-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 18:19 UTC)*
+*(Updated: 30 Dec 18:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [How privacy prevailed in an otherwise dismal Q4 for crypto](https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Cypherpunk lifts crypto treasury with $29M Zcash purchase](https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Saudi Arabia backs call for UAE to leave Yemen after strike on separatist-held port](https://www.bbc.com/news/articles/c8xdxz48l7yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [How the UK plans to regulate crypto like traditional finance](https://cointelegraph.com/news/how-the-uk-plans-to-regulate-crypto-like-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Eurostar cancels all trains out of London as power outage hits Channel Tunnel](https://www.bbc.com/news/articles/c3w7wg93yeeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [French right pushes for national tribute to film star Brigitte Bardot](https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin 2026 bull case: Traders see 'strong signals' for 6-figure BTC price](https://cointelegraph.com/news/bitcoin-2026-bull-case-traders-strong-signals-6-figure-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [How privacy prevailed in an otherwise dismal Q4 for crypto](https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Cypherpunk lifts crypto treasury with $29M Zcash purchase](https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Will the US TikTok deal make it safer but less relevant?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World

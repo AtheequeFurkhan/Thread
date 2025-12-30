@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "How privacy prevailed in an otherwise dismal Q4 for crypto",
+      "link": "https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcwMmMtZDkzNC03NDg2LTg2ZTAtMGM4NGJkZWMzNGIzLmpwZw==.jpg\" alt=\"How privacy prevailed in an otherwise dismal Q4 for crypto\"\u003e\u003c/p\u003e\u003cp\u003eRelative outperformance by privacy-focused cryptocurrencies such as Zcash suggests defensive positioning as markets absorbed losses and broader structural stress.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 18:30:16 +0000",
+      "fetched_at": "2025-12-30T18:51:54.584731092Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "'It's amazing' – the wonder material very few can make",
+      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.",
+      "published": "Fri, 12 Dec 2025 00:03:10 GMT",
+      "fetched_at": "2025-12-30T18:51:54.459043543Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Cypherpunk lifts crypto treasury with $29M Zcash purchase",
       "link": "https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 01:41:12 GMT",
       "fetched_at": "2025-12-20T02:29:36.884778589Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'Very cool': The 70s Afro-rock genre enjoying a rebirth",
-      "link": "https://www.bbc.com/news/articles/cedx6vn5202o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "In 1970s Zambia, Zamrock led a musical revolution. It's now back, with some big names among its proponents.",
-      "published": "Sat, 20 Dec 2025 02:18:35 GMT",
-      "fetched_at": "2025-12-20T02:29:36.884760485Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Altcoin season never ended, traders just missed the winners: Hayes",
-      "link": "https://cointelegraph.com/news/altcoin-season-never-ended-traders-just-missed-the-winners-hayes?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4YzUtNWQ2NC03ZjI5LWFmM2UtNzYzOWJiMjQyZmFkLmpwZw==.jpg\" alt=\"Altcoin season never ended, traders just missed the winners: Hayes\"\u003e\u003c/p\u003e\u003cp\u003eAs market participants continue to speculate on when altcoin season will arrive, BitMEX co-founder Arthur Hayes argued there is “always an altcoin season happening.”\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 02:14:30 +0000",
-      "fetched_at": "2025-12-20T02:29:36.872545406Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1432,
-  "last_update": "2025-12-30T18:19:23.286391932Z"
+  "total_captured": 1434,
+  "last_update": "2025-12-30T18:51:55.022695173Z"
 }
