@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate",
+      "link": "https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZkNTQtMGVkMC03ZDY0LTkzNjctMjc3ZmMyMjg4ZmE2LmpwZw==.jpg\" alt=\"Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin selling pressure from long time hodlers is finally abating and Ether whales are adding to their holdings. Markets remain bearish however.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 05:46:36 +0000",
+      "fetched_at": "2025-12-30T05:52:37.440950701Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Rep Waters demands SEC oversight hearing about its approach to crypto",
+      "link": "https://cointelegraph.com/news/rep-waters-demands-sec-oversight-hearing-crypto-approach?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZkNWYtNWRkZC03OTg3LTlhYzgtODJhZjU3MGJjMDIyLmpwZw==.jpg\" alt=\"Rep Waters demands SEC oversight hearing about its approach to crypto\"\u003e\u003c/p\u003e\u003cp\u003eDemocrat Maxine Waters demands an SEC oversight hearing after the agency dropped major cases against Coinbase, Binance, and other crypto firms.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 05:48:14 +0000",
+      "fetched_at": "2025-12-30T05:52:37.440933389Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Will the US TikTok deal make it safer but less relevant?",
       "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 17:40:37 GMT",
       "fetched_at": "2025-12-19T17:47:42.537578956Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Polish parliament approves revived crypto bill, heads to Senate",
-      "link": "https://cointelegraph.com/news/poland-parliament-revived-crypto-bill-senate?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3MzEtZWM1NS03NzY2LTkyOWQtMDNlMTI5ZjhmODYyLmpwZw==.jpg\" alt=\"Polish parliament approves revived crypto bill, heads to Senate\"\u003e\u003c/p\u003e\u003cp\u003eThe legislation, which many have criticized for being overly restrictive for the digital asset market, was reintroduced with “not even a comma” changed, according to one lawmaker.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 17:31:06 +0000",
-      "fetched_at": "2025-12-19T17:37:00.753354523Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "French court rejects Shein website suspension over childlike sex dolls",
-      "link": "https://www.bbc.com/news/articles/c5y9x4pj54eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The fast-fashion giant welcomed the judgement and said its priority remains protecting French consumers.",
-      "published": "Fri, 19 Dec 2025 15:49:16 GMT",
-      "fetched_at": "2025-12-19T17:17:39.182419801Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1398,
-  "last_update": "2025-12-30T05:37:36.610248027Z"
+  "total_captured": 1400,
+  "last_update": "2025-12-30T05:52:37.730564211Z"
 }
