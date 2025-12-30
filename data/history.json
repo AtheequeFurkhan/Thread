@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Turkey detains 357 suspected IS members in nationwide raids",
+      "link": "https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The arrests come just a day after three police officers were killed during a siege in the town of Yalova.",
+      "published": "Tue, 30 Dec 2025 10:38:53 GMT",
+      "fetched_at": "2025-12-30T11:12:30.574240754Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M",
+      "link": "https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTU5ZjItYjRhMy03NmNkLTlkYjUtNzczN2UzYjczY2Q4.jpg\" alt=\"Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M\"\u003e\u003c/p\u003e\u003cp\u003eLighter’s LIT token launch sparked debate over insider ownership, while prediction markets and whale trades revealed divided expectations around valuation.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 11:09:54 +0000",
+      "fetched_at": "2025-12-30T11:12:30.566502808Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal",
+      "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The $1bn deal will let fans generate videos and images of more than 200 Disney characters on ChatGPT and Sora.",
+      "published": "Fri, 12 Dec 2025 11:46:00 GMT",
+      "fetched_at": "2025-12-30T11:12:30.387591524Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?",
       "link": "https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Fri, 19 Dec 2025 19:04:13 GMT",
       "fetched_at": "2025-12-19T19:10:46.424912099Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Charlie Kirk's widow Erika endorses JD Vance for president",
-      "link": "https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Conservatives traded criticims at this year's annual Turning Point USA America Fest conference.",
-      "published": "Fri, 19 Dec 2025 18:05:23 GMT",
-      "fetched_at": "2025-12-19T19:10:46.42488019Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined",
-      "link": "https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YjktNWY3Yi03ODVjLThiODgtOWNlZGZjZGE2YjhhLmpwZw==.jpg\" alt=\"Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eThe volatility of the cryptocurrency market is threatening the stability of corporate crypto treasury companies, resulting in larger swings in their net asset value that threaten their fundraising abilities.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 19:00:00 +0000",
-      "fetched_at": "2025-12-19T19:10:46.405650674Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing",
-      "link": "https://cointelegraph.com/news/arthur-hayes-new-fed-liquidity-rmp-money-printing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3OGEtYzk5Mi03MmY4LWE1N2MtMjAxZmQ5ZWRkNDQ4LmpwZw==.jpg\" alt=\"Arthur Hayes argues new Fed liquidity tool “RMP” masks renewed money printing\"\u003e\u003c/p\u003e\u003cp\u003eThe BitMEX co-founder's latest Substack essay argues the US Fed’s liquidity program mirrors quantitative easing mechanics that favor Bitcoin and other scarce assets.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 19:05:00 +0000",
-      "fetched_at": "2025-12-19T19:10:46.405625457Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1407,
-  "last_update": "2025-12-30T10:53:58.303074566Z"
+  "total_captured": 1410,
+  "last_update": "2025-12-30T11:12:30.763113081Z"
 }
