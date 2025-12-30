@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Thieves use drill to steal €30m in German bank heist",
+      "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Gelsenkirchen Police say thieves used the \"quiet\" days after Christmas to break into the high street branch.",
+      "published": "Tue, 30 Dec 2025 16:54:32 GMT",
+      "fetched_at": "2025-12-30T17:14:30.867239441Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Protests spread across Iran for third day after currency hits record low",
       "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:02:02 GMT",
       "fetched_at": "2025-12-19T23:12:35.867426531Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US to strip alleged Bosnian war criminal of citizenship",
-      "link": "https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Kemal Mrndzic did not reveal that he had been a guard at a camp where atrocities occurred when seeking US naturalisation, officials say.",
-      "published": "Fri, 19 Dec 2025 22:42:55 GMT",
-      "fetched_at": "2025-12-19T22:50:42.509493687Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1425,
-  "last_update": "2025-12-30T16:49:08.822460397Z"
+  "total_captured": 1426,
+  "last_update": "2025-12-30T17:14:30.939439119Z"
 }
