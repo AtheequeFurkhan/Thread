@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC",
+      "link": "https://cointelegraph.com/news/metaplanet-adds-450m-in-late-december-buys-ending-2025-above-35-000-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlNDgtMmJmNy03OTFkLWI4ZTktYzU3ZDYwMzhmMzk5LmpwZw==.jpg\" alt=\"Metaplanet adds $450M in late-December buys, ending 2025 above 35,000 BTC\"\u003e\u003c/p\u003e\u003cp\u003eMetaplanet added 4,279 BTC to take its treasury to 35,102 BTC, as its Bitcoin Income Generation business beat forecasts.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 09:23:16 +0000",
+      "fetched_at": "2025-12-30T09:44:33.389510722Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Spot XRP ETFs maintain 29-day inflow streak despite turbulent December",
+      "link": "https://cointelegraph.com/news/spot-xrp-etfs-extend-29-day-inflow-streak-december?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlOGQtYjNkMS03NmJhLTk3OTctODM4ODIyZDQyYWRhLmpwZw==.jpg\" alt=\"Spot XRP ETFs maintain 29-day inflow streak despite turbulent December\"\u003e\u003c/p\u003e\u003cp\u003eUS-listed XRP ETFs continued to draw steady inflows through December, even as Bitcoin and Ether funds posted sharp monthly outflows.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 09:40:36 +0000",
+      "fetched_at": "2025-12-30T09:44:33.389489137Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale",
       "link": "https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 18:15:04 GMT",
       "fetched_at": "2025-12-19T18:50:13.934027098Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UK crypto regulation is coming: What the FCA’s new consultation means",
-      "link": "https://cointelegraph.com/news/uk-crypto-regulation-fca-new-consultation-podcast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3Y2EtNWNmOC03OTVhLTk3MzQtZWQwOTQzNTZmMWU2LmpwZw==.jpg\" alt=\"UK crypto regulation is coming: What the FCA’s new consultation means\"\u003e\u003c/p\u003e\u003cp\u003eThe UK’s financial watchdog has launched a sweeping consultation that could reshape how crypto exchanges, staking services and DeFi operate ahead of a 2027 rollout.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 18:30:52 +0000",
-      "fetched_at": "2025-12-19T18:50:13.685283804Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "New Bitcoin whales are rewriting BTC’s market structure: Data",
-      "link": "https://cointelegraph.com/news/new-bitcoin-whales-rewrite-btc-s-market-structure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2ZjYtZTNjZS03NDliLWFmYjQtMjViMDQ1YWZjMTAxLmpwZw==.jpg\" alt=\"New Bitcoin whales are rewriting BTC’s market structure: Data\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin's onchain data reveals new BTC whales with 50% of the realized capital, highlighting a shift in how capital is shaping the market.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 18:31:18 +0000",
-      "fetched_at": "2025-12-19T18:50:13.685269938Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1403,
-  "last_update": "2025-12-30T09:17:32.332704904Z"
+  "total_captured": 1405,
+  "last_update": "2025-12-30T09:44:33.714525711Z"
 }
