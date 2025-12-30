@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Will the US TikTok deal make it safer but less relevant?",
+      "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The key to the app's success - its algorithm - is to be retrained on US data. Will that make US TikTok blander?",
+      "published": "Fri, 19 Dec 2025 13:45:50 GMT",
+      "fetched_at": "2025-12-30T04:39:11.635506883Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Iranian protests over currency collapse show why Bitcoin's needed: Bitwise CEO",
+      "link": "https://cointelegraph.com/news/iranians-protest-against-currency-collapse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZkNjgtZTY1Zi03MTcyLTk2NGMtOGI0MzM2YTU1NTE5LkpQRw==.jpg\" alt=\"Iranian protests over currency collapse show why Bitcoin's needed: Bitwise CEO\"\u003e\u003c/p\u003e\u003cp\u003eWidespread protests took place in Iran’s capital after the rial slid to record lows, prompting Bitwise CEO Hunter Horsley to argue Bitcoin could help Iranians protect their savings.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 04:13:21 +0000",
+      "fetched_at": "2025-12-30T04:39:11.084422843Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM",
       "link": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 19 Dec 2025 15:49:16 GMT",
       "fetched_at": "2025-12-19T17:17:39.182419801Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ros Atkins on… The alleged links between the UAE and Sudan's civil war",
-      "link": "https://www.bbc.com/news/videos/cly5p1vkm39o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "BBC Analysis Editor Ros Atkins examines allegations of links between the UAE and Sudan’s RSF in the civil war, as international efforts continue to seek an end to the fighting.",
-      "published": "Fri, 19 Dec 2025 16:16:15 GMT",
-      "fetched_at": "2025-12-19T16:44:14.425496498Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US justice department to release thousands of Epstein files later, top official says",
-      "link": "https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Friday deadline was mandated by a bill that got near-unanimous support in Congress, and was later signed into law by President Donald Trump.",
-      "published": "Fri, 19 Dec 2025 16:42:02 GMT",
-      "fetched_at": "2025-12-19T16:44:14.425333934Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1396,
-  "last_update": "2025-12-30T03:58:50.156231288Z"
+  "total_captured": 1398,
+  "last_update": "2025-12-30T04:39:11.693054871Z"
 }
