@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 07:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1402-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 08:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1403-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 07:50 UTC)*
+*(Updated: 30 Dec 08:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Anthony Joshua injured in Nigeria car crash that killed two team members](https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate](https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.](https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Fake Coinbase support scammer allegedly stole $2M from users](https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale](https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate](https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Rep Waters demands SEC oversight hearing about its approach to crypto](https://cointelegraph.com/news/rep-waters-demands-sec-oversight-hearing-crypto-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Iranian protests over currency collapse show why Bitcoin's needed: Bitwise CEO](https://cointelegraph.com/news/iranians-protest-against-currency-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Australia’s search ID goes into force, Ireland lobbies to ban anonymity](https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

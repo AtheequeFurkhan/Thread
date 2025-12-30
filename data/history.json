@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale",
+      "link": "https://cointelegraph.com/news/store-of-value-demand-regulatory-clarity-2026-crypto-bull-market-grayscale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJmNjQtMGRkYy03NWUyLWFmNGUtNjZhNzU2NmY4ZGY4.jpg\" alt=\"Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale\"\u003e\u003c/p\u003e\u003cp\u003eGrayscale said macro pressure and clearer US regulations are setting the stage for crypto’s next bull market in 2026.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 08:00:08 +0000",
+      "fetched_at": "2025-12-30T08:18:24.647853721Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Great white sharks face extinction in Mediterranean, say researchers",
       "link": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 19 Dec 2025 18:31:18 +0000",
       "fetched_at": "2025-12-19T18:50:13.685269938Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Michael Saylor’s Bitcoin thesis: Money or commodity?",
-      "link": "https://cointelegraph.com/news/michael-saylor-bitcoin-thesis-money-commodity?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA1ODQtNjI0OS03MmJjLWI4NWYtY2JhMDg0Y2JmN2Ew.jpg\" alt=\"Michael Saylor’s Bitcoin thesis: Money or commodity?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin advocates have been divided over Michael Saylor’s updated BTC thesis, leaving question marks over how the Strategy CEO views the cryptocurrency.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 18:35:58 +0000",
-      "fetched_at": "2025-12-19T18:50:13.685248849Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1402,
-  "last_update": "2025-12-30T07:50:28.790425668Z"
+  "total_captured": 1403,
+  "last_update": "2025-12-30T08:18:25.064088888Z"
 }
