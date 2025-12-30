@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "It was a rough year for nightclubs",
+      "link": "https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs",
+      "category": "Business",
+      "summary": "A number of promenant nightclubs and music venues closed across the country in 2025, part of an ongoing trend driven by high rents, decreasing alcohol consumption and monopolization.",
+      "published": "Tue, 30 Dec 2025 16:59:28 -0500",
+      "fetched_at": "2025-12-30T22:12:41.818125147Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "US prosecutors oppose Defi Education Fund brief ahead of potential MEV case retrial",
+      "link": "https://cointelegraph.com/news/us-government-defi-education-fund-amicus-mev-bot-retria?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcwZWItY2ZiNS03OTdjLWIwZTItZGQxZTliODI4ZjM2LmpwZw==.jpg\" alt=\"US prosecutors oppose Defi Education Fund brief ahead of potential MEV case retrial\"\u003e\u003c/p\u003e\u003cp\u003eThe possible retrial of two brothers alleged to have exploited the Ethereum blockchain could come soon, but the US government argued one amicus brief isn't relevant to consider.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 21:54:34 +0000",
+      "fetched_at": "2025-12-30T22:12:41.640974042Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Israel to revoke licenses of 37 aid groups working in Gaza",
       "link": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 10:09:28 +0000",
       "fetched_at": "2025-12-20T10:12:23.818342573Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee",
-      "link": "https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhOWEtMTYzMC03MDQyLWE5MWItMWFkZWJmOWNmYWNjLmpwZw==.jpg\" alt=\"Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee\"\u003e\u003c/p\u003e\u003cp\u003eA circulating report attributed to Fundstrat warns of a potential crypto drawdown in early 2026, setting downside targets for Bitcoin, Ether and Solana.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 07:38:36 +0000",
-      "fetched_at": "2025-12-20T07:47:42.701836315Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Australian state plans to ban intifada chants after Bondi shooting",
-      "link": "https://www.bbc.com/news/articles/c14v23vppz8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "New South Wales will look at passing hate speech laws after Australia's deadliest shooting in almost 30 years.",
-      "published": "Sat, 20 Dec 2025 07:20:49 GMT",
-      "fetched_at": "2025-12-20T07:28:50.492399697Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1439,
-  "last_update": "2025-12-30T21:49:28.248583853Z"
+  "total_captured": 1441,
+  "last_update": "2025-12-30T22:12:41.85844182Z"
 }
