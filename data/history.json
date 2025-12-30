@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "title": "The fight over Christian nationalism in a small Tennessee town",
+      "link": "https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A controversy kicked off after two religious podcasters moved into an Appalachian hill town deep in the Bible Belt.",
+      "published": "Tue, 30 Dec 2025 01:08:49 GMT",
+      "fetched_at": "2025-12-30T02:56:18.509285592Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Alleged Bondi gunmen acted alone and did not train in the Philippines, police say",
+      "link": "https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The father-and-son duo spent a month in the Philippines before the attack that killed 15 people in Bondi.",
+      "published": "Tue, 30 Dec 2025 02:17:56 GMT",
+      "fetched_at": "2025-12-30T02:56:18.509267909Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "'No worries': Trump downplays Chinese military drills around Taiwan",
+      "link": "https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Trump shrugged off the drills which come two weeks after the US announced an $11bn arms sale to Taiwan.",
+      "published": "Tue, 30 Dec 2025 01:16:10 GMT",
+      "fetched_at": "2025-12-30T02:56:18.509257129Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+      "link": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years.",
+      "published": "Tue, 30 Dec 2025 01:51:07 GMT",
+      "fetched_at": "2025-12-30T02:56:18.509244435Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.",
+      "link": "https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MDctOGIxNy03NTZhLWIyN2QtMTczN2QyY2Q4YzUx.jpg\" alt=\"Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.\"\u003e\u003c/p\u003e\u003cp\u003eDragonfly’s Haseeb Qureshi predicts Big Tech and Fortune 100 companies will start building in crypto in 2026, but that corporate L1s will fail to challenge Ethereum and Solana.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 00:59:43 +0000",
+      "fetched_at": "2025-12-30T02:56:18.491013181Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fake Coinbase support scammer allegedly stole $2M from users",
+      "link": "https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZjNjktM2EzMS03Y2FiLTg5ZWUtMWI4ODA3NGI0ZTAwLmpwZw==.jpg\" alt=\"Fake Coinbase support scammer allegedly stole $2M from users\"\u003e\u003c/p\u003e\u003cp\u003eAn Investigation from ZachXBT traced the suspect through posts gloating on social media and Telegram activity.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 01:46:31 +0000",
+      "fetched_at": "2025-12-30T02:56:18.490997531Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "China plans AI rules to protect children and tackle suicide risks",
+      "link": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months.",
+      "published": "Tue, 30 Dec 2025 02:32:33 GMT",
+      "fetched_at": "2025-12-30T02:56:18.374012958Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Naan: How the 'world's best bread' travelled from Islamic courts to our plates",
       "link": "https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4436,71 +4499,8 @@
       "published": "Fri, 19 Dec 2025 13:45:50 GMT",
       "fetched_at": "2025-12-19T14:13:44.359078879Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'",
-      "link": "https://www.bbc.com/news/articles/ckgdpz0gp3jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Israel says the report \"doesn't reflect the reality\" in Gaza and ignores the volume of aid entering.",
-      "published": "Fri, 19 Dec 2025 13:15:35 GMT",
-      "fetched_at": "2025-12-19T14:13:43.902542308Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "'Architects of AI' named Time Magazine's Person of the Year",
-      "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
-      "published": "Thu, 11 Dec 2025 13:52:11 GMT",
-      "fetched_at": "2025-12-19T13:55:08.37923259Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps",
-      "link": "https://cointelegraph.com/news/bubblemaps-ava-ai-token-sniping-deployer-wallets-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YWEtZGZhYi03YjEyLWFlYzMtYzQxMjRiZTBlNmQwLmpwZw==.jpg\" alt=\"Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps\"\u003e\u003c/p\u003e\u003cp\u003eBubblemaps says 23 wallets tied to the Ava deployer sniped 40% of the AVA supply at launch. The Solana AI token later fell 96% from its peak.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 13:44:21 +0000",
-      "fetched_at": "2025-12-19T13:55:07.916585314Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Blockchains quietly prepare for quantum threat as Bitcoin debates timeline",
-      "link": "https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2NjEtODQ1ZS03NDllLWE4OTctMzYxYTRmM2Y3MWVlLmpwZw==.jpg\" alt=\"Blockchains quietly prepare for quantum threat as Bitcoin debates timeline\"\u003e\u003c/p\u003e\u003cp\u003eAltcoin blockchains are preparing for long-term quantum risk, while influential Bitcoin voices disagree over how and when it should be addressed.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 13:45:00 +0000",
-      "fetched_at": "2025-12-19T13:55:07.916566556Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price",
-      "link": "https://cointelegraph.com/news/bitcoin-weekly-rsi-falls-to-the-most-oversold-levels-since-15k-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YTktZjc1Yi03N2E2LTk2Y2UtNzA0ZmEyOGJjNGRhLmpwZw==.jpg\" alt=\"Bitcoin weekly RSI falls to the most oversold levels since $15K BTC price\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s 36% drawdown from its all-time highs resulted in the relative strength index flashing a potential bottom signal not seen since early 2023.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 13:12:06 +0000",
-      "fetched_at": "2025-12-19T13:44:45.144736242Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money",
-      "link": "https://cointelegraph.com/news/what-malaysia-s-royal-stablecoin-reveals-about-asia-s-shift-to-tokenized-money?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM2YmEtZjg5Mi03Njg1LWJjZmUtMTc0YTFlODdmMDc4LmpwZWc=.jpeg\" alt=\"What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money\"\u003e\u003c/p\u003e\u003cp\u003eMalaysia’s RMJDT shows how Asia is pulling stablecoins into regulated finance, linking tokenized assets with local-currency onchain settlement.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 13:13:16 +0000",
-      "fetched_at": "2025-12-19T13:44:45.144614802Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "4 common scams to watch out for this holiday season",
-      "link": "https://www.npr.org/2025/12/19/nx-s1-5613431/4-common-scams-to-watch-out-for-this-holiday-season",
-      "category": "Business",
-      "summary": "Don't get swindled while buying those last-minute gifts. Amy Nofziger, a fraud specialist with AARP, shares top schemes she's been seeing this season — and tips on how to protect yourself.",
-      "published": "Fri, 19 Dec 2025 08:12:19 -0500",
-      "fetched_at": "2025-12-19T13:44:44.872120836Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1383,
-  "last_update": "2025-12-30T00:59:53.572532343Z"
+  "total_captured": 1390,
+  "last_update": "2025-12-30T02:56:18.702420321Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 00:59 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1383-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 02:56 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1390-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,17 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 00:59 UTC)*
+*(Updated: 30 Dec 02:56 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | ['No worries': Trump downplays Chinese military drills around Taiwan](https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Bangladesh's first female prime minister Khaleda Zia dies aged 80](https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.](https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Fake Coinbase support scammer allegedly stole $2M from users](https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Coups, elections and protests - a difficult year for democracy in Africa](https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -34,13 +41,6 @@
 | **Crypto** | [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
 | **Crypto** | [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Nepal to scrap 'failed' Mount Everest waste deposit scheme](https://www.bbc.com/news/articles/cx2g20prlg7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report](https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [FIFA president defends World Cup ticket prices, saying demand is hitting records](https://www.npr.org/2025/12/29/nx-s1-5660767/fifa-gianni-infantino-world-cup-ticket-prices) | 🟢 Positive |
-| **Crypto** | [Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation](https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale](https://cointelegraph.com/news/blackrock-buidl-100m-dividends-tokenized-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Why Luke Gromen is fading Bitcoin while staying bullish on debasement](https://cointelegraph.com/news/why-luke-gromen-is-fading-bitcoin-while-staying-bullish-on-debasement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.](https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Fake Coinbase support scammer allegedly stole $2M from users](https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report](https://cointelegraph.com/news/south-korea-scandal-politics-bithumb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Strategy’s latest 2025 Bitcoin purchase caps active year of accumulation](https://cointelegraph.com/news/strategy-bitcoin-purchase-active-2025-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [James Bond game 007 First Light delayed to May 2026](https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- ['No worries': Trump downplays Chinese military drills around Taiwan](https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Bangladesh's first female prime minister Khaleda Zia dies aged 80](https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Coups, elections and protests - a difficult year for democracy in Africa](https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Brazil's Bolsonaro undergoes second medical procedure for hiccups](https://www.bbc.com/news/articles/c4g4g0y4m1do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump says US hit 'big facility' linked to alleged Venezuelan drug boats](https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
