@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Cypherpunk lifts crypto treasury with $29M Zcash purchase",
+      "link": "https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmZGQtZDgyZi03NjQzLWE1NzYtYmEzZDQyZDI1NTEyLmpwZw==.jpg\" alt=\"Cypherpunk lifts crypto treasury with $29M Zcash purchase\"\u003e\u003c/p\u003e\u003cp\u003eThe digital asset treasury company backed by Winklevoss Capital seeks to capture 5% of the total supply of the privacy-focused cryptocurrency.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 17:53:33 +0000",
+      "fetched_at": "2025-12-30T18:19:23.176210292Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+      "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.",
+      "published": "Fri, 12 Dec 2025 00:21:41 GMT",
+      "fetched_at": "2025-12-30T18:19:23.031357303Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
       "link": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 02:14:30 +0000",
       "fetched_at": "2025-12-20T02:29:36.872545406Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'It's amazing' – the wonder material very few can make",
-      "link": "https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Just a handful of companies can make cadmium zinc telluride, a material with powerful properties.",
-      "published": "Fri, 12 Dec 2025 00:03:10 GMT",
-      "fetched_at": "2025-12-20T02:29:36.67547325Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Make Korea great again: The right-wing group wooing disenchanted youth",
-      "link": "https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Disgraced president Yoon Suk Yeol has become an unlikely poster boy for anti-government sentiment.",
-      "published": "Sat, 20 Dec 2025 00:45:23 GMT",
-      "fetched_at": "2025-12-20T00:56:04.282404479Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1430,
-  "last_update": "2025-12-30T17:51:24.113989235Z"
+  "total_captured": 1432,
+  "last_update": "2025-12-30T18:19:23.286391932Z"
 }
