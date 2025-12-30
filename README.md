@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 06:20 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1400-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 06:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1402-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 06:20 UTC)*
+*(Updated: 30 Dec 06:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Anthony Joshua injured in Nigeria car crash that killed two team members](https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate](https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Rep Waters demands SEC oversight hearing about its approach to crypto](https://cointelegraph.com/news/rep-waters-demands-sec-oversight-hearing-crypto-approach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Will the US TikTok deal make it safer but less relevant?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Fake Coinbase support scammer allegedly stole $2M from users](https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Coups, elections and protests - a difficult year for democracy in Africa](https://www.bbc.com/news/articles/c1lr70jg2zgo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Photographing the hidden world of slime mould](https://www.bbc.com/news/articles/c9d9409p76qo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Great white sharks face extinction in Mediterranean, say researchers](https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Anthony Joshua injured in Nigeria car crash that killed two team members](https://www.bbc.com/news/articles/c8989e1wnj2o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Khaleda Zia: Slain leader's widow who became Bangladesh's first PM](https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [How growing up in war really affects an 11-year-old](https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Spanish woman who found fame for botching fresco restoration dies](https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
