@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 17:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1426-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 17:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1428-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 17:14 UTC)*
+*(Updated: 30 Dec 17:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Binance confirms Visa, Mastercard withdrawal pause for Ukrainian users](https://cointelegraph.com/news/binance-suspends-visa-mastercard-withdrawals-ukraine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Turkey detains 357 suspected IS members in nationwide raids](https://www.bbc.com/news/articles/c4g5gq19n9zo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Lighter’s LIT tokenomics split DeFi as Polymarket bets top $74M](https://cointelegraph.com/news/lighter-lit-tokenomics-split-community-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?](https://cointelegraph.com/news/xrp-supply-exchanges-8-year-lows-2026-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Russia targets unregistered crypto miners with new criminal penalties](https://cointelegraph.com/news/russia-illegal-crypto-mining-criminal-penalties-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How Strategy keeps buying Bitcoin during market downturns](https://cointelegraph.com/news/how-strategy-keeps-buying-bitcoin-during-market-downturns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [CARF tax rules go live on Jan. 1: What crypto users and exchanges need to know](https://cointelegraph.com/news/carf-tax-rules-jan-1-crypto-users-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Creative industries 'incredibly worried' about OpenAI-Disney deal](https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will the US TikTok deal make it safer but less relevant?](https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

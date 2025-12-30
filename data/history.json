@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Grayscale moves toward exchange listing for TAO trust in US",
+      "link": "https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmYzgtMGQ3OS03MTFiLTk2ZTAtNzQwMThmNjE5YTA3LmpwZw==.jpg\" alt=\"Grayscale moves toward exchange listing for TAO trust in US\"\u003e\u003c/p\u003e\u003cp\u003eThe proposed TAO investment vehicle, one of the first exchange-traded products that could be available to US markets, is expected to be listed on NYSE Arca following approval.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 17:15:35 +0000",
+      "fetched_at": "2025-12-30T17:36:07.709673369Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Meta buys Chinese-founded AI start-up Manus",
+      "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction.",
+      "published": "Tue, 30 Dec 2025 17:30:36 GMT",
+      "fetched_at": "2025-12-30T17:36:07.466941379Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Thieves use drill to steal €30m in German bank heist",
       "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:21:41 GMT",
       "fetched_at": "2025-12-19T23:30:38.605029379Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "US carries out 'massive' strike against IS in Syria",
-      "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US says it is acting in response to last week's deadly Islamic State attack on American forces in Syria.",
-      "published": "Fri, 19 Dec 2025 23:15:03 GMT",
-      "fetched_at": "2025-12-19T23:30:37.969518891Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
-      "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights.",
-      "published": "Fri, 12 Dec 2025 00:02:02 GMT",
-      "fetched_at": "2025-12-19T23:12:35.867426531Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1426,
-  "last_update": "2025-12-30T17:14:30.939439119Z"
+  "total_captured": 1428,
+  "last_update": "2025-12-30T17:36:07.724541742Z"
 }
