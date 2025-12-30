@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-30 Dec 02:56 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1390-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-30 Dec 03:58 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1396-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 30 Dec 02:56 UTC)*
+*(Updated: 30 Dec 03:58 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Khaleda Zia: Slain leader's widow who became Bangladesh's first PM](https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [How growing up in war really affects an 11-year-old](https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Spanish woman who found fame for botching fresco restoration dies](https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Australia’s search ID goes into force, Ireland lobbies to ban anonymity](https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | ['No worries': Trump downplays Chinese military drills around Taiwan](https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **World** | [Trump says US hit 'big facility' linked to alleged Venezuelan drug boats](https://www.bbc.com/news/articles/cp8484p7ggmo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [K-pop band NewJeans breaks up after bitter feud with record label](https://www.bbc.com/news/articles/cdxwxqrde29o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Russia's losses in Ukraine rise faster than ever, as US pushes for peace deal](https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Trump hopes to reach phase two of Gaza ceasefire 'very quickly'](https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Warren Buffett is retiring: We look back at a critical turning point in his career](https://www.npr.org/2025/12/29/nx-s1-5653368/warren-buffett-is-retiring-we-look-back-at-a-critical-turning-point-in-his-career) | ⚪ Neutral |
-| **World** | [Why Israel's recognition of Somaliland as an independent state is controversial](https://www.bbc.com/news/articles/c14v4kmg275o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [Book distributor shutting down deals logistical blow to libraries](https://www.npr.org/2025/12/29/nx-s1-5638892-e1/book-distributor-shutting-down-deals-logistical-blow-to-libraries) | ⚪ Neutral |
-| **Crypto** | [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Australia’s search ID goes into force, Ireland lobbies to ban anonymity](https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Is Bitcoin’s 4-year cycle broken — and if so, where to next?](https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.](https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Fake Coinbase support scammer allegedly stole $2M from users](https://cointelegraph.com/news/fake-coinbase-help-desk-scammer-allegedly-stole-2m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Onchain perpetual futures drive surge in crypto derivatives activity](https://cointelegraph.com/news/onchain-perpetual-futures-crypto-derivatives-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Tokenized stocks have ‘stablecoin moment’ as market cap hits $1.2B](https://cointelegraph.com/news/tokenized-stocks-market-growth-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Flow scraps rollback plan after pushback over decentralization, security](https://cointelegraph.com/news/flow-scraps-rollback-proposal-pushback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- ['Architects of AI' named Time Magazine's Person of the Year](https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [China plans AI rules to protect children and tackle suicide risks](https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will tech trump tradition at bakers and biscuit makers?](https://www.bbc.com/news/articles/cly5gen0gj8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [£100 contactless card limit to be lifted](https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [TikTok owner signs deal to avoid US ban](https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Many new UK drone users must take theory test before flying outside](https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [Khaleda Zia: Slain leader's widow who became Bangladesh's first PM](https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [How growing up in war really affects an 11-year-old](https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Spanish woman who found fame for botching fresco restoration dies](https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The fight over Christian nationalism in a small Tennessee town](https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Alleged Bondi gunmen acted alone and did not train in the Philippines, police say](https://www.bbc.com/news/articles/ce8q8l08j2vo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- ['No worries': Trump downplays Chinese military drills around Taiwan](https://www.bbc.com/news/articles/cdxwxkeg9w6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Bangladesh's first female prime minister Khaleda Zia dies aged 80](https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Naan: How the 'world's best bread' travelled from Islamic courts to our plates](https://www.bbc.com/news/articles/c0mp7lr0nn4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

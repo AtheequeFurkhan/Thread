@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Khaleda Zia: Slain leader's widow who became Bangladesh's first PM",
+      "link": "https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The country's first female prime minister governed in periods of violent unrest and economic hardship.",
+      "published": "Tue, 30 Dec 2025 02:58:13 GMT",
+      "fetched_at": "2025-12-30T03:58:50.1562147Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "How growing up in war really affects an 11-year-old",
+      "link": "https://www.bbc.com/news/articles/cre3pdxde7vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Fergal Keane has met thousands of traumatised children while reporting on conflicts. Here, he researches the long-term effect on them - and what, if anything, can help.",
+      "published": "Tue, 30 Dec 2025 03:25:02 GMT",
+      "fetched_at": "2025-12-30T03:58:50.156197991Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Spanish woman who found fame for botching fresco restoration dies",
+      "link": "https://www.bbc.com/news/articles/cr5z5p633q5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Cecilia Giménez's effort to restore the painting Ecce Homo earned the artwork the nickname \"Monkey Christ\".",
+      "published": "Tue, 30 Dec 2025 03:26:06 GMT",
+      "fetched_at": "2025-12-30T03:58:50.156177486Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Australia’s search ID goes into force, Ireland lobbies to ban anonymity",
+      "link": "https://cointelegraph.com/news/australia-s-search-id-goes-into-force-ireland-lobbies-to-ban-anonymity?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZjODEtODk4Ni03ZDRkLTgxYjQtYjg1ZTdiNDY5Njg3LmpwZw==.jpg\" alt=\"Australia’s search ID goes into force, Ireland lobbies to ban anonymity\"\u003e\u003c/p\u003e\u003cp\u003eAmerica has recently taken steps to dissuade foreign governments from censoring US-based platforms, including the proposed GRANITE Act and sanctions against five EU officials.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 02:57:38 +0000",
+      "fetched_at": "2025-12-30T03:58:50.146465339Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Is Bitcoin’s 4-year cycle broken — and if so, where to next?",
+      "link": "https://cointelegraph.com/news/bitcoin-4-year-cycle-broken-or-is-it-bull-market?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlNmItZDY3NC03YTZmLThiZDQtY2UxMjE1NGRhZjRiLmpwZw==.jpg\" alt=\"Is Bitcoin’s 4-year cycle broken — and if so, where to next?\"\u003e\u003c/p\u003e\u003cp\u003eAnalysts are split on whether Bitcoin’s typical four-year cycle has ended in 2025, with institutional ETFs and regulatory shifts cited as key factors.\u003c/p\u003e",
+      "published": "Tue, 30 Dec 2025 03:54:19 +0000",
+      "fetched_at": "2025-12-30T03:58:50.146438167Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'Architects of AI' named Time Magazine's Person of the Year",
+      "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.",
+      "published": "Thu, 11 Dec 2025 13:52:11 GMT",
+      "fetched_at": "2025-12-30T03:58:49.940396092Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The fight over Christian nationalism in a small Tennessee town",
       "link": "https://www.bbc.com/news/articles/c997j105941o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4445,62 +4499,8 @@
       "published": "Fri, 19 Dec 2025 16:42:02 GMT",
       "fetched_at": "2025-12-19T16:44:14.425333934Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Putin vows no more wars if West treats Russia with respect",
-      "link": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Russia's leader said during a four-hour TV marathon that claims that an attack on Europe was planned were \"nonsense\".",
-      "published": "Fri, 19 Dec 2025 16:06:31 GMT",
-      "fetched_at": "2025-12-19T16:44:14.425311141Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy",
-      "link": "https://cointelegraph.com/news/ecb-onchain-settlements-lawmakers-weigh-digital-euro-privacy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ZDMtNGQwYy03YjNlLWJlMDctMWYyY2NmMGY3MzAzLmpwZw==.jpg\" alt=\"ECB eyes onchain settlements next year as lawmakers weigh digital euro privacy\"\u003e\u003c/p\u003e\u003cp\u003eThe European Central Bank plans to enable DLT transactions in 2026 as it prepares for the digital euro issuance and lawmakers establish rules on privacy.\u003c/p\u003e",
-      "published": "Fri, 19 Dec 2025 16:22:05 +0000",
-      "fetched_at": "2025-12-19T16:44:14.183759489Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Knife attacker kills three after smoke bombing Taiwan metro",
-      "link": "https://www.bbc.com/news/articles/cx251p7k23mo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The suspect's spree began at Taipei's main metro station before he moved to another station nearby.",
-      "published": "Fri, 19 Dec 2025 16:02:59 GMT",
-      "fetched_at": "2025-12-19T16:15:23.659722179Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Norway's crown princess likely needs lung transplant, palace says",
-      "link": "https://www.bbc.com/news/articles/cpq4p535347o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Mette-Marit has pulmonary fibrosis, a disease that stiffens the lungs, making it hard to breathe.",
-      "published": "Fri, 19 Dec 2025 15:33:29 GMT",
-      "fetched_at": "2025-12-19T15:35:26.35500522Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Uganda prison officer sacked for 'politicking' on TikTok",
-      "link": "https://www.bbc.com/news/articles/cy842jdw98vo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ugandan law requires public servants to remain politically neutral and bars them from active politics.",
-      "published": "Fri, 19 Dec 2025 14:18:34 GMT",
-      "fetched_at": "2025-12-19T14:37:05.188148605Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Will the TikTok deal mean the app changes in the US?",
-      "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The app's Chinese owner ByteDance has signed a deal with investors to run its business in the US.",
-      "published": "Fri, 19 Dec 2025 13:45:50 GMT",
-      "fetched_at": "2025-12-19T14:13:44.359078879Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1390,
-  "last_update": "2025-12-30T02:56:18.702420321Z"
+  "total_captured": 1396,
+  "last_update": "2025-12-30T03:58:50.156231288Z"
 }
