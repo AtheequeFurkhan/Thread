@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Eurostar delays enter second day as passengers stuck onboard overnight",
+      "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Eurostar says it plans to run all of its services on Wednesday but there may still be delays and cancellations.",
+      "published": "Wed, 31 Dec 2025 04:56:15 GMT",
+      "fetched_at": "2025-12-31T05:23:33.94215637Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Clair Obscur sweeps The Game Awards with nine wins",
+      "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements.",
+      "published": "Fri, 12 Dec 2025 10:45:37 GMT",
+      "fetched_at": "2025-12-31T05:23:33.526589569Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: Underwater chess champions compete for world title",
       "link": "https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 00:34:11 GMT",
       "fetched_at": "2025-12-20T20:48:27.96816144Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Sell Bitcoin for gold? Not so fast, one analyst says",
-      "link": "https://cointelegraph.com/news/sell-btc-gold-not-so-fast?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkNTAtNGJjMS03ZDhjLWFjZmMtNzFiYzJlZDQ1YWJmLmpwZw==.jpg\" alt=\"Sell Bitcoin for gold? Not so fast, one analyst says\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin's fundamental properties make it a better long-term bet than gold, according to Bitcoin maximalist and analyst Matthew Kratter.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 20:14:52 +0000",
-      "fetched_at": "2025-12-20T20:32:20.974629804Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Survivors and lawmakers voice frustration over partial Epstein file release",
-      "link": "https://www.bbc.com/news/articles/c14vy02847vo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "US lawmakers who pushed for the documents to be made public have criticised the initial release as incomplete.",
-      "published": "Sat, 20 Dec 2025 19:47:21 GMT",
-      "fetched_at": "2025-12-20T20:12:48.194597012Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1451,
-  "last_update": "2025-12-31T04:49:32.650559467Z"
+  "total_captured": 1453,
+  "last_update": "2025-12-31T05:23:34.205860866Z"
 }
