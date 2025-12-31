@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Iran protesters try to break into government building as unrest continues",
+      "link": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Video verified by the BBC shows a crowd breaking the gate of the governor's office in Fasa.",
+      "published": "Wed, 31 Dec 2025 19:47:14 GMT",
+      "fetched_at": "2025-12-31T22:51:09.009224214Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bulgaria joins the euro after rocky path to new currency",
       "link": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 08:21:22 +0000",
       "fetched_at": "2025-12-22T08:50:39.229487394Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Russian general killed by car bomb in Moscow, officials say",
-      "link": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said.",
-      "published": "Mon, 22 Dec 2025 07:53:47 GMT",
-      "fetched_at": "2025-12-22T08:19:38.671144354Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1498,
-  "last_update": "2025-12-31T22:35:07.649464647Z"
+  "total_captured": 1499,
+  "last_update": "2025-12-31T22:51:09.184170908Z"
 }
