@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026",
+      "link": "https://cointelegraph.com/news/ai-crypto-price-predictions-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODllNzYtZTIzYi03NGIyLWExZjQtNjUzOWY5OTM0Yjdj.jpg\" alt=\"Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026\"\u003e\u003c/p\u003e\u003cp\u003eFrom Bitcoin to Dogecoin, major AI models predict price ranges and the catalysts that could shape crypto markets in the year ahead.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-31T14:13:22.511734048Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Strategy accumulates over 22,000 Bitcoin, RWAs top $19 billion: December in Charts",
+      "link": "https://cointelegraph.com/news/strategy-bitcoin-rwas-top-billion-december-charts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg\" alt=\"Strategy accumulates over 22,000 Bitcoin, RWAs top $19 billion: December in Charts\"\u003e\u003c/p\u003e\u003cp\u003eThe Bitcoin price slump at the end of the year hasn’t discouraged Michael Saylor’s Strategy from buying over 22,000 BTC in December alone.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 14:00:00 +0000",
+      "fetched_at": "2025-12-31T14:13:22.511712027Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December",
       "link": "https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 21 Dec 2025 22:08:39 GMT",
       "fetched_at": "2025-12-21T22:33:24.899438388Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US reportedly pursuing third oil tanker linked to Venezuela",
-      "link": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela.",
-      "published": "Sun, 21 Dec 2025 21:23:17 GMT",
-      "fetched_at": "2025-12-21T22:33:24.899422678Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tokenization will disrupt finance faster than digital disrupted media: Crypto exec",
-      "link": "https://cointelegraph.com/news/tokenization-disrupt-finance-faster-digital-disrupted-media?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYjAtYmI0ZC03NWY4LWFkZDctMzkxMDhmZjc1MDczLmpwZw==.jpg\" alt=\"Tokenization will disrupt finance faster than digital disrupted media: Crypto exec\"\u003e\u003c/p\u003e\u003cp\u003ePutting real-world assets onchain opens up new markets, increases capital velocity and democratizes access to finance, advocates say.\u003c/p\u003e",
-      "published": "Sun, 21 Dec 2025 22:17:28 +0000",
-      "fetched_at": "2025-12-21T22:33:24.883415002Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1477,
-  "last_update": "2025-12-31T13:55:12.782400776Z"
+  "total_captured": 1479,
+  "last_update": "2025-12-31T14:13:22.870345695Z"
 }
