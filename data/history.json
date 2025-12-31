@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US lawmakers expected to address market structure markup in January",
+      "link": "https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc1ZDctN2M3My03OGFmLWI4M2UtYTQyZjdkYmIxNmQyLmpwZw==.jpg\" alt=\"US lawmakers expected to address market structure markup in January\"\u003e\u003c/p\u003e\u003cp\u003eWith Congress in recess until the new year, sources familiar with the progress of a digital asset market structure bill are expecting consideration in early 2026.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 21:15:01 +0000",
+      "fetched_at": "2025-12-31T21:29:57.130380562Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "US bank upgrades TeraWulf price target, offers bullish mining prediction",
       "link": "https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 05:28:48 GMT",
       "fetched_at": "2025-12-22T05:54:33.040679354Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Divided between two states, the town at the heart of America's abortion debate",
-      "link": "https://www.bbc.com/news/articles/c93nwrzgypqo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The only abortion clinic in town is fighting an eviction notice and other efforts to shut it down.",
-      "published": "Mon, 22 Dec 2025 00:07:55 GMT",
-      "fetched_at": "2025-12-22T05:45:10.902111434Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1495,
-  "last_update": "2025-12-31T21:11:35.268430368Z"
+  "total_captured": 1496,
+  "last_update": "2025-12-31T21:29:57.478603954Z"
 }
