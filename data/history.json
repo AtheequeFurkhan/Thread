@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Coinbase exec warns Senate stablecoin misstep could hand China global edge",
+      "link": "https://cointelegraph.com/news/coinbase-exec-warns-senate-stablecoin-misstep-could-hand-china-a-global-edge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjczNDgtMTIzYS03MTM2LTk2YjUtNmIxY2FmOWJjOTg1LmpwZw==.jpg\" alt=\"Coinbase exec warns Senate stablecoin misstep could hand China global edge\"\u003e\u003c/p\u003e\u003cp\u003eA Coinbase executive said changes to the GENIUS Act could weaken US dollar stablecoins as China moves to boost the digital yuan by allowing interest-bearing wallets.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 07:41:17 +0000",
+      "fetched_at": "2025-12-31T07:51:34.61634994Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Thailand releases 18 Cambodian soldiers held since July",
       "link": "https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 04:43:19 GMT",
       "fetched_at": "2025-12-21T05:14:09.888240174Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment",
-      "link": "https://cointelegraph.com/news/crypto-market-sentiment-fear-levels-bitcoin-price-slide-santiment?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkZDUtOWM3Yi03MTgwLWFiZDYtOGNkYWJiODUwNGM1LmpwZw==.jpg\" alt=\"Crypto market ‘isn’t scared enough’ to call a bottom yet: Santiment\"\u003e\u003c/p\u003e\u003cp\u003eSocial media sentiment indicates Bitcoin is in a range where a drop below $75,000 is possible, according to Santiment founder Maksim Balashevich.\u003c/p\u003e",
-      "published": "Sun, 21 Dec 2025 01:11:44 +0000",
-      "fetched_at": "2025-12-21T03:05:00.490255385Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1459,
-  "last_update": "2025-12-31T07:41:40.963175033Z"
+  "total_captured": 1460,
+  "last_update": "2025-12-31T07:51:34.813953781Z"
 }
