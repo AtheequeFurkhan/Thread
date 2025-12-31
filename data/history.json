@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Watch: Stunning celestial events that lit up the skies in 2025",
+      "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "From meteor showers to supermoons, here are some of the sights that wowed stargazers this year.",
+      "published": "Wed, 31 Dec 2025 15:33:33 GMT",
+      "fetched_at": "2025-12-31T16:15:56.946014384Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "In pictures: New Year welcomed around the world",
+      "link": "https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "From spectacular firework displays to chilly sea dips, nations celebrate the start of 2026.",
+      "published": "Wed, 31 Dec 2025 15:45:22 GMT",
+      "fetched_at": "2025-12-31T16:15:56.946002312Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Passenger describes 'chaos' after head-on Machu Picchu train collision",
+      "link": "https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Tourist Niels Honkoop says shattered glass littered the carriage floor and injured people were lying in the aisles.",
+      "published": "Wed, 31 Dec 2025 16:11:06 GMT",
+      "fetched_at": "2025-12-31T16:15:56.945985751Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "2026 will be red for Bitcoin, but payment tech will improve: BTC OGs",
+      "link": "https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc0ZmQtNDBlYS03MTFkLTg0OGEtMjMzNzA2ZjdhMThjLmpwZw==.jpg\" alt=\"2026 will be red for Bitcoin, but payment tech will improve: BTC OGs\"\u003e\u003c/p\u003e\u003cp\u003eThe market carnage will likely extend into 2026, with price bottoming out in Q4, but it isn't all bad news, according to early BTC adopters.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 16:10:14 +0000",
+      "fetched_at": "2025-12-31T16:15:56.54353057Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-12-31-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 22 Dec 2025 01:05:38 GMT",
       "fetched_at": "2025-12-22T03:07:37.243310403Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Another 130 abducted schoolchildren released in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nigerian authorities confirm the remaining students kidnapped from a Catholic school last month have been freed.",
-      "published": "Mon, 22 Dec 2025 02:25:22 GMT",
-      "fetched_at": "2025-12-22T03:07:37.243291607Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Lawmakers threaten Attorney General Bondi with contempt over incomplete Epstein files",
-      "link": "https://www.npr.org/2025/12/21/nx-s1-5651323/epstein-files-bondi-justice-department-congress-contempt",
-      "category": "Business",
-      "summary": "The Justice Department is defending its initial release of documents related to sex offender Jeffrey Epstein, saying lawyers are still going through them to ensure victims are protected.",
-      "published": "Sun, 21 Dec 2025 19:54:48 -0500",
-      "fetched_at": "2025-12-22T01:02:21.528085315Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Uniswap fee switch to go live as community vote set to pass",
-      "link": "https://cointelegraph.com/news/uniswap-fee-switch-set-to-launch-before-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyZGYtNDc2Yi03ZTRiLThmOWEtZGMxZWQ2YzlhZTg3LmpwZw==.jpg\" alt=\"Uniswap fee switch to go live as community vote set to pass\"\u003e\u003c/p\u003e\u003cp\u003eUniswap’s fee switch proposal, designed to boost its token’s supply-demand dynamics via token burns, has passed a community vote threshold and is set to take effect this week.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 00:32:45 +0000",
-      "fetched_at": "2025-12-22T01:02:21.166620957Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A study found AI chatbots can persuade us with fake facts. How does this affect politics?",
-      "published": "Tue, 16 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-21T23:29:44.786132125Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1481,
-  "last_update": "2025-12-31T15:50:31.444604188Z"
+  "total_captured": 1485,
+  "last_update": "2025-12-31T16:15:57.479208774Z"
 }
