@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 20:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1494-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 20:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1495-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 20:35 UTC)*
+*(Updated: 31 Dec 20:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Strategy accumulates over 22,000 Bitcoin, RWAs top $19 billion: December in Charts](https://cointelegraph.com/news/strategy-bitcoin-rwas-top-billion-december-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026](https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [The Bybit hack made Kim Jong Un crypto's most influential in 2025](https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [If history repeats itself, will the US Congress become more pro-crypto in 2026?](https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
