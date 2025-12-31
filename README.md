@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 10:38 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1468-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 10:52 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1469-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 10:38 UTC)*
+*(Updated: 31 Dec 10:52 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move](https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps](https://cointelegraph.com/news/675m-lighter-airdrop-10th-largest-in-crypto-history?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | [A wave paralysed me but AI could help me walk again](https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves](https://cointelegraph.com/news/bitcoin-etfs-end-7-day-outflows-355m-liquidity-improves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move](https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Hundreds of thousands mourn Bangladesh's ex-PM at state funeral](https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC](https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 

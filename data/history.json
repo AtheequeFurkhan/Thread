@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
+      "link": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The two states say they are taking reciprocal measures after the US announced full-entry restrictions on their citizens.",
+      "published": "Wed, 31 Dec 2025 09:45:12 GMT",
+      "fetched_at": "2025-12-31T10:52:32.540253894Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps",
       "link": "https://cointelegraph.com/news/675m-lighter-airdrop-10th-largest-in-crypto-history?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 12:08:10 GMT",
       "fetched_at": "2025-12-21T13:03:10.845592782Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Klarna partners with Coinbase to accept stablecoin funding from institutions",
-      "link": "https://cointelegraph.com/news/klarna-partners-coinbase-usdc-institutional-funding?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODY0ZmQtYmIyNy03YmEyLTlhYWQtZGRmYjk5M2I4NWYz.jpg\" alt=\"Klarna partners with Coinbase to accept stablecoin funding from institutions\"\u003e\u003c/p\u003e\u003cp\u003eThe BNPL giant will tap USDC-denominated funding via Coinbase as it explores stablecoins for treasury and capital markets use.\u003c/p\u003e",
-      "published": "Sun, 21 Dec 2025 12:29:04 +0000",
-      "fetched_at": "2025-12-21T13:03:10.837612983Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1468,
-  "last_update": "2025-12-31T10:38:05.29955985Z"
+  "total_captured": 1469,
+  "last_update": "2025-12-31T10:52:33.108834395Z"
 }
