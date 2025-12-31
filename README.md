@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 09:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1464-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 09:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1465-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 09:44 UTC)*
+*(Updated: 31 Dec 09:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Hundreds of thousands mourn Bangladesh's ex-PM at state funeral](https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [More NFTs, less money: Supply rose to 1.3B as sales fell 37% in 2025](https://cointelegraph.com/news/nft-supply-growth-sales-decline-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitwise files with US SEC for 11 single‑token ‘strategy’ crypto ETFs](https://cointelegraph.com/news/bitwise-files-11-strategy-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Isiah Whitlock Jr: The Wire and Veep actor dies at 71](https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Machu Picchu train crash leaves one dead and dozens injured](https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Hundreds of thousands mourn Bangladesh's ex-PM at state funeral](https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC](https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
