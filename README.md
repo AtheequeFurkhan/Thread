@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 01:01 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1443-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 03:02 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1445-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 01:01 UTC)*
+*(Updated: 31 Dec 03:02 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [It was a rough year for nightclubs](https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Ethereum quietly sets a record: 8.7M contracts deployed in one quarter](https://cointelegraph.com/news/ethereum-record-smart-contract-deployments-q4-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US prosecutors oppose Defi Education Fund brief ahead of potential MEV case retrial](https://cointelegraph.com/news/us-government-defi-education-fund-amicus-mev-bot-retria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand](https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [South Korea delays crypto bill over stablecoin concerns: Report](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

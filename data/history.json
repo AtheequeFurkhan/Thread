@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "What the Fed’s divided 2026 outlook means for Bitcoin and crypto",
+      "link": "https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4ZGYtZDM0ZC03MmJkLWE2M2UtZDg3MDcyMWJmOGRlLmpwZw==.jpg\" alt=\"What the Fed’s divided 2026 outlook means for Bitcoin and crypto\"\u003e\u003c/p\u003e\u003cp\u003eThe Federal Reserve’s December dot plot revealed sharp divisions on 2026 rate cuts, with analysts predicting one to two cuts could shape crypto momentum.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 01:44:58 +0000",
+      "fetched_at": "2025-12-31T03:02:14.913255165Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’",
+      "link": "https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcxYWMtZjg0NC03NTFkLWIxYmEtZTA4ODUwMDZhZjNjLmpwZw==.jpg\" alt=\"Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’\"\u003e\u003c/p\u003e\u003cp\u003eSince the start of November, gold is up 9%, the S\u0026P 500 is up 1%, and Bitcoin is down 20%, but 2026 could see crypto close the gap.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 02:09:53 +0000",
+      "fetched_at": "2025-12-31T03:02:14.913227874Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto",
       "link": "https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 12 Dec 2025 10:45:37 GMT",
       "fetched_at": "2025-12-20T13:36:28.731736174Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Who and what are in the Epstein files?",
-      "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "High-profile figures, including Bill Clinton and Michael Jackson, can be seen in the long-awaited files.",
-      "published": "Sat, 20 Dec 2025 12:44:18 GMT",
-      "fetched_at": "2025-12-20T13:02:26.516042951Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "IBIT ranking 6th in 2025 ETF flows despite negative returns is ‘a really good sign’",
-      "link": "https://cointelegraph.com/news/blackrock-ibit-ranks-sixth-etf-flows-negative-returns?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNiOTgtZDQ4NC03NmZkLTllZTUtMmUwZjI3ODFlMzc2LmpwZw==.jpg\" alt=\"IBIT ranking 6th in 2025 ETF flows despite negative returns is ‘a really good sign’\"\u003e\u003c/p\u003e\u003cp\u003eBlackRock’s spot Bitcoin ETF ranked sixth in 2025 ETF inflows despite posting a negative annual return, a signal analysts say reflects long-term conviction.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 11:54:00 +0000",
-      "fetched_at": "2025-12-20T12:21:45.266263696Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1443,
-  "last_update": "2025-12-31T01:01:04.278410752Z"
+  "total_captured": 1445,
+  "last_update": "2025-12-31T03:02:15.615098616Z"
 }
