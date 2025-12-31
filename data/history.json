@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
+      "link": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Chinese people pay a 13% sales tax on contraceptives from 1 January, while childcare services are exempt.",
+      "published": "Wed, 31 Dec 2025 23:07:11 GMT",
+      "fetched_at": "2025-12-31T23:31:24.354772843Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Iran protesters try to break into government building as unrest continues",
       "link": "https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 09:13:34 +0000",
       "fetched_at": "2025-12-22T09:19:52.79538474Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Metaplanet clears issuance of dividend-paying shares for overseas institutions",
-      "link": "https://cointelegraph.com/news/metaplanet-clears-issuance-dividend-shares-institutions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1OWQtM2UxOS03MTNhLTgzOTAtMDY0OTRlYzBiMjI5LmpwZw==.jpg\" alt=\"Metaplanet clears issuance of dividend-paying shares for overseas institutions\"\u003e\u003c/p\u003e\u003cp\u003eJapan’s largest corporate Bitcoin holder approved preferred shares with dividends, signaling a shift toward income-focused institutional capital.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 08:21:22 +0000",
-      "fetched_at": "2025-12-22T08:50:39.229487394Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1499,
-  "last_update": "2025-12-31T23:12:15.204633508Z"
+  "total_captured": 1500,
+  "last_update": "2025-12-31T23:31:24.671087643Z"
 }

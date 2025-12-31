@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1499-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 23:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1500-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 23:12 UTC)*
+*(Updated: 31 Dec 23:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Iran protesters try to break into government building as unrest continues](https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Passenger describes 'chaos' after head-on Machu Picchu train collision](https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [2026 will be red for Bitcoin, but payment tech will improve: BTC OGs](https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-31-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Russian claims of Ukrainian attack on government sites 'unfounded', EU's top diplomat says](https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iran protesters try to break into government building as unrest continues](https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Finnish police seize ship suspected of sabotaging undersea cable](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Stunning celestial events that lit up the skies in 2025](https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
