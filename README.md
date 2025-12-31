@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 11:30 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1472-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 11:41 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1473-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 11:30 UTC)*
+*(Updated: 31 Dec 11:41 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Perp DEXs almost triple volume in 2025 as onchain derivatives mature](https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price in 2026: Predictions vs. charts and reality](https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Heated Rivalry author says TV success led to help with her Parkinson's](https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Perp DEXs almost triple volume in 2025 as onchain derivatives mature](https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin price in 2026: Predictions vs. charts and reality](https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps](https://cointelegraph.com/news/675m-lighter-airdrop-10th-largest-in-crypto-history?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves](https://cointelegraph.com/news/bitcoin-etfs-end-7-day-outflows-355m-liquidity-improves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [More NFTs, less money: Supply rose to 1.3B as sales fell 37% in 2025](https://cointelegraph.com/news/nft-supply-growth-sales-decline-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Four Bitcoin charts to watch heading into 2026",
+      "link": "https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZmMzgtOTNlZC03MWJkLWE5MGYtNzBkZmYwYzdjMDRjLmpwZw==.jpg\" alt=\"Four Bitcoin charts to watch heading into 2026\"\u003e\u003c/p\u003e\u003cp\u003eGold fractals, Bitcoin cost basis heatmap, and long-term moving averages offer clues on where BTC’s next major move may emerge in 2026.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 11:30:00 +0000",
+      "fetched_at": "2025-12-31T11:40:59.475749407Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Perp DEXs almost triple volume in 2025 as onchain derivatives mature",
       "link": "https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 08:10:57 -0500",
       "fetched_at": "2025-12-21T13:37:25.81076715Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The Ellisons add TikTok's U.S. business to their entertainment empire",
-      "link": "https://www.npr.org/2025/12/21/nx-s1-5649856/the-ellisons-add-tiktoks-u-s-business-to-their-entertainment-empire",
-      "category": "Business",
-      "summary": "TikTok has signed a deal to sell its U.S. operations to a group of investors led by Larry Ellison, the billionaire ally of Trump whose family media and entertainment empire just got bigger.",
-      "published": "Sun, 21 Dec 2025 08:11:01 -0500",
-      "fetched_at": "2025-12-21T13:37:25.810743711Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1472,
-  "last_update": "2025-12-31T11:30:02.195288474Z"
+  "total_captured": 1473,
+  "last_update": "2025-12-31T11:41:00.022983452Z"
 }
