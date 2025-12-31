@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps",
+      "link": "https://cointelegraph.com/news/675m-lighter-airdrop-10th-largest-in-crypto-history?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjczYzMtMTllYS03Y2NlLWJkYjMtMzZkOTMzNGVlZDYxLmpwZw==.jpg\" alt=\"$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps\"\u003e\u003c/p\u003e\u003cp\u003eBubblemaps said Lighter airdropped $675 million in LIT, one of crypto’s biggest ever, as data shared on X suggested about 75% of recipients were still holding.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 10:22:33 +0000",
+      "fetched_at": "2025-12-31T10:38:04.896613491Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "A wave paralysed me but AI could help me walk again",
       "link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 12:29:04 +0000",
       "fetched_at": "2025-12-21T13:03:10.837612983Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Minute's silence held to remember Bondi beach attack victims",
-      "link": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Australian Prime Minister Anthony Albanese was booed as he arrived at the memorial event.",
-      "published": "Sun, 21 Dec 2025 11:20:24 GMT",
-      "fetched_at": "2025-12-21T11:26:49.963753481Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1467,
-  "last_update": "2025-12-31T10:13:26.845551327Z"
+  "total_captured": 1468,
+  "last_update": "2025-12-31T10:38:05.29955985Z"
 }
