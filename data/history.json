@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "If history repeats itself, will the US Congress become more pro-crypto in 2026?",
+      "link": "https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmOWQtNzM3MC03ZGJmLTg4YjItMWExZWJhMTJhMjJj.jpg\" alt=\"If history repeats itself, will the US Congress become more pro-crypto in 2026?\"\u003e\u003c/p\u003e\u003cp\u003eThe 2024 US election saw more money and support from the crypto and blockchain industry than ever before, with some experts predicting a repeat in the midterms.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 18:00:00 +0000",
+      "fetched_at": "2025-12-31T18:18:24.03655662Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Finnish police seize ship suspected of sabotaging undersea cable",
       "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 12 Dec 2025 18:04:47 GMT",
       "fetched_at": "2025-12-22T04:11:10.592970204Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Fintechs’ prediction market addons will cost them in churn: Inversion CEO",
-      "link": "https://cointelegraph.com/news/prediction-markets-cost-fintechs-user-churn-inversion-ceo?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQzNjMtMjA4Yy03M2U3LThkN2EtOTI2MzE1OTI4NTY0LmpwZw==.jpg\" alt=\"Fintechs’ prediction market addons will cost them in churn: Inversion CEO\"\u003e\u003c/p\u003e\u003cp\u003eInversion Capital CEO Santiago Roel Santos argued that “casino-like” features increase user liquidation risk, undermining long-term value capture.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 02:02:02 +0000",
-      "fetched_at": "2025-12-22T03:07:37.902226059Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1487,
-  "last_update": "2025-12-31T17:48:33.658404228Z"
+  "total_captured": 1488,
+  "last_update": "2025-12-31T18:18:25.247494415Z"
 }
