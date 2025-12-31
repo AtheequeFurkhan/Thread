@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 21:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1496-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1497-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 21:48 UTC)*
+*(Updated: 31 Dec 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [US lawmakers expected to address market structure markup in January](https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Russian claims of Ukrainian attack on government sites 'unfounded', EU's top diplomat says](https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026](https://cointelegraph.com/news/ai-crypto-price-predictions-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Strategy accumulates over 22,000 Bitcoin, RWAs top $19 billion: December in Charts](https://cointelegraph.com/news/strategy-bitcoin-rwas-top-billion-december-charts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US lawmakers expected to address market structure markup in January](https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
