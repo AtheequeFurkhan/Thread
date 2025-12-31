@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Perp DEXs almost triple volume in 2025 as onchain derivatives mature",
+      "link": "https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjczYTUtODhlYy03OGE1LWFlODctOGNjMjNhOGEzNDFiLmpwZw==.jpg\" alt=\"Perp DEXs almost triple volume in 2025 as onchain derivatives mature\"\u003e\u003c/p\u003e\u003cp\u003eTrading activity concentrated in the second half as Hyperliquid’s early lead faced increasing pressure from Aster and Lighter.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 11:12:23 +0000",
+      "fetched_at": "2025-12-31T11:30:02.001664914Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin price in 2026: Predictions vs. charts and reality",
+      "link": "https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3ZjgtMTM5My03ZTcxLTg3NmItNWY3MzRiY2IwZmQ5LmpwZw==.jpg\" alt=\"Bitcoin price in 2026: Predictions vs. charts and reality\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin faces clashing forecasts for 2026: tempered institutional targets around $150,000 versus bearish charts warning of major declines.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 11:15:00 +0000",
+      "fetched_at": "2025-12-31T11:30:02.001647953Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Heated Rivalry author says TV success led to help with her Parkinson's",
       "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 21 Dec 2025 08:11:01 -0500",
       "fetched_at": "2025-12-21T13:37:25.810743711Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why British Jews are experiencing their biggest change in 60 years",
-      "link": "https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "There have been shifts in how secure many British Jews feel - and how connected they feel to the rest of the community.",
-      "published": "Sun, 21 Dec 2025 00:25:03 GMT",
-      "fetched_at": "2025-12-21T13:37:25.382567239Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Comedian Bowen Yang announces Saturday Night Live exit",
-      "link": "https://www.bbc.com/news/articles/clyz01l98vjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Yang, one of the most prominent cast members, also hosts a podcast and stars in the Wicked film series.",
-      "published": "Sun, 21 Dec 2025 00:30:34 GMT",
-      "fetched_at": "2025-12-21T13:03:10.845608652Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1470,
-  "last_update": "2025-12-31T11:12:25.595717206Z"
+  "total_captured": 1472,
+  "last_update": "2025-12-31T11:30:02.195288474Z"
 }
