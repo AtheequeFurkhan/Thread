@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Notable deaths 2025",
+      "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Pope Francis, Ozzy Osbourne and Diane Keaton are among those who died this year.",
+      "published": "Wed, 31 Dec 2025 07:55:44 GMT",
+      "fetched_at": "2025-12-31T08:50:03.266662776Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC",
+      "link": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The daughter of Jimmy Lai tells the BBC that her father's health is deteriorating in prison.",
+      "published": "Wed, 31 Dec 2025 08:12:48 GMT",
+      "fetched_at": "2025-12-31T08:50:03.266637038Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Coinbase exec warns Senate stablecoin misstep could hand China global edge",
       "link": "https://cointelegraph.com/news/coinbase-exec-warns-senate-stablecoin-misstep-could-hand-china-a-global-edge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 21 Dec 2025 06:05:14 GMT",
       "fetched_at": "2025-12-21T06:18:49.935264186Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
-      "link": "https://cointelegraph.com/news/crypto-industry-support-us-senator-cynthia-lummis-steps-down?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNlOWItNDAyYy03ZDljLTg3NzUtZjg1ZTI4MDRhMzZmLmpwZw==.jpg\" alt=\"Crypto community ‘very sorry’ over Senator Lummis' reelection decision\"\u003e\u003c/p\u003e\u003cp\u003eIndustry supporters said crypto \"would not be where it is today\" without US Senator Cynthia Lummis, who announced she would not seek reelection next year.\u003c/p\u003e",
-      "published": "Sun, 21 Dec 2025 05:16:03 +0000",
-      "fetched_at": "2025-12-21T05:35:17.258679715Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
-      "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Albanese says the country must be in a position to respond to \"the rapidly changing security environment\".",
-      "published": "Sun, 21 Dec 2025 04:43:19 GMT",
-      "fetched_at": "2025-12-21T05:14:09.888240174Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1460,
-  "last_update": "2025-12-31T08:18:26.917679116Z"
+  "total_captured": 1462,
+  "last_update": "2025-12-31T08:50:03.861614737Z"
 }

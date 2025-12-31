@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 08:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1460-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 08:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1462-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 08:18 UTC)*
+*(Updated: 31 Dec 08:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC](https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase exec warns Senate stablecoin misstep could hand China global edge](https://cointelegraph.com/news/coinbase-exec-warns-senate-stablecoin-misstep-could-hand-china-a-global-edge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [It was a rough year for nightclubs](https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC](https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
