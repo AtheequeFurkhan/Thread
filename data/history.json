@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "A wave paralysed me but AI could help me walk again",
+      "link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Dan Richards, 37, from Swansea was injured in a freak accident on New Year's Eve in 2023.",
+      "published": "Wed, 31 Dec 2025 05:59:35 GMT",
+      "fetched_at": "2025-12-31T10:13:26.820649034Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-end-7-day-outflows-355m-liquidity-improves?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0ZGMtMzQ3My03N2U5LTg2YTEtZWU2NTlmNjNkZmFmLmpwZw==.jpg\" alt=\"Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves\"\u003e\u003c/p\u003e\u003cp\u003eUS spot Bitcoin ETFs pulled in $355 million, snapping a 7-day outflow streak that saw $1.12 billion withdrawn from the products.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 09:53:02 +0000",
+      "fetched_at": "2025-12-31T10:13:26.0090222Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Hundreds of thousands mourn Bangladesh's ex-PM at state funeral",
       "link": "https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 21 Dec 2025 11:20:24 GMT",
       "fetched_at": "2025-12-21T11:26:49.963753481Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "A radio station in Amsterdam is a lifeline for Sudan. After USAID cuts, it's faltering",
-      "link": "https://www.npr.org/2025/12/21/nx-s1-5616684/amsterdam-sudan-radio-usaid",
-      "category": "Business",
-      "summary": "Budget cuts threaten the future of Amsterdam-based Radio Dabanga, which has served as an information lifeline for Sudanese people about their war-torn country.",
-      "published": "Sun, 21 Dec 2025 06:00:00 -0500",
-      "fetched_at": "2025-12-21T11:10:23.886412721Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report",
-      "link": "https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNmZjMtODdkYi03MmIzLTkyYWQtNTliYWEyMDkzNzgyLmpwZw==.jpg\" alt=\"Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report\"\u003e\u003c/p\u003e\u003cp\u003eBrazil’s crypto market showed signs of maturity in 2025, with higher transaction volumes, larger per-user investments and growing demand for low-risk products.\u003c/p\u003e",
-      "published": "Sun, 21 Dec 2025 08:17:14 +0000",
-      "fetched_at": "2025-12-21T08:45:08.144245419Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1465,
-  "last_update": "2025-12-31T09:53:43.882873319Z"
+  "total_captured": 1467,
+  "last_update": "2025-12-31T10:13:26.845551327Z"
 }

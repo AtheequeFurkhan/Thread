@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 09:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1465-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 10:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1467-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 09:53 UTC)*
+*(Updated: 31 Dec 10:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [A wave paralysed me but AI could help me walk again](https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves](https://cointelegraph.com/news/bitcoin-etfs-end-7-day-outflows-355m-liquidity-improves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Hundreds of thousands mourn Bangladesh's ex-PM at state funeral](https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [More NFTs, less money: Supply rose to 1.3B as sales fell 37% in 2025](https://cointelegraph.com/news/nft-supply-growth-sales-decline-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitwise files with US SEC for 11 single‑token ‘strategy’ crypto ETFs](https://cointelegraph.com/news/bitwise-files-11-strategy-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Isiah Whitlock Jr: The Wire and Veep actor dies at 71](https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Machu Picchu train crash leaves one dead and dozens injured](https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Spot Bitcoin ETFs snap 7-day outflow streak with $355M as liquidity improves](https://cointelegraph.com/news/bitcoin-etfs-end-7-day-outflows-355m-liquidity-improves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [More NFTs, less money: Supply rose to 1.3B as sales fell 37% in 2025](https://cointelegraph.com/news/nft-supply-growth-sales-decline-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitwise files with US SEC for 11 single‑token ‘strategy’ crypto ETFs](https://cointelegraph.com/news/bitwise-files-11-strategy-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase exec warns Senate stablecoin misstep could hand China global edge](https://cointelegraph.com/news/coinbase-exec-warns-senate-stablecoin-misstep-could-hand-china-a-global-edge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents](https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [A wave paralysed me but AI could help me walk again](https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
