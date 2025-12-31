@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Thailand releases 18 Cambodian soldiers held since July",
+      "link": "https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The release is part of a new ceasefire deal after weeks of deadly clashes along the Thai-Cambodia border.",
+      "published": "Wed, 31 Dec 2025 05:33:20 GMT",
+      "fetched_at": "2025-12-31T06:54:26.832960415Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35",
+      "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "She shared her cancer diagnosis in an essay last month, writing that she had less than a year to live.",
+      "published": "Tue, 30 Dec 2025 21:06:24 GMT",
+      "fetched_at": "2025-12-31T06:54:26.832881057Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents",
+      "link": "https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY4MjMtMDllNC03ZDQzLWI2YTAtZjBhMmIzMzQ5NzAzLmpwZw==.jpg\" alt=\"Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents\"\u003e\u003c/p\u003e\u003cp\u003eEthereum transactions were the most costly in May 2022 when fees were over $200 per transaction on average. They have been declining since.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 06:38:05 +0000",
+      "fetched_at": "2025-12-31T06:54:26.726943285Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Google asks UK experts to find uses for its powerful quantum tech",
       "link": "https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Sun, 21 Dec 2025 01:11:44 +0000",
       "fetched_at": "2025-12-21T03:05:00.490255385Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "India express train kills seven elephants crossing tracks",
-      "link": "https://www.bbc.com/news/articles/c9qe2yln2nlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The collision happened early on Saturday in the north-eastern state of Assam, local officials say.",
-      "published": "Sun, 21 Dec 2025 01:18:23 GMT",
-      "fetched_at": "2025-12-21T03:04:59.884294096Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Neither Russia nor France: One West African country walks a diplomatic tightrope",
-      "link": "https://www.bbc.com/news/articles/c4gp4v32z0lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "As some West African nations choose to cement old ties with France or a new ally in Russia, Togo wants both.",
-      "published": "Sun, 21 Dec 2025 00:25:22 GMT",
-      "fetched_at": "2025-12-21T01:03:39.739649054Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown",
-      "link": "https://www.npr.org/2025/12/20/nx-s1-5650775/apple-google-visa-immigration-trump",
-      "category": "Business",
-      "summary": "With months-long consulate and embassy delays being reported, the two tech companies say staying put in the U.S. right now could prevent workers from getting stranded in their home countries.",
-      "published": "Sat, 20 Dec 2025 19:03:04 -0500",
-      "fetched_at": "2025-12-21T01:03:39.276841249Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1456,
-  "last_update": "2025-12-31T06:20:55.313850175Z"
+  "total_captured": 1459,
+  "last_update": "2025-12-31T06:54:27.183654083Z"
 }

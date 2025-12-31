@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 06:20 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1456-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 06:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1459-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 06:20 UTC)*
+*(Updated: 31 Dec 06:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents](https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [It was a rough year for nightclubs](https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs) | ⚪ Neutral |
 | **Crypto** | [US prosecutors oppose Defi Education Fund brief ahead of potential MEV case retrial](https://cointelegraph.com/news/us-government-defi-education-fund-amicus-mev-bot-retria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Israel to revoke licenses of 37 aid groups working in Gaza](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand](https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents](https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
