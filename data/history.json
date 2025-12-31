@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitwise files with US SEC for 11 single‑token ‘strategy’ crypto ETFs",
+      "link": "https://cointelegraph.com/news/bitwise-files-11-strategy-crypto-etfs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjczNjEtMzJjMS03ZTgzLTkwNzUtOGJiMzJkMTU1ZDQzLmpwZw==.jpg\" alt=\"Bitwise files with US SEC for 11 single‑token ‘strategy’ crypto ETFs\"\u003e\u003c/p\u003e\u003cp\u003eBitwise is seeking SEC approval for 11 single‑token “strategy” ETFs tied to major altcoins, expanding its product shelf deeper into the altcoin market.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 08:48:43 +0000",
+      "fetched_at": "2025-12-31T09:17:20.771346433Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Notable deaths 2025",
       "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 06:10:47 GMT",
       "fetched_at": "2025-12-21T06:18:49.935279134Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "How Israel's grassroots hostage families group became a powerful international force",
-      "link": "https://www.bbc.com/news/articles/cm20ppy0rreo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "With just one hostage left in Gaza, members of the forum reflect on its influence in Israel and abroad.",
-      "published": "Sun, 21 Dec 2025 06:05:14 GMT",
-      "fetched_at": "2025-12-21T06:18:49.935264186Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1462,
-  "last_update": "2025-12-31T08:50:03.861614737Z"
+  "total_captured": 1463,
+  "last_update": "2025-12-31T09:17:21.043738374Z"
 }
