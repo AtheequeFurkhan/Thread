@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 04:06 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1445-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 04:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1451-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 04:06 UTC)*
+*(Updated: 31 Dec 04:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Isiah Whitlock Jr: The Wire and Veep actor dies at 71](https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Machu Picchu train crash leaves one dead and dozens injured](https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **Crypto** | [How privacy prevailed in an otherwise dismal Q4 for crypto](https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Technology** | ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Cypherpunk lifts crypto treasury with $29M Zcash purchase](https://cointelegraph.com/news/cypherpunk-crypto-treasury-29m-zcash-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Grayscale moves toward exchange listing for TAO trust in US](https://cointelegraph.com/news/grayscale-bittensor-etp-filing-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Meta buys Chinese-founded AI start-up Manus](https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [US prosecutors oppose Defi Education Fund brief ahead of potential MEV case retrial](https://cointelegraph.com/news/us-government-defi-education-fund-amicus-mev-bot-retria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
-- [Israel to revoke licenses of 37 aid groups working in Gaza](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal](https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thieves use drill to steal €30m in German bank heist](https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Protests spread across Iran for third day after currency hits record low](https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Guinea junta chief takes lead in controversial election as social media restricted](https://www.bbc.com/news/articles/cx2520nyp8yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Isiah Whitlock Jr: The Wire and Veep actor dies at 71](https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Machu Picchu train crash leaves one dead and dozens injured](https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
