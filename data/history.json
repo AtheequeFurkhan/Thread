@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump Media plans 1:1 blockchain token rewards for shareholders",
+      "link": "https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc1OTktYTBiNS03MTRiLTg2ZDItMTFiMWQwZjMzNTRiLmpwZw==.jpg\" alt=\"Trump Media plans 1:1 blockchain token rewards for shareholders\"\u003e\u003c/p\u003e\u003cp\u003eThe company plans to distribute a crypto token per share to shareholders, but the tokens do not represent shares or rights in Trump Media.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 19:24:19 +0000",
+      "fetched_at": "2025-12-31T19:36:38.926702265Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Why JPMorgan’s onchain fund is a big signal for Ethereum",
       "link": "https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 05:37:30 +0000",
       "fetched_at": "2025-12-22T05:45:10.848547858Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "South East Asian bloc to seek end to Thailand-Cambodia fighting",
-      "link": "https://www.bbc.com/news/articles/c5ydej888n9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Asean ministers hope to revive a ceasefire that was brokered with the help of US President Donald Trump.",
-      "published": "Mon, 22 Dec 2025 04:27:38 GMT",
-      "fetched_at": "2025-12-22T05:17:50.85873464Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1493,
-  "last_update": "2025-12-31T19:26:54.001197315Z"
+  "total_captured": 1494,
+  "last_update": "2025-12-31T19:36:39.245585052Z"
 }

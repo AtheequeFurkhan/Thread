@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 19:26 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1493-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 19:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1494-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 19:26 UTC)*
+*(Updated: 31 Dec 19:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [What to know about Nick Shirley, the YouTuber alleging daycare fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026](https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [The Bybit hack made Kim Jong Un crypto's most influential in 2025](https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Heavy police presence in Sydney for New Year's celebrations after Bondi attack](https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [If history repeats itself, will the US Congress become more pro-crypto in 2026?](https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [2026 will be red for Bitcoin, but payment tech will improve: BTC OGs](https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
