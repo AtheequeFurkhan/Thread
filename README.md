@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 13:07 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1475-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 13:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1477-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 13:07 UTC)*
+*(Updated: 31 Dec 13:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026](https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [The Bybit hack made Kim Jong Un crypto's most influential in 2025](https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Heavy police presence in Sydney for New Year's celebrations after Bondi attack](https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Coinbase exec warns Senate stablecoin misstep could hand China global edge](https://cointelegraph.com/news/coinbase-exec-warns-senate-stablecoin-misstep-could-hand-china-a-global-edge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Thailand releases 18 Cambodian soldiers held since July](https://www.bbc.com/news/articles/c74wjqvpkj0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35](https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents](https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Wallets tied to TRUMP memecoin team pull $94M USDC to Coinbase in December](https://cointelegraph.com/news/wallets-tied-to-official-trump-meme-team-pull-94m-usdc-to-coinbase-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026](https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The Bybit hack made Kim Jong Un crypto's most influential in 2025](https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Perp DEXs almost triple volume in 2025 as onchain derivatives mature](https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin price in 2026: Predictions vs. charts and reality](https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [$675M Lighter airdrop becomes 10th largest in crypto history: Bubblemaps](https://cointelegraph.com/news/675m-lighter-airdrop-10th-largest-in-crypto-history?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
