@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 05:45 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1454-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 06:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1456-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 05:45 UTC)*
+*(Updated: 31 Dec 06:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Israel to revoke licenses of 37 aid groups working in Gaza](https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Prenetics scraps Bitcoin strategy to focus on Beckham-backed nutrition brand](https://cointelegraph.com/news/prenetics-scraps-bitcoin-strategy-beckham-nutrition-brand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Business** | [Judge orders Trump administration to continue to seek funding for the CFPB](https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order) | ⚪ Neutral |
-| **Crypto** | [South Korea delays crypto bill over stablecoin concerns: Report](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['It's amazing' – the wonder material very few can make](https://www.bbc.com/news/articles/c24l223d9n7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Crypto fraudster sentenced for 'epic' $40bn stablecoin crash](https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Reddit launches High Court challenge to Australia's social media ban for kids](https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The viral moments that grabbed India's attention this year](https://www.bbc.com/news/articles/c93n6dykenko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Saving South Africa's threatened albatross from lethal fishing lines](https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Isiah Whitlock Jr: The Wire and Veep actor dies at 71](https://www.bbc.com/news/articles/cwyw56687z3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
