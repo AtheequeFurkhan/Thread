@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Russian claims of Ukrainian attack on government sites 'unfounded', EU's top diplomat says",
+      "link": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It comes after Russia claimed Ukraine had attempted to launch a drone strike on one of Putin's residences.",
+      "published": "Wed, 31 Dec 2025 14:44:26 GMT",
+      "fetched_at": "2025-12-31T14:51:59.343087854Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026",
       "link": "https://cointelegraph.com/news/ai-crypto-price-predictions-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 22:18:02 GMT",
       "fetched_at": "2025-12-21T22:33:24.899454618Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
-      "link": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC goes to a rebel-held part of Myanmar, ahead of a government-mandated election starting this month.",
-      "published": "Sun, 21 Dec 2025 22:08:39 GMT",
-      "fetched_at": "2025-12-21T22:33:24.899438388Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1479,
-  "last_update": "2025-12-31T14:35:35.361402059Z"
+  "total_captured": 1480,
+  "last_update": "2025-12-31T14:52:00.258679803Z"
 }
