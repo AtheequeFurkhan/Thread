@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 18:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1488-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 18:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1490-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 18:18 UTC)*
+*(Updated: 31 Dec 18:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [If history repeats itself, will the US Congress become more pro-crypto in 2026?](https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Finnish police seize ship suspected of sabotaging undersea cable](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Perp DEXs almost triple volume in 2025 as onchain derivatives mature](https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price in 2026: Predictions vs. charts and reality](https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Heated Rivalry author says TV success led to help with her Parkinson's](https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move](https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [If history repeats itself, will the US Congress become more pro-crypto in 2026?](https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [2026 will be red for Bitcoin, but payment tech will improve: BTC OGs](https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-31-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Here’s what AI models predict for Bitcoin and altcoin price ranges in 2026](https://cointelegraph.com/news/ai-crypto-price-predictions-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Finnish police seize ship suspected of sabotaging undersea cable](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Stunning celestial events that lit up the skies in 2025](https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [In pictures: New Year welcomed around the world](https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Passenger describes 'chaos' after head-on Machu Picchu train collision](https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Russian claims of Ukrainian attack on government sites 'unfounded', EU's top diplomat says](https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

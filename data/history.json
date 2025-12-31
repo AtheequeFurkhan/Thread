@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Fireworks, drums and light shows: How the world is welcoming 2026",
+      "link": "https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Countries around the world celebrated the new year with colourful shows and long held traditions.",
+      "published": "Wed, 31 Dec 2025 18:41:15 GMT",
+      "fetched_at": "2025-12-31T18:49:28.528763732Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "How an AI-fueled romance scam drained a Bitcoin retirement fund",
+      "link": "https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc1OWItZGQ2Ni03ODUyLThkODYtM2QyMGQwMzQxNzljLmpwZWc=.jpeg\" alt=\"How an AI-fueled romance scam drained a Bitcoin retirement fund\"\u003e\u003c/p\u003e\u003cp\u003eA divorced investor’s tragic loss reveals how emotional manipulation, combined with AI technology, has weaponized crypto scams into a billion-dollar crime.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 18:16:45 +0000",
+      "fetched_at": "2025-12-31T18:49:28.519141565Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "If history repeats itself, will the US Congress become more pro-crypto in 2026?",
       "link": "https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 22 Dec 2025 03:36:33 +0000",
       "fetched_at": "2025-12-22T04:11:10.705923737Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky",
-      "link": "https://cointelegraph.com/news/video-game-mods-spreading-new-crypto-infostealer-stealka-kaspersky?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQzZDYtY2ViMi03ODNhLThlZTQtMzdkN2UyNjMyMzhmLmpwZw==.jpg\" alt=\"Video game mods are spreading new ‘Stealka’ crypto infostealer: Kaspersky\"\u003e\u003c/p\u003e\u003cp\u003eKaspersky found a new malware, dubbed Stealk, that disguises itself as game mods and pirated software to steal crypto wallets, passwords, and browser data.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 03:50:36 +0000",
-      "fetched_at": "2025-12-22T04:11:10.705879214Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
-      "link": "https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.",
-      "published": "Fri, 12 Dec 2025 18:04:47 GMT",
-      "fetched_at": "2025-12-22T04:11:10.592970204Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1488,
-  "last_update": "2025-12-31T18:18:25.247494415Z"
+  "total_captured": 1490,
+  "last_update": "2025-12-31T18:49:28.977693434Z"
 }
