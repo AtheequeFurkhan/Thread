@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto",
+      "link": "https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZjM2UtMjU1My03YWY0LTkwMjctMzE5ZmIzODBkMWIz.jpg\" alt=\"2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto\"\u003e\u003c/p\u003e\u003cp\u003eInvestors will be more excited about crypto if the Fed continues cutting rates in 2026, says a crypto analyst.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 00:21:01 +0000",
+      "fetched_at": "2025-12-31T01:01:04.142902266Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Pakistan could be a crypto leader in 5 years at current pace: CZ",
+      "link": "https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOGYtY2FhMy03YTE2LWJkZjQtMGNjMmRlNjE5MzA1LmpwZw==.jpg\" alt=\"Pakistan could be a crypto leader in 5 years at current pace: CZ\"\u003e\u003c/p\u003e\u003cp\u003eFormer Binance boss Changpeng Zhao has praised Pakistan for its speedy crypto adoption in 2025, saying the country is on track to become a crypto leader by 2030.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 00:44:19 +0000",
+      "fetched_at": "2025-12-31T01:01:04.142884863Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "It was a rough year for nightclubs",
       "link": "https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 20 Dec 2025 11:54:00 +0000",
       "fetched_at": "2025-12-20T12:21:45.266263696Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
-      "link": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Pakistan's former PM, who is already serving time in prison, plans to challenge the verdict.",
-      "published": "Sat, 20 Dec 2025 10:32:21 GMT",
-      "fetched_at": "2025-12-20T10:49:23.087453432Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How a single copy-paste mistake cost a user $50M in USDt",
-      "link": "https://cointelegraph.com/news/address-poisoning-copy-paste-mistake-50m-usdt-loss?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNiMzgtNzI4My03YzM5LWI3OTItYzEwODBlZTdjYTE4LmpwZw==.jpg\" alt=\"How a single copy-paste mistake cost a user $50M in USDt\"\u003e\u003c/p\u003e\u003cp\u003eA user lost nearly $50 million in USDt after copying a poisoned wallet address from transaction history, showing how subtle address spoofing can trick users.\u003c/p\u003e",
-      "published": "Sat, 20 Dec 2025 10:09:28 +0000",
-      "fetched_at": "2025-12-20T10:12:23.818342573Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1441,
-  "last_update": "2025-12-30T23:49:45.378935811Z"
+  "total_captured": 1443,
+  "last_update": "2025-12-31T01:01:04.278410752Z"
 }
