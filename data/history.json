@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Finnish police seize ship suspected of sabotaging undersea cable",
+      "link": "https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Police arrested 14 crew members on the ship sailing from the St Petersburg to the Israeli port of Haifa.",
+      "published": "Wed, 31 Dec 2025 16:48:43 GMT",
+      "fetched_at": "2025-12-31T17:11:16.390160583Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto billionaires are among biggest losers of 2025: Report",
+      "link": "https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYjMtYWQzOS03YzU1LTg0ZGQtMWYzZGRjMjQzYzM1.jpg\" alt=\"Crypto billionaires are among biggest losers of 2025: Report\"\u003e\u003c/p\u003e\u003cp\u003eWhile Circle CEO Jeremy Allaire increased his net worth by a reported 149%, others like Changpeng Zhao and the Winklevosses saw declines.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 17:01:01 +0000",
+      "fetched_at": "2025-12-31T17:11:16.381494504Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: Stunning celestial events that lit up the skies in 2025",
       "link": "https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 22 Dec 2025 02:02:02 +0000",
       "fetched_at": "2025-12-22T03:07:37.902226059Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Alex Iwobi says Afcon is a special football tournament",
-      "link": "https://www.bbc.com/news/articles/cx25dejn4n5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Fulham midfielder will represent his birth country Nigeria in the competition featuring 24 nations.",
-      "published": "Mon, 22 Dec 2025 02:49:37 GMT",
-      "fetched_at": "2025-12-22T03:07:37.243323698Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Why Croatia's capital wants to hold Europe's best Christmas market",
-      "link": "https://www.bbc.com/news/articles/c8dy5m56477o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The festive events help to put cities on the map and attract millions of tourists.",
-      "published": "Mon, 22 Dec 2025 01:05:38 GMT",
-      "fetched_at": "2025-12-22T03:07:37.243310403Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1485,
-  "last_update": "2025-12-31T16:46:42.628728594Z"
+  "total_captured": 1487,
+  "last_update": "2025-12-31T17:11:16.390179749Z"
 }
