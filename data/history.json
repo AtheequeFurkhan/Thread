@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Uganda opposition leader promotes Bitchat amid fears of internet blackout",
+      "link": "https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcyNGItZjJiNC03ZmE0LTk2YzAtZjE3ZTBhNDlhMGU5LmpwZw==.jpg\" alt=\"Uganda opposition leader promotes Bitchat amid fears of internet blackout\"\u003e\u003c/p\u003e\u003cp\u003eGoogle Trends search for “Bitchat” in Uganda shows a spike from 0 to 100 on Wednesday, the day after opposition leader Bobi Wine urged people to download it.\u003c/p\u003e",
+      "published": "Wed, 31 Dec 2025 05:26:14 +0000",
+      "fetched_at": "2025-12-31T05:45:55.948944444Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Eurostar delays enter second day as passengers stuck onboard overnight",
       "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 20 Dec 2025 21:39:29 +0000",
       "fetched_at": "2025-12-20T21:47:07.193711258Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Google asks UK experts to find uses for its powerful quantum tech",
-      "link": "https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "UK researchers will get a chance to develop applications for the tech giant's quantum processor.",
-      "published": "Fri, 12 Dec 2025 00:34:11 GMT",
-      "fetched_at": "2025-12-20T20:48:27.96816144Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1453,
-  "last_update": "2025-12-31T05:23:34.205860866Z"
+  "total_captured": 1454,
+  "last_update": "2025-12-31T05:45:56.18690967Z"
 }

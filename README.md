@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 05:23 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1453-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 05:45 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1454-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 05:23 UTC)*
+*(Updated: 31 Dec 05:45 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Eurostar delays enter second day as passengers stuck onboard overnight](https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Watch: Underwater chess champions compete for world title](https://www.bbc.com/news/videos/cd9ed29vg2eo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Technology** | [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [Judge orders Trump administration to continue to seek funding for the CFPB](https://www.npr.org/2025/12/30/nx-s1-5661581/cfpb-funding-order) | ⚪ Neutral |
 | **Crypto** | [South Korea delays crypto bill over stablecoin concerns: Report](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoins-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [How privacy prevailed in an otherwise dismal Q4 for crypto](https://cointelegraph.com/news/privacy-prevailed-q4-crypto-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine bags $98M in ETH as year-end selling caps gains: Tom Lee](https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What the Fed’s divided 2026 outlook means for Bitcoin and crypto](https://cointelegraph.com/news/fed-divided-2026-outlook-means-bitcoin-and-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto lagged gold, stocks, but 2026 offers chance for ‘catch up’](https://cointelegraph.com/news/crypto-lagging-gold-stocks-2026-catch-up-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [2026 Fed cuts will be ‘key catalyst’ for retail’s return to crypto](https://cointelegraph.com/news/2026-fed-cuts-key-catalyst-retail-return-to-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Pakistan could be a crypto leader in 5 years at current pace: CZ](https://cointelegraph.com/news/pakistan-could-become-world-crypto-leader-cz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
