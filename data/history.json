@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Heated Rivalry author says TV success led to help with her Parkinson's",
+      "link": "https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Rachel Reid says the publicity from the hit TV adaptation led a Parkinson's specialist to get in touch.",
+      "published": "Wed, 31 Dec 2025 09:45:20 GMT",
+      "fetched_at": "2025-12-31T11:12:25.246657942Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move",
       "link": "https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 00:30:34 GMT",
       "fetched_at": "2025-12-21T13:03:10.845608652Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Rights groups condemn new record number of executions in Saudi Arabia",
-      "link": "https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "At least 347 people have now been put to death this year, according to the UK-based campaign group Reprieve.",
-      "published": "Sun, 21 Dec 2025 12:08:10 GMT",
-      "fetched_at": "2025-12-21T13:03:10.845592782Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1469,
-  "last_update": "2025-12-31T10:52:33.108834395Z"
+  "total_captured": 1470,
+  "last_update": "2025-12-31T11:12:25.595717206Z"
 }
