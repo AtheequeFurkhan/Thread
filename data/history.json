@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bulgaria joins the euro after rocky path to new currency",
+      "link": "https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The move is dividing the nation - some welcome it as a bold leap forwards, but others fear it will lead to economic stagnation.",
+      "published": "Wed, 31 Dec 2025 22:05:03 GMT",
+      "fetched_at": "2025-12-31T22:35:07.499575297Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "'Massive' liquidity injections to boost BTC price in 2026, crypto exec says",
       "link": "https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 07:53:47 GMT",
       "fetched_at": "2025-12-22T08:19:38.671144354Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "CBS News chief Bari Weiss pulls '60 Minutes' story, sparking outcry",
-      "link": "https://www.npr.org/2025/12/22/g-s1-103282/cbs-chief-bari-weiss-pulls-60-minutes-story",
-      "category": "Business",
-      "summary": "CBS News Editor-in-Chief Bari Weiss pulled a \u003cem\u003e60 Minutes\u003c/em\u003e segment on allegations of abuses at an El Salvador detention center where the Trump administration sent hundreds of Venezuelan migrants.",
-      "published": "Mon, 22 Dec 2025 01:31:28 -0500",
-      "fetched_at": "2025-12-22T06:55:00.855250638Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1497,
-  "last_update": "2025-12-31T22:12:46.974104064Z"
+  "total_captured": 1498,
+  "last_update": "2025-12-31T22:35:07.649464647Z"
 }
