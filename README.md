@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 11:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1473-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-31 Dec 12:24 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1474-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 11:48 UTC)*
+*(Updated: 31 Dec 12:24 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Heavy police presence in Sydney for New Year's celebrations after Bondi attack](https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Four Bitcoin charts to watch heading into 2026](https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Perp DEXs almost triple volume in 2025 as onchain derivatives mature](https://cointelegraph.com/news/perpetuals-dex-volume-2025-onchain-derivatives-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price in 2026: Predictions vs. charts and reality](https://cointelegraph.com/news/bitcoin-price-in-2026-predictions-vs-charts-and-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Ethereum L1 txs hit 2.2M in a day, and each one cost around 17 cents](https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Uganda opposition leader promotes Bitchat amid fears of internet blackout](https://cointelegraph.com/news/uganda-opposition-leader-promotes-bitchat-amid-fears-of-internet-blackout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Heavy police presence in Sydney for New Year's celebrations after Bondi attack](https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Heated Rivalry author says TV success led to help with her Parkinson's](https://www.bbc.com/news/articles/ce8gd0qvyrpo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Mali and Burkina Faso impose travel ban on US citizens in tit-for-tat move](https://www.bbc.com/news/articles/cgrdjx1d1vjo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Hundreds of thousands mourn Bangladesh's ex-PM at state funeral](https://www.bbc.com/news/articles/c5yvdjxeqv6o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Notable deaths 2025](https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC](https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

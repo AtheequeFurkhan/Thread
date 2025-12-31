@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Heavy police presence in Sydney for New Year's celebrations after Bondi attack",
+      "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Thousands of officers are deployed around Sydney Harbour and across the city, with some carrying high-grade weapons as part of heightened security measures.",
+      "published": "Wed, 31 Dec 2025 11:49:13 GMT",
+      "fetched_at": "2025-12-31T12:24:25.125431267Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Four Bitcoin charts to watch heading into 2026",
       "link": "https://cointelegraph.com/news/4-bitcoin-price-charts-to-watch-heading-into-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sun, 21 Dec 2025 14:38:12 GMT",
       "fetched_at": "2025-12-21T14:48:39.716107379Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Chevron continues operations in Venezuela despite war threat",
-      "link": "https://www.npr.org/2025/12/21/nx-s1-5648608/chevron-continues-operations-in-venezuela-despite-war-threat",
-      "category": "Business",
-      "summary": "Despite the threat of war, U.S. oil giant Chevron continues to operate in Venezuela. NPR's Ayesha Rascoe asks energy security analyst Clayton Seigle about the company's role in the country.",
-      "published": "Sun, 21 Dec 2025 08:10:57 -0500",
-      "fetched_at": "2025-12-21T13:37:25.81076715Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1473,
-  "last_update": "2025-12-31T11:48:29.202900845Z"
+  "total_captured": 1474,
+  "last_update": "2025-12-31T12:24:25.384892143Z"
 }
