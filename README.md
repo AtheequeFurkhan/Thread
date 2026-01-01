@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 22:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1567-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 22:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1568-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 22:35 UTC)*
+*(Updated: 01 Jan 22:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Amazon blocks 1,800 job applications from suspected North Korean agents](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage](https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Two killed in clashes between protesters and security forces in Iran](https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Amazon blocks 1,800 job applications from suspected North Korean agents](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

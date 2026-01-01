@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
+      "link": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.",
+      "published": "Tue, 23 Dec 2025 02:49:45 GMT",
+      "fetched_at": "2026-01-01T22:51:33.738092148Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 23 Dec 2025 00:24:25 GMT",
       "fetched_at": "2025-12-23T02:54:59.991711089Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Trump unveils plans for 'Golden Fleet' battleships named after himself",
-      "link": "https://www.bbc.com/news/articles/c2084nq2npjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US president has vowed to revive American shipbuilding after lagging behind China in naval capacity.",
-      "published": "Tue, 23 Dec 2025 00:36:38 GMT",
-      "fetched_at": "2025-12-23T02:54:59.991688747Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1567,
-  "last_update": "2026-01-01T22:35:17.503307685Z"
+  "total_captured": 1568,
+  "last_update": "2026-01-01T22:51:33.90880595Z"
 }
