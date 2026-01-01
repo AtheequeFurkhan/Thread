@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "The entrepreneur connecting tourists to African hospitality",
+      "link": "https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "TripZapp founder Rory Okoli wants to make it simple for tourists to book and pay for African travel.",
+      "published": "Tue, 25 Nov 2025 00:02:30 GMT",
+      "fetched_at": "2026-01-01T20:52:05.951949652Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
       "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 19 Nov 2025 00:23:14 GMT",
       "fetched_at": "2025-12-22T23:30:56.659935377Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The contradiction at the heart of the trillion-dollar AI race",
-      "link": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting",
-      "published": "Wed, 19 Nov 2025 13:52:41 GMT",
-      "fetched_at": "2025-12-22T23:30:56.659919507Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1553,
-  "last_update": "2026-01-01T20:36:15.53634424Z"
+  "total_captured": 1554,
+  "last_update": "2026-01-01T20:52:06.187846745Z"
 }
