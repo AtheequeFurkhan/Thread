@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Disney worker hurt stopping 180-kg fake boulder from hitting audience",
+      "link": "https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The worker is \"recovering\" after he was seen on video being knocked off his feet by the 400-lb (180kg) rubber Indiana Jones prop.",
+      "published": "Thu, 01 Jan 2026 01:49:26 GMT",
+      "fetched_at": "2026-01-01T03:18:00.722331799Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "India’s central bank urges countries to prioritize CBDCs over stablecoins",
+      "link": "https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc2Y2UtZTgxYS03NzJkLTk5YjAtMDg0ZmViYWEzZTk5LmpwZw==.jpg\" alt=\"India’s central bank urges countries to prioritize CBDCs over stablecoins\"\u003e\u003c/p\u003e\u003cp\u003eOnly three CBDCs have been successfully launched around the world so far, in Nigeria, the Bahamas and Jamaica, although many jurisdictions are considering it.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 01:26:40 +0000",
+      "fetched_at": "2026-01-01T03:18:00.711737348Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "CFTC director who made Bitcoin futures possible returns as chief of staff",
+      "link": "https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzQtZDQ5YS03ZGQyLWE1ZDItZDA0OWI1Yzc1OGU1.jpg\" alt=\"CFTC director who made Bitcoin futures possible returns as chief of staff\"\u003e\u003c/p\u003e\u003cp\u003eAmir Zaidi’s return signals a strengthening of crypto oversight as the agency prepares for new digital asset laws.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 01:49:03 +0000",
+      "fetched_at": "2026-01-01T03:18:00.711713995Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Private messaging faces threats from AI, limited user awareness: Session execs",
+      "link": "https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQzMjgtYzQyNi03MTIyLWFmNmQtMWRiZjg1NmQ5MjU4LmpwZw==.jpg\" alt=\"Private messaging faces threats from AI, limited user awareness: Session execs\"\u003e\u003c/p\u003e\u003cp\u003eSession’s Chris McCabe and Alex Linton tell Cointelegraph that AI-integrated devices could bypass messaging encryption, creating privacy and security issues.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 02:16:50 +0000",
+      "fetched_at": "2026-01-01T03:18:00.711686954Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
+      "link": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included.",
+      "published": "Fri, 12 Dec 2025 20:45:06 GMT",
+      "fetched_at": "2026-01-01T03:18:00.411965548Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Teen who died after falling 500 feet from California's Mt Baldy identified",
       "link": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4454,53 +4499,8 @@
       "published": "Mon, 22 Dec 2025 11:27:54 GMT",
       "fetched_at": "2025-12-22T12:25:54.582381812Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish",
-      "link": "https://cointelegraph.com/news/bitcoin-santa-rally-targets-120k-key-btc-metric-flips-bullish?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmUtMjZmNS03MTJkLTg4MDQtMTJlMGYzM2MzZmNkLmpwZw==.jpg\" alt=\"Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin approached $90,000 amid Santa Rally speculation, backed by bullish derivatives and chart patterns that target a BTC price above $100,000.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 11:36:43 +0000",
-      "fetched_at": "2025-12-22T11:48:01.883087066Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "$90K BTC vs. record gold price: 5 things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/news/90k-btc-vs-record-gold-price-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1NWEtNjI0Yy03ZDBmLTgyN2EtYzIwZmJhMTQxMjY0LmpwZw==.jpg\" alt=\"$90K BTC vs. record gold price: 5 things to know in Bitcoin this week\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin gained new warnings of a BTC price breakdown as gold and silver hit new all-time highs in the shadow of Japanese market instability.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 10:20:01 +0000",
-      "fetched_at": "2025-12-22T10:40:58.089784946Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "How President Trump reshaped capitalism in 2025",
-      "link": "https://www.npr.org/2025/12/22/nx-s1-5639916/trump-crony-capitalism-free-market",
-      "category": "Business",
-      "summary": "His policies are picking winners and losers — and blurring the lines between business and government.",
-      "published": "Mon, 22 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-22T10:14:36.948596288Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Can Americans learn to love tiny, cheap kei cars?",
-      "link": "https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles",
-      "category": "Business",
-      "summary": "President Trump recently embraced kei cars, tiny vehicles that are popular in Asia but hard to get in the U.S. Kei car enthusiasts are delighted — but doubt whether much will change.",
-      "published": "Mon, 22 Dec 2025 05:00:00 -0500",
-      "fetched_at": "2025-12-22T10:14:36.948579356Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Indonesia lists 29 licensed crypto platforms as big exchanges explore market",
-      "link": "https://cointelegraph.com/news/indonesia-lists-licensed-crypto-platforms?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjE0MDktNzI2MS03MGY2LWExMjAtMjI2ZjkwNWM3OGE0LmpwZw==.jpg\" alt=\"Indonesia lists 29 licensed crypto platforms as big exchanges explore market\"\u003e\u003c/p\u003e\u003cp\u003eIndonesia’s OJK has identified 29 licensed digital asset and crypto trading platforms, just weeks after tightening digital asset rules.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 09:51:42 +0000",
-      "fetched_at": "2025-12-22T10:14:36.672693249Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1503,
-  "last_update": "2026-01-01T01:06:49.679946263Z"
+  "total_captured": 1508,
+  "last_update": "2026-01-01T03:18:00.801998701Z"
 }

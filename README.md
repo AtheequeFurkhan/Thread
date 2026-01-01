@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 01:06 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1503-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 03:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1508-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 01:06 UTC)*
+*(Updated: 01 Jan 03:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Disney worker hurt stopping 180-kg fake boulder from hitting audience](https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Teen who died after falling 500 feet from California's Mt Baldy identified](https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [What are Russians hoping for in 2026, asks Steve Rosenberg](https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep](https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **Business** | [What to know about Nick Shirley, the YouTuber alleging daycare fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud) | ⚪ Neutral |
 | **World** | [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [If history repeats itself, will the US Congress become more pro-crypto in 2026?](https://cointelegraph.com/news/history-repeats-us-congress-pro-crypto-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Finnish police seize ship suspected of sabotaging undersea cable](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Watch: Stunning celestial events that lit up the skies in 2025](https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [In pictures: New Year welcomed around the world](https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Private messaging faces threats from AI, limited user awareness: Session execs](https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep](https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [US lawmakers expected to address market structure markup in January](https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [A wave paralysed me but AI could help me walk again](https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Clair Obscur sweeps The Game Awards with nine wins](https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump signs order to block states from enforcing own AI rules](https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [Disney worker hurt stopping 180-kg fake boulder from hitting audience](https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Teen who died after falling 500 feet from California's Mt Baldy identified](https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What are Russians hoping for in 2026, asks Steve Rosenberg](https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iran protesters try to break into government building as unrest continues](https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
