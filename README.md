@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 06:23 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1511-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 06:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1515-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 06:23 UTC)*
+*(Updated: 01 Jan 06:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Anthony Joshua discharged from hospital after Nigeria car crash](https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Zohran Mamdani sworn in as first Muslim New York City Mayor](https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://cointelegraph.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Final nail in the 4-year cycle? BTC ends year after halving in the red](https://cointelegraph.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [4 crypto comebacks from 2025 that could help shape the year ahead](https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Zelensky says peace deal is 90% ready in New Year address](https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [US lawmakers expected to address market structure markup in January](https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://cointelegraph.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Final nail in the 4-year cycle? BTC ends year after halving in the red](https://cointelegraph.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [4 crypto comebacks from 2025 that could help shape the year ahead](https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Private messaging faces threats from AI, limited user awareness: Session execs](https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Anthony Joshua discharged from hospital after Nigeria car crash](https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Zohran Mamdani sworn in as first Muslim New York City Mayor](https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Zelensky says peace deal is 90% ready in New Year address](https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Disney worker hurt stopping 180-kg fake boulder from hitting audience](https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Teen who died after falling 500 feet from California's Mt Baldy identified](https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [What are Russians hoping for in 2026, asks Steve Rosenberg](https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

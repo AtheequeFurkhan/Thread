@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
+      "link": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Two of the former world champion's closest friends were killed in the accident on Monday.",
+      "published": "Thu, 01 Jan 2026 00:32:22 GMT",
+      "fetched_at": "2026-01-01T06:54:16.873677559Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
+      "link": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Democratic politician took his oath over a Quran in the disused Old City Hall subway station.",
+      "published": "Thu, 01 Jan 2026 06:37:27 GMT",
+      "fetched_at": "2026-01-01T06:54:16.873661018Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Investors funnel $32B into US crypto ETFs despite year-end pullback",
+      "link": "https://cointelegraph.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc3OTYtNjgxZS03Y2RlLWJmY2QtOWI1Y2M2NzY2NzM3LmpwZw==.jpg\" alt=\"Investors funnel $32B into US crypto ETFs despite year-end pullback\"\u003e\u003c/p\u003e\u003cp\u003eBlackRock has further separated itself from competitors in the crypto ETF market in 2025, with its Bitcoin and Ether funds, IBIT and ETHA, accounting for the majority of net inflows.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 06:25:53 +0000",
+      "fetched_at": "2026-01-01T06:54:16.829730529Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Final nail in the 4-year cycle? BTC ends year after halving in the red",
+      "link": "https://cointelegraph.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc3ZDEtMWIzMi03YTVjLWEyOWUtODE3ZTRjNmQwNmNhLmpwZw==.jpg\" alt=\"Final nail in the 4-year cycle? BTC ends year after halving in the red\"\u003e\u003c/p\u003e\u003cp\u003eFollowing the 2012 halving, Bitcoin surged to end the following year at a new high; and a similar pattern played out in 2016 and again in 2020.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 06:30:06 +0000",
+      "fetched_at": "2026-01-01T06:54:16.829714159Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "4 crypto comebacks from 2025 that could help shape the year ahead",
       "link": "https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 22 Dec 2025 13:33:25 +0000",
       "fetched_at": "2025-12-22T13:45:52.054736618Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ghana passes law to legalize crypto trading, central bank governor says",
-      "link": "https://cointelegraph.com/news/ghana-passes-law-to-legalize-crypto-trading-central-bank-governor-says?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ZmUtNzE3Zi03Mzk0LTlmMzktNzk2YjIwMWYyYjA3LmpwZw==.jpg\" alt=\"Ghana passes law to legalize crypto trading, central bank governor says\"\u003e\u003c/p\u003e\u003cp\u003eGhana legalizes cryptocurrency and gives its central bank authority to regulate and license providers to reduce fraud and systemic risks.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 13:40:12 +0000",
-      "fetched_at": "2025-12-22T13:45:52.054718785Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules",
-      "link": "https://cointelegraph.com/news/hong-kong-insurance-authority-proposes-allowing-insurances-to-invest-in-crypto-report?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ0ZTMtNjk1YS03ZWMwLWFmNjYtNDg4MmJkYzlmYTc1LmpwZw==.jpg\" alt=\"Crypto may enter insurers’ portfolios as Hong Kong reviews capital rules\"\u003e\u003c/p\u003e\u003cp\u003eHong Kong’s insurance regulator is reportedly weighing a proposal to let insurers invest in cryptocurrencies with a 100% capital charge.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 12:38:12 +0000",
-      "fetched_at": "2025-12-22T13:08:13.759080217Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance",
-      "link": "https://cointelegraph.com/news/dex-adoption-hip-3-hype-200-hyperliquid?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ZDAtNDBmZi03ZGU2LWI2ZDctZmRmMmY3MWYyNmU3LmpwZw==.jpg\" alt=\"DEX adoption, HIP-3 fuel $200 HYPE case as rivals threaten Hyperliquid’s dominance\"\u003e\u003c/p\u003e\u003cp\u003eCantor Fitzgerald is predicting a HYPE rally to $200 by 2035, but rival DEXs are attracting a growing share of crypto traders as they emerge with lucrative reward farming systems.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 12:55:38 +0000",
-      "fetched_at": "2025-12-22T13:08:13.759055681Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Aave governance vote sparks backlash over rushed escalation",
-      "link": "https://cointelegraph.com/news/aave-governance-backlash-snapshot-vote-process-dispute?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmQtNzQxZi03OWMyLTg2ZmEtYWIzYTFiZDc0YmI4LmpwZw==.jpg\" alt=\"Aave governance vote sparks backlash over rushed escalation\"\u003e\u003c/p\u003e\u003cp\u003eCritics say the decision to fast-track a brand ownership vote exposed weaknesses in how one of DeFi’s largest DAOs handles governance process.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 13:04:15 +0000",
-      "fetched_at": "2025-12-22T13:08:13.759026827Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1511,
-  "last_update": "2026-01-01T06:23:57.732652463Z"
+  "total_captured": 1515,
+  "last_update": "2026-01-01T06:54:17.103741708Z"
 }
