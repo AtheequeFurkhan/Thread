@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
+      "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "To succeed in office he will need to keep his supporters engaged with day-to-day governing, experts say.",
+      "published": "Thu, 01 Jan 2026 13:57:12 GMT",
+      "fetched_at": "2026-01-01T14:35:23.659729051Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "New discovery may challenge theory Vikings built first Irish towns - researcher",
+      "link": "https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring.",
+      "published": "Thu, 01 Jan 2026 13:58:18 GMT",
+      "fetched_at": "2026-01-01T14:35:23.659709575Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The XRP Army got everything except $5 price: Will 2026 deliver?",
+      "link": "https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3Y2YtYWRjYi03YzYzLTk3NzQtYjIwZjlkMTYyOTUzLmpwZw==.jpg\" alt=\"The XRP Army got everything except $5 price: Will 2026 deliver?\"\u003e\u003c/p\u003e\u003cp\u003eXRP scored every major win in 2025 with the SEC case resolved and spot ETFs launched, yet the price crashed 50%, with the $5 target remaining elusive.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 14:15:00 +0000",
+      "fetched_at": "2026-01-01T14:35:23.402318666Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto privacy in 2026: Compliance-friendly tools take center stage",
       "link": "https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 22 Dec 2025 21:37:58 +0000",
       "fetched_at": "2025-12-22T21:41:26.639276585Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ros Atkins on… the oil tanker being pursued by the US",
-      "link": "https://www.bbc.com/news/videos/ce3w4x2v0xko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC’s Analysis Editor Ros Atkins looks at what we know about the \"active pursuit\" of an oil tanker by the US Coast Guard off the coast of Venezuela.",
-      "published": "Mon, 22 Dec 2025 21:27:01 GMT",
-      "fetched_at": "2025-12-22T21:41:26.065116735Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Now",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Adrienne Murray meets the engineers designing icebreaker ship technology for the Arctic.",
-      "published": "Sat, 29 Nov 2025 01:00:00 GMT",
-      "fetched_at": "2025-12-22T21:30:16.948637226Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "How AI is used in songwriting and fashion. Plus, a warning on how it’s used in toys.",
-      "published": "Tue, 02 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-22T21:30:16.948615917Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1538,
-  "last_update": "2026-01-01T14:13:03.14272786Z"
+  "total_captured": 1541,
+  "last_update": "2026-01-01T14:35:23.800488915Z"
 }

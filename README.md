@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 14:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1538-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 14:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1541-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 14:13 UTC)*
+*(Updated: 01 Jan 14:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?](https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [New discovery may challenge theory Vikings built first Irish towns - researcher](https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [The XRP Army got everything except $5 price: Will 2026 deliver?](https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://cointelegraph.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts](https://cointelegraph.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | [Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) | ⚪ Neutral |
 | **Business** | [Jim Beam to pause production at its main plant in 2026](https://www.npr.org/2026/01/01/nx-s1-5662610/jim-beam-to-pause-production-at-its-main-plant-in-2026) | ⚪ Neutral |
-| **Business** | [It's the year's biggest economic buzzword, but what exactly is a 'K-shaped' economy?](https://www.npr.org/2026/01/01/nx-s1-5660753/its-the-years-biggest-economic-buzzword-but-what-exactly-is-a-k-shaped-economy) | ⚪ Neutral |
-| **Crypto** | [Tether snaps up another 8,888 BTC, now fifth-largest Bitcoin wallet](https://cointelegraph.com/news/tether-buys-another-8-888-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [The XRP Army got everything except $5 price: Will 2026 deliver?](https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://cointelegraph.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts](https://cointelegraph.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [SOL accumulation tops crypto trends on New Year’s Day: Santiment](https://cointelegraph.com/news/solana-whale-accumulation-santiment-crypto-trends-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Can Solana shed its memecoin image in 2026?](https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?](https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [New discovery may challenge theory Vikings built first Irish towns - researcher](https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Brazil legend Roberto Carlos recovering in hospital](https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Netherlands police face 'unprecedented' New Year's  violence](https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [What we know about the Switzerland ski resort fire](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [US military says five killed in latest strike on alleged drug boats](https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
