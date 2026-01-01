@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 21:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1555-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 21:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1557-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 21:12 UTC)*
+*(Updated: 01 Jan 21:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Business** | [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) | ⚪ Neutral |
 | **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [New discovery may challenge theory Vikings built first Irish towns - researcher](https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [The XRP Army got everything except $5 price: Will 2026 deliver?](https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://cointelegraph.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts](https://cointelegraph.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) (⚪ Neutral)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) (⚪ Neutral)
 - [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) (🔴 Negative)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) (⚪ Neutral)
 - [Jim Beam to pause production at its main plant in 2026](https://www.npr.org/2026/01/01/nx-s1-5662610/jim-beam-to-pause-production-at-its-main-plant-in-2026) (⚪ Neutral)
-- [It's the year's biggest economic buzzword, but what exactly is a 'K-shaped' economy?](https://www.npr.org/2026/01/01/nx-s1-5660753/its-the-years-biggest-economic-buzzword-but-what-exactly-is-a-k-shaped-economy) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World

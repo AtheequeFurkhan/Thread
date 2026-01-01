@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
+      "link": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
+      "published": "Wed, 19 Nov 2025 00:23:14 GMT",
+      "fetched_at": "2026-01-01T21:31:10.308352513Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires",
+      "link": "https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires",
+      "category": "Business",
+      "summary": "After six decades running Berkshire Hathaway, the legendary investor Warren Buffett has officially stepped down as CEO.",
+      "published": "Thu, 01 Jan 2026 16:16:21 -0500",
+      "fetched_at": "2026-01-01T21:31:09.87705055Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The contradiction at the heart of the trillion-dollar AI race",
       "link": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 11 Nov 2025 00:03:14 GMT",
       "fetched_at": "2025-12-22T23:48:33.292456752Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Call of Duty is back, and it's got a battle on its hands",
-      "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6.",
-      "published": "Fri, 14 Nov 2025 15:47:29 GMT",
-      "fetched_at": "2025-12-22T23:48:33.29243955Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Can technology fix fashion's sizing crisis?",
-      "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized.",
-      "published": "Sat, 15 Nov 2025 04:03:27 GMT",
-      "fetched_at": "2025-12-22T23:30:56.659948692Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1555,
-  "last_update": "2026-01-01T21:12:00.056890348Z"
+  "total_captured": 1557,
+  "last_update": "2026-01-01T21:31:10.651907611Z"
 }
