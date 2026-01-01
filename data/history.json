@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Zelensky says peace deal is 90% ready in New Year address",
+      "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russian President Vladimir Putin used his New Year speech to tell troops that he \"believed in you and our victory\" in Ukraine.",
+      "published": "Thu, 01 Jan 2026 05:22:01 GMT",
+      "fetched_at": "2026-01-01T05:42:56.707188516Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto forces to compound in 2026, accelerating adoption: Coinbase",
       "link": "https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 06:14:56 GMT",
       "fetched_at": "2025-12-22T12:25:54.582681181Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Gold price climbs above $4,400 to hit record high",
-      "link": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Investors are flocking to precious metals amid geopolitical tensions and with more US interest rate cuts expected.",
-      "published": "Mon, 22 Dec 2025 12:17:36 GMT",
-      "fetched_at": "2025-12-22T12:25:54.582496927Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1509,
-  "last_update": "2026-01-01T05:05:21.852394988Z"
+  "total_captured": 1510,
+  "last_update": "2026-01-01T05:42:56.917373805Z"
 }
