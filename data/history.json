@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts",
+      "link": "https://cointelegraph.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc5MDQtY2JkZS03ODViLThlYzgtMjVlOWRlNjdlYTRmLmpwZw==.jpg\" alt=\"Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts\"\u003e\u003c/p\u003e\u003cp\u003eMillions of long-inactive users still hold crypto at Bithumb, highlighting how early retail capital can remain untouched for years.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 13:25:27 +0000",
+      "fetched_at": "2026-01-01T13:44:44.846427463Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "SOL accumulation tops crypto trends on New Year’s Day: Santiment",
+      "link": "https://cointelegraph.com/news/solana-whale-accumulation-santiment-crypto-trends-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc5NDQtNjIyMC03NTQ4LWJkOTktZTY0MmM5NTNlZGEyLmpwZw==.jpg\" alt=\"SOL accumulation tops crypto trends on New Year’s Day: Santiment\"\u003e\u003c/p\u003e\u003cp\u003eWhale accumulation across Solana tokens is headlining crypto-related social buzz as 2026 begins, according to data from Santiment.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 13:29:34 +0000",
+      "fetched_at": "2026-01-01T13:44:44.846238653Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Brazil legend Roberto Carlos recovering in hospital",
       "link": "https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 22 Dec 2025 18:34:00 GMT",
       "fetched_at": "2025-12-22T21:11:32.525789074Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Spain's Christmas lottery sees residents of one town win 468 million euros",
-      "link": "https://www.bbc.com/news/articles/cz7ndpq42y0o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The town of La Bañeza, which has a population of around 11,000, was badly affected by wildfires in the summer.",
-      "published": "Mon, 22 Dec 2025 21:03:47 GMT",
-      "fetched_at": "2025-12-22T21:11:32.525770439Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Strategy boosts USD reserve with $748M stock sale, skips Bitcoin purchases",
-      "link": "https://cointelegraph.com/news/strategy-usd-reserve-748m-stock-sale-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YzYtMDUyMC03MjRhLWI1MzMtMzFhMmY5NTgzNDFjLmpwZw==.jpg\" alt=\"Strategy boosts USD reserve with $748M stock sale, skips Bitcoin purchases\"\u003e\u003c/p\u003e\u003cp\u003eThe company sold about 4.5 million common shares last week, lifting its cash reserves to $2.19 billion while pausing Bitcoin purchases.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 20:47:12 +0000",
-      "fetched_at": "2025-12-22T20:52:16.679576555Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1534,
-  "last_update": "2026-01-01T13:08:14.252439823Z"
+  "total_captured": 1536,
+  "last_update": "2026-01-01T13:44:45.091299338Z"
 }
