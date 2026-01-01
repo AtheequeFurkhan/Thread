@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Adrienne Murray meets the engineers designing icebreaker ship technology for the Arctic.",
+      "published": "Sat, 29 Nov 2025 01:00:00 GMT",
+      "fetched_at": "2026-01-01T14:51:56.866093697Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "How AI is used in songwriting and fashion. Plus, a warning on how it’s used in toys.",
+      "published": "Tue, 02 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2026-01-01T14:51:56.866072287Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
       "link": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 22 Dec 2025 16:52:45 -0500",
       "fetched_at": "2025-12-22T22:12:43.995199897Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "ETHZilla liquidates $74.5M in Ether to redeem convertible debt",
-      "link": "https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3ZGItOTdlZi03NjQ3LWIxNjctMWZhOTA4NGFlZjljLmpwZw==.jpg\" alt=\"ETHZilla liquidates $74.5M in Ether to redeem convertible debt\"\u003e\u003c/p\u003e\u003cp\u003eThe transaction highlights growing pressure on crypto treasury companies to prioritize debt reduction as token prices remain volatile.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 22:09:53 +0000",
-      "fetched_at": "2025-12-22T22:12:43.773512774Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Arizona lawmaker proposes barring taxes on crypto and blockchain",
-      "link": "https://cointelegraph.com/news/arizona-bill-crypto-blockchain-taxes-ban?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3OGQtOGQ2Ni03ZGNlLThhZTgtOWYzYmRmZjY3YTRlLmpwZw==.jpg\" alt=\"Arizona lawmaker proposes barring taxes on crypto and blockchain\"\u003e\u003c/p\u003e\u003cp\u003eTwo bills and one resolution proposed by state lawmaker Wendy Rogers could allow Arizona voters to change the state's taxation laws applied to digital assets and blockchain.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 21:37:58 +0000",
-      "fetched_at": "2025-12-22T21:41:26.639276585Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1541,
-  "last_update": "2026-01-01T14:35:23.800488915Z"
+  "total_captured": 1543,
+  "last_update": "2026-01-01T14:51:57.078398608Z"
 }
