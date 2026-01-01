@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "BBC reports from the scene of Swiss resort bar fire",
+      "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Dozens of people are believed to have died after a fire broke out during New Year's Eve celebrations.",
+      "published": "Thu, 01 Jan 2026 09:24:11 GMT",
+      "fetched_at": "2026-01-01T09:43:27.367213259Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
       "link": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 15 Dec 2025 17:06:41 GMT",
       "fetched_at": "2025-12-22T14:13:41.240786951Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
-      "link": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.",
-      "published": "Mon, 22 Dec 2025 14:08:48 GMT",
-      "fetched_at": "2025-12-22T14:13:41.240750784Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1517,
-  "last_update": "2026-01-01T09:17:20.264650545Z"
+  "total_captured": 1518,
+  "last_update": "2026-01-01T09:43:27.367231944Z"
 }
