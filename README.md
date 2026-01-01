@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 09:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1523-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 10:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1527-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 09:53 UTC)*
+*(Updated: 01 Jan 10:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) | ⚪ Neutral |
+| **Business** | [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) | 🔴 Negative |
+| **Technology** | [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) | ⚪ Neutral |
 | **Business** | [Jim Beam to pause production at its main plant in 2026](https://www.npr.org/2026/01/01/nx-s1-5662610/jim-beam-to-pause-production-at-its-main-plant-in-2026) | ⚪ Neutral |
 | **Business** | [It's the year's biggest economic buzzword, but what exactly is a 'K-shaped' economy?](https://www.npr.org/2026/01/01/nx-s1-5660753/its-the-years-biggest-economic-buzzword-but-what-exactly-is-a-k-shaped-economy) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Zelensky says peace deal is 90% ready in New Year address](https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Disney worker hurt stopping 180-kg fake boulder from hitting audience](https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) (⚪ Neutral)
+- [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) (🔴 Negative)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) (⚪ Neutral)
 - [Jim Beam to pause production at its main plant in 2026](https://www.npr.org/2026/01/01/nx-s1-5662610/jim-beam-to-pause-production-at-its-main-plant-in-2026) (⚪ Neutral)
 - [It's the year's biggest economic buzzword, but what exactly is a 'K-shaped' economy?](https://www.npr.org/2026/01/01/nx-s1-5660753/its-the-years-biggest-economic-buzzword-but-what-exactly-is-a-k-shaped-economy) (⚪ Neutral)
-- [What to know about Nick Shirley, the YouTuber alleging daycare fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud) (⚪ Neutral)
-- [It was a rough year for nightclubs](https://www.npr.org/2025/12/30/nx-s1-5658263/it-was-a-rough-year-for-nightclubs) (⚪ Neutral)
 
 
 ### 📂 Crypto
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Online gaming escaped Australia's social media ban - but critics say it's just as addictive](https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [A wave paralysed me but AI could help me walk again](https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Google asks UK experts to find uses for its powerful quantum tech](https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

@@ -2,6 +2,42 @@
   "articles": [
     {
       "title": "Warren Buffett officially retires as Berkshire Hathway's CEO",
+      "link": "https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo",
+      "category": "Business",
+      "summary": "The legendary 95-year-old investor spent decades building his company into one of the world's largest and most powerful. Now Greg Abel is taking it over.",
+      "published": "Thu, 01 Jan 2026 05:00:00 -0500",
+      "fetched_at": "2026-01-01T10:14:14.195806019Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto soared in 2025 — and then crashed. Now what?",
+      "link": "https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin",
+      "category": "Business",
+      "summary": "For most of 2025, cryptocurrencies such as bitcoin surged as President Trump vowed to make the U.S. a crypto leader. But now, a severe sell-off has shaken the sector.",
+      "published": "Thu, 01 Jan 2026 05:00:00 -0500",
+      "fetched_at": "2026-01-01T10:14:14.195783868Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "What's next for TikTok in the US as deal prospects remain uncertain?",
+      "link": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done.",
+      "published": "Mon, 15 Dec 2025 17:06:41 GMT",
+      "fetched_at": "2026-01-01T10:14:13.908070345Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto users forced to share account details with tax officials",
+      "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The move is designed to ensure people pay all relevant tax on buying and selling crypto.",
+      "published": "Thu, 01 Jan 2026 09:52:20 GMT",
+      "fetched_at": "2026-01-01T10:14:13.908012367Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Warren Buffett officially retires as Berkshire Hathway's CEO",
       "link": "https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo",
       "category": "Business",
       "summary": "As the year ends, the 95-year-old legendary investor is officially stepping down as CEO of his Berkshire Hathaway conglomerate.",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 22 Dec 2025 12:09:42 -0500",
       "fetched_at": "2025-12-22T17:12:12.286380992Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Baby back in hospital in Gaza after returning from treatment overseas",
-      "link": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC revisits one-year-old Siwar Ashour who was temporarily evacuated to Jordan for medical treatment during the Gaza war.",
-      "published": "Mon, 22 Dec 2025 16:59:47 GMT",
-      "fetched_at": "2025-12-22T17:12:11.940619692Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
-      "link": "https://cointelegraph.com/news/price-predictions-12-22-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2ZDctZDhiMC03OGM4LWFjYTYtNTQ2MmQzNzBjM2E1LmpwZw==.jpg\" alt=\"Price predictions 12/22: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and select altcoins are attempting to start a recovery, but higher levels are expected to attract strong selling by the bears.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 16:19:49 +0000",
-      "fetched_at": "2025-12-22T16:48:19.720505313Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "JPMorgan explores crypto trading for institutional clients: Report",
-      "link": "https://cointelegraph.com/news/jpmorgan-crypto-trading-institutional-clients?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2NzQtNjE4NC03MGI3LTg2N2UtMWQ3ZjNjZTgyMGNmLmpwZw==.jpg\" alt=\"JPMorgan explores crypto trading for institutional clients: Report\"\u003e\u003c/p\u003e\u003cp\u003eThe move by the traditional banking giant would represent a significant deepening of ties to the crypto industry and change in CEO Jamie Dimon’s approach to digital assets.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 15:56:36 +0000",
-      "fetched_at": "2025-12-22T16:15:49.71448853Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Élysée Palace staff member to stand trial over theft of precious tableware",
-      "link": "https://www.bbc.com/news/articles/cz0n51p00jmo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Thomas M is accused of stealing solider silver and porcelain used for state banquets from France's presidential palace.",
-      "published": "Mon, 22 Dec 2025 15:35:58 GMT",
-      "fetched_at": "2025-12-22T15:51:50.201212768Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1523,
-  "last_update": "2026-01-01T09:53:10.871333201Z"
+  "total_captured": 1527,
+  "last_update": "2026-01-01T10:14:14.195821829Z"
 }
