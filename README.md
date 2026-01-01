@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 12:24 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1530-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 13:08 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1534-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 12:24 UTC)*
+*(Updated: 01 Jan 13:08 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Brazil legend Roberto Carlos recovering in hospital](https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Netherlands police face 'unprecedented' New Year's  violence](https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Can Solana shed its memecoin image in 2026?](https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know about the Switzerland ski resort fire](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [US military says five killed in latest strike on alleged drug boats](https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Stranger Things draws to an epic and emotional close](https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **World** | [Watch: Historic Amsterdam church engulfed by fire on New Year's Eve](https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance](https://cointelegraph.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Anthony Joshua discharged from hospital after Nigeria car crash](https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Zohran Mamdani sworn in as first Muslim New York City Mayor](https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://cointelegraph.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Final nail in the 4-year cycle? BTC ends year after halving in the red](https://cointelegraph.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [4 crypto comebacks from 2025 that could help shape the year ahead](https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Can Solana shed its memecoin image in 2026?](https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Tether snaps up another 8,888 BTC, now fifth-largest Bitcoin wallet](https://cointelegraph.com/news/tether-buys-another-8-888-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance](https://cointelegraph.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://cointelegraph.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Final nail in the 4-year cycle? BTC ends year after halving in the red](https://cointelegraph.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [4 crypto comebacks from 2025 that could help shape the year ahead](https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Brazil legend Roberto Carlos recovering in hospital](https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Netherlands police face 'unprecedented' New Year's  violence](https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [What we know about the Switzerland ski resort fire](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US military says five killed in latest strike on alleged drug boats](https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Stranger Things draws to an epic and emotional close](https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [BBC reports from the scene of Swiss resort bar fire](https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Watch: Historic Amsterdam church engulfed by fire on New Year's Eve](https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

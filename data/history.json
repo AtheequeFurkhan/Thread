@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Brazil legend Roberto Carlos recovering in hospital",
+      "link": "https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Brazil and Real Madrid legend Roberto Carlos is \"recovering well\" after undergoing what he describes as \"a preventative medical procedure\".",
+      "published": "Thu, 01 Jan 2026 08:12:00 GMT",
+      "fetched_at": "2026-01-01T13:08:13.952271993Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Netherlands police face 'unprecedented' New Year's  violence",
+      "link": "https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Reports of fireworks and other explosives being thrown are widespread across the country.",
+      "published": "Thu, 01 Jan 2026 12:34:29 GMT",
+      "fetched_at": "2026-01-01T13:08:13.952257946Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Several dozen feared dead in Swiss ski resort bar fire",
+      "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Around 100 are also injured in fire at Crans-Montana Swiss ski resort bar Le Constellation.",
+      "published": "Thu, 01 Jan 2026 11:58:05 GMT",
+      "fetched_at": "2026-01-01T13:08:13.95224388Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Can Solana shed its memecoin image in 2026?",
+      "link": "https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2ZDItNjliYi03ZmZhLWIzZWYtMGI0YzM1MDc1NWYxLmpwZw==.jpg\" alt=\"Can Solana shed its memecoin image in 2026?\"\u003e\u003c/p\u003e\u003cp\u003eSolana’s bid to move beyond memecoins will depend on whether its upgrades can deliver predictable execution for serious onchain finance.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 13:00:00 +0000",
+      "fetched_at": "2026-01-01T13:08:13.890226654Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "What we know about the Switzerland ski resort fire",
       "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4463,44 +4499,8 @@
       "published": "Mon, 22 Dec 2025 20:47:12 +0000",
       "fetched_at": "2025-12-22T20:52:16.679576555Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump's appointment of Greenland envoy sparks fresh row with Denmark",
-      "link": "https://www.bbc.com/news/videos/cwywe5zw384o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The BBC's diplomatic correspondent James Landale explains how Trump's appoinment of a special envoy to Greenland has shaken diplomatic with Denmark.",
-      "published": "Mon, 22 Dec 2025 18:52:03 GMT",
-      "fetched_at": "2025-12-22T19:37:51.208111691Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
-      "link": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics.",
-      "published": "Mon, 22 Dec 2025 19:25:23 GMT",
-      "fetched_at": "2025-12-22T19:37:51.208090081Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘",
-      "link": "https://cointelegraph.com/news/david-sacks-cftc-sec-crypto-dream-team-regulation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNzYtMzNiMC03YjRjLWI3MDktZDg4MjdhMjEwYzhlLmpwZw==.jpg\" alt=\"David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘\"\u003e\u003c/p\u003e\u003cp\u003eFollowing Michael Selig's confirmation, White House official David Sacks said the SEC and CFTC were set to offer \"clear regulatory guidelines\" for digital assets.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 18:19:07 +0000",
-      "fetched_at": "2025-12-22T18:51:16.873642796Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Ghana official rejects 'Detty December' label",
-      "link": "https://www.bbc.com/news/articles/c5y2veyg1pno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The term is widely used to describe Ghana and Nigeria's wild, end-of-year party seasons.",
-      "published": "Mon, 22 Dec 2025 15:15:16 GMT",
-      "fetched_at": "2025-12-22T18:19:08.193312376Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1530,
-  "last_update": "2026-01-01T12:24:58.8575513Z"
+  "total_captured": 1534,
+  "last_update": "2026-01-01T13:08:14.252439823Z"
 }
