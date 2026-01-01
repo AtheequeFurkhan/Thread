@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-31 Dec 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1500-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 01:06 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1503-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 31 Dec 23:49 UTC)*
+*(Updated: 01 Jan 01:06 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Teen who died after falling 500 feet from California's Mt Baldy identified](https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [What are Russians hoping for in 2026, asks Steve Rosenberg](https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep](https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Iran protesters try to break into government building as unrest continues](https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [Crypto billionaires are among biggest losers of 2025: Report](https://cointelegraph.com/news/crypto-billionaires-net-worth-2025-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Stunning celestial events that lit up the skies in 2025](https://www.bbc.com/news/videos/c8xdw7j2v2go?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [In pictures: New Year welcomed around the world](https://www.bbc.com/news/articles/c050j896q2do?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Passenger describes 'chaos' after head-on Machu Picchu train collision](https://www.bbc.com/news/articles/c4gweww8rjro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [2026 will be red for Bitcoin, but payment tech will improve: BTC OGs](https://cointelegraph.com/news/2026-red-btc-payment-tech-improve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE](https://cointelegraph.com/news/price-predictions-12-31-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep](https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [US lawmakers expected to address market structure markup in January](https://cointelegraph.com/news/banking-committee-market-structure-markup-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [US bank upgrades TeraWulf price target, offers bullish mining prediction](https://cointelegraph.com/news/bank-upgrades-terawulf-target-mining-prediction-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Trump Media plans 1:1 blockchain token rewards for shareholders](https://cointelegraph.com/news/trump-media-release-reward-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Why JPMorgan’s onchain fund is a big signal for Ethereum](https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Teen who died after falling 500 feet from California's Mt Baldy identified](https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [What are Russians hoping for in 2026, asks Steve Rosenberg](https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Condom tax and cheaper childcare: China's plan to boost birth rates](https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Iran protesters try to break into government building as unrest continues](https://www.bbc.com/news/articles/c2d7g8krj2po?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bulgaria joins the euro after rocky path to new currency](https://www.bbc.com/news/articles/crlere3x28lo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Finnish police seize ship suspected of sabotaging undersea cable](https://www.bbc.com/news/articles/c62040np372o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2026-01-01.md | [View Log](data/2026-01-01.md) |
 | 2025-12-31.md | [View Log](data/2025-12-31.md) |
 | 2025-12-30.md | [View Log](data/2025-12-30.md) |
 | 2025-12-29.md | [View Log](data/2025-12-29.md) |
 | 2025-12-28.md | [View Log](data/2025-12-28.md) |
 | 2025-12-27.md | [View Log](data/2025-12-27.md) |
 | 2025-12-26.md | [View Log](data/2025-12-26.md) |
-| 2025-12-25.md | [View Log](data/2025-12-25.md) |
 
 
 ---

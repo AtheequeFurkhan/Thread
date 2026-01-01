@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Teen who died after falling 500 feet from California's Mt Baldy identified",
+      "link": "https://www.bbc.com/news/articles/crrnlw4rxeyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Marcus Alexander Muench Casanova, 19,  who fatally fell 500 feet (150m) from a trail, was an \"avid sailor and outdoorsman\", his family says.",
+      "published": "Thu, 01 Jan 2026 00:40:36 GMT",
+      "fetched_at": "2026-01-01T01:06:47.767443076Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
+      "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.",
+      "published": "Thu, 01 Jan 2026 00:17:12 GMT",
+      "fetched_at": "2026-01-01T01:06:47.767421303Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep",
+      "link": "https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5Yjc2ODEtZTE5Zi03ODk5LTgyMTQtMWY4Zjg5ZDY2NGQyLmpwZw==.jpg\" alt=\"Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep\"\u003e\u003c/p\u003e\u003cp\u003eUS Representative Warren Davidson said the stablecoin-focused GENIUS Act may backfire on Americans by stripping them of their financial freedom and privacy.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 00:36:21 +0000",
+      "fetched_at": "2026-01-01T01:06:47.623332377Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
       "link": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 22 Dec 2025 09:51:42 +0000",
       "fetched_at": "2025-12-22T10:14:36.672693249Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
-      "link": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included.",
-      "published": "Fri, 12 Dec 2025 20:45:06 GMT",
-      "fetched_at": "2025-12-22T09:47:40.689725332Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Image in Epstein files that features Trump reinstated after backlash",
-      "link": "https://www.bbc.com/news/articles/c208y2wxxeno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "It was one of several removed from the justice department website because of concerns from victims, said a US official.",
-      "published": "Mon, 22 Dec 2025 08:09:08 GMT",
-      "fetched_at": "2025-12-22T09:19:52.813152043Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Hyperliquid says ex-employee responsible for HYPE token shorting",
-      "link": "https://cointelegraph.com/news/hyperliquid-hype-shorting-address-former-employee?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ0ZjUtNGVlZS03Y2ZmLWIwOWMtN2IyYjg1MmUzMTVjLmpwZw==.jpg\" alt=\"Hyperliquid says ex-employee responsible for HYPE token shorting\"\u003e\u003c/p\u003e\u003cp\u003eHyperliquid said that the wallet flagged by its community for insider HYPE shorting belongs to a former employee dismissed in early 2024.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 09:13:34 +0000",
-      "fetched_at": "2025-12-22T09:19:52.79538474Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1500,
-  "last_update": "2025-12-31T23:49:25.203391957Z"
+  "total_captured": 1503,
+  "last_update": "2026-01-01T01:06:49.679946263Z"
 }
