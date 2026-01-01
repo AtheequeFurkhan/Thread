@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 17:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1545-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 18:18 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1546-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 17:50 UTC)*
+*(Updated: 01 Jan 18:18 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://cointelegraph.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says](https://cointelegraph.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [US military says five killed in latest strike on alleged drug boats](https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Stranger Things draws to an epic and emotional close](https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) | ⚪ Neutral |
-| **Business** | [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://cointelegraph.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says](https://cointelegraph.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The XRP Army got everything except $5 price: Will 2026 deliver?](https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://cointelegraph.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
