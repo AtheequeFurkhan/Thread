@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin options boom raises fears of capped BTC upside",
+      "link": "https://cointelegraph.com/news/bitcoin-options-under-fire-as-covered-calls-take-center-stage?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2YTctM2QzOS03Y2FhLTljMDQtYmZhNDM2MDBiMGIyLmpwZw==.jpg\" alt=\"Bitcoin options boom raises fears of capped BTC upside\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin cash-and-carry trades faded toward the end of the year, leading funds to shift to Bitcoin options for yield. Is the strategy putting a cap on BTC price?\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 20:00:00 +0000",
+      "fetched_at": "2026-01-01T20:14:26.282079946Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage",
       "link": "https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 25 Nov 2025 00:02:30 GMT",
       "fetched_at": "2025-12-22T23:30:56.65990474Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
-      "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online.",
-      "published": "Tue, 25 Nov 2025 04:58:08 GMT",
-      "fetched_at": "2025-12-22T23:12:30.317080382Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1551,
-  "last_update": "2026-01-01T19:47:58.96228561Z"
+  "total_captured": 1552,
+  "last_update": "2026-01-01T20:14:26.438585355Z"
 }
