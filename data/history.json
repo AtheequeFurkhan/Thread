@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Flow advances recovery plan, raises exchange concerns after $3.9M exploit",
+      "link": "https://cointelegraph.com/news/flow-recovery-plan-exchange-exploit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiMDYtZTgzMC03YzcwLWExOWItMzRhZWVmYzFlODNhLmpwZw==.jpg\" alt=\"Flow advances recovery plan, raises exchange concerns after $3.9M exploit\"\u003e\u003c/p\u003e\u003cp\u003eThe plan to address a multimillion-dollar exploit continued with \"phase two progress\" on EVM after it scrapped a plan to roll back the blockchain.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 21:38:49 +0000",
+      "fetched_at": "2026-01-01T21:48:47.084907016Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Call of Duty is back, and it's got a battle on its hands",
+      "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6.",
+      "published": "Fri, 14 Nov 2025 15:47:29 GMT",
+      "fetched_at": "2026-01-01T21:48:46.850163411Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Can technology fix fashion's sizing crisis?",
+      "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized.",
+      "published": "Sat, 15 Nov 2025 04:03:27 GMT",
+      "fetched_at": "2026-01-01T21:48:46.850145398Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
       "link": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 23 Dec 2025 00:04:45 GMT",
       "fetched_at": "2025-12-23T00:59:24.209711782Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'This is the big one' - tech firms bet on electrifying rail",
-      "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Railway operators have new options for electric trains including getting rid of locomotives altogether.",
-      "published": "Fri, 31 Oct 2025 00:14:09 GMT",
-      "fetched_at": "2025-12-22T23:48:33.292479865Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fire-blocking chemicals promise safer buildings",
-      "link": "https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "New treatments promise to make buildings fire-resistant without using older, toxic chemicals.",
-      "published": "Fri, 07 Nov 2025 00:13:36 GMT",
-      "fetched_at": "2025-12-22T23:48:33.292469215Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "The Kenyan start-up aiming to electrify African transport",
-      "link": "https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "From fleets of e-bikes to individual riders, eWaka aims to sell across Africa's delivery market.",
-      "published": "Tue, 11 Nov 2025 00:03:14 GMT",
-      "fetched_at": "2025-12-22T23:48:33.292456752Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1557,
-  "last_update": "2026-01-01T21:31:10.651907611Z"
+  "total_captured": 1560,
+  "last_update": "2026-01-01T21:48:47.084931271Z"
 }
