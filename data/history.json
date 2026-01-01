@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage",
+      "link": "https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdhYTMtMDRiMC03ZWYwLWIxYjgtMWFmN2NkYzBjZDlkLmpwZw==.jpg\" alt=\"Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage\"\u003e\u003c/p\u003e\u003cp\u003eOutages with Cloudflare and Amazon Web Services caused brief massive outages in 2025, affecting several cryptocurrency platforms.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 19:41:28 +0000",
+      "fetched_at": "2026-01-01T19:47:58.909570059Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Will boats be a breakthrough for 3D printing tech?",
       "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 25 Nov 2025 04:58:08 GMT",
       "fetched_at": "2025-12-22T23:12:30.317080382Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Warner Brothers has a long history of messy corporate marriages and divorces",
-      "link": "https://www.npr.org/2025/12/22/nx-s1-5648382/warner-brothers-has-a-long-history-of-messy-corporate-marriages-and-divorces",
-      "category": "Business",
-      "summary": "As Netflix and Paramount continue their battle over Warner Brothers Discovery, we take a look back at the company's history of messy corporate marriages and divorces.",
-      "published": "Mon, 22 Dec 2025 17:54:45 -0500",
-      "fetched_at": "2025-12-22T23:12:30.116742876Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1550,
-  "last_update": "2026-01-01T19:37:48.670692751Z"
+  "total_captured": 1551,
+  "last_update": "2026-01-01T19:47:58.96228561Z"
 }
