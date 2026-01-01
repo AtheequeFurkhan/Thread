@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 18:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1549-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 19:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1550-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 18:50 UTC)*
+*(Updated: 01 Jan 19:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Two killed in clashes between protesters and security forces in Iran](https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **World** | [Netherlands police face 'unprecedented' New Year's  violence](https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Can Solana shed its memecoin image in 2026?](https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [What we know about the Switzerland ski resort fire](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Will boats be a breakthrough for 3D printing tech?",
+      "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
+      "published": "Fri, 28 Nov 2025 00:10:39 GMT",
+      "fetched_at": "2026-01-01T19:10:55.235979267Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
       "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 17:54:45 -0500",
       "fetched_at": "2025-12-22T23:12:30.116742876Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "EU council endorses offline and online versions of digital euro",
-      "link": "https://cointelegraph.com/news/eu-council-endorses-offline-and-online-versions-of-digital-euro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YjktMmJkNS03YTY0LWFmOTYtNzk3ZTBiNjcyNzRhLmpwZw==.jpg\" alt=\"EU council endorses offline and online versions of digital euro\"\u003e\u003c/p\u003e\u003cp\u003eThe Council of the European Union endorsed the launch of the European Central Bank’s digital euro in both an online and a privacy-focused offline version.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 22:48:55 +0000",
-      "fetched_at": "2025-12-22T23:12:29.324823028Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1549,
-  "last_update": "2026-01-01T18:50:08.480753519Z"
+  "total_captured": 1550,
+  "last_update": "2026-01-01T19:10:55.756656633Z"
 }
