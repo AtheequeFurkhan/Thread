@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "4 crypto comebacks from 2025 that could help shape the year ahead",
+      "link": "https://cointelegraph.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc4MTItY2I2YS03ZTQ2LTgxNjYtOWRiYTBkYjYxNGI1LmpwZw==.jpg\" alt=\"4 crypto comebacks from 2025 that could help shape the year ahead\"\u003e\u003c/p\u003e\u003cp\u003eFrom Ross Ulbricht’s pardon to Ripple’s SEC victory, here’s a list of crypto’s most celebrated turnarounds this year and what they mean for the year ahead. \u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 05:57:58 +0000",
+      "fetched_at": "2026-01-01T06:23:57.608486443Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Zelensky says peace deal is 90% ready in New Year address",
       "link": "https://www.bbc.com/news/articles/cddg7100ym2o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 13:04:15 +0000",
       "fetched_at": "2025-12-22T13:08:13.759026827Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism",
-      "link": "https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Civil liberties advocates say laws 'damage our democracy' while others say they scapegoat gun owners.",
-      "published": "Mon, 22 Dec 2025 06:14:56 GMT",
-      "fetched_at": "2025-12-22T12:25:54.582681181Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1510,
-  "last_update": "2026-01-01T05:56:26.226315298Z"
+  "total_captured": 1511,
+  "last_update": "2026-01-01T06:23:57.732652463Z"
 }
