@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
+      "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles.",
+      "published": "Tue, 23 Dec 2025 10:04:47 GMT",
+      "fetched_at": "2026-01-01T18:50:08.444462987Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Two killed in clashes between protesters and security forces in Iran",
+      "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day.",
+      "published": "Thu, 01 Jan 2026 18:18:42 GMT",
+      "fetched_at": "2026-01-01T18:50:08.006834279Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle",
+      "link": "https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmY2YtZDJmYS03MmQ4LWFiYzEtNWExYjlhOTM1ZjQ0.jpg\" alt=\"Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin entered a \"new era\" as the 2025 yearly candle closed red, said analysis, with BTC price volatility signals firing into the new year.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 18:27:46 +0000",
+      "fetched_at": "2026-01-01T18:50:07.52147439Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets",
       "link": "https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Mon, 22 Dec 2025 22:48:55 +0000",
       "fetched_at": "2025-12-22T23:12:29.324823028Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter",
-      "link": "https://cointelegraph.com/news/palmer-luckey-erebor-valuation-occ-fdic-crypto-bank?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3NzctNmYxYS03YzAyLWI5OGItMzY3Njc3NjljNzBiLmpwZw==.jpg\" alt=\"Palmer Luckey’s Erebor hits $4.3B valuation as regulators advance bank charter\"\u003e\u003c/p\u003e\u003cp\u003eLuckey-backed Erebor raised $350 million at a $4.35 billion valuation as OCC and FDIC approvals signal momentum for crypto- and AI-focused banking.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 22:48:59 +0000",
-      "fetched_at": "2025-12-22T23:12:29.324804885Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?",
-      "link": "https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3Y2ItNzc3Yi03MzhkLWJiODktNmMyM2YyN2M2Njc4LmpwZw==.jpg\" alt=\"Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?\"\u003e\u003c/p\u003e\u003cp\u003eFederal Reserve policy and crypto-friendly regulation could be setting the market up for a bullish 2026, but there are still a handful of hurdles investors should be aware of.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 23:06:27 +0000",
-      "fetched_at": "2025-12-22T23:12:29.324781882Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Will boats be a breakthrough for 3D printing tech?",
-      "link": "https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Dutch firms are betting that hulls made with 3D printing machines will mean cheaper boats.",
-      "published": "Fri, 28 Nov 2025 00:10:39 GMT",
-      "fetched_at": "2025-12-22T22:51:29.637017212Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1546,
-  "last_update": "2026-01-01T18:18:39.746676102Z"
+  "total_captured": 1549,
+  "last_update": "2026-01-01T18:50:08.480753519Z"
 }

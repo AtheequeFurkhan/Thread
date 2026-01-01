@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 18:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1546-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 18:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1549-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 18:18 UTC)*
+*(Updated: 01 Jan 18:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Two killed in clashes between protesters and security forces in Iran](https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://cointelegraph.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says](https://cointelegraph.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Can Solana shed its memecoin image in 2026?](https://cointelegraph.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [What we know about the Switzerland ski resort fire](https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [US military says five killed in latest strike on alleged drug boats](https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Stranger Things draws to an epic and emotional close](https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://cointelegraph.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says](https://cointelegraph.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The XRP Army got everything except $5 price: Will 2026 deliver?](https://cointelegraph.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zps?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What's next for TikTok in the US as deal prospects remain uncertain?](https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Crypto users forced to share account details with tax officials](https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026](https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Two killed in clashes between protesters and security forces in Iran](https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?](https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [New discovery may challenge theory Vikings built first Irish towns - researcher](https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Brazil legend Roberto Carlos recovering in hospital](https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Netherlands police face 'unprecedented' New Year's  violence](https://www.bbc.com/news/articles/c3r1lx75nl8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Several dozen feared dead in Swiss ski resort bar fire](https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
