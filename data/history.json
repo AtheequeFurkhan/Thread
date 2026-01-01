@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: Historic Amsterdam church engulfed by fire on New Year's Eve",
+      "link": "https://www.bbc.com/news/videos/ckgkn1xexnno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The blaze was thought to have started just after midnight and was swiftly declared a major fire",
+      "published": "Thu, 01 Jan 2026 08:15:21 GMT",
+      "fetched_at": "2026-01-01T08:49:15.087341721Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance",
+      "link": "https://cointelegraph.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc4NmYtMmYzYy03OTRmLWI0MTMtNzQ1YTU0MzNiNGUwLmpwZw==.jpg\" alt=\"Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance\"\u003e\u003c/p\u003e\u003cp\u003eA trader claimed to have made $1 million by timing a long-short trade after spotting abnormal activity by a market maker account on Binance, while the exchange denied any security breach.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 08:37:00 +0000",
+      "fetched_at": "2026-01-01T08:49:15.068204208Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
       "link": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Mon, 22 Dec 2025 14:08:48 GMT",
       "fetched_at": "2025-12-22T14:13:41.240750784Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Binance let suspicious accounts move millions after $4.3B US plea deal: Report",
-      "link": "https://cointelegraph.com/news/binance-suspect-accounts-move-millions?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ZTAtYTQyNy03NjhhLWEyNWItOWYyYmNlYWQ4ZDEzLmpwZw==.jpg\" alt=\"Binance let suspicious accounts move millions after $4.3B US plea deal: Report\"\u003e\u003c/p\u003e\u003cp\u003eBinance let a network of 13 high‑risk accounts move $1.7 billion in crypto, including $144 million, after its 2023 US plea deal, according to the Financial Times.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 13:27:47 +0000",
-      "fetched_at": "2025-12-22T13:45:52.05475402Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Clarity Act delays led to $952M in crypto fund outflows: CoinShares",
-      "link": "https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2MjQtOTgwZC03YTg4LWJlZDUtMDUzYTU3NDMyY2JhLmpwZw==.jpg\" alt=\"Clarity Act delays led to $952M in crypto fund outflows: CoinShares\"\u003e\u003c/p\u003e\u003cp\u003eCrypto funds broke three weeks of net positive flows, after US investor sentiment took a hit following delays to the long-awaited CLARITY Act, set to reach the Senate in January 2026.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 13:33:25 +0000",
-      "fetched_at": "2025-12-22T13:45:52.054736618Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1515,
-  "last_update": "2026-01-01T08:18:14.051115722Z"
+  "total_captured": 1517,
+  "last_update": "2026-01-01T08:49:15.529544322Z"
 }
