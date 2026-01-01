@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says",
+      "link": "https://cointelegraph.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdhNDYtYmY1YS03YjlkLTgwOWEtZWZmNTdlNTRhZjBmLmpwZw==.jpg\" alt=\"Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says\"\u003e\u003c/p\u003e\u003cp\u003eThe Trust Wallet update includes a feature to help victims of the $7 million Christmas hack submit reimbursement claims for lost funds.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 16:57:03 +0000",
+      "fetched_at": "2026-01-01T17:12:45.583128882Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002n4hn?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 17:21:25 -0500",
       "fetched_at": "2025-12-22T22:35:34.397419759Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Nearly two dozen states sue the Trump administration over funding for CFPB",
-      "link": "https://www.npr.org/2025/12/22/nx-s1-5652043/cfpb-trump-russell-vought-lawsuit",
-      "category": "Business",
-      "summary": "The attorney generals say the Trump administration is refusing to accept funding for the Consumer Financial Protection Bureau, which could hurt consumers in their states.",
-      "published": "Mon, 22 Dec 2025 16:52:45 -0500",
-      "fetched_at": "2025-12-22T22:12:43.995199897Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1543,
-  "last_update": "2026-01-01T16:47:55.617177299Z"
+  "total_captured": 1544,
+  "last_update": "2026-01-01T17:12:45.682402275Z"
 }
