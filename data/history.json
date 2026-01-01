@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Crypto privacy in 2026: Compliance-friendly tools take center stage",
+      "link": "https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJiM2EtODBjMC03NjUxLWJjYjQtZTRlOTUwYjBmZWI2LmpwZw==.jpg\" alt=\"Crypto privacy in 2026: Compliance-friendly tools take center stage\"\u003e\u003c/p\u003e\u003cp\u003eCrypto privacy is approaching an inflection point as relevant lawsuits near their conclusions and developers pivot toward designs that ensure privacy while appeasing regulators.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 14:00:00 +0000",
+      "fetched_at": "2026-01-01T14:13:02.913096491Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Base’s creator coin experiment meets resistance after Nick Shirley launch",
+      "link": "https://cointelegraph.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc5YzgtNGE5Ni03Mzg4LThkMzEtNjhjZTI1Yjc5ZWQwLmpwZw==.jpg\" alt=\"Base’s creator coin experiment meets resistance after Nick Shirley launch\"\u003e\u003c/p\u003e\u003cp\u003eBase’s push into creator coins is facing mounting criticism from traders and builders after Nick Shirley’s token on Zora spiked to about a $9 million valuation and then promptly slumped.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 14:06:19 +0000",
+      "fetched_at": "2026-01-01T14:13:02.913066134Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts",
       "link": "https://cointelegraph.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 02 Dec 2025 20:30:00 GMT",
       "fetched_at": "2025-12-22T21:30:16.948615917Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ecuadorean soldiers found guilty of forced disappearance of boys",
-      "link": "https://www.bbc.com/news/articles/cx237k4rr04o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The four boys were picked up by a military patrol and their bodies were later found mutilated and burned.",
-      "published": "Mon, 22 Dec 2025 18:17:57 GMT",
-      "fetched_at": "2025-12-22T21:11:32.525800826Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "NGOs fear Israel registration rules risk collapse of Gaza aid operations",
-      "link": "https://www.bbc.com/news/articles/cx2dmj7p8y2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "International organisations not registered by 31 December face closure in Israel, but the Israeli government says aid delivery will not be affected.",
-      "published": "Mon, 22 Dec 2025 18:34:00 GMT",
-      "fetched_at": "2025-12-22T21:11:32.525789074Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1536,
-  "last_update": "2026-01-01T13:55:40.684583866Z"
+  "total_captured": 1538,
+  "last_update": "2026-01-01T14:13:03.14272786Z"
 }
