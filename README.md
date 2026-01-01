@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 04:31 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1508-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 05:05 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1509-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 04:31 UTC)*
+*(Updated: 01 Jan 05:05 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Disney worker hurt stopping 180-kg fake boulder from hitting audience](https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [Amazon pulls AI recap from Fallout TV show after it made several mistakes](https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [What to know about Nick Shirley, the YouTuber alleging daycare fraud in Minnesota](https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud) | ⚪ Neutral |
 | **World** | [Fireworks, drums and light shows: How the world is welcoming 2026](https://www.bbc.com/news/videos/cd6wyll5338o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [How an AI-fueled romance scam drained a Bitcoin retirement fund](https://cointelegraph.com/news/how-an-ai-fueled-romance-scam-drained-a-bitcoin-retirement-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://cointelegraph.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC director who made Bitcoin futures possible returns as chief of staff](https://cointelegraph.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Private messaging faces threats from AI, limited user awareness: Session execs](https://cointelegraph.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Digital ID, CBDCs risk turning US into ‘surveillance state': US Rep](https://cointelegraph.com/news/us-risks-becoming-surveillance-state-cbdc-digital-id?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- ['Massive' liquidity injections to boost BTC price in 2026, crypto exec says](https://cointelegraph.com/news/massive-liquidity-injections-boost-btc-price-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

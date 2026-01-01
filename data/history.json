@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto forces to compound in 2026, accelerating adoption: Coinbase",
+      "link": "https://cointelegraph.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjc3NDktYmM3Mi03YmY3LWE5ZmMtMDhiM2I0ZjBiOGEwLmpwZw==.jpg\" alt=\"Crypto forces to compound in 2026, accelerating adoption: Coinbase\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase’s head of research said the forces that drove crypto in 2025, such as regulation, ETFs, stablecoins and tokenization, will only get stronger in the coming year.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 04:58:31 +0000",
+      "fetched_at": "2026-01-01T05:05:20.992132351Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Disney worker hurt stopping 180-kg fake boulder from hitting audience",
       "link": "https://www.bbc.com/news/articles/cn8jlm07nz4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 12:17:36 GMT",
       "fetched_at": "2025-12-22T12:25:54.582496927Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
-      "link": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations.",
-      "published": "Mon, 22 Dec 2025 11:27:54 GMT",
-      "fetched_at": "2025-12-22T12:25:54.582381812Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1508,
-  "last_update": "2026-01-01T04:31:24.896768091Z"
+  "total_captured": 1509,
+  "last_update": "2026-01-01T05:05:21.852394988Z"
 }
