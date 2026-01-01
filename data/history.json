@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US military says five killed in latest strike on alleged drug boats",
+      "link": "https://www.bbc.com/news/articles/czdq1ple2l4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The latest strike comes as the US Coast Guard searches for survivors of another that happened a day earlier.",
+      "published": "Thu, 01 Jan 2026 10:19:32 GMT",
+      "fetched_at": "2026-01-01T11:11:51.484193279Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Stranger Things draws to an epic and emotional close",
       "link": "https://www.bbc.com/news/articles/ckgl2je05j0o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Mon, 22 Dec 2025 17:08:59 +0000",
       "fetched_at": "2025-12-22T17:32:52.564681481Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How US banks are quietly preparing for an onchain future",
-      "link": "https://cointelegraph.com/news/how-us-banks-are-quietly-preparing-for-an-onchain-future?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFhYzUtMTA4Ni03YTc2LThhNGYtZTFjZTkxYTI5MjY2.jpg\" alt=\"How US banks are quietly preparing for an onchain future\"\u003e\u003c/p\u003e\u003cp\u003eBehind the scenes, US banks are rebuilding core financial infrastructure so cash, custody and funds can move onchain under regulatory oversight.\u003c/p\u003e",
-      "published": "Mon, 22 Dec 2025 17:24:10 +0000",
-      "fetched_at": "2025-12-22T17:32:52.564664229Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1528,
-  "last_update": "2026-01-01T10:53:09.934807841Z"
+  "total_captured": 1529,
+  "last_update": "2026-01-01T11:11:51.722055765Z"
 }
