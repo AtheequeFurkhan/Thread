@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "The contradiction at the heart of the trillion-dollar AI race",
+      "link": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting",
+      "published": "Wed, 19 Nov 2025 13:52:41 GMT",
+      "fetched_at": "2026-01-01T21:11:59.947310612Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The entrepreneur connecting tourists to African hospitality",
       "link": "https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 15 Nov 2025 04:03:27 GMT",
       "fetched_at": "2025-12-22T23:30:56.659948692Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
-      "link": "https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters.",
-      "published": "Wed, 19 Nov 2025 00:23:14 GMT",
-      "fetched_at": "2025-12-22T23:30:56.659935377Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1554,
-  "last_update": "2026-01-01T20:52:06.187846745Z"
+  "total_captured": 1555,
+  "last_update": "2026-01-01T21:12:00.056890348Z"
 }
