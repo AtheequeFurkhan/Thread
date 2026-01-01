@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"\u003e\u003c/p\u003e\u003cp\u003eNeed to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.\u003c/p\u003e",
+      "published": "Thu, 01 Jan 2026 22:03:06 +0000",
+      "fetched_at": "2026-01-01T22:35:17.240359421Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The South African start-up bringing tech to townships",
+      "link": "https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Entrepreneur Talifhani Banks has bought a modern delivery system to smaller firms in South Africa.",
+      "published": "Tue, 28 Oct 2025 00:07:11 GMT",
+      "fetched_at": "2026-01-01T22:35:17.074353253Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "The showers and baths keeping data centre tech cool",
+      "link": "https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Finding greener ways to keep giant new data centres cool is a challenge.",
+      "published": "Tue, 23 Dec 2025 00:04:45 GMT",
+      "fetched_at": "2026-01-01T22:35:17.074324931Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "'This is the big one' - tech firms bet on electrifying rail",
       "link": "https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 23 Dec 2025 00:36:38 GMT",
       "fetched_at": "2025-12-23T02:54:59.991688747Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US regulator approves pill form of Wegovy weight-loss drug",
-      "link": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.",
-      "published": "Tue, 23 Dec 2025 01:29:07 GMT",
-      "fetched_at": "2025-12-23T02:54:59.991668309Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitmine’s stash crosses 4M ETH after latest $40M buy",
-      "link": "https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU0NDYtMWUyOS03ZTFiLWFiZWMtNjZiYmJhZGQ2ZjQ1.jpg\" alt=\"Bitmine’s stash crosses 4M ETH after latest $40M buy\"\u003e\u003c/p\u003e\u003cp\u003eBitmine's Ether haul now exceeds 4 million tokens worth over $12 billion after the company purchased nearly 100 million Ether in the past week.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 02:14:12 +0000",
-      "fetched_at": "2025-12-23T02:54:59.978513805Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Amazon says over 1,800 North Koreans blocked from applying for jobs",
-      "link": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Amazon's chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.",
-      "published": "Tue, 23 Dec 2025 02:49:45 GMT",
-      "fetched_at": "2025-12-23T02:54:59.831992528Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1564,
-  "last_update": "2026-01-01T22:12:14.661037435Z"
+  "total_captured": 1567,
+  "last_update": "2026-01-01T22:35:17.503307685Z"
 }

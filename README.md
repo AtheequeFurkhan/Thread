@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1564-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-01 Jan 22:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1567-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 22:12 UTC)*
+*(Updated: 01 Jan 22:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Technology** | [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Two killed in clashes between protesters and security forces in Iran](https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://cointelegraph.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Losses from crypto hacks down 60% in December: PeckShield](https://cointelegraph.com/news/losses-crypto-hacks-down-60-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Flow advances recovery plan, raises exchange concerns after $3.9M exploit](https://cointelegraph.com/news/flow-recovery-plan-exchange-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin options boom raises fears of capped BTC upside](https://cointelegraph.com/news/bitcoin-options-under-fire-as-covered-calls-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage](https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://cointelegraph.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [The Kenyan start-up aiming to electrify African transport](https://www.bbc.com/news/videos/c0kpel4y4g7o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Call of Duty is back, and it's got a battle on its hands](https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
