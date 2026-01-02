@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How K-beauty went from a viral trend to an economic powerhouse",
+      "link": "https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Inside the K-beauty industry that has made South Korea a major player in worldwide beauty market.",
+      "published": "Fri, 02 Jan 2026 22:20:53 GMT",
+      "fetched_at": "2026-01-02T23:49:10.675907002Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Tech Now",
       "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 15:50:00 +0000",
       "fetched_at": "2025-12-24T16:15:36.146998883Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Merry Christmas, Caroline Ellison: Here's an early release from custody",
-      "link": "https://cointelegraph.com/news/merry-christmas-caroline-ellison-release?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwY2EtMGYwYi03MDI5LWFkY2YtNDYwYmMxMmJlM2JkLmpwZw==.jpg\" alt=\"Merry Christmas, Caroline Ellison: Here's an early release from custody\"\u003e\u003c/p\u003e\u003cp\u003eThe former Alameda Research CEO, subject to intense public scrutiny for her role in FTX's collapse and association with Sam Bankman-Fried, will be released in January.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 15:53:08 +0000",
-      "fetched_at": "2025-12-24T16:15:36.146981189Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1663,
-  "last_update": "2026-01-02T23:41:57.420888393Z"
+  "total_captured": 1664,
+  "last_update": "2026-01-02T23:49:11.333592183Z"
 }

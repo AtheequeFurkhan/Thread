@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 23:41 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1663-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 23:49 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1664-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 23:41 UTC)*
+*(Updated: 02 Jan 23:49 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [How K-beauty went from a viral trend to an economic powerhouse](https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [BitVentures makes first crypto mining move weeks after Nasdaq rebrand](https://cointelegraph.com/news/bitventures-crypto-mining-pivot-nasdaq-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitfarms exits Latam with $30M facility sale](https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [How K-beauty went from a viral trend to an economic powerhouse](https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Earthquake interrupts Mexico's president during press conference](https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What images and videos tell us about why Swiss bar fire spread so quickly](https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Woman killed in suspected mountain lion attack in US](https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Swiss bar fire likely started by sparklers on champagne bottles](https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
