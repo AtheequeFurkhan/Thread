@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 13:07 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1629-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 13:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1632-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 13:07 UTC)*
+*(Updated: 02 Jan 13:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
+- [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Moment 400-pound runaway prop injures Disney employee](https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Dozens missing after boat carrying 200 migrants sinks off Gambia](https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

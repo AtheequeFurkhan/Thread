@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson",
+      "link": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ukraine says it only conducts strikes against military targets and adheres to international law.",
+      "published": "Fri, 02 Jan 2026 13:05:26 GMT",
+      "fetched_at": "2026-01-02T13:44:23.724619465Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "PEPE, BONK post double-digit gains: Are memecoins back?",
+      "link": "https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdlMDMtMGE2MC03MzYzLWIwZWEtNDU4NmM0ODcwMzZhLmpwZw==.jpg\" alt=\"PEPE, BONK post double-digit gains: Are memecoins back?\"\u003e\u003c/p\u003e\u003cp\u003eMemecoins added $3 billion in market cap in one day, led by PEPE’s 23% surge and the buzz around the MemeMax_Fi DEX, hinting at a possible \"meme season\" underway.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 13:15:00 +0000",
+      "fetched_at": "2026-01-02T13:44:23.702731209Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "UK social media campaigners among five denied US visas",
+      "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The Trump administration bans five people who have called for tech regulation from entering the country.",
+      "published": "Wed, 24 Dec 2025 15:09:56 GMT",
+      "fetched_at": "2026-01-02T13:44:23.54829989Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip",
       "link": "https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 24 Dec 2025 01:10:19 GMT",
       "fetched_at": "2025-12-24T02:52:13.604634615Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana treasury Upexi slides 7.5% on $1B shelf registration filing",
-      "link": "https://cointelegraph.com/news/solana-treasury-upexi-slides-1-billion-shelf-registration-filing?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRkYzYtZTk4Ni03MmVhLWFkNmMtYmZlNGEyNjZiMDRjLmpwZw==.jpg\" alt=\"Solana treasury Upexi slides 7.5% on $1B shelf registration filing\"\u003e\u003c/p\u003e\u003cp\u003eShares in Upexi fell 7.5% on Tuesday after it filed a $1 billion shelf registration, suggesting its Solana holdings could again grow after over five months of no purchases.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 02:43:08 +0000",
-      "fetched_at": "2025-12-24T02:52:13.409048475Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Meet the biggest heat pumps in the world",
-      "link": "https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Across Europe huge heat pumps are being installed that can heat tens of thousands of homes.",
-      "published": "Tue, 16 Dec 2025 00:06:44 GMT",
-      "fetched_at": "2025-12-24T02:52:13.080870031Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "UK launches taskforce to 'break down barriers' for women in technology",
-      "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals.",
-      "published": "Tue, 16 Dec 2025 00:04:18 GMT",
-      "fetched_at": "2025-12-24T02:52:13.080814046Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1629,
-  "last_update": "2026-01-02T13:07:02.974644515Z"
+  "total_captured": 1632,
+  "last_update": "2026-01-02T13:44:23.724647938Z"
 }
