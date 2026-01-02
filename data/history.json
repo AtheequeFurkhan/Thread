@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Coinbase bets on stablecoins, Base and 'everything exchange' for 2026",
+      "link": "https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNmQtM2Y2YS03ZGQ3LTgzMjQtMmYwYjkxZDAzYjk4LmpwZw==.jpg\" alt=\"Coinbase bets on stablecoins, Base and 'everything exchange' for 2026\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase's \"everything exchange\" includes an all-in-one platform as competition intensifies among crypto firms chasing the super app model.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 10:33:48 +0000",
+      "fetched_at": "2026-01-02T10:37:52.095205721Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "We bring you Tech Life highlights from a fascinating year in global tech.",
+      "published": "Tue, 30 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2026-01-02T10:37:51.95963241Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Small business owner shares how Trump's tariffs affected sales",
       "link": "https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:03:08 GMT",
       "fetched_at": "2025-12-24T00:59:18.519743866Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Multiple injured in explosion and fire at Pennsylvania nursing home",
-      "link": "https://www.bbc.com/news/articles/ce3wry1529wo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The fire is still active and there are people trapped inside, authorities say.",
-      "published": "Tue, 23 Dec 2025 22:49:21 GMT",
-      "fetched_at": "2025-12-24T00:59:18.519729109Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Australia to deport British man charged with displaying Nazi symbols",
-      "link": "https://www.bbc.com/news/articles/cgke51rzpvro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The immigration minister said the man is an unwelcome \"guest\" in Australia.",
-      "published": "Wed, 24 Dec 2025 00:25:04 GMT",
-      "fetched_at": "2025-12-24T00:59:18.519714862Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1624,
-  "last_update": "2026-01-02T10:13:22.763972847Z"
+  "total_captured": 1626,
+  "last_update": "2026-01-02T10:37:52.310338651Z"
 }

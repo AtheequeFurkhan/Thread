@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 10:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1624-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 10:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1626-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 10:13 UTC)*
+*(Updated: 02 Jan 10:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) | 🟢 Positive |
 | **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://ct.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Four crypto comebacks from 2025 that could help shape year ahead](https://ct.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://ct.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Final nail in 4-year cycle? BTC ends year after halving in red](https://ct.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance](https://ct.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [TikTok removes AI weight loss ads from fake Boots account](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World
