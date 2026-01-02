@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin ETF momentum builds in South Korea as regulation lags behind",
+      "link": "https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdkOGMtMjJhZS03YWFjLThjYWYtNjgwNzFkZDU4MDkyLmpwZw==.jpg\" alt=\"Bitcoin ETF momentum builds in South Korea as regulation lags behind\"\u003e\u003c/p\u003e\u003cp\u003eWith trading-hour extensions and digital finance upgrades underway, Korea Exchange is positioning for crypto ETFs while approvals remain stalled.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 09:04:00 +0000",
+      "fetched_at": "2026-01-02T09:16:38.721875628Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
       "link": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:25:36 +0000",
       "fetched_at": "2025-12-24T00:59:18.287076006Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
-      "link": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Recent deadly protests in Bangladesh are further straining Delhi's already frayed tied with Dhaka.",
-      "published": "Tue, 23 Dec 2025 23:34:35 GMT",
-      "fetched_at": "2025-12-23T23:42:11.753452062Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1620,
-  "last_update": "2026-01-02T08:49:48.236637181Z"
+  "total_captured": 1621,
+  "last_update": "2026-01-02T09:16:38.740437705Z"
 }
