@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 09:53 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1623-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 10:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1624-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 09:53 UTC)*
+*(Updated: 02 Jan 10:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) | 🟢 Positive |
 | **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://ct.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Final nail in 4-year cycle? BTC ends year after halving in red](https://ct.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance](https://ct.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Tether snaps up another 8,888 BTC, now fifth-largest Bitcoin wallet](https://ct.com/news/tether-buys-another-8-888-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,11 +49,11 @@
 
 
 ### 📂 Business
+- [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) (🟢 Positive)
 - [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) (⚪ Neutral)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) (⚪ Neutral)
 - [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) (🔴 Negative)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) (⚪ Neutral)
-- [Jim Beam to pause production at its main plant in 2026](https://www.npr.org/2026/01/01/nx-s1-5662610/jim-beam-to-pause-production-at-its-main-plant-in-2026) (⚪ Neutral)
 
 
 ### 📂 Crypto

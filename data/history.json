@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Small business owner shares how Trump's tariffs affected sales",
+      "link": "https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales",
+      "category": "Business",
+      "summary": "President Trump's on-again, off-again tariffs on Chinese imports affected many U.S. businesses last year. We check in with one small business owner to ask what the year and holiday season were like.",
+      "published": "Fri, 02 Jan 2026 04:49:59 -0500",
+      "fetched_at": "2026-01-02T10:13:22.763948171Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Indian families grieve deaths caused by contaminated tap water",
       "link": "https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:25:04 GMT",
       "fetched_at": "2025-12-24T00:59:18.519714862Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
-      "link": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The largest release of Epstein-related documents yet from the justice department included some notable messages and several mentions of Trump.",
-      "published": "Wed, 24 Dec 2025 00:45:45 GMT",
-      "fetched_at": "2025-12-24T00:59:18.519695576Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1623,
-  "last_update": "2026-01-02T09:53:58.582277365Z"
+  "total_captured": 1624,
+  "last_update": "2026-01-02T10:13:22.763972847Z"
 }
