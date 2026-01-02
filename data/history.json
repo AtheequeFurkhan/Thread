@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE",
+      "link": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A confrontation between the Gulf powers over southern Yemen has left the country's future in the balance.",
+      "published": "Fri, 02 Jan 2026 14:59:53 GMT",
+      "fetched_at": "2026-01-02T15:51:41.163217419Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+      "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Families are appealing for information about children as young as 15 who are thought to have been at the bar.",
+      "published": "Fri, 02 Jan 2026 15:18:56 GMT",
+      "fetched_at": "2026-01-02T15:51:41.163197502Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC",
       "link": "https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 09:07:52 GMT",
       "fetched_at": "2025-12-24T10:13:53.372989433Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Venezuela accuses US of 'extortion' over seizure of oil tankers",
-      "link": "https://www.bbc.com/news/articles/cd749gqgg11o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "An emergency meeting of the UN Security Council was called to discuss the US seizure of two tankers.",
-      "published": "Wed, 24 Dec 2025 09:46:14 GMT",
-      "fetched_at": "2025-12-24T10:13:53.372975738Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Latest peace plan offers possible Ukrainian withdrawal from east, Zelensky says",
-      "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option.",
-      "published": "Wed, 24 Dec 2025 09:52:14 GMT",
-      "fetched_at": "2025-12-24T09:52:49.88434803Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1640,
-  "last_update": "2026-01-02T15:34:47.876571319Z"
+  "total_captured": 1642,
+  "last_update": "2026-01-02T15:51:41.868139216Z"
 }

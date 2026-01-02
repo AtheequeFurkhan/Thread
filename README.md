@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 15:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1640-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 15:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1642-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 15:34 UTC)*
+*(Updated: 02 Jan 15:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) | 🟢 Positive |
 | **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
