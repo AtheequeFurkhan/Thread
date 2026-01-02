@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Americans brace to start New Year without healthcare",
+      "link": "https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "More than 20 million Americans are preparing for steeper healthcare costs in the New Year because of expiring subsidies.",
+      "published": "Thu, 01 Jan 2026 14:22:57 GMT",
+      "fetched_at": "2026-01-02T04:51:50.658616415Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Trump says health is 'perfect' amid ageing concerns",
+      "link": "https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In an interview about his health, Trump talked about using hand makeup, getting by on little sleep and taking lots of aspirin.",
+      "published": "Fri, 02 Jan 2026 02:22:17 GMT",
+      "fetched_at": "2026-01-02T04:51:50.658284846Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Japan PM joins fight for more female toilets in parliament",
+      "link": "https://www.bbc.com/news/articles/c8e5lxd2gwgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Japan's parliament building was built in 1936, a decade before women was given the right to vote.",
+      "published": "Fri, 02 Jan 2026 03:10:12 GMT",
+      "fetched_at": "2026-01-02T04:51:50.658227719Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'You're invisible, you don't exist' - life without a birth certificate",
+      "link": "https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Millions around the world are living in the shadows as stateless people as they lack official papers.",
+      "published": "Fri, 02 Jan 2026 02:15:28 GMT",
+      "fetched_at": "2026-01-02T04:51:50.658183607Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Maduro says Venezuela open to US talks on drug trafficking",
+      "link": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US.",
+      "published": "Fri, 02 Jan 2026 02:34:11 GMT",
+      "fetched_at": "2026-01-02T04:51:50.658148602Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Solana enters 2026 with last-minute boost in RWA momentum",
+      "link": "https://cointelegraph.com/news/solana-institutional-momentum-heading-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjYTUtNDNiZS03MmQwLTkxNGMtMzhiZDhlZTQ5NGNjLmpwZw==.jpg\" alt=\"Solana enters 2026 with last-minute boost in RWA momentum\"\u003e\u003c/p\u003e\u003cp\u003eSolana finished the year with record tokenized RWA activity and strong inflows into Solana ETFs, which could push SOL toward new highs in 2026.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 04:49:04 +0000",
+      "fetched_at": "2026-01-02T04:51:50.64756512Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Metric suggests Bitcoin has been in a bear market for 2 months",
       "link": "https://cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4445,62 +4499,8 @@
       "published": "Tue, 23 Dec 2025 05:00:00 -0500",
       "fetched_at": "2025-12-23T10:14:32.706561561Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "TikTok takes down fake weight loss ads impersonating Boots",
-      "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.",
-      "published": "Tue, 23 Dec 2025 09:23:51 GMT",
-      "fetched_at": "2025-12-23T09:44:21.888723306Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Five dead after plane carrying child burns victim crashes in Texas",
-      "link": "https://www.bbc.com/news/articles/c1lr1yvqge5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Mexican Navy plane was transporting a child to the US on behalf of a charity which cares for burns victims.",
-      "published": "Tue, 23 Dec 2025 08:58:46 GMT",
-      "fetched_at": "2025-12-23T09:44:21.451288849Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ether ETFs break outflow streak while XRP products hit multi-week highs",
-      "link": "https://cointelegraph.com/news/ether-xrp-altcoin-etf-flows-diverge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMGMtNTg1NS03MGQ2LWI5M2YtNjI0NTI4ZDY1YzVjLmpwZw==.jpg\" alt=\"Ether ETFs break outflow streak while XRP products hit multi-week highs\"\u003e\u003c/p\u003e\u003cp\u003eAltcoin ETF flows are beginning to diverge, with Ether stabilizing, XRP drawing steady demand and smaller funds getting uneven traction.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 09:16:27 +0000",
-      "fetched_at": "2025-12-23T09:44:21.319199193Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open",
-      "link": "https://cointelegraph.com/news/hageman-video-fuels-senate-chatter-lummis-wyoming-seat?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjUtNWMzYS03NDM4LWE3ZDktYzUwZmFjZmVlODVjLmpwZw==.jpg\" alt=\"Hageman video fuels Senate chatter as Lummis leaves Wyoming seat open\"\u003e\u003c/p\u003e\u003cp\u003eHarriet Hageman’s “Soon” teaser on X sharpens talk of a 2026 Senate bid to replace crypto ally Cynthia Lummis, raising the stakes for Wyoming’s pro‑crypto brand.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 09:00:36 +0000",
-      "fetched_at": "2025-12-23T09:17:36.745872748Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bybit to discontinue services for Japanese residents, citing regulations",
-      "link": "https://cointelegraph.com/news/bybit-discontinue-services-japanese-residents-citing-regulations?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMzQtOTg5MC03ZjMxLTkxYjktYmM5Mjg5NWYzZWZlLmpwZw==.jpg\" alt=\"Bybit to discontinue services for Japanese residents, citing regulations\"\u003e\u003c/p\u003e\u003cp\u003eBybit will phase out services for Japan-based users starting in 2026, following earlier steps to halt new registrations.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 07:57:13 +0000",
-      "fetched_at": "2025-12-23T08:18:55.552371041Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst",
-      "link": "https://cointelegraph.com/news/veteran-analyst-predicts-next-bitcoin-bull-market-peak-in-sept-2029?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY2NmUtM2I3ZS03YjU5LWIxM2UtY2I3N2E2YWQ1ZmEy.jpg\" alt=\"Crypto altseaon unlikely in 2026 as ‘blue-chip survivors’ to win out: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eCoinEx’s Jeff Ko tells Cointelegraph there likely won’t be an altseason in 2026 as liquidity will flow into the top cryptocurrencies.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 05:55:50 +0000",
-      "fetched_at": "2025-12-23T06:20:59.210384798Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1575,
-  "last_update": "2026-01-02T04:10:13.603150486Z"
+  "total_captured": 1581,
+  "last_update": "2026-01-02T04:51:50.658837706Z"
 }
