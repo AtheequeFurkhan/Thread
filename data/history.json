@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Metric suggests Bitcoin has been in a bear market for 2 months",
+      "link": "https://cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjMTMtYTA5NC03ZmI3LWExZGEtYWE5MzRlOTRhZGI1LmpwZw==.jpg\" alt=\"Metric suggests Bitcoin has been in a bear market for 2 months\"\u003e\u003c/p\u003e\u003cp\u003eBased on Bitcoin's realized price and past performance, CryptoQuant’s Julio Moreno predicts that Bitcoin will bottom around $56,000 to $60,000 in 2026.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 03:38:47 +0000",
+      "fetched_at": "2026-01-02T04:10:13.209576575Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto tax data to be collected in 48 counties ahead of CARF 2027",
+      "link": "https://cointelegraph.com/news/crypto-tax-data-carf-oecd-begins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiZDAtZTlkYy03YzY4LWJkMGYtMmM3M2NmYzYzZjU0LmpwZw==.jpg\" alt=\"Crypto tax data to be collected in 48 counties ahead of CARF 2027\"\u003e\u003c/p\u003e\u003cp\u003eCrypto service providers in Crypto-Asset Reporting Framework-participating jurisdictions will start ramping up transaction data collection and begin sharing information in 2027.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 03:55:11 +0000",
+      "fetched_at": "2026-01-02T04:10:13.20955422Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Polymarket traders see just 21% chance of Bitcoin hitting $150K this year",
       "link": "https://cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 23 Dec 2025 05:55:50 +0000",
       "fetched_at": "2025-12-23T06:20:59.210384798Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
-      "link": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a \"miracle\", his family say.",
-      "published": "Tue, 23 Dec 2025 06:06:34 GMT",
-      "fetched_at": "2025-12-23T06:20:58.643378597Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "CFTC changes guard as Selig takes reins, Pham departs",
-      "link": "https://cointelegraph.com/news/cftc-changes-guard-selig-takes-reins-pham-departs?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ5MDAtM2Y0ZS03Y2JmLThjMjEtNmUzM2JhYzUyMTdlLmpwZw==.jpg\" alt=\"CFTC changes guard as Selig takes reins, Pham departs\"\u003e\u003c/p\u003e\u003cp\u003eCFTC acting chair Caroline Pham says Monday was her last day at the regulator, with Michael Selig being officially sworn in to chair the agency.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 04:36:33 +0000",
-      "fetched_at": "2025-12-23T05:01:17.303598472Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1573,
-  "last_update": "2026-01-02T03:05:32.311445224Z"
+  "total_captured": 1575,
+  "last_update": "2026-01-02T04:10:13.603150486Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 03:05 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1573-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 04:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1575-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 03:05 UTC)*
+*(Updated: 02 Jan 04:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Metric suggests Bitcoin has been in a bear market for 2 months](https://cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Crypto tax data to be collected in 48 counties ahead of CARF 2027](https://cointelegraph.com/news/crypto-tax-data-carf-oecd-begins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Polymarket traders see just 21% chance of Bitcoin hitting $150K this year](https://cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [China's BYD set to overtake Tesla as world's top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Why everything from your phone to your PC may get pricier in 2026](https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Technology** | [Can technology fix fashion's sizing crisis?](https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [On the front line of Europe's standoff with Russia's sanction-busting shadow fleet](https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Business** | [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) | ⚪ Neutral |
-| **Technology** | [The contradiction at the heart of the trillion-dollar AI race](https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [The entrepreneur connecting tourists to African hospitality](https://www.bbc.com/news/videos/cvgkerq52p4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Metric suggests Bitcoin has been in a bear market for 2 months](https://cointelegraph.com/news/crypto-bear-market-began-november-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Crypto tax data to be collected in 48 counties ahead of CARF 2027](https://cointelegraph.com/news/crypto-tax-data-carf-oecd-begins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Polymarket traders see just 21% chance of Bitcoin hitting $150K this year](https://cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Turkmenistan rings in new year with crypto exchanges, miners](https://cointelegraph.com/news/turkmenistan-crypto-exchanges-trading-now-legal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Losses from crypto hacks down 60% in December: PeckShield](https://cointelegraph.com/news/losses-crypto-hacks-down-60-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Flow advances recovery plan, raises exchange concerns after $3.9M exploit](https://cointelegraph.com/news/flow-recovery-plan-exchange-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
