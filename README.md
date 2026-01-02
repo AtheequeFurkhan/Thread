@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 16:43 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1644-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 16:57 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1646-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 16:43 UTC)*
+*(Updated: 02 Jan 16:57 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Crypto** | [Bitfarms exits Latam with $30M facility sale](https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitfarms exits Latam with $30M facility sale](https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cash-like privacy is among digital euro’s 'hardest political tradeoffs'](https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

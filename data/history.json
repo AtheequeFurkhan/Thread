@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
+      "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The former heavyweight champion was a passenger in the crash, which killed two of his team members on Monday.",
+      "published": "Fri, 02 Jan 2026 16:48:11 GMT",
+      "fetched_at": "2026-01-02T16:57:22.570869534Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Bitfarms exits Latam with $30M facility sale",
+      "link": "https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmMzItMjVmZC03NTAzLTg5M2UtNzlhZGEyZjNhZTI2LmpwZw==.jpg\" alt=\"Bitfarms exits Latam with $30M facility sale\"\u003e\u003c/p\u003e\u003cp\u003eThe company’s energy operations will become “100% North American” following the sale of the Paraguayan site.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 16:51:05 +0000",
+      "fetched_at": "2026-01-02T16:57:22.553778788Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Changing regulations: What users should know before buying crypto in 2026",
       "link": "https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 10:22:37 +0000",
       "fetched_at": "2025-12-24T10:38:50.732701531Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin is stuck below $90K until these market conditions improve",
-      "link": "https://cointelegraph.com/news/bitcoin-stuck-below-90k-until-these-market-conditions-improve?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRiNzgtYTI0OS03M2U4LTlmYmEtZDU2ZDExZmM2ODRmLmpwZw==.jpg\" alt=\"Bitcoin is stuck below $90K until these market conditions improve\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin holds near $87,000 as on-chain activity and exchange inflows fall, signalling tight liquidity and looming volatility.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 10:25:29 +0000",
-      "fetched_at": "2025-12-24T10:38:50.732676795Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs",
-      "link": "https://cointelegraph.com/news/philippines-blocks-coinbase-gemini-unlicensed-vasps?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNmItZDI1Ni03NWM4LWI2MjAtMjc3ODlhNDQ1NjQ0LmpwZw==.jpg\" alt=\"Philippines blocks Coinbase, Gemini amid wider crackdown on unlicensed VASPs\"\u003e\u003c/p\u003e\u003cp\u003ePhilippine regulators are tightening control over crypto access, signaling that global exchanges must secure local licenses to operate.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 10:04:59 +0000",
-      "fetched_at": "2025-12-24T10:13:54.412046254Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1644,
-  "last_update": "2026-01-02T16:43:11.284871888Z"
+  "total_captured": 1646,
+  "last_update": "2026-01-02T16:57:22.780875863Z"
 }
