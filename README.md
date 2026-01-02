@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-01 Jan 23:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1568-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 01:01 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1570-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 01 Jan 23:49 UTC)*
+*(Updated: 02 Jan 01:01 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Turkmenistan rings in new year with crypto exchanges, miners](https://cointelegraph.com/news/turkmenistan-crypto-exchanges-trading-now-legal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [How the defence sector is battling a skills crisis](https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Amazon blocks 1,800 job applications from suspected North Korean agents](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Technology** | [Scammers hacked her phone and stole thousands - so how did they get her details?](https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin options boom raises fears of capped BTC upside](https://cointelegraph.com/news/bitcoin-options-under-fire-as-covered-calls-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage](https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Will boats be a breakthrough for 3D printing tech?](https://www.bbc.com/news/articles/c751xw96e9yo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Technology** | [Call of Duty co-creator Vince Zampella dies in California car crash](https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Turkmenistan rings in new year with crypto exchanges, miners](https://cointelegraph.com/news/turkmenistan-crypto-exchanges-trading-now-legal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Losses from crypto hacks down 60% in December: PeckShield](https://cointelegraph.com/news/losses-crypto-hacks-down-60-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Flow advances recovery plan, raises exchange concerns after $3.9M exploit](https://cointelegraph.com/news/flow-recovery-plan-exchange-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin options boom raises fears of capped BTC upside](https://cointelegraph.com/news/bitcoin-options-under-fire-as-covered-calls-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage](https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [How the defence sector is battling a skills crisis](https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Amazon blocks 1,800 job applications from suspected North Korean agents](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The South African start-up bringing tech to townships](https://www.bbc.com/news/videos/c2310jkr9y9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [The showers and baths keeping data centre tech cool](https://www.bbc.com/news/articles/cp8zd176516o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['This is the big one' - tech firms bet on electrifying rail](https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Fire-blocking chemicals promise safer buildings](https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 ### 📂 World
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2026-01-02.md | [View Log](data/2026-01-02.md) |
 | 2026-01-01.md | [View Log](data/2026-01-01.md) |
 | 2025-12-31.md | [View Log](data/2025-12-31.md) |
 | 2025-12-30.md | [View Log](data/2025-12-30.md) |
 | 2025-12-29.md | [View Log](data/2025-12-29.md) |
 | 2025-12-28.md | [View Log](data/2025-12-28.md) |
 | 2025-12-27.md | [View Log](data/2025-12-27.md) |
-| 2025-12-26.md | [View Log](data/2025-12-26.md) |
 
 
 ---
