@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican",
+      "link": "https://cointelegraph.com/news/sec-commissioner-caroline-crenshaw-term-ending?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmODYtMmJlMy03ZTQyLTlhYWYtNzg4NjRiMjc3NjE3LmpwZw==.jpg\" alt=\"SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican\"\u003e\u003c/p\u003e\u003cp\u003eCrenshaw’s exit leaves the SEC without Democratic representation as the agency and other US financial regulators face leadership gaps.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 18:30:33 +0000",
+      "fetched_at": "2026-01-02T18:49:40.883373424Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Woman killed in suspected mountain lion attack in US",
       "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 13:00:00 +0000",
       "fetched_at": "2025-12-24T13:07:16.893507131Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price",
-      "link": "https://cointelegraph.com/news/bitcoin-due-gains-record-24b-options-expiry-lifts-lid-btc-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMWUtM2EyNy03NDcwLTgyN2YtMGRmMzMzMDIyYTI5LmpwZw==.jpg\" alt=\"Bitcoin due gains after record $24B options expiry lifts 'lid' on BTC price\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin price predictions include an initial $100,000 target after completion of the Boxing Day options expiry, worth a record $23.7 billion.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 11:47:23 +0000",
-      "fetched_at": "2025-12-24T12:24:33.332073039Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1649,
-  "last_update": "2026-01-02T18:18:28.639108495Z"
+  "total_captured": 1650,
+  "last_update": "2026-01-02T18:49:41.058903106Z"
 }
