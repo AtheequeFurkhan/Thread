@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 05:18 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1612-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 05:46 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1617-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 05:18 UTC)*
+*(Updated: 02 Jan 05:46 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **Crypto** | [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://ct.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://ct.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [The XRP Army got everything except $5 price: Will 2026 deliver?](https://ct.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Trust Wallet browser extension knocked offline by Chrome Store 'bug,' CEO says](https://ct.com/news/trust-wallet-ceo-google-chrome-browser-extension-delayed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Happy New Year, Mark Cuban: Judge dismisses lawsuit over Voyager Digital](https://ct.com/news/voyager-digital-mark-cuban-mavericks-lawsuit-dismissed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://ct.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin RSI demands breakout as exec says 'RIP' to 4-year BTC price cycle](https://ct.com/news/bitcoin-rsi-demands-breakout-exec-says-rip-4-year-btc-price-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage](https://ct.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://ct.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Four crypto comebacks from 2025 that could help shape year ahead](https://ct.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [TikTok removes AI weight loss ads from fake Boots account](https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [China's BYD set to overtake Tesla as world's top EV seller](https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Why everything from your phone to your PC may get pricier in 2026](https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How the defence sector is battling a skills crisis](https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Amazon blocks 1,800 job applications from suspected North Korean agents](https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist",
+      "link": "https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdjZjQtMTdjMi03MDczLWI2MDUtZGMyZTNhZDAzNDkzLmpwZw==.jpg\" alt=\"Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist\"\u003e\u003c/p\u003e\u003cp\u003eThe crypto sentiment indicator finally moved out of the “extreme fear” territory despite Bitcoin still treading below $90,000.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 04:54:56 +0000",
+      "fetched_at": "2026-01-02T05:46:59.41680201Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Grand Theft Auto game creator sacked us for trying to unionise",
+      "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\".",
+      "published": "Mon, 15 Dec 2025 10:21:43 GMT",
+      "fetched_at": "2026-01-02T05:46:59.300820583Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Roomba vacuum cleaner firm files for bankruptcy",
+      "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm.",
+      "published": "Mon, 15 Dec 2025 07:47:31 GMT",
+      "fetched_at": "2026-01-02T05:46:59.300807979Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+      "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services.",
+      "published": "Mon, 15 Dec 2025 11:41:43 GMT",
+      "fetched_at": "2026-01-02T05:46:59.300794614Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+      "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead.",
+      "published": "Mon, 15 Dec 2025 13:52:12 GMT",
+      "fetched_at": "2026-01-02T05:46:59.300779075Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "India’s central bank urges countries to prioritize CBDCs over stablecoins",
       "link": "https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Tue, 23 Dec 2025 21:34:40 +0000",
       "fetched_at": "2025-12-23T21:48:23.364397337Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Baking cookbooks boomed in 2025",
-      "link": "https://www.npr.org/2025/12/23/nx-s1-5629187/baking-cookbooks-boomed-in-2025",
-      "category": "Business",
-      "summary": "Sales of baking cookbooks are up about 80% over the past year, according to research group Circana. And that's bucking a downward trend in cookbooks overall.",
-      "published": "Tue, 23 Dec 2025 15:57:26 -0500",
-      "fetched_at": "2025-12-23T21:12:23.643246697Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Brazil's live orchestra to turn Bitcoin price moves into music",
-      "link": "https://cointelegraph.com/news/brazil-live-orchestra-bitcoin-price-into-music?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjOWYtZmU4My03ODZhLWJlYjgtNzViMjhkMDQ0NzZjLmpwZw==.jpg\" alt=\"Brazil's live orchestra to turn Bitcoin price moves into music\"\u003e\u003c/p\u003e\u003cp\u003eThe project recently received approval to raise private, tax-deductible funding under Brazil’s cultural incentive laws, with a live performance planned in the federal capital.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 20:42:28 +0000",
-      "fetched_at": "2025-12-23T20:51:28.685486508Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Gnosis announces hard fork to recover funds from Balancer exploit",
-      "link": "https://cointelegraph.com/news/gnosis-hard-fork-balancer-exploit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjMjMtMmE1MS03YTBhLWFhY2EtODI2MTIwYjU0M2M5LmpwZw==.jpg\" alt=\"Gnosis announces hard fork to recover funds from Balancer exploit\"\u003e\u003c/p\u003e\u003cp\u003eThe hard fork on Monday followed a majority of Gnosis validators adopting a soft fork in response to a November Balancer exploit, in which about $116 million in crypto was stolen.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 20:11:37 +0000",
-      "fetched_at": "2025-12-23T20:35:03.143682678Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Contact lost with jet carrying Libya's army chief, says Turkey",
-      "link": "https://www.bbc.com/news/articles/cyvgzyepdqno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Gen Mohammed Ali Ahmed al-Haddad and four others were on board of a jet that took off from Ankara on Tuesday evening.",
-      "published": "Tue, 23 Dec 2025 20:05:44 GMT",
-      "fetched_at": "2025-12-23T20:13:29.07649358Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump travelled on Epstein's plane more than previously thought, prosecutor says",
-      "link": "https://www.bbc.com/news/articles/c74xgp81pqgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US president has long denied any wrongdoing in relation to late convicted sex offender Jeffrey Epstein.",
-      "published": "Tue, 23 Dec 2025 19:46:42 GMT",
-      "fetched_at": "2025-12-23T20:13:29.076474355Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1612,
-  "last_update": "2026-01-02T05:18:42.110779334Z"
+  "total_captured": 1617,
+  "last_update": "2026-01-02T05:46:59.73069609Z"
 }
