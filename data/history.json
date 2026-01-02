@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Watch: Moment 400-pound runaway prop injures Disney employee",
+      "link": "https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The incident took place during a live recreation of a scene from the film of Indiana Jones",
+      "published": "Fri, 02 Jan 2026 07:10:11 GMT",
+      "fetched_at": "2026-01-02T07:17:33.977953575Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia",
       "link": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Tue, 23 Dec 2025 23:34:35 GMT",
       "fetched_at": "2025-12-23T23:42:11.753452062Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "'Inappropriate friends' email from 'Balmoral' among Epstein release",
-      "link": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform.",
-      "published": "Tue, 23 Dec 2025 22:48:09 GMT",
-      "fetched_at": "2025-12-23T23:30:22.195021226Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1619,
-  "last_update": "2026-01-02T06:54:38.464174321Z"
+  "total_captured": 1620,
+  "last_update": "2026-01-02T07:17:33.977970176Z"
 }
