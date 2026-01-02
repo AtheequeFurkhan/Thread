@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Is the whiskey industry in trouble?",
+      "link": "https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble",
+      "category": "Business",
+      "summary": "NPR's Mary Louise Kelly speaks with bourbon expert Fred Minnick on what Jim Beam's halting distillation at main distillery reveals about the challenges facing the bourbon industry and the year ahead.",
+      "published": "Fri, 02 Jan 2026 16:51:52 -0500",
+      "fetched_at": "2026-01-02T22:12:43.318253841Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B",
+      "link": "https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcxZmEtYWY1NC03YjkyLTg1YmItNWU1ZmFmNDI5ZWVlLmpwZw==.jpg\" alt=\"BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B\"\u003e\u003c/p\u003e\u003cp\u003eBeing able to strategically raise capital by having shares ready to issue was one of the secondary reasons Lee gave for the proposal.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 21:55:25 +0000",
+      "fetched_at": "2026-01-02T22:12:43.06625383Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Binance delists FLOW/BTC pair, flags token after exploit",
+      "link": "https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjgwNTAtZTYyZi03MWQxLWFhZTQtYzZjOTkxMWNlOTU1LmpwZw==.jpg\" alt=\"Binance delists FLOW/BTC pair, flags token after exploit\"\u003e\u003c/p\u003e\u003cp\u003eThe largest crypto exchange by trading volume announced two moves related to the FLOW token following the project's foundation updating users on a $3.9 million exploit.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 22:03:27 +0000",
+      "fetched_at": "2026-01-02T22:12:43.066164024Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: Earthquake interrupts Mexico's president during press conference",
       "link": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 24 Dec 2025 08:58:48 GMT",
       "fetched_at": "2025-12-24T15:13:18.972497102Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead",
-      "link": "https://cointelegraph.com/news/xrp-price-below-2-negative-sentiment-signals-strong-rebound?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBmMTYtMzE1Ni03ODk2LWE0NzktNzljZTdhMzQxZGY0.jpg\" alt=\"XRP price below $2: Negative sentiment signals ‘strong rebound’ ahead\"\u003e\u003c/p\u003e\u003cp\u003eXRP social sentiment hits extreme fear levels, a setup that has sparked sharp rebounds in the past, but XRP faces stiff resistance in its recovery path.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 15:03:53 +0000",
-      "fetched_at": "2025-12-24T15:13:18.950872958Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Web3 and DApps in 2026: A utility-driven year ahead for crypto",
-      "link": "https://cointelegraph.com/news/web3-dapps-outlook-2026-utility-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI1ZDgtOWNlYi03OTdiLWJhNTgtOWVjN2Q3ZjE2YmU2LmpwZw==.jpg\" alt=\"Web3 and DApps in 2026: A utility-driven year ahead for crypto\"\u003e\u003c/p\u003e\u003cp\u003eCrypto enters 2026 with mature infrastructure; now DApps must prove real utility, win users without incentives and compete directly with Web2.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 14:00:00 +0000",
-      "fetched_at": "2025-12-24T14:12:10.738942965Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians",
-      "link": "https://cointelegraph.com/news/hong-kong-licensing-virtual-assets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmZDMtMDVlMS03MGU0LThlNTEtYzU0ODllMzVhMDVhLmpwZw==.jpg\" alt=\"Hong Kong proceeds with licensing regimes for virtual asset dealers and custodians\"\u003e\u003c/p\u003e\u003cp\u003eHong Kong’s FSTB and SFC will introduce licensing requirements for virtual asset dealing and custody firms, expanding the city’s policy push that already includes a stablecoin licensing blueprint and tokenization guidance.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 14:00:57 +0000",
-      "fetched_at": "2025-12-24T14:12:10.738895737Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1656,
-  "last_update": "2026-01-02T21:48:00.661507765Z"
+  "total_captured": 1659,
+  "last_update": "2026-01-02T22:12:43.318303764Z"
 }

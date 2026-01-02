@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 21:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1656-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 22:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1659-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 21:48 UTC)*
+*(Updated: 02 Jan 22:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) | ⚪ Neutral |
+| **Crypto** | [BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B](https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Binance delists FLOW/BTC pair, flags token after exploit](https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Earthquake interrupts Mexico's president during press conference](https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [What images and videos tell us about why Swiss bar fire spread so quickly](https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) (⚪ Neutral)
 - [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) (🟢 Positive)
 - [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) (⚪ Neutral)
 - [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) (⚪ Neutral)
 - [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) (🔴 Negative)
-- [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-officially-retires-as-berkshire-hathways-ceo) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B](https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Binance delists FLOW/BTC pair, flags token after exploit](https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch](https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - ['Hundreds' of EVM wallets drained in mysterious attack: ZachXBT](https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican](https://cointelegraph.com/news/sec-commissioner-caroline-crenshaw-term-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [BitVentures makes first crypto mining move weeks after Nasdaq rebrand](https://cointelegraph.com/news/bitventures-crypto-mining-pivot-nasdaq-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
