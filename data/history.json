@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Dozens missing after boat carrying 200 migrants sinks off Gambia",
+      "link": "https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It is the latest accident on one of the world’s most dangerous routes used by West Africans trying to reach Spain.",
+      "published": "Fri, 02 Jan 2026 06:50:57 GMT",
+      "fetched_at": "2026-01-02T06:54:38.250254841Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "DeFi pioneer coughs up $50K after making a pretty bad bet on Ether",
+      "link": "https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI5OGUtMmExZS03NDA5LTk2NjQtNzJhOTliMDljZThkLmpwZw==.jpg\" alt=\"DeFi pioneer coughs up $50K after making a pretty bad bet on Ether\"\u003e\u003c/p\u003e\u003cp\u003eEthereum OG Kain Warwick, the founder of Infinex and Synthetix, missed the mark by about $20,000.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 06:48:12 +0000",
+      "fetched_at": "2026-01-02T06:54:38.221429148Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist",
       "link": "https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 23 Dec 2025 22:48:09 GMT",
       "fetched_at": "2025-12-23T23:30:22.195021226Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "UN experts urge Iran to stop execution of woman activist",
-      "link": "https://www.bbc.com/news/articles/cwyxz5jken3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Zahra Tabari, 67, was sentenced to death after a trial that lasted less than 10 minutes, her family says.",
-      "published": "Tue, 23 Dec 2025 22:11:01 GMT",
-      "fetched_at": "2025-12-23T22:34:24.785798089Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "From FTX fallout to fresh capital: Former US chief raises $35M for new exchange",
-      "link": "https://cointelegraph.com/news/brett-harrison-raises-35m-institutional-derivatives-exchange?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRjZWEtMWMzOS03MjQwLWE2MjctM2M4ZmJkMmQ5OTZjLmpwZw==.jpg\" alt=\"From FTX fallout to fresh capital: Former US chief raises $35M for new exchange\"\u003e\u003c/p\u003e\u003cp\u003eFormer-FTX US president Brett Harrison’s Architect Financial Technologies secured $35 million to build an institutional trading platform spanning crypto, equities, and futures.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 21:34:40 +0000",
-      "fetched_at": "2025-12-23T21:48:23.364397337Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1617,
-  "last_update": "2026-01-02T06:21:00.989289129Z"
+  "total_captured": 1619,
+  "last_update": "2026-01-02T06:54:38.464174321Z"
 }

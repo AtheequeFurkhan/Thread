@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 06:21 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1617-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 06:54 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1619-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 06:21 UTC)*
+*(Updated: 02 Jan 06:54 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Dozens missing after boat carrying 200 migrants sinks off Gambia](https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Bithumb flags $200M in dormant crypto assets across 2.6M inactive accounts](https://ct.com/news/bithumb-dormant-crypto-assets-200m-inactive-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [SOL accumulation tops crypto trends on New Year’s Day: Santiment](https://ct.com/news/solana-whale-accumulation-santiment-crypto-trends-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto privacy in 2026: Compliance-friendly tools take center stage](https://ct.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Base’s creator coin experiment meets resistance after Nick Shirley launch](https://ct.com/news/base-creator-coin-experiment-meets-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [The XRP Army got everything except $5 price: Will 2026 deliver?](https://ct.com/news/xrp-army-got-everything-asked-for-except-5-xrp-will-2026-deliver?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://ct.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Dozens missing after boat carrying 200 migrants sinks off Gambia](https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Americans brace to start New Year without healthcare](https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump says health is 'perfect' amid ageing concerns](https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Japan PM joins fight for more female toilets in parliament](https://www.bbc.com/news/articles/c8e5lxd2gwgo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['You're invisible, you don't exist' - life without a birth certificate](https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Maduro says Venezuela open to US talks on drug trafficking](https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
