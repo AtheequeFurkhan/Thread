@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 22:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1662-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 23:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1663-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 22:52 UTC)*
+*(Updated: 02 Jan 23:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitfarms exits Latam with $30M facility sale](https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Now",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Nick Kwek visits the National Space Industry Hub in Sydney.",
+      "published": "Sat, 06 Dec 2025 01:00:18 GMT",
+      "fetched_at": "2026-01-02T23:12:18.474867347Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The unexpected history of those oh-so annoying internet popup ads",
       "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 15:53:08 +0000",
       "fetched_at": "2025-12-24T16:15:36.146981189Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Five governments that clarified crypto licensing in 2025",
-      "link": "https://cointelegraph.com/explained/five-governments-that-clarified-crypto-licensing-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwZjgtNjE5YS03ZGE3LTkyMGUtYWEyNDljMmUwZGI5LmpwZWc=.jpeg\" alt=\"Five governments that clarified crypto licensing in 2025\"\u003e\u003c/p\u003e\u003cp\u003eDiscover the five governments that simplified crypto licensing in 2025, from the GENIUS Act in the US to the EU’s MiCA passporting regime.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 15:37:57 +0000",
-      "fetched_at": "2025-12-24T15:50:43.779389381Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1662,
-  "last_update": "2026-01-02T22:52:12.909174511Z"
+  "total_captured": 1663,
+  "last_update": "2026-01-02T23:12:18.711367177Z"
 }
