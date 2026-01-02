@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 22:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1659-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 22:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1661-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 22:12 UTC)*
+*(Updated: 02 Jan 22:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Technology** | [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) | ⚪ Neutral |
 | **Crypto** | [BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B](https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Binance delists FLOW/BTC pair, flags token after exploit](https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **Crypto** | [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B](https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Binance delists FLOW/BTC pair, flags token after exploit](https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch](https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- ['Hundreds' of EVM wallets drained in mysterious attack: ZachXBT](https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
+- [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World

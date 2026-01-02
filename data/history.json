@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "After bitter vote, Aave founder pitches a bigger future for DeFi lending giant",
+      "link": "https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmQtNzQxZi03OWMyLTg2ZmEtYWIzYTFiZDc0YmI4LmpwZw==.jpg\" alt=\"After bitter vote, Aave founder pitches a bigger future for DeFi lending giant\"\u003e\u003c/p\u003e\u003cp\u003eFollowing a rejected governance vote, Stani Kulechov laid out a plan to expand beyond DeFi lending and reshape how tokenholders capture value.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 22:11:58 +0000",
+      "fetched_at": "2026-01-02T22:36:03.457770667Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "AI teachers and cybernetics - what could the world look like in 2050?",
+      "link": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "We asked several experts to predict the technology we'll be using by 2050",
+      "published": "Fri, 02 Jan 2026 22:15:48 GMT",
+      "fetched_at": "2026-01-02T22:36:03.379980445Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Is the whiskey industry in trouble?",
       "link": "https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble",
       "category": "Business",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 06 Dec 2025 01:00:18 GMT",
       "fetched_at": "2025-12-24T15:33:55.620453563Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The unexpected history of those oh-so annoying internet popup ads",
-      "link": "https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Ethan Zuckerman says his intentions were good when he invented the ads.",
-      "published": "Sun, 07 Dec 2025 06:00:33 GMT",
-      "fetched_at": "2025-12-24T15:33:55.620361328Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Two police officers killed in explosion in Moscow",
-      "link": "https://www.bbc.com/news/articles/cz68z3wn1e3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "An explosion was detonated after police approached a 'suspicious' individual in Moscow, authorities said.",
-      "published": "Wed, 24 Dec 2025 08:58:48 GMT",
-      "fetched_at": "2025-12-24T15:13:18.972497102Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1659,
-  "last_update": "2026-01-02T22:12:43.318303764Z"
+  "total_captured": 1661,
+  "last_update": "2026-01-02T22:36:03.799485185Z"
 }
