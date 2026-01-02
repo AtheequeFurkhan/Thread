@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 11:29 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1626-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 11:40 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1627-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 11:29 UTC)*
+*(Updated: 02 Jan 11:40 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://ct.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Four crypto comebacks from 2025 that could help shape year ahead](https://ct.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Investors funnel $32B into US crypto ETFs despite year-end pullback](https://ct.com/news/us-spot-crypto-etfs-see-32-billion-inflows-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Moment 400-pound runaway prop injures Disney employee](https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Dozens missing after boat carrying 200 migrants sinks off Gambia](https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Americans brace to start New Year without healthcare](https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

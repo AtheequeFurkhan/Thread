@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump warns US will intervene if Iran kills protesters",
+      "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US president says \"we will come to their rescue\" after days of demonstrations and clashes.",
+      "published": "Fri, 02 Jan 2026 11:27:29 GMT",
+      "fetched_at": "2026-01-02T11:40:40.842486262Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Coinbase bets on stablecoins, Base and 'everything exchange' for 2026",
       "link": "https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:02:58 GMT",
       "fetched_at": "2025-12-24T00:59:18.519758173Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Have the American Pope and the American administration fallen out?",
-      "link": "https://www.bbc.com/news/articles/cvg1361d32ro?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Why the Catholic Church and Donald Trump’s government are at odds over immigration policy.",
-      "published": "Wed, 24 Dec 2025 00:03:08 GMT",
-      "fetched_at": "2025-12-24T00:59:18.519743866Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1626,
-  "last_update": "2026-01-02T11:29:47.547838741Z"
+  "total_captured": 1627,
+  "last_update": "2026-01-02T11:40:41.543210989Z"
 }
