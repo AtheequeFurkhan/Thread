@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 12:24 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1627-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 13:07 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1629-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 12:24 UTC)*
+*(Updated: 02 Jan 13:07 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **Crypto** | [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [CFTC director who made Bitcoin futures possible returns as chief of staff](https://ct.com/news/cftc-division-director-who-made-bitcoin-futures-possible-returns-as-chief-of-staff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Private messaging faces threats from AI, limited user awareness: Session execs](https://ct.com/news/ai-privacy-threats-future-private-messaging-session?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto forces to compound in 2026, accelerating adoption: Coinbase](https://ct.com/news/crypto-forces-compound-2026-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Four crypto comebacks from 2025 that could help shape year ahead](https://ct.com/news/4-crypto-comebacks-2025-shaping-the-next-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [India’s central bank urges countries to prioritize CBDCs over stablecoins](https://ct.com/news/india-central-bank-cbdc-vs-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology

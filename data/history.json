@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip",
+      "link": "https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTM0MTEtNjI2YS03MzYzLTk3YjQtODE1YmI4Zjk1OWQ0.jpg\" alt=\"Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin faced familiar $90,000 BTC price resistance into the year's first Wall Street open as gold made a comeback from local lows.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 12:30:16 +0000",
+      "fetched_at": "2026-01-02T13:07:02.651645409Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express",
+      "link": "https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdkODMtMzEzMi03YmRhLWIzY2YtY2Y5MzIxMDhmN2UwLmpwZw==.jpg\" alt=\"Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express\"\u003e\u003c/p\u003e\u003cp\u003eIndia is urging other countries to develop CBDCs, and China is expanding the use of its digital yuan, allowing banks to offer interest on e-CNY wallets.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 13:00:00 +0000",
+      "fetched_at": "2026-01-02T13:07:02.651628688Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump warns US will intervene if Iran kills protesters",
       "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 00:04:18 GMT",
       "fetched_at": "2025-12-24T02:52:13.080814046Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "US denies visas to ex-EU commissioner and others over social media rules",
-      "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place.",
-      "published": "Wed, 24 Dec 2025 00:45:28 GMT",
-      "fetched_at": "2025-12-24T00:59:19.061483358Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "An alleged drug cartel and a murdered witness: South Africa's police corruption probe",
-      "link": "https://www.bbc.com/news/articles/cj69d8we98jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Allegations of graft and political interference in the police have been aired at public hearings.",
-      "published": "Wed, 24 Dec 2025 00:02:58 GMT",
-      "fetched_at": "2025-12-24T00:59:18.519758173Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1627,
-  "last_update": "2026-01-02T12:24:02.532069733Z"
+  "total_captured": 1629,
+  "last_update": "2026-01-02T13:07:02.974644515Z"
 }
