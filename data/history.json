@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What images and videos tell us about why Swiss bar fire spread so quickly",
+      "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "How the blaze took hold with such ferocity, killing at least 40 people and leaving many more critically injured, is now a key focus for officials.",
+      "published": "Fri, 02 Jan 2026 20:28:25 GMT",
+      "fetched_at": "2026-01-02T20:51:59.880681587Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch",
       "link": "https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 13:40:11 +0000",
       "fetched_at": "2025-12-24T13:43:12.626082919Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Downing Street insists negotiations over US-UK tech deal still live",
-      "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\".",
-      "published": "Tue, 16 Dec 2025 22:39:14 GMT",
-      "fetched_at": "2025-12-24T13:43:12.520739726Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1653,
-  "last_update": "2026-01-02T20:34:45.949564453Z"
+  "total_captured": 1654,
+  "last_update": "2026-01-02T20:52:00.224247199Z"
 }
