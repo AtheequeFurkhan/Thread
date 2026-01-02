@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Zelensky names spy chief to head presidential office",
+      "link": "https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Kyrylo Budanov has led the Hur military intelligence, which has claimed a number of highly-effective strikes against Russia.",
+      "published": "Fri, 02 Jan 2026 13:21:03 GMT",
+      "fetched_at": "2026-01-02T14:13:29.667930505Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "What crypto exchanges are watching in 2026, according to OKX’s Rafique",
+      "link": "https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwNTMtNDJlZi03N2MxLTg5NTMtN2RmMGMyZTc5MGU5LmpwZw==.jpg\" alt=\"What crypto exchanges are watching in 2026, according to OKX’s Rafique\"\u003e\u003c/p\u003e\u003cp\u003eCrypto exchanges are preparing their 2026 playbooks around licenses, stablecoins and tokenized assets, and OKX’s Haider Rafique argues that a tamer, macro‑driven Bitcoin is the backbone of that shift.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 14:00:00 +0000",
+      "fetched_at": "2026-01-02T14:13:29.625536202Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Cash-like privacy is among digital euro’s 'hardest political tradeoffs'",
+      "link": "https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ZDMtNGQwYy03YjNlLWJlMDctMWYyY2NmMGY3MzAzLmpwZw==.jpg\" alt=\"Cash-like privacy is among digital euro’s 'hardest political tradeoffs'\"\u003e\u003c/p\u003e\u003cp\u003eExperts say the digital euro’s outcome hinges on a political compromise with parties fighting for the limits of privacy and online functionality.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 14:02:29 +0000",
+      "fetched_at": "2026-01-02T14:13:29.625497089Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Meet the biggest heat pumps in the world",
       "link": "https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 24 Dec 2025 09:10:15 +0000",
       "fetched_at": "2025-12-24T09:17:10.36241883Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Watch: Rescuers find survivor in wreckage of Mexican Navy medical flight",
-      "link": "https://www.bbc.com/news/videos/c0edjv3jr3po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Footage captures the moment rescuers discover a survivor in the wreckage of a plane crash that killed at least 5 people, with one person still missing.",
-      "published": "Tue, 23 Dec 2025 16:51:40 GMT",
-      "fetched_at": "2025-12-24T07:17:33.46715506Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Extended crypto ETF outflows shows institutions disengaging: Glassnode",
-      "link": "https://cointelegraph.com/news/prolonged-etf-outflows-institutional-disengagement-crypto-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlYTYtZmZjYi03NTQ1LTg3YzMtNTFkYTkzNTRkYTUzLmpwZw==.jpg\" alt=\"Extended crypto ETF outflows shows institutions disengaging: Glassnode\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and Ether ETFs have recorded sustained outflows since early November, which Glassnode says signals institutional disengagement.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 05:18:30 +0000",
-      "fetched_at": "2025-12-24T05:45:24.622592435Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-      "link": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Family feuds and strategic change are redefining who holds power inside the Murdoch empire.",
-      "published": "Wed, 24 Dec 2025 01:25:13 GMT",
-      "fetched_at": "2025-12-24T03:54:08.928879144Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1635,
-  "last_update": "2026-01-02T13:55:29.046168264Z"
+  "total_captured": 1638,
+  "last_update": "2026-01-02T14:13:29.97504652Z"
 }
