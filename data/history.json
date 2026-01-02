@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "'Hundreds' of EVM wallets drained in mysterious attack: ZachXBT",
+      "link": "https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmY2YtM2U1Mi03YWVlLThkN2EtMTJmZmUwNTVlMzlhLmpwZw==.jpg\" alt=\"'Hundreds' of EVM wallets drained in mysterious attack: ZachXBT\"\u003e\u003c/p\u003e\u003cp\u003eThe incident is potentially related to December's Trust Wallet hack, which left users drained of $7 million in cryptocurrency.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 19:08:37 +0000",
+      "fetched_at": "2026-01-02T19:26:30.235641698Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican",
       "link": "https://cointelegraph.com/news/sec-commissioner-caroline-crenshaw-term-ending?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 12:53:11 GMT",
       "fetched_at": "2025-12-24T13:07:17.051449704Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "El Salvador’s Bitcoin aspirations were brought closer to earth in 2025",
-      "link": "https://cointelegraph.com/news/el-salvador-bitcoin-aspirations-closer-earth-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjExZGMtN2NiNy03YTQwLWI0NDMtNWUxNzhjYWM5MDdk.jpg\" alt=\"El Salvador’s Bitcoin aspirations were brought closer to earth in 2025\"\u003e\u003c/p\u003e\u003cp\u003eFour years ago, El Salvador started its ambitious Bitcoin adoption strategy. But in 2025, that plan came to a head with the International Monetary Fund.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-24T13:07:16.893507131Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1650,
-  "last_update": "2026-01-02T19:09:17.203605366Z"
+  "total_captured": 1651,
+  "last_update": "2026-01-02T19:26:30.702522348Z"
 }
