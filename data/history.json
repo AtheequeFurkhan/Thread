@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Woman killed in suspected mountain lion attack in US",
+      "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Colorado officials said that it would be the first time in more than 25 years that a mountain lion killed a person in the state, if confirmed.",
+      "published": "Fri, 02 Jan 2026 17:18:36 GMT",
+      "fetched_at": "2026-01-02T17:33:48.136351099Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Swiss bar fire likely started by sparklers on champagne bottles",
+      "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said.",
+      "published": "Fri, 02 Jan 2026 17:06:17 GMT",
+      "fetched_at": "2026-01-02T17:33:48.136327625Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "BitVentures makes first crypto mining move weeks after Nasdaq rebrand",
+      "link": "https://cointelegraph.com/news/bitventures-crypto-mining-pivot-nasdaq-rebrand?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmN2ItNDdjMS03Y2RhLTg5NmItYWRlZDI5MjM2Y2I4LmpwZw==.jpg\" alt=\"BitVentures makes first crypto mining move weeks after Nasdaq rebrand\"\u003e\u003c/p\u003e\u003cp\u003eBitVentures has launched a US-based crypto mining operation weeks after rebranding, marking its first operational move into digital assets after years of losses.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 17:31:14 +0000",
+      "fetched_at": "2026-01-02T17:33:48.090545734Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Anthony Joshua's driver charged over Nigeria crash that killed two",
       "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 24 Dec 2025 11:47:23 +0000",
       "fetched_at": "2025-12-24T12:24:33.332073039Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Three signs that Bitcoin is finding its market bottom",
-      "link": "https://cointelegraph.com/news/three-signs-bitcoin-finding-its-market-bottom?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRhMjEtMjBhOC03YTNkLTljZDQtMjVjNWY4Zjc1YTgwLmpwZw==.jpg\" alt=\"Three signs that Bitcoin is finding its market bottom\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s selling pressure may be easing as momentum stabilizes, miners capitulate, and liquidity conditions turn supportive.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 12:15:00 +0000",
-      "fetched_at": "2025-12-24T12:24:33.332051198Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Kraken IPO, M\u0026A deals to reignite crypto's 'mid-stage' cycle: fund manager",
-      "link": "https://cointelegraph.com/news/kraken-ipo-reignite-crypto-mid-stage-cycle?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmY2QtMzVlNi03ZGViLWJhODQtNDc3MTUyMmJmZWNiLmpwZw==.jpg\" alt=\"Kraken IPO, M\u0026A deals to reignite crypto's 'mid-stage' cycle: fund manager\"\u003e\u003c/p\u003e\u003cp\u003eKraken’s pending IPO and the wave of crypto companies seeking public listings may help the industry attract more TradFi capital.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 11:14:05 +0000",
-      "fetched_at": "2025-12-24T11:29:47.065860909Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "How Ondo Finance plans to bring tokenized US stocks to Solana",
-      "link": "https://cointelegraph.com/news/how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmZTUtMzFjMC03MzUxLWExMTgtMjBkNmI3YzlhOWUzLmpwZw==.jpg\" alt=\"How Ondo Finance plans to bring tokenized US stocks to Solana\"\u003e\u003c/p\u003e\u003cp\u003eOndo plans to launch tokenized US stocks and ETFs on Solana in 2026, using custody-backed assets, onchain transfers and embedded compliance.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 10:22:37 +0000",
-      "fetched_at": "2025-12-24T10:38:50.732701531Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1646,
-  "last_update": "2026-01-02T17:15:10.393793992Z"
+  "total_captured": 1649,
+  "last_update": "2026-01-02T17:33:48.544271Z"
 }
