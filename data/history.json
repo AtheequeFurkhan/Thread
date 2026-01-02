@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Polymarket traders see just 21% chance of Bitcoin hitting $150K this year",
+      "link": "https://cointelegraph.com/news/polymarket-traders-21-chance-bitcoin-hitting-150k-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiZWMtY2NkNy03MGNkLTliNDgtYmRlZTczYTYyMzkzLmpwZw==.jpg\" alt=\"Polymarket traders see just 21% chance of Bitcoin hitting $150K this year\"\u003e\u003c/p\u003e\u003cp\u003ePolymarket traders are holding back their optimism back for Bitcoin this year, despite many analysts tipping the price to hit $150,000 and above.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 02:07:20 +0000",
+      "fetched_at": "2026-01-02T03:05:32.03569608Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "China's BYD set to overtake Tesla as world's top EV seller",
+      "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It would mark the first time the Chinese firm has outpaced its American rival for annual sales.",
+      "published": "Fri, 02 Jan 2026 02:57:50 GMT",
+      "fetched_at": "2026-01-02T03:05:31.846750565Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Why everything from your phone to your PC may get pricier in 2026",
+      "link": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The price of Ram - once one of the cheapest computer parts - has more than doubled since October 2025.",
+      "published": "Fri, 02 Jan 2026 01:04:07 GMT",
+      "fetched_at": "2026-01-02T03:05:31.846729946Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Turkmenistan rings in new year with crypto exchanges, miners",
       "link": "https://cointelegraph.com/news/turkmenistan-crypto-exchanges-trading-now-legal?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 23 Dec 2025 04:36:33 +0000",
       "fetched_at": "2025-12-23T05:01:17.303598472Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks",
-      "link": "https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4OTMtNDEyOC03NjRhLWIxNjktYWIzZGJkOTdhZjY4LmpwZw==.jpg\" alt=\"BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks\"\u003e\u003c/p\u003e\u003cp\u003eBlackRock’s IBIT Bitcoin ETF has featured on the $13.5 trillion asset manager's homepage, representing one of three major investment themes as the market heads into 2026.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 03:00:42 +0000",
-      "fetched_at": "2025-12-23T03:56:37.647067315Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin perpetual open interest rises as traders bet on year-end rally",
-      "link": "https://cointelegraph.com/news/perpertuals-oi-rises-as-leverage-longs-position-for-end-of-year-move-glassnode?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ4ZWUtN2Y5MC03MGMyLWFhZjUtMGUzNjk3Zjg1NjhkLmpwZw==.jpg\" alt=\"Bitcoin perpetual open interest rises as traders bet on year-end rally\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin perpetual open interest climbed to 310,000 BTC while funding rates doubled, signaling bullish positioning for the year-end.\u003c/p\u003e",
-      "published": "Tue, 23 Dec 2025 03:32:43 +0000",
-      "fetched_at": "2025-12-23T03:56:37.647052387Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "India's jobs guarantee scheme: A global model under threat?",
-      "link": "https://www.bbc.com/news/articles/c1lr980vvjpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "India’s rural jobs guarantee, a global model, faces controversy as a new law reshapes the original scheme.",
-      "published": "Mon, 22 Dec 2025 23:33:51 GMT",
-      "fetched_at": "2025-12-23T02:54:59.991739523Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1570,
-  "last_update": "2026-01-02T01:01:19.255480683Z"
+  "total_captured": 1573,
+  "last_update": "2026-01-02T03:05:32.311445224Z"
 }
