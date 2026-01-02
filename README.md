@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 13:44 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1632-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 13:55 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1635-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 13:44 UTC)*
+*(Updated: 02 Jan 13:55 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -38,9 +41,6 @@
 | **Crypto** | [DeFi pioneer coughs up $50K after making a pretty bad bet on Ether](https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Crypto sentiment shifts off extreme fear, but ‘mixed emotions’ persist](https://cointelegraph.com/news/crypto-sentiment-index-fear-market-emotions-bitcoin-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | [Amazon apologises after showing 15-rated film to child who rented PG movie](https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Russia cracks down on illegal crypto miners, India lobbies for CBDCs: Global Express](https://cointelegraph.com/news/russia-cracks-down-on-illegal-crypto-miners-india-lobbies-for-cbdcs-global-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
+- [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Roomba vacuum cleaner firm files for bankruptcy](https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Ofcom investigates BT and Three for failing to connect 999 calls](https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 ### 📂 World

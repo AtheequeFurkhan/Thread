@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Meet the biggest heat pumps in the world",
+      "link": "https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Across Europe huge heat pumps are being installed that can heat tens of thousands of homes.",
+      "published": "Tue, 16 Dec 2025 00:06:44 GMT",
+      "fetched_at": "2026-01-02T13:55:29.04610681Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "UK launches taskforce to 'break down barriers' for women in technology",
+      "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals.",
+      "published": "Tue, 16 Dec 2025 00:04:18 GMT",
+      "fetched_at": "2026-01-02T13:55:29.046065332Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "The 5 busiest blockchains of 2025 and what powered their growth",
+      "link": "https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdlYTAtMjg2My03YmIxLWI3NzYtNDY5MWZiMzIzMzJlLmpwZw==.jpg\" alt=\"The 5 busiest blockchains of 2025 and what powered their growth\"\u003e\u003c/p\u003e\u003cp\u003eOnchain data from Nansen showed Solana, BNB Chain, Base, Tron and NEAR handled the most transactions in 2025, as users looked for high‑throughput, low‑fee networks.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 13:49:54 +0000",
+      "fetched_at": "2026-01-02T13:55:28.468328329Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson",
       "link": "https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Wed, 24 Dec 2025 01:25:13 GMT",
       "fetched_at": "2025-12-24T03:54:08.928879144Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Amplify ETFs for stablecoins, tokenization go live for trading",
-      "link": "https://cointelegraph.com/news/amplify-etfs-stablecoins-tokenization-go-live-for-trading?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRkYTMtOWM2Yi03NTRlLTlmMTktOTljZmRkOTllZjAzLmpwZw==.jpg\" alt=\"Amplify ETFs for stablecoins, tokenization go live for trading\"\u003e\u003c/p\u003e\u003cp\u003eTwo new exchange-traded funds from Amplify track companies building the infrastructure for stablecoins and tokenization, blending stocks and crypto.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 03:07:24 +0000",
-      "fetched_at": "2025-12-24T03:54:08.886769443Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn",
-      "link": "https://cointelegraph.com/news/bitcoin-never-topped-100k-inflation-adjusted-galaxy-alex-thorn?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRlMGQtMTZhZC03ZGM0LTljZWMtZjE1MmU2OTI1ZDRmLmpwZw==.jpg\" alt=\"Bitcoin ‘never crossed’ $100K if adjusted for inflation, says Alex Thorn\"\u003e\u003c/p\u003e\u003cp\u003eGalaxy’s Alex Thorn says Bitcoin's $126,000 peak translates to $99,848 after being adjusted for inflation, falling short of its milestone six-figure mark.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 03:36:34 +0000",
-      "fetched_at": "2025-12-24T03:54:08.886743795Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Brazil's Supreme Court allows Bolsonaro to leave prison for surgery",
-      "link": "https://www.bbc.com/news/articles/c8dy3mvye62o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Former president is granted permission to leave jail for a hernia operation on Christmas Day.",
-      "published": "Wed, 24 Dec 2025 01:10:19 GMT",
-      "fetched_at": "2025-12-24T02:52:13.604634615Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1632,
-  "last_update": "2026-01-02T13:44:23.724647938Z"
+  "total_captured": 1635,
+  "last_update": "2026-01-02T13:55:29.046168264Z"
 }
