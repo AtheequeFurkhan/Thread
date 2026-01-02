@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 15:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1639-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 15:34 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1640-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 15:13 UTC)*
+*(Updated: 02 Jan 15:34 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Watch: Moment 400-pound runaway prop injures Disney employee](https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cash-like privacy is among digital euro’s 'hardest political tradeoffs'](https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin bulls charge at $90K as traders eye CME gap for BTC price dip](https://cointelegraph.com/news/bitcoin-bulls-charge-90k-traders-cme-gap-for-btc-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

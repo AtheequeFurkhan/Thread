@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC",
+      "link": "https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdmNGYtMzg4Mi03OTllLTg3OWMtZGIyNDk4MjYwMjM4LmpwZw==.jpg\" alt=\"Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin could be getting ready for a rally toward $94,500, but higher levels are expected to attract selling by the bears.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 15:29:04 +0000",
+      "fetched_at": "2026-01-02T15:34:47.763969028Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US slashes proposed tariffs on Italian pasta imports",
       "link": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 09:52:14 GMT",
       "fetched_at": "2025-12-24T09:52:49.88434803Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy",
-      "link": "https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmNTUtZWUxZC03ZTdkLTkwNTUtZjZmMTAyOGU1NzdhLmpwZw==.jpg\" alt=\"Trend Research quietly becomes one of Ethereum’s largest whales with 46K ETH buy\"\u003e\u003c/p\u003e\u003cp\u003eTrend Research’s 46,379 ETH purchase vaults the private company into the top tier of ETH treasuries, behind only SharpLink Gaming and BitMine Immersion Technologies.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 09:34:49 +0000",
-      "fetched_at": "2025-12-24T09:43:02.550631779Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1639,
-  "last_update": "2026-01-02T15:13:27.138464618Z"
+  "total_captured": 1640,
+  "last_update": "2026-01-02T15:34:47.876571319Z"
 }
