@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: Earthquake interrupts Mexico's president during press conference",
+      "link": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 6.5 magnitude trembler shook buildings and set off the country's earthquake alert system.",
+      "published": "Fri, 02 Jan 2026 17:37:25 GMT",
+      "fetched_at": "2026-01-02T21:10:14.409403518Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Downing Street insists negotiations over US-UK tech deal still live",
+      "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\".",
+      "published": "Tue, 16 Dec 2025 22:39:14 GMT",
+      "fetched_at": "2026-01-02T21:10:14.097479622Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "What images and videos tell us about why Swiss bar fire spread so quickly",
       "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 14:00:57 +0000",
       "fetched_at": "2025-12-24T14:12:10.738895737Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump family-linked USD1 supply up $150M as Binance rolls out yield program",
-      "link": "https://cointelegraph.com/news/trump-family-usd1-stablecoin-150m-binance-promotion?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg\" alt=\"Trump family-linked USD1 supply up $150M as Binance rolls out yield program\"\u003e\u003c/p\u003e\u003cp\u003eThe USD1 stablecoin added $150 million to its market capitalization after Binance announced an incentive program offering up to 20% yield.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 13:19:04 +0000",
-      "fetched_at": "2025-12-24T13:43:12.62609972Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Aave founder under scrutiny for $10M token purchase amid governance drama",
-      "link": "https://cointelegraph.com/news/aave-founder-stani-kulechov-10m-aave-purchase-governance-vote?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzUtOWExZi03NDczLWJkNzMtOTEzMTk5NjBlMjljLmpwZw==.jpg\" alt=\"Aave founder under scrutiny for $10M token purchase amid governance drama\"\u003e\u003c/p\u003e\u003cp\u003eAave founder Stani Kulechov is facing criticism after a $10 million AAVE purchase ahead of a key DAO vote, as critics raise concerns over voting power concentration.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 13:40:11 +0000",
-      "fetched_at": "2025-12-24T13:43:12.626082919Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1654,
-  "last_update": "2026-01-02T20:52:00.224247199Z"
+  "total_captured": 1656,
+  "last_update": "2026-01-02T21:10:14.760142034Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 20:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1654-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 21:10 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1656-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 20:52 UTC)*
+*(Updated: 02 Jan 21:10 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: Earthquake interrupts Mexico's president during press conference](https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Technology** | [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [What images and videos tell us about why Swiss bar fire spread so quickly](https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch](https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [US slashes proposed tariffs on Italian pasta imports](https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Zelensky names spy chief to head presidential office](https://www.bbc.com/news/articles/cx2k0101enyo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Cash-like privacy is among digital euro’s 'hardest political tradeoffs'](https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -65,19 +65,19 @@
 
 
 ### 📂 Technology
+- [Downing Street insists negotiations over US-UK tech deal still live](https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Watch: Earthquake interrupts Mexico's president during press conference](https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [What images and videos tell us about why Swiss bar fire spread so quickly](https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Woman killed in suspected mountain lion attack in US](https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Swiss bar fire likely started by sparklers on champagne bottles](https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Anthony Joshua's driver charged over Nigeria crash that killed two](https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
