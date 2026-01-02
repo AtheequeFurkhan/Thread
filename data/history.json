@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Changing regulations: What users should know before buying crypto in 2026",
+      "link": "https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjdiMGItNDFmOS03NjViLTk0NzgtNDRhYmY5ZTcyMTZlLmpwZw==.jpg\" alt=\"Changing regulations: What users should know before buying crypto in 2026\"\u003e\u003c/p\u003e\u003cp\u003eCrypto regulations are changing around the world in 2026, as several jurisdictions adopt crypto and stablecoin policy frameworks.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 16:05:17 +0000",
+      "fetched_at": "2026-01-02T16:15:12.620598071Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Elon Musk's Grok AI alters images of women to digitally remove their clothes",
+      "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent.",
+      "published": "Fri, 02 Jan 2026 16:00:55 GMT",
+      "fetched_at": "2026-01-02T16:15:12.517082481Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE",
       "link": "https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 10:04:59 +0000",
       "fetched_at": "2025-12-24T10:13:54.412046254Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto downturn reveals gap between VC valuations and market cap",
-      "link": "https://cointelegraph.com/news/market-downturn-exposes-gap-vc-valuations-crypto-market-caps?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRmYTktYjcxMC03NzM2LTg0YzAtMjM2ZTdiNDVjOGRkLmpwZw==.jpg\" alt=\"Crypto downturn reveals gap between VC valuations and market cap\"\u003e\u003c/p\u003e\u003cp\u003eSeveral VC-backed crypto projects now trade at market capitalizations well below the valuations assigned during their last private funding rounds.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 10:11:19 +0000",
-      "fetched_at": "2025-12-24T10:13:54.412031427Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Border villagers abducted and taken to Russia, says Ukraine",
-      "link": "https://www.bbc.com/news/articles/czxpz05yj5po?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ukraine has tried to evacuate areas of Sumy region near the Russian border, but many civilians have refused to leave.",
-      "published": "Wed, 24 Dec 2025 09:07:52 GMT",
-      "fetched_at": "2025-12-24T10:13:53.372989433Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1642,
-  "last_update": "2026-01-02T15:51:41.868139216Z"
+  "total_captured": 1644,
+  "last_update": "2026-01-02T16:15:12.935635711Z"
 }

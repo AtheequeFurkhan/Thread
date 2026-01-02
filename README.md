@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 15:51 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1642-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 16:15 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1644-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 15:51 UTC)*
+*(Updated: 02 Jan 16:15 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Yemen escalation reveals rift between Gulf powers Saudi Arabia and UAE](https://www.bbc.com/news/articles/cjrz34qdr9no?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Living a nightmare': Families of teens missing after ski resort fire desperate for news](https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Trump warns US will intervene if Iran kills protesters](https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Coinbase bets on stablecoins, Base and 'everything exchange' for 2026](https://cointelegraph.com/news/coinbase-bets-on-stablecoins-base-and-everything-exchange-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) | 🟢 Positive |
-| **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,19 +57,19 @@
 
 
 ### 📂 Crypto
+- [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 1/2: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, ZEC](https://cointelegraph.com/news/price-predictions-1-2-btc-eth-bnb-xrp-sol-doge-ada-bch-link-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [What crypto exchanges are watching in 2026, according to OKX’s Rafique](https://cointelegraph.com/news/crypto-exchanges-okx-rwa-stablecoin-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Cash-like privacy is among digital euro’s 'hardest political tradeoffs'](https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [PEPE, BONK post double-digit gains: Are memecoins back?](https://cointelegraph.com/news/pepe-bonk-double-digit-gains-are-memecoins-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Elon Musk's Grok AI alters images of women to digitally remove their clothes](https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [UK social media campaigners among five denied US visas](https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpx?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Grand Theft Auto game creator sacked us for trying to unionise](https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
