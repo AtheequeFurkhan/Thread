@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Watch: Four men rescued from boat teetering on dam edge",
+      "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "According to reports, the boat had suffered motor failure before drifting to the edge of the dam",
+      "published": "Fri, 02 Jan 2026 09:20:10 GMT",
+      "fetched_at": "2026-01-02T09:43:37.917712111Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Bitcoin ETF momentum builds in South Korea as regulation lags behind",
       "link": "https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:18:38 +0000",
       "fetched_at": "2025-12-24T00:59:18.287108578Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin treasury Matador’s $58M share-sale approved to expand holdings",
-      "link": "https://cointelegraph.com/news/matador-approved-raise-58-million-for-bitcoin-treasury?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjRkMzYtMTA2Ny03MmM5LWJhYTYtOWE3ZDY4MzE4OTcyLmpwZw==.jpg\" alt=\"Bitcoin treasury Matador’s $58M share-sale approved to expand holdings\"\u003e\u003c/p\u003e\u003cp\u003eThe Ontario Securities Commission has cleared Matador to raise $58 million, which it intends to use to expand its Bitcoin treasury.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 00:25:36 +0000",
-      "fetched_at": "2025-12-24T00:59:18.287076006Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1621,
-  "last_update": "2026-01-02T09:16:38.740437705Z"
+  "total_captured": 1622,
+  "last_update": "2026-01-02T09:43:38.08415608Z"
 }
