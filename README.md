@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 09:43 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1622-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 09:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1623-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 09:43 UTC)*
+*(Updated: 02 Jan 09:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Bitcoin ETF momentum builds in South Korea as regulation lags behind](https://cointelegraph.com/news/krx-signals-readiness-crypto-etfs-regulatory-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Watch: Moment 400-pound runaway prop injures Disney employee](https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Final nail in 4-year cycle? BTC ends year after halving in red](https://ct.com/news/is-bitcoin-four-year-cycle-dead-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance](https://ct.com/news/trader-1m-profit-binance-market-maker-broccoli714?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Tether snaps up another 8,888 BTC, now fifth-largest Bitcoin wallet](https://ct.com/news/tether-buys-another-8-888-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Can Solana shed its memecoin image in 2026?](https://ct.com/news/can-solana-shed-memecoin-image-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Indian families grieve deaths caused by contaminated tap water](https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: Four men rescued from boat teetering on dam edge](https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Moment 400-pound runaway prop injures Disney employee](https://www.bbc.com/news/videos/czjg9ge7vdeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Dozens missing after boat carrying 200 migrants sinks off Gambia](https://www.bbc.com/news/articles/clynvkwglx4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Americans brace to start New Year without healthcare](https://www.bbc.com/news/articles/c98n8lrj7y6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump says health is 'perfect' amid ageing concerns](https://www.bbc.com/news/articles/c701z7g0ppro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

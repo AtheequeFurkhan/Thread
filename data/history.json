@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Indian families grieve deaths caused by contaminated tap water",
+      "link": "https://www.bbc.com/news/articles/c98jy990l37o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Officials in Indore say four people have died after drinking contaminated water but families allege the toll is higher.",
+      "published": "Fri, 02 Jan 2026 09:28:52 GMT",
+      "fetched_at": "2026-01-02T09:53:58.216683612Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Watch: Four men rescued from boat teetering on dam edge",
       "link": "https://www.bbc.com/news/videos/cj6wew4958eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 00:45:45 GMT",
       "fetched_at": "2025-12-24T00:59:18.519695576Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp",
-      "link": "https://cointelegraph.com/news/bitcoin-price-prediction-drawdown-not-likely-anthony-pompliano?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwMWEtYzg4ZS03YzdjLTk5NzItOTI3NjI4ZjgyODYw.jpg\" alt=\"Bitcoin’s lack of ‘crazy’ year-end price means no hard crash in Q1: Pomp\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin has been a “monster in financial markets” even though it hasn’t hit the most optimistic 2025 price targets, says Anthony Pompliano.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 00:18:38 +0000",
-      "fetched_at": "2025-12-24T00:59:18.287108578Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1622,
-  "last_update": "2026-01-02T09:43:38.08415608Z"
+  "total_captured": 1623,
+  "last_update": "2026-01-02T09:53:58.582277365Z"
 }
