@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-02 Jan 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1651-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-02 Jan 20:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1653-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 02 Jan 19:47 UTC)*
+*(Updated: 02 Jan 20:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch](https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | ['Hundreds' of EVM wallets drained in mysterious attack: ZachXBT](https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican](https://cointelegraph.com/news/sec-commissioner-caroline-crenshaw-term-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Woman killed in suspected mountain lion attack in US](https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **Crypto** | [Cash-like privacy is among digital euro’s 'hardest political tradeoffs'](https://cointelegraph.com/news/cash-like-privacy-is-the-digital-euro-s-hardest-political-tradeoff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Meet the biggest heat pumps in the world](https://www.bbc.com/news/articles/c17p44w87rno?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [UK launches taskforce to 'break down barriers' for women in technology](https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [The 5 busiest blockchains of 2025 and what powered their growth](https://cointelegraph.com/news/these-5-blockchains-led-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Russia accuses Ukraine of killing 27 people in New Year attack in occupied Kherson](https://www.bbc.com/news/articles/cew81lpqvzeo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch](https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant](https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - ['Hundreds' of EVM wallets drained in mysterious attack: ZachXBT](https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [SEC’s Crenshaw set to depart, leaving US financial watchdog all Republican](https://cointelegraph.com/news/sec-commissioner-caroline-crenshaw-term-ending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [BitVentures makes first crypto mining move weeks after Nasdaq rebrand](https://cointelegraph.com/news/bitventures-crypto-mining-pivot-nasdaq-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitfarms exits Latam with $30M facility sale](https://cointelegraph.com/news/bitfarms-latam-paraguay-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Changing regulations: What users should know before buying crypto in 2026](https://cointelegraph.com/news/what-users-know-buying-crypto-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

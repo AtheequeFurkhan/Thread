@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch",
+      "link": "https://cointelegraph.com/news/battle-between-bitcoin-bulls-and-bears-continues-in-2026-here-s-the-levels-to-watch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMwYjMtOTUzZS03ZGMwLTg4MGMtYTcyZDQ1NmFiNDRjLmpwZw==.jpg\" alt=\"Battle between Bitcoin bulls and bears spills over into 2026: Here’s the price levels to watch\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin bears might have the upper hand at the yearly open, but charts suggest bulls will fiercely defend these key price levels.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 20:00:00 +0000",
+      "fetched_at": "2026-01-02T20:13:45.588102631Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant",
+      "link": "https://cointelegraph.com/news/bitcoin-whale-accumulation-overstated-long-term-holders-buy?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjIyYzgtOTRmNC03ODFhLWI1OTgtNDY0MTQ4MjQ4NDk5LmpwZw==.jpg\" alt=\"No, whales are not accumulating massive amounts of Bitcoin: CryptoQuant\"\u003e\u003c/p\u003e\u003cp\u003eOnchain data shows Bitcoin whale accumulation is overstated as exchange activity skews metrics, while long-term holders quietly turn bullish.\u003c/p\u003e",
+      "published": "Fri, 02 Jan 2026 20:00:33 +0000",
+      "fetched_at": "2026-01-02T20:13:45.588088284Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "'Hundreds' of EVM wallets drained in mysterious attack: ZachXBT",
       "link": "https://cointelegraph.com/news/hundreds-evm-wallets-drained-mysterious-attack?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Tue, 16 Dec 2025 22:39:14 GMT",
       "fetched_at": "2025-12-24T13:43:12.520739726Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Huge fireball as tanker explodes on Italian motorway",
-      "link": "https://www.bbc.com/news/videos/clydk6vd4rzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The vehicle had earlier been involved in a crash and everyone in the surrounding area was safely evacuated before the blast.",
-      "published": "Wed, 24 Dec 2025 12:33:33 GMT",
-      "fetched_at": "2025-12-24T13:07:17.051486623Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Ho Ho No! Santa pulled over for speeding in Ohio",
-      "link": "https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A man and his wife in Fulton County were stopped by a sheriff while dressed as Santa and Mrs Claus.",
-      "published": "Wed, 24 Dec 2025 12:53:11 GMT",
-      "fetched_at": "2025-12-24T13:07:17.051449704Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1651,
-  "last_update": "2026-01-02T19:47:41.318837312Z"
+  "total_captured": 1653,
+  "last_update": "2026-01-02T20:13:46.045070589Z"
 }
