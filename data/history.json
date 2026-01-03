@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "What we know about US strikes on Venezuela",
+      "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Explosions have rocked capital Caracas as the US says it captured Venezuela's President Nicola Maduro.",
+      "published": "Sat, 03 Jan 2026 11:03:46 GMT",
+      "fetched_at": "2026-01-03T11:27:01.77859714Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Police identify first four victims of Swiss ski resort fire",
       "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 02:48:40 +0000",
       "fetched_at": "2025-12-25T02:55:23.059197642Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
-      "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Combs argues his sentence was improperly decided and asked that his conviction also be thrown out.",
-      "published": "Wed, 24 Dec 2025 23:30:09 GMT",
-      "fetched_at": "2025-12-24T23:48:36.17345116Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1679,
-  "last_update": "2026-01-03T11:10:19.625459552Z"
+  "total_captured": 1680,
+  "last_update": "2026-01-03T11:27:01.9393824Z"
 }
