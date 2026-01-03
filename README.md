@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 10:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1675-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 10:35 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1678-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 10:12 UTC)*
+*(Updated: 03 Jan 10:35 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal](https://www.bbc.com/news/articles/cqxq32zzq8eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether](https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -38,9 +41,6 @@
 | **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) | ⚪ Neutral |
-| **Crypto** | [BitMine chairman proposes 1,000x increase in company's authorized shares, to 50B](https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Binance delists FLOW/BTC pair, flags token after exploit](https://cointelegraph.com/news/binance-spot-trading-pair-flow-monitoring-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Watch: Earthquake interrupts Mexico's president during press conference](https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether](https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Billion-dollar Bitcoin hacker Ilya Lichtenstein released early, thanks Trump](https://cointelegraph.com/news/bitcoin-hacker-ilya-lichtenstein-released-early-first-step-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto social chatter has 'very positive' start to 2026: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-positive-retail-investors-cautious-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Coinbase exec defends CLARITY Act delay: 'I completely understand'](https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal](https://www.bbc.com/news/articles/cqxq32zzq8eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Over 100 firefighters on the scene of Denver blaze](https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Missile attack on Kharkiv kills two, including child, say Ukraine authorities](https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump threat to intervene over protests 'reckless', says Iran foreign minister](https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Four challenges facing New York City Mayor Mamdani](https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
