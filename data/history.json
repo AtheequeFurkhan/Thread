@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Police identify first four victims of Swiss ski resort fire",
+      "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Bodies of two Swiss women aged 21 and 16, and two Swiss men aged 18 and 16 have been returned to their families.",
+      "published": "Sat, 03 Jan 2026 10:47:47 GMT",
+      "fetched_at": "2026-01-03T10:51:15.270743764Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The year angry men dominated Bollywood - and what it means for India",
       "link": "https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 23:30:09 GMT",
       "fetched_at": "2025-12-24T23:48:36.17345116Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
-      "link": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "It is not clear if Asfura's opponents will accept the result after saying the vote count was manipulated.",
-      "published": "Wed, 24 Dec 2025 22:25:29 GMT",
-      "fetched_at": "2025-12-24T22:34:39.947187341Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1678,
-  "last_update": "2026-01-03T10:35:47.188721088Z"
+  "total_captured": 1679,
+  "last_update": "2026-01-03T10:51:15.523825412Z"
 }

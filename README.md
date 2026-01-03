@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 10:35 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1678-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 10:51 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1679-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 10:35 UTC)*
+*(Updated: 03 Jan 10:51 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal](https://www.bbc.com/news/articles/cqxq32zzq8eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Watch: Over 100 firefighters on the scene of Denver blaze](https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Missile attack on Kharkiv kills two, including child, say Ukraine authorities](https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
