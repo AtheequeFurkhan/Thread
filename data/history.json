@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Reporter in Caracas describes hearing loud bangs and planes",
+      "link": "https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Ana Vanessa Herrero is in Caracas and says she began hearing planes at 02:00 local time.",
+      "published": "Sat, 03 Jan 2026 10:02:36 GMT",
+      "fetched_at": "2026-01-03T18:17:25.772550016Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Explosions and smoke at La Guaira port",
+      "link": "https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Venezuela has declared a national emergency, denouncing \"extremely serious military aggression\"",
+      "published": "Sat, 03 Jan 2026 14:59:21 GMT",
+      "fetched_at": "2026-01-03T18:17:25.772540358Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Trump on Venezuela: 'We are going to run the country'",
+      "link": "https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "President Donald Trump announced that the US will run Venezuela until a 'proper transition can take place.'",
+      "published": "Sat, 03 Jan 2026 17:20:46 GMT",
+      "fetched_at": "2026-01-03T18:17:25.772527173Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Why has Trump attacked Venezuela and taken Maduro?",
+      "link": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US has been ramping up pressure on the Venezuelan leader since Trump took office last January.",
+      "published": "Sat, 03 Jan 2026 18:06:23 GMT",
+      "fetched_at": "2026-01-03T18:17:25.772512175Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners",
       "link": "https://cointelegraph.com/news/hut-8-2025-strong-difficult-bitcoin-miners?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4463,44 +4499,8 @@
       "published": "Thu, 25 Dec 2025 04:23:56 GMT",
       "fetched_at": "2025-12-25T08:18:02.491937221Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC",
-      "link": "https://cointelegraph.com/news/bitcoin-etfs-lose-825m-in-five-days-us-biggest-seller-of-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0MjgtYjNjYS03OGYwLWFlNzAtNzY4YWZjMDQ3Mzk1LmpwZw==.jpg\" alt=\"Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin ETF performance stayed negative on Christmas Eve as a short final US trading session produced another $175 million in net outflows.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 07:00:15 +0000",
-      "fetched_at": "2025-12-25T07:15:38.913412775Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Watch: Moment robbers rip ATM from inside Texas store",
-      "link": "https://www.bbc.com/news/videos/c30j52jrp84o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The White Settlement Police Department is searching for two suspects.",
-      "published": "Thu, 25 Dec 2025 00:56:07 GMT",
-      "fetched_at": "2025-12-25T06:53:10.649572866Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Where is Santa now? Trump answers kids' Christmas calls to Norad tracker",
-      "link": "https://www.bbc.com/news/videos/cqxqvd0z5gno?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Norad got some help from President Donald Trump as it marked its 70th year tracking Santa Claus on Christmas Eve.",
-      "published": "Thu, 25 Dec 2025 00:41:15 GMT",
-      "fetched_at": "2025-12-25T06:53:10.649560823Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Front-runner to be Bangladesh PM returns after 17 years in exile",
-      "link": "https://www.bbc.com/news/articles/crk733k1k1eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Tarique Rahman, who has lived in London since 2008, arrives weeks for pivotal elections are held.",
-      "published": "Thu, 25 Dec 2025 06:44:21 GMT",
-      "fetched_at": "2025-12-25T06:53:10.64954316Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1686,
-  "last_update": "2026-01-03T17:48:00.181289073Z"
+  "total_captured": 1690,
+  "last_update": "2026-01-03T18:17:25.98658418Z"
 }

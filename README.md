@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 17:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1686-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 18:17 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1690-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 17:48 UTC)*
+*(Updated: 03 Jan 18:17 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Reporter in Caracas describes hearing loud bangs and planes](https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Explosions and smoke at La Guaira port](https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Why has Trump attacked Venezuela and taken Maduro?](https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners](https://cointelegraph.com/news/hut-8-2025-strong-difficult-bitcoin-miners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [BBC reaches agreement with Israeli family for filming in home after 7 October without consent](https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Trump's move to topple Maduro is fraught with risk - what happens next is unclear](https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -37,10 +41,6 @@
 | **Crypto** | [BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether](https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: Over 100 firefighters on the scene of Denver blaze](https://www.bbc.com/news/videos/c9vxnn419mro?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Billion-dollar Bitcoin hacker Ilya Lichtenstein released early, thanks Trump](https://cointelegraph.com/news/bitcoin-hacker-ilya-lichtenstein-released-early-first-step-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Crypto social chatter has 'very positive' start to 2026: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-positive-retail-investors-cautious-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Missile attack on Kharkiv kills two, including child, say Ukraine authorities](https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Trump threat to intervene over protests 'reckless', says Iran foreign minister](https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Coinbase exec defends CLARITY Act delay: 'I completely understand'](https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Reporter in Caracas describes hearing loud bangs and planes](https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Explosions and smoke at La Guaira port](https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Why has Trump attacked Venezuela and taken Maduro?](https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [BBC reaches agreement with Israeli family for filming in home after 7 October without consent](https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump's move to topple Maduro is fraught with risk - what happens next is unclear](https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
