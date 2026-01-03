@@ -5,7 +5,7 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 08:46 UTC-blue?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 09:13 UTC-blue?style=for-the-badge)
 ![Articles Captured](https://img.shields.io/badge/Articles-1674-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
@@ -17,7 +17,7 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 08:46 UTC)*
+*(Updated: 03 Jan 09:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
