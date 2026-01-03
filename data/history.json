@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Missile attack on Kharkiv kills two, including child, say Ukraine authorities",
+      "link": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Russian officials say reports of the missile strike are untrue, suggesting the explosion was caused by Ukrainian ammunition.",
+      "published": "Sat, 03 Jan 2026 05:13:36 GMT",
+      "fetched_at": "2026-01-03T05:37:13.374199231Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Trump threat to intervene over protests 'reckless', says Iran foreign minister",
+      "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Trump warned Iran's authorities against killing peaceful protesters, saying Washington \"will come to their rescue\".",
+      "published": "Sat, 03 Jan 2026 05:16:08 GMT",
+      "fetched_at": "2026-01-03T05:37:13.374179542Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Coinbase exec defends CLARITY Act delay: 'I completely understand'",
       "link": "https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 18:45:00 +0000",
       "fetched_at": "2025-12-24T18:49:56.783360701Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone",
-      "link": "https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUxMzUtMmYyMi03NTA5LWI3YmEtNzFkMTIzNzMyZWVkLmpwZw==.jpg\" alt=\"Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone\"\u003e\u003c/p\u003e\u003cp\u003eOffchain Labs increases its ARB holdings, signaling long-term conviction in Arbitrum as governance token prices slump and layer-2 competition intensifies.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 17:45:29 +0000",
-      "fetched_at": "2025-12-24T18:18:33.244436262Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "NFTs shifted to utility and culture as price faded in 2025",
-      "link": "https://cointelegraph.com/news/nfts-utility-culture-price-faded-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM4OTItYTQ3Ny03M2Q1LTg1MDktZTQ5NTEzMTI5ZTYxLmpwZw==.jpg\" alt=\"NFTs shifted to utility and culture as price faded in 2025\"\u003e\u003c/p\u003e\u003cp\u003eIn 2025, non-fungible tokens were reshaped by falling volumes, cultural repositioning and a growing focus on real-world use cases.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 18:00:00 +0000",
-      "fetched_at": "2025-12-24T18:18:33.244417177Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1667,
-  "last_update": "2026-01-03T05:14:03.569364427Z"
+  "total_captured": 1669,
+  "last_update": "2026-01-03T05:37:13.651359952Z"
 }
