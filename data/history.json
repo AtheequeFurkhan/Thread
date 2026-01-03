@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "How UK plush toy Jellycat conquered China",
+      "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The plushies bring \"emotional value\" to Chinese youth navigating economic uncertainty.",
+      "published": "Sat, 03 Jan 2026 23:02:08 GMT",
+      "fetched_at": "2026-01-03T23:12:02.677246735Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin's price remains resilient amid the US attack on Venezuela",
       "link": "https://cointelegraph.com/news/bitcoin-price-resilient-us-attack-venezuela?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 11:41:39 GMT",
       "fetched_at": "2025-12-25T11:47:59.424285748Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Turkey arrests 115 IS suspects 'planning New Year's attacks'",
-      "link": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Turkish authorities say firearms were seized and efforts to trace further suspected members are continuing.",
-      "published": "Thu, 25 Dec 2025 10:19:28 GMT",
-      "fetched_at": "2025-12-25T10:52:46.22374561Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1692,
-  "last_update": "2026-01-03T22:50:28.250051083Z"
+  "total_captured": 1693,
+  "last_update": "2026-01-03T23:12:02.962903321Z"
 }
