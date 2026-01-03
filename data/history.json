@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Coinbase exec defends CLARITY Act delay: 'I completely understand'",
+      "link": "https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjgxY2UtODdlYy03M2UxLTgxYTMtMDRjYmUyNTRiZDJkLmpwZw==.jpg\" alt=\"Coinbase exec defends CLARITY Act delay: 'I completely understand'\"\u003e\u003c/p\u003e\u003cp\u003eThe US Genius Act dealt with “structurally simpler” issues than the CLARITY Act, which has yet to be passed into US law, according to a Coinbase executive.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 03:23:39 +0000",
+      "fetched_at": "2026-01-03T03:51:11.598975313Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Four challenges facing New York City Mayor Mamdani",
       "link": "https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 24 Dec 2025 18:00:00 +0000",
       "fetched_at": "2025-12-24T18:18:33.244417177Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Algerian law declares France's colonisation a crime",
-      "link": "https://www.bbc.com/news/articles/c14vdpyj1vjo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Lawmakers unanimously approve a law, which demands an apology and reparations from the former colonial power.",
-      "published": "Wed, 24 Dec 2025 17:37:07 GMT",
-      "fetched_at": "2025-12-24T17:48:11.33359342Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1666,
-  "last_update": "2026-01-03T02:48:04.61990128Z"
+  "total_captured": 1667,
+  "last_update": "2026-01-03T03:51:12.345726158Z"
 }
