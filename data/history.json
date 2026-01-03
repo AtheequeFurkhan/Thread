@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin's price remains resilient amid the US attack on Venezuela",
+      "link": "https://cointelegraph.com/news/bitcoin-price-resilient-us-attack-venezuela?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg1ZTUtODQ2Zi03OGFlLTkzZTMtMGY5YWEzNjZmYjE4LmpwZw==.jpg\" alt=\"Bitcoin's price remains resilient amid the US attack on Venezuela\"\u003e\u003c/p\u003e\u003cp\u003eRisk-on asset markets tend to react negatively to geopolitical shocks, macroeconomic turmoil, and other negative news events.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 22:06:57 +0000",
+      "fetched_at": "2026-01-03T22:11:55.89986053Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US national debt crosses $38.5T, as Bitcoiners celebrate 'Genesis Day'",
       "link": "https://cointelegraph.com/news/us-national-debt-38-5-trillion-bitcoiners-genesis-day?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 10:19:28 GMT",
       "fetched_at": "2025-12-25T10:52:46.22374561Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "NFT collections get no Santa rally as market hits 2025 lows",
-      "link": "https://cointelegraph.com/news/nft-collections-no-santa-rally-market-2025-lows?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU0OTEtMjhiYi03MDkyLWE2MzctN2ZmZTk2ZWRhNWVhLmpwZw==.jpg\" alt=\"NFT collections get no Santa rally as market hits 2025 lows\"\u003e\u003c/p\u003e\u003cp\u003eMarket data showed shrinking participation across NFTs, with fewer buyers, sellers and transactions signaling fading speculative interest.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 10:04:50 +0000",
-      "fetched_at": "2025-12-25T10:13:47.548618512Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1691,
-  "last_update": "2026-01-03T21:47:56.482187794Z"
+  "total_captured": 1692,
+  "last_update": "2026-01-03T22:11:56.229064523Z"
 }
