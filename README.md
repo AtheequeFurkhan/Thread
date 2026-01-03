@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 15:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1683-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 16:14 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1685-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 15:48 UTC)*
+*(Updated: 03 Jan 16:14 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [BBC reaches agreement with Israeli family for filming in home after 7 October without consent](https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Trump's move to topple Maduro is fraught with risk - what happens next is unclear](https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price back at $90K: Is the bear market behind us?](https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Trump threat to intervene over protests 'reckless', says Iran foreign minister](https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Coinbase exec defends CLARITY Act delay: 'I completely understand'](https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Four challenges facing New York City Mayor Mamdani](https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Two people killed in magnitude 6.5 earthquake in Mexico](https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [How K-beauty went from a viral trend to an economic powerhouse](https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [BBC reaches agreement with Israeli family for filming in home after 7 October without consent](https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Trump's move to topple Maduro is fraught with risk - what happens next is unclear](https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

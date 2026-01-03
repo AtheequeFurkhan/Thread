@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "BBC reaches agreement with Israeli family for filming in home after 7 October without consent",
+      "link": "https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The family who survived the Hamas attack in 2023 call the incident an “intrusion”.",
+      "published": "Sat, 03 Jan 2026 15:37:17 GMT",
+      "fetched_at": "2026-01-03T16:14:08.322536111Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
+      "link": "https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells.",
+      "published": "Sat, 03 Jan 2026 14:41:21 GMT",
+      "fetched_at": "2026-01-03T16:14:08.322518827Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin price back at $90K: Is the bear market behind us?",
       "link": "https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 25 Dec 2025 05:47:17 +0000",
       "fetched_at": "2025-12-25T05:52:51.912401508Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT",
-      "link": "https://cointelegraph.com/news/crypto-record-dealmaking-2025-growth-under-trump-ft?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg\" alt=\"Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT\"\u003e\u003c/p\u003e\u003cp\u003eThe number of crypto deals reportedly skyrocketed this year and hit a record total value of $8.6 billion, led by Coinbase’s record-breaking acquisition of Deribit.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 04:59:06 +0000",
-      "fetched_at": "2025-12-25T05:37:43.399238715Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth",
-      "link": "https://cointelegraph.com/news/bitcoin-price-elon-musk-economic-growth-forecast-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUzNmItOWI4NS03ZjVjLWJkNmItNGMwMTQxOTE3ODkwLmpwZw==.jpg\" alt=\"Bitcoiners bullish over Elon Musk tipping ‘double-digit’ economic growth\"\u003e\u003c/p\u003e\u003cp\u003eElon Musk added that “triple-digit” economic growth could even be possible by 2030; however, some Bitcoiners worry about a 2026 bear market.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 05:18:39 +0000",
-      "fetched_at": "2025-12-25T05:37:43.399208659Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1683,
-  "last_update": "2026-01-03T15:48:50.889691478Z"
+  "total_captured": 1685,
+  "last_update": "2026-01-03T16:14:08.44238819Z"
 }
