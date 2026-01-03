@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Four challenges facing New York City Mayor Mamdani",
+      "link": "https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Can the Democratic socialist deliver on the big cost-of-living promises that propelled him to victory?",
+      "published": "Sat, 03 Jan 2026 00:46:58 GMT",
+      "fetched_at": "2026-01-03T00:57:27.490037418Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Two people killed in magnitude 6.5 earthquake in Mexico",
+      "link": "https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The powerful earthquake shook southern and central Mexico on Friday, also leaving several people injured.",
+      "published": "Sat, 03 Jan 2026 00:44:57 GMT",
+      "fetched_at": "2026-01-03T00:57:27.490015347Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How K-beauty went from a viral trend to an economic powerhouse",
       "link": "https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Wed, 24 Dec 2025 17:37:07 GMT",
       "fetched_at": "2025-12-24T17:48:11.33359342Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
-      "link": "https://cointelegraph.com/news/price-predictions-12-24-btc-eth-bnb-xrp-sol-doge-ada-bch-link-hype?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUxMDYtMjkwMy03ZTFhLWJjYTctZmQxNWUwM2FhNDQ2LmpwZw==.jpg\" alt=\"Price predictions 12/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins turned down from their overhead resistance levels, signaling that the bears continue to sell on rallies.\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 16:30:00 +0000",
-      "fetched_at": "2025-12-24T16:46:19.020348583Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "70% Ether positions are 'long' as whale accumulation tightens ETH supply",
-      "link": "https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZkMmMtZjlkZS03YTU5LWIzYmYtZGM3OGZjMzFiOTY4.jpg\" alt=\"70% Ether positions are 'long' as whale accumulation tightens ETH supply\"\u003e\u003c/p\u003e\u003cp\u003eWhales have accumulated over $2 billion in Ether, as derivatives positioning skewed 70% net long with leverage at record highs. When will ETH price break out?\u003c/p\u003e",
-      "published": "Wed, 24 Dec 2025 15:50:00 +0000",
-      "fetched_at": "2025-12-24T16:15:36.146998883Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1664,
-  "last_update": "2026-01-02T23:49:11.333592183Z"
+  "total_captured": 1666,
+  "last_update": "2026-01-03T00:57:27.778005157Z"
 }
