@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners",
+      "link": "https://cointelegraph.com/news/hut-8-2025-strong-difficult-bitcoin-miners?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg0YmUtMjA4OC03ZjdlLWFlMDQtYTgwNzRjNmNiZDNiLmpwZw==.jpg\" alt=\"Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners\"\u003e\u003c/p\u003e\u003cp\u003eThe company continued to diversify into the AI and high-performance computing sectors in 2025, with major deals and credit expansions.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 17:05:56 +0000",
+      "fetched_at": "2026-01-03T17:10:37.408134398Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "BBC reaches agreement with Israeli family for filming in home after 7 October without consent",
       "link": "https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 06:44:21 GMT",
       "fetched_at": "2025-12-25T06:53:10.64954316Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Social engineering cost crypto billions in 2025: How to protect yourself",
-      "link": "https://cointelegraph.com/news/crypto-security-human-layer-threats-2026-expert-tips?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZiY2QtZjk0Yi03YzllLWJmNjUtY2EwMGEzZDM0YjRi.jpg\" alt=\"Social engineering cost crypto billions in 2025: How to protect yourself\"\u003e\u003c/p\u003e\u003cp\u003eCrypto hackers took social engineering to a whole other level this year, and advances in artificial intelligence mean scams are about to get even harder to detect.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 05:47:17 +0000",
-      "fetched_at": "2025-12-25T05:52:51.912401508Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1685,
-  "last_update": "2026-01-03T16:53:44.363999111Z"
+  "total_captured": 1686,
+  "last_update": "2026-01-03T17:10:37.749311543Z"
 }
