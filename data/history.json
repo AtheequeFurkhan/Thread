@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "US national debt crosses $38.5T, as Bitcoiners celebrate 'Genesis Day'",
+      "link": "https://cointelegraph.com/news/us-national-debt-38-5-trillion-bitcoiners-genesis-day?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg1ODctMTk5MS03YTc5LWIzMjUtYTBhNjZlYTY1NGFjLmpwZw==.jpg\" alt=\"US national debt crosses $38.5T, as Bitcoiners celebrate 'Genesis Day'\"\u003e\u003c/p\u003e\u003cp\u003eThe first block was mined and added to the Bitcoin ledger on January 3, 2009, by pseudonymous cryptographer Satoshi Nakamoto.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 20:37:57 +0000",
+      "fetched_at": "2026-01-03T20:50:51.35037609Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Reporter in Caracas describes hearing loud bangs and planes",
       "link": "https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 10:04:50 +0000",
       "fetched_at": "2025-12-25T10:13:47.548618512Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Waterskiing Santas and giant cuts of meat: Christmas around the world",
-      "link": "https://www.bbc.com/news/articles/ce8nep787pyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "From London to Bethlehem, services and festivities to mark the holiday cheer are in full swing.",
-      "published": "Thu, 25 Dec 2025 04:23:56 GMT",
-      "fetched_at": "2025-12-25T08:18:02.491937221Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1690,
-  "last_update": "2026-01-03T20:34:40.8292733Z"
+  "total_captured": 1691,
+  "last_update": "2026-01-03T20:50:52.154140474Z"
 }
