@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Craig the beer-ambassador elephant dies aged 54",
+      "link": "https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The peace-loving pachyderm and lager promoter was an icon of successful conservation, say officials.",
+      "published": "Sat, 03 Jan 2026 11:48:14 GMT",
+      "fetched_at": "2026-01-03T12:22:29.367443388Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’",
+      "link": "https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjgzYzMtOGRmNC03MDQ1LWE1MDUtMjZlNGUxYWMxNGQxLmpwZw==.jpg\" alt=\"Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’\"\u003e\u003c/p\u003e\u003cp\u003eWallet drainer phishing losses dropped sharply in 2025, but security researchers warn activity still rises with market rallies and new attack vectors continue to emerge.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 12:11:37 +0000",
+      "fetched_at": "2026-01-03T12:22:29.320134402Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "What we know about US strikes on Venezuela",
       "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 25 Dec 2025 02:01:58 +0000",
       "fetched_at": "2025-12-25T02:55:23.059244099Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Solana and Ethereum can coexist in tokenization race: Dragonfly VC",
-      "link": "https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUzM2YtZWY4Yy03MDQ2LTk3YTYtN2JiYTM1ODRjYmRmLmpwZw==.jpg\" alt=\"Solana and Ethereum can coexist in tokenization race: Dragonfly VC\"\u003e\u003c/p\u003e\u003cp\u003eDragonfly’s Rob Hadick says “there’s a lot of room” in crypto for more than one blockchain as networks race to win market share of tokenized assets.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 02:16:35 +0000",
-      "fetched_at": "2025-12-25T02:55:23.059220094Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Polymarket says third-party provider caused reported account breaches",
-      "link": "https://cointelegraph.com/news/polymarket-says-third-party-provider-caused-reported-account-breaches?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMzYtZDI2ZC03OGEzLTk4NGQtMDMzMjNlODhjZDg3.jpg\" alt=\"Polymarket says third-party provider caused reported account breaches\"\u003e\u003c/p\u003e\u003cp\u003eSome Polymarket users reported that their accounts had been breached and drained, which the prediction market blamed on a third-party provider.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 02:48:40 +0000",
-      "fetched_at": "2025-12-25T02:55:23.059197642Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1680,
-  "last_update": "2026-01-03T11:47:55.112471425Z"
+  "total_captured": 1682,
+  "last_update": "2026-01-03T12:22:29.753328536Z"
 }

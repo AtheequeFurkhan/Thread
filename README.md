@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 11:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1680-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 12:22 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1682-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 11:47 UTC)*
+*(Updated: 03 Jan 12:22 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Two people killed in magnitude 6.5 earthquake in Mexico](https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How K-beauty went from a viral trend to an economic powerhouse](https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [After bitter vote, Aave founder pitches a bigger future for DeFi lending giant](https://cointelegraph.com/news/aave-founder-strategy-after-governance-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether](https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Billion-dollar Bitcoin hacker Ilya Lichtenstein released early, thanks Trump](https://cointelegraph.com/news/bitcoin-hacker-ilya-lichtenstein-released-early-first-step-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto social chatter has 'very positive' start to 2026: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-positive-retail-investors-cautious-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Coinbase exec defends CLARITY Act delay: 'I completely understand'](https://cointelegraph.com/news/coinbase-clarity-act-delay-genius-act-united-states?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Somewhere to put worker bees': Why Canada's micro-condos are losing their appeal](https://www.bbc.com/news/articles/cqxq32zzq8eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
