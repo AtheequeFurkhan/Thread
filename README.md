@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-03 Jan 13:04 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1682-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-03 Jan 13:38 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1683-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 03 Jan 13:04 UTC)*
+*(Updated: 03 Jan 13:38 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin price back at $90K: Is the bear market behind us?](https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Four challenges facing New York City Mayor Mamdani](https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Two people killed in magnitude 6.5 earthquake in Mexico](https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How K-beauty went from a viral trend to an economic powerhouse](https://www.bbc.com/news/articles/cj9y43mv332o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Technology** | [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin price back at $90K: Is the bear market behind us?](https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether](https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Billion-dollar Bitcoin hacker Ilya Lichtenstein released early, thanks Trump](https://cointelegraph.com/news/bitcoin-hacker-ilya-lichtenstein-released-early-first-step-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Crypto social chatter has 'very positive' start to 2026: Santiment](https://cointelegraph.com/news/crypto-market-sentiment-positive-retail-investors-cautious-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin price back at $90K: Is the bear market behind us?",
+      "link": "https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjQ1M2QtZmI5Mi03YTA2LWI3OWEtMTFmNzdhMWI2ZTkz.jpg\" alt=\"Bitcoin price back at $90K: Is the bear market behind us?\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin hit a three-week high, but derivatives and spot ETF flows show traders remained cautious, signalling limited confidence in further upside for now.\u003c/p\u003e",
+      "published": "Sat, 03 Jan 2026 13:20:00 +0000",
+      "fetched_at": "2026-01-03T13:38:43.792568887Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Craig the beer-ambassador elephant dies aged 54",
       "link": "https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 05:18:39 +0000",
       "fetched_at": "2025-12-25T05:37:43.399208659Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Tokenization has moved past money only meaning fiat: Kraken exec",
-      "link": "https://cointelegraph.com/news/tokenization-expands-definition-of-money-kraken-exec?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJhNjgtYzQxMC03ZTQyLWI1MmUtNzI3ZWZkMTc1YzAyLmpwZw==.jpg\" alt=\"Tokenization has moved past money only meaning fiat: Kraken exec\"\u003e\u003c/p\u003e\u003cp\u003eBlockchain tokenization is radically expanding the definition of money, enabling anyone to trade, save, and spend in virtually any asset they like, says Kraken’s Mark Greenberg.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 02:01:58 +0000",
-      "fetched_at": "2025-12-25T02:55:23.059244099Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1682,
-  "last_update": "2026-01-03T13:04:42.227594185Z"
+  "total_captured": 1683,
+  "last_update": "2026-01-03T13:38:43.804216104Z"
 }
