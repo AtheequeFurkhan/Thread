@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Thousands stranded across Europe as Greece airspace disrupted",
+      "link": "https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A fault with radio communications caused air traffic controllers to temporarily suspend arrivals and departures.",
+      "published": "Sun, 04 Jan 2026 14:36:13 GMT",
+      "fetched_at": "2026-01-04T15:11:51.486477659Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?",
       "link": "https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era",
       "category": "Business",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 03:53:13 +0000",
       "fetched_at": "2025-12-26T04:28:46.744190545Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Vitalik says Grok arguably a 'net improvement' to X despite flaws",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-says-grok-keeps-musks-x-more-honest?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3YjUtNzYxNS03MTllLWIxMDUtMzMwN2QwYjcxMjEzLmpwZw==.jpg\" alt=\"Vitalik says Grok arguably a 'net improvement' to X despite flaws\"\u003e\u003c/p\u003e\u003cp\u003eGrok makes X more truth-friendly as it often challenges users’ assumptions instead of confirming them, says Ethereum co-founder Vitalik Buterin.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 01:16:44 +0000",
-      "fetched_at": "2025-12-26T02:53:54.995296462Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1712,
-  "last_update": "2026-01-04T14:49:00.568476997Z"
+  "total_captured": 1713,
+  "last_update": "2026-01-04T15:11:51.827159115Z"
 }
