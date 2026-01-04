@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "We bring you Tech Life highlights from a fascinating year in global tech.",
+      "published": "Tue, 30 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2026-01-04T23:31:30.329096507Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Crypto Fear and Greed Index flips to 'neutral' for first time since Oct",
       "link": "https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 04:40:42 -0500",
       "fetched_at": "2025-12-26T09:50:53.308675451Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Trust Wallet will cover $7M lost in Christmas Day hack, CZ says",
-      "link": "https://cointelegraph.com/news/trust-wallet-cover-7m-hack-zhao?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlY2EtZTcxNi03ZDNkLWE4NjktNjc5NTA4ODk0YTcw.jpg\" alt=\"Trust Wallet will cover $7M lost in Christmas Day hack, CZ says\"\u003e\u003c/p\u003e\u003cp\u003eThe malicious Trust Wallet extension has also been exporting users’ personal information, pointing to potential insider activity, according to cybersecurity company SlowMist.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 08:53:06 +0000",
-      "fetched_at": "2025-12-26T09:14:42.83587161Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1725,
-  "last_update": "2026-01-04T23:12:11.604255647Z"
+  "total_captured": 1726,
+  "last_update": "2026-01-04T23:31:30.776443929Z"
 }

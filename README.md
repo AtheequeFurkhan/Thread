@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 23:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1725-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 23:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1726-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 23:12 UTC)*
+*(Updated: 04 Jan 23:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Altcoins hold 'crucial' support, set for 'big leg' up, says analyst](https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [AI teachers and cybernetics - what could the world look like in 2050?](https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
