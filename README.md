@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 11:27 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1705-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 11:36 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1707-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 11:27 UTC)*
+*(Updated: 04 Jan 11:36 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -39,8 +41,6 @@
 | **World** | [Reporter in Caracas describes hearing loud bangs and planes](https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Explosions and smoke at La Guaira port](https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Why has Trump attacked Venezuela and taken Maduro?](https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Crypto** | [Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners](https://cointelegraph.com/news/hut-8-2025-strong-difficult-bitcoin-miners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

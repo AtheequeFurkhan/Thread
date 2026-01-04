@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
+      "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's Bernd Debusmann reports from Doral Florida, where the Venezuelan-American community has gathered to celebrate the US attack.",
+      "published": "Sat, 03 Jan 2026 22:20:19 GMT",
+      "fetched_at": "2026-01-04T11:36:37.825205692Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Video shows Maduro's arrival in US and journey into custody",
+      "link": "https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The Venezuelan president is in custody in New York after he was captured during US strikes on Saturday.",
+      "published": "Sun, 04 Jan 2026 10:57:05 GMT",
+      "fetched_at": "2026-01-04T11:36:37.825189291Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Wicked composer latest to cancel Kennedy Center gig after Trump name change",
       "link": "https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 25 Dec 2025 21:09:49 +0000",
       "fetched_at": "2025-12-25T21:30:04.694765299Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Narratives versus reality: What really drives Bitcoin and altcoin prices?",
-      "link": "https://cointelegraph.com/news/narratives-and-reality-what-s-behind-btc-altcoin-prices?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ2Y2MtNWNiOC03NDM5LTg4ZGMtZWRjY2E0OTQ1MWUzLmpwZw==.jpg\" alt=\"Narratives versus reality: What really drives Bitcoin and altcoin prices?\"\u003e\u003c/p\u003e\u003cp\u003eHeadlines move crypto fast, but liquidity decides what lasts. Data from ETFs, stablecoins and on-chain flows shows what really drives prices.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 20:00:00 +0000",
-      "fetched_at": "2025-12-25T20:14:07.198329465Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Crypto Biz: Exchanges place their bets on prediction markets",
-      "link": "https://cointelegraph.com/news/crypto-prediction-markets-crypto-com-fairness-coinbase-acquisition?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAzNTktZGNjYi03ZTBjLWJkOWItYWIxYjQxN2YyNDNm.jpg\" alt=\"Crypto Biz: Exchanges place their bets on prediction markets\"\u003e\u003c/p\u003e\u003cp\u003ePrediction markets are moving into crypto’s mainstream as Crypto.com’s in-house market maker raises fairness questions and Coinbase doubles down on growth.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 20:00:00 +0000",
-      "fetched_at": "2025-12-25T20:14:07.198305119Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1705,
-  "last_update": "2026-01-04T11:27:00.338654822Z"
+  "total_captured": 1707,
+  "last_update": "2026-01-04T11:36:37.973813929Z"
 }
