@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 21:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1723-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 21:29 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1724-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 21:11 UTC)*
+*(Updated: 04 Jan 21:29 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Altcoins hold 'crucial' support, set for 'big leg' up, says analyst](https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [At least 30 killed in attack on Nigeria village](https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [At least 30 killed in attack on Nigeria village](https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

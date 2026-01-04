@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Raw emotions as mourners attend Mass for Swiss bar fire victims",
+      "link": "https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "There are tears and hugs at a special Mass for the victims of the blaze on New Year’s Eve.",
+      "published": "Sun, 04 Jan 2026 16:11:36 GMT",
+      "fetched_at": "2026-01-04T21:29:45.75552698Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Altcoins hold 'crucial' support, set for 'big leg' up, says analyst",
       "link": "https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 08:28:49 +0000",
       "fetched_at": "2025-12-26T08:47:57.70025699Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records",
-      "link": "https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTJiNmUtM2FjMC03NGUwLWIxZDctOTdjMWRjZGFlYjE2.jpg\" alt=\"Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin simmered below resistance but teased a bullish breakout as the Asia trading session accompanied new all-time highs for gold and silver.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 08:36:26 +0000",
-      "fetched_at": "2025-12-26T08:47:57.700239908Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1723,
-  "last_update": "2026-01-04T21:11:24.736831205Z"
+  "total_captured": 1724,
+  "last_update": "2026-01-04T21:29:46.085958084Z"
 }
