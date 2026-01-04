@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Tech Life",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "A study found AI chatbots can persuade us with fake facts. How does this affect politics?",
+      "published": "Tue, 16 Dec 2025 20:30:00 GMT",
+      "fetched_at": "2026-01-04T20:35:33.224269389Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "At least 30 killed in attack on Nigeria village",
       "link": "https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 02:21:32 -0500",
       "fetched_at": "2025-12-26T07:39:52.377471946Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US judge blocks detention of British social media campaigner",
-      "link": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Imran Ahmed was among five people accused of seeking to \"coerce\" US firms into censoring free speech.",
-      "published": "Fri, 26 Dec 2025 06:45:14 GMT",
-      "fetched_at": "2025-12-26T07:39:52.075038237Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1721,
-  "last_update": "2026-01-04T20:13:59.124161456Z"
+  "total_captured": 1722,
+  "last_update": "2026-01-04T20:35:33.348582531Z"
 }
