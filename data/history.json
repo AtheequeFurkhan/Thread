@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Can Maduro's trusted lieutenant now work for Trump?",
+      "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Delcy Rodríguez, a close ally of captured Venezuelan leader Nicolás Maduro, has been named interim president.",
+      "published": "Sun, 04 Jan 2026 19:13:45 GMT",
+      "fetched_at": "2026-01-04T19:26:01.154432675Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Who is Cilia Flores, Venezuela's once-powerful first lady?",
+      "link": "https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Long seen as one of the most powerful figures in Venezuelan politics, Flores has also faced allegations of corruption and nepotism.",
+      "published": "Sun, 04 Jan 2026 19:01:02 GMT",
+      "fetched_at": "2026-01-04T19:26:01.154417827Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Denmark urges 'respect' after Trump aide's wife posts on Greenland",
+      "link": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Katie Miller's message showed an altered image of the Danish autonomous territory alongside the word \"SOON\".",
+      "published": "Sun, 04 Jan 2026 18:27:38 GMT",
+      "fetched_at": "2026-01-04T19:26:01.154399132Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
       "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Tue, 16 Dec 2025 20:30:00 GMT",
       "fetched_at": "2025-12-26T06:53:01.914067273Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tips for crypto newbies, vets and skeptics from a Bitcoiner who buried $700M",
-      "link": "https://cointelegraph.com/news/crypto-tips-newcomers-vets-skeptics-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3YzUtYmRkNC03OThhLWFkNDMtYTVkMTlkZDQyYTBjLmpwZw==.jpg\" alt=\"Tips for crypto newbies, vets and skeptics from a Bitcoiner who buried $700M\"\u003e\u003c/p\u003e\u003cp\u003eJames Howells, who accidentally threw away a hard drive with 8,000 Bitcoin, has given his advice for industry newcomers, veterans, and skeptics in 2026.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 05:48:00 +0000",
-      "fetched_at": "2025-12-26T06:20:13.955228406Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "India's solar boom faces a hidden waste problem",
-      "link": "https://www.bbc.com/news/articles/cd6x75x4j02o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A recent study has found that India will generate over 11 million tonnes of solar waste by 2047 if it does not scale up recycling.",
-      "published": "Thu, 25 Dec 2025 23:11:20 GMT",
-      "fetched_at": "2025-12-26T05:15:13.632342969Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Should a top Russian archaeologist face trial for digging in occupied Crimea?",
-      "link": "https://www.bbc.com/news/articles/c623rvzjjd2o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The case of a scholar wanted in Ukraine sparked a debate on the relationship between museums and the Russian state.",
-      "published": "Fri, 26 Dec 2025 01:44:24 GMT",
-      "fetched_at": "2025-12-26T05:15:13.632329403Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1717,
-  "last_update": "2026-01-04T19:09:31.70118584Z"
+  "total_captured": 1720,
+  "last_update": "2026-01-04T19:26:01.634758878Z"
 }

@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 19:09 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1717-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 19:26 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1720-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 19:09 UTC)*
+*(Updated: 04 Jan 19:26 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst](https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Rep. Torres to target insider trading on prediction markets after bet on Maduro](https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
