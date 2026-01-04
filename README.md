@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 16:40 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1714-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 16:53 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1715-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 16:40 UTC)*
+*(Updated: 04 Jan 16:53 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Rep. Torres to target insider trading on prediction markets after bet on Maduro](https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

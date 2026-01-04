@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K",
+      "link": "https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg5ZDgtZjcxOC03ODI1LTg0MGQtMjhjNjY1MzcyNjQxLmpwZw==.jpg\" alt=\"Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin sought to maintain 2026 BTC price highs as the weekly close brought major volatility risks thanks to geopolitical uncertainty over Venezuela.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 16:40:50 +0000",
+      "fetched_at": "2026-01-04T16:53:31.58672306Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
       "link": "https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 04:17:47 GMT",
       "fetched_at": "2025-12-26T05:15:13.632286142Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto sentiment holds ‘extreme fear’ for 14th straight day",
-      "link": "https://cointelegraph.com/news/crypto-sentiment-holds-extreme-fear-14th-straight-day?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU4NzQtNDFjNi03NmQ5LWFjMTEtZGJiZjU5MjVmMTQ1LmpwZw==.jpg\" alt=\"Crypto sentiment holds ‘extreme fear’ for 14th straight day\"\u003e\u003c/p\u003e\u003cp\u003eThe Crypto Fear \u0026 Greed Index is hovering at levels lower than during the shock FTX collapse in late 2022, despite Bitcoin trading at roughly five times the price.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 04:25:10 +0000",
-      "fetched_at": "2025-12-26T04:53:52.46273421Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1714,
-  "last_update": "2026-01-04T16:40:04.508141409Z"
+  "total_captured": 1715,
+  "last_update": "2026-01-04T16:53:31.777493492Z"
 }
