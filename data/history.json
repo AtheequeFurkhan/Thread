@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Joint UK-French air strike targets IS arms cache in Syria",
+      "link": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "RAF Typhoon jets joined French aircraft in a strike on an underground Islamic State arms cache in Syria, UK officials say.",
+      "published": "Sun, 04 Jan 2026 00:50:02 GMT",
+      "fetched_at": "2026-01-04T01:07:22.638577319Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "How UK plush toy Jellycat conquered China",
       "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 11:57:47 +0000",
       "fetched_at": "2025-12-25T12:24:07.879883381Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
-      "link": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The pope also laments the condition of Palestinians during his address to worshippers at the Vatican.",
-      "published": "Thu, 25 Dec 2025 11:41:39 GMT",
-      "fetched_at": "2025-12-25T11:47:59.424285748Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1693,
-  "last_update": "2026-01-03T23:48:42.579326121Z"
+  "total_captured": 1694,
+  "last_update": "2026-01-04T01:07:22.927484685Z"
 }
