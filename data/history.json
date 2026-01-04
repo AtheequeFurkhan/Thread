@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "At least 30 killed in attack on Nigeria village",
+      "link": "https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "It is the latest in a spate of violent attacks in Niger state, and comes a day after officials said schools could reopen following a mass abduction last year.",
+      "published": "Sun, 04 Jan 2026 19:49:57 GMT",
+      "fetched_at": "2026-01-04T20:13:58.123288854Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Can Maduro's trusted lieutenant now work for Trump?",
       "link": "https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 06:45:14 GMT",
       "fetched_at": "2025-12-26T07:39:52.075038237Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Tech Life",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS\u0026at_campaign=rss",
-      "category": "Technology",
-      "summary": "A study found AI chatbots can persuade us with fake facts. How does this affect politics?",
-      "published": "Tue, 16 Dec 2025 20:30:00 GMT",
-      "fetched_at": "2025-12-26T06:53:01.914067273Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1720,
-  "last_update": "2026-01-04T19:47:43.819998007Z"
+  "total_captured": 1721,
+  "last_update": "2026-01-04T20:13:59.124161456Z"
 }

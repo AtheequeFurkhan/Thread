@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 19:47 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1720-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 20:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1721-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 19:47 UTC)*
+*(Updated: 04 Jan 20:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [At least 30 killed in attack on Nigeria village](https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [At least 30 killed in attack on Nigeria village](https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
