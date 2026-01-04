@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 07:14 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1699-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 07:33 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1700-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 07:14 UTC)*
+*(Updated: 04 Jan 07:33 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Rep. Torres to target insider trading on prediction markets after bet on Maduro](https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Bitcoin price back at $90K: Is the bear market behind us?](https://cointelegraph.com/news/bitcoin-price-back-90k-is-the-bear-market-behind-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Craig the beer-ambassador elephant dies aged 54](https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Crypto phishing losses fell 83% in 2025, but drainer ecosystem ‘remains active’](https://cointelegraph.com/news/crypto-phishing-losses-fell-83-percent-2025-wallet-drainers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Joint UK-French air strike targets IS arms cache in Syria](https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [How UK plush toy Jellycat conquered China](https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
