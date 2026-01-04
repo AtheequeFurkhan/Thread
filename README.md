@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 18:17 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1715-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 18:48 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1717-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 18:17 UTC)*
+*(Updated: 04 Jan 18:48 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst](https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Rep. Torres to target insider trading on prediction markets after bet on Maduro](https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst](https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

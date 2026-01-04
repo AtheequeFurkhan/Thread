@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
+      "link": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps.",
+      "published": "Sun, 04 Jan 2026 18:05:10 GMT",
+      "fetched_at": "2026-01-04T18:48:18.176161108Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst",
+      "link": "https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjZlNDgtMmJmNy03OTFkLWI4ZTktYzU3ZDYwMzhmMzk5LmpwZw==.jpg\" alt=\"Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eThe Japanese yen is commonly used by macroeconomic investors to carry out levered bets because of its artificially low interest rates.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 18:33:03 +0000",
+      "fetched_at": "2026-01-04T18:48:18.134999057Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K",
       "link": "https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Fri, 26 Dec 2025 01:44:24 GMT",
       "fetched_at": "2025-12-26T05:15:13.632329403Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Indonesians raise white flags as anger grows over slow flood aid",
-      "link": "https://www.bbc.com/news/articles/ckgzwqjpzp4o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Weeks after floods ravaged the island of Sumatra, many still do not have access to clean water and food.",
-      "published": "Thu, 25 Dec 2025 23:09:41 GMT",
-      "fetched_at": "2025-12-26T05:15:13.632309897Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "US launches deadly strikes against Islamic State in Nigeria, says Trump",
-      "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The US president accuses the group of killing Christians, as Nigeria’s foreign minister tells the BBC the strikes were a \"joint operation\" and \"nothing to do\" with religion.",
-      "published": "Fri, 26 Dec 2025 04:17:47 GMT",
-      "fetched_at": "2025-12-26T05:15:13.632286142Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1715,
-  "last_update": "2026-01-04T18:17:45.145060566Z"
+  "total_captured": 1717,
+  "last_update": "2026-01-04T18:48:18.17618854Z"
 }
