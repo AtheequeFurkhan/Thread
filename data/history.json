@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst",
+      "link": "https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg3NDktNjc5OS03MzU4LTkzZDUtOGY1YTE0ODc1NDdjLmpwZw==.jpg\" alt=\"Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eThe chances of Bitcoin’s price tumbling in the aftermath of the US military's attack on Venezuela are \"relatively slim,\" according to a crypto analyst.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 07:36:01 +0000",
+      "fetched_at": "2026-01-04T07:49:01.356464281Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
       "link": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 16:44:28 GMT",
       "fetched_at": "2025-12-25T16:57:00.512424363Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "What the $310B stablecoin market reveals about crypto adoption",
-      "link": "https://cointelegraph.com/explained/what-the-310b-stablecoin-market-reveals-about-crypto-adoption?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU2NTQtNWYzYy03N2RkLTg1YmMtMWU4Y2RiMTRkYmY4LmpwZw==.jpg\" alt=\"What the $310B stablecoin market reveals about crypto adoption\"\u003e\u003c/p\u003e\u003cp\u003eEmerging markets are finally accessing finance, with a $310-billion stablecoin market showing that adoption is not hype. Here is what this milestone actually means.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 16:32:48 +0000",
-      "fetched_at": "2025-12-25T16:43:31.692763403Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1700,
-  "last_update": "2026-01-04T07:33:35.957339415Z"
+  "total_captured": 1701,
+  "last_update": "2026-01-04T07:49:02.72045856Z"
 }
