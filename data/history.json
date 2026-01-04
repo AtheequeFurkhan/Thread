@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Altcoins hold 'crucial' support, set for 'big leg' up, says analyst",
+      "link": "https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhhYTMtNWRhNi03YTcyLTk5N2ItMWNmOGZkZmNjZGFlLmpwZw==.jpg\" alt=\"Altcoins hold 'crucial' support, set for 'big leg' up, says analyst\"\u003e\u003c/p\u003e\u003cp\u003eThe altcoin market is set to rally, based on technical analysis showing altcoins trading above critical support levels formed in October.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 20:34:45 +0000",
+      "fetched_at": "2026-01-04T20:51:35.614993011Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 08:36:26 +0000",
       "fetched_at": "2025-12-26T08:47:57.700239908Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for Britain",
-      "link": "https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-christmas-message-britain",
-      "category": "Business",
-      "summary": "In an \"alternative\" message to the king's annual Christmas speech, Kimmel told British viewers that \"from a fascism perspective, this has been a really great year,\" for the United States.",
-      "published": "Fri, 26 Dec 2025 02:21:32 -0500",
-      "fetched_at": "2025-12-26T07:39:52.377471946Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1722,
-  "last_update": "2026-01-04T20:35:33.348582531Z"
+  "total_captured": 1723,
+  "last_update": "2026-01-04T20:51:36.431057034Z"
 }
