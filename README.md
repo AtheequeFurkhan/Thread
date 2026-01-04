@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 01:07 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1694-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 03:19 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1697-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 01:07 UTC)*
+*(Updated: 04 Jan 03:19 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
+| **World** | [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Joint UK-French air strike targets IS arms cache in Syria](https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How UK plush toy Jellycat conquered China](https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin's price remains resilient amid the US attack on Venezuela](https://cointelegraph.com/news/bitcoin-price-resilient-us-attack-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **World** | [What we know about US strikes on Venezuela](https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Police identify first four victims of Swiss ski resort fire](https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The year angry men dominated Bollywood - and what it means for India](https://www.bbc.com/news/articles/ce8n8eye1vjo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [More than 100 shelter overnight in Japan shrine due to heavy snow](https://www.bbc.com/news/articles/cj3vmekg7ddo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin price $90K breakout hangs in balance as US storms Venezuela](https://cointelegraph.com/news/bitcoin-price-90k-breakout-hangs-in-balance-us-storms-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
+- [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Joint UK-French air strike targets IS arms cache in Syria](https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [How UK plush toy Jellycat conquered China](https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Reporter in Caracas describes hearing loud bangs and planes](https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Explosions and smoke at La Guaira port](https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

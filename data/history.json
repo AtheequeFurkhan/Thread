@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+      "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Caracas residents worry about what comes after US intervention in their country amid a tense political climate.",
+      "published": "Sun, 04 Jan 2026 03:06:24 GMT",
+      "fetched_at": "2026-01-04T03:19:07.137663298Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'Deeply shocked': World leaders react to US attack on Venezuela",
+      "link": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Leaders from around the world have responded with mixed reactions after a large-scale strike on Venezuela and Maduro's capture by the US.",
+      "published": "Sun, 04 Jan 2026 02:27:31 GMT",
+      "fetched_at": "2026-01-04T03:19:07.137371891Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Spies, drones and blowtorches: How the US captured Maduro",
+      "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "An extraordinary mission dubbed \"Operation Absolute Resolve\" saw elite troops breach the Venezuelan president's fortified compound.",
+      "published": "Sat, 03 Jan 2026 23:42:43 GMT",
+      "fetched_at": "2026-01-04T03:19:07.137225065Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Joint UK-French air strike targets IS arms cache in Syria",
       "link": "https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4472,35 +4499,8 @@
       "published": "Thu, 25 Dec 2025 13:49:20 +0000",
       "fetched_at": "2025-12-25T13:53:45.848415338Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more",
-      "link": "https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQyZGEtMjkwMS03NWMyLTgzNzUtYzJjODcwN2Q2YTkwLmpwZw==.jpg\" alt=\"Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more\"\u003e\u003c/p\u003e\u003cp\u003eThe coming year will see perfect parallel processing, big increases in the gas limit and number of data blobs, and 10% of Ethereum’s network switching to ZK.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-25T13:07:01.480607093Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "CZ proposes fix to address poisoning after investor loses $50M",
-      "link": "https://cointelegraph.com/news/zhao-fix-address-poisoning-investor-loses-50m?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU1MTYtZjRiYy03Y2IxLWI0MmQtODdiOTQ5ZGQxZTY4LmpwZw==.jpg\" alt=\"CZ proposes fix to address poisoning after investor loses $50M\"\u003e\u003c/p\u003e\u003cp\u003eZhao urged the blockchain industry to adopt new security measures, including scam address blacklist, after an investor lost $50 million to an address poisoning scheme.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 11:46:50 +0000",
-      "fetched_at": "2025-12-25T12:24:07.879899971Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Crypto derivatives volume explode to $86T in 2025, averaging $265B per day",
-      "link": "https://cointelegraph.com/news/crypto-derivatives-86t-2025-binance-volume-coinglass?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU1MWMtZmY1Zi03YjdmLTk3NmUtZjhjMDdiNDQzY2Y0LmpwZw==.jpg\" alt=\"Crypto derivatives volume explode to $86T in 2025, averaging $265B per day\"\u003e\u003c/p\u003e\u003cp\u003eCrypto derivatives trading surged to $86 trillion in 2025, averaging $265 billion per day, as Binance captured almost 30% of global volume, CoinGlass reported.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 11:57:47 +0000",
-      "fetched_at": "2025-12-25T12:24:07.879883381Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1694,
-  "last_update": "2026-01-04T01:07:22.927484685Z"
+  "total_captured": 1697,
+  "last_update": "2026-01-04T03:19:07.550515651Z"
 }
