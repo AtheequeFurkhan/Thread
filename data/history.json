@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Police identify 16 more victims of Swiss bar fire",
+      "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A criminal investigation has been launched into the fire, with families now facing an agonising wait to identify missing loved ones.",
+      "published": "Sun, 04 Jan 2026 09:35:27 GMT",
+      "fetched_at": "2026-01-04T09:48:01.134355399Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Coinbase pauses local fiat rails in Argentina less than a year after its arrival",
       "link": "https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 18:42:09 +0000",
       "fetched_at": "2025-12-25T18:49:23.578715578Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-outlook-2026-ai-profitability-consolidation?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjMzNDAtODRiNi03NzUxLWExZjEtZThiNjlkMGQxOWExLmpwZw==.jpg\" alt=\"Bitcoin mining’s 2026 reckoning: AI pivots, margin pressure and a fight to survive\"\u003e\u003c/p\u003e\u003cp\u003ePost-halving stress is reshaping Bitcoin mining. As margins compress, miners turn to AI, HPC and consolidation to survive heading into 2026.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 18:00:00 +0000",
-      "fetched_at": "2025-12-25T18:18:17.482936808Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1702,
-  "last_update": "2026-01-04T09:31:34.85137137Z"
+  "total_captured": 1703,
+  "last_update": "2026-01-04T09:48:01.394317539Z"
 }
