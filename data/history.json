@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Rep. Torres to target insider trading on prediction markets after bet on Maduro",
+      "link": "https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg3ZDUtYmZmZC03OGIxLWEyNWUtYmU3NzNkMDAwZmQ2LmpwZw==.jpg\" alt=\"Rep. Torres to target insider trading on prediction markets after bet on Maduro\"\u003e\u003c/p\u003e\u003cp\u003eA $400,000 Polymarket wager tied to Maduro’s capture has prompted Ritchie Torres to propose legislation restricting insider trading on political prediction markets.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 07:09:46 +0000",
+      "fetched_at": "2026-01-04T07:14:57.846524842Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bitcoin and Ether ETFs pull in $646M on first trading day of 2026",
       "link": "https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Thu, 25 Dec 2025 14:00:00 +0000",
       "fetched_at": "2025-12-25T14:12:31.118798674Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets",
-      "link": "https://cointelegraph.com/news/fed-q1-2026-outlook-potential-impact-on-bitcoin-crypto-markets?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBhMmYtOTc3OS03NGI4LWIwYjUtZTcwZjIyOTExYTQ0.jpg\" alt=\"Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets\"\u003e\u003c/p\u003e\u003cp\u003eBTC may fall to $70,000 and ETH to $2,400 if the Fed pauses rate cuts in the first quarter of 2026 and inflationary pressure persists.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 14:10:00 +0000",
-      "fetched_at": "2025-12-25T14:12:31.118780872Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1698,
-  "last_update": "2026-01-04T06:52:29.723192885Z"
+  "total_captured": 1699,
+  "last_update": "2026-01-04T07:14:58.213575685Z"
 }
