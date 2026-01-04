@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?",
+      "link": "https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era",
+      "category": "Business",
+      "summary": "Some sneaker resellers are despairing as once pricey pairs now sit on shelves unsold. NPR's Ayesha Rascoe speaks with Mike Sykes II from the Business of Fashion about the changing market for sneakers.",
+      "published": "Sun, 04 Jan 2026 07:56:51 -0500",
+      "fetched_at": "2026-01-04T13:05:26.3963406Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Italian pasta brands get relief from Trump's tariffs after threatening to stop exports",
+      "link": "https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports",
+      "category": "Business",
+      "summary": "Americans may still get to enjoy Italian pasta after the Trump administration spared several producers from high-level tariffs.",
+      "published": "Sun, 04 Jan 2026 07:57:16 -0500",
+      "fetched_at": "2026-01-04T13:05:26.396323009Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Schools to start reopening after Nigeria mass abduction",
+      "link": "https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Schools in \"safe and secure areas\" will be allowed to reopen after 250 children were taken in November.",
+      "published": "Sun, 04 Jan 2026 12:56:59 GMT",
+      "fetched_at": "2026-01-04T13:05:26.064942218Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Wrench attacks against crypto holders are rising and growing ‘more violent’",
+      "link": "https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5Yjg5MDQtOTMzZi03ODU4LWFiNzItMTUwYTRjZDk5MTRmLmpwZw==.jpg\" alt=\"Wrench attacks against crypto holders are rising and growing ‘more violent’\"\u003e\u003c/p\u003e\u003cp\u003eAn analysis of “wrench attacks” shows physical assaults against crypto holders are increasing in number and severity, with Europe and Asia seeing the sharpest rise.\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 12:54:51 +0000",
+      "fetched_at": "2026-01-04T13:05:25.785867607Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Crypto rich threaten to leave California after new tax: Is it a bluff?",
+      "link": "https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAyYjMtYWQzOS03YzU1LTg0ZGQtMWYzZGRjMjQzYzM1.jpg\" alt=\"Crypto rich threaten to leave California after new tax: Is it a bluff?\"\u003e\u003c/p\u003e\u003cp\u003eCrypto billionaires in California are threatening to leave the state, but are they ready to make good on their promise, or is an impending wealth exodus more of a paper tiger?\u003c/p\u003e",
+      "published": "Sun, 04 Jan 2026 13:00:00 +0000",
+      "fetched_at": "2026-01-04T13:05:25.785843586Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture",
       "link": "https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4454,53 +4499,8 @@
       "published": "Fri, 26 Dec 2025 01:16:44 +0000",
       "fetched_at": "2025-12-26T02:53:54.995296462Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO",
-      "link": "https://cointelegraph.com/news/bitcoin-market-fundamentals-strong-strategy-ceo-phong-le?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3OTUtNWEwYy03NzY5LTg4YzItZjM5MjNlY2I3MmI3LmpwZw==.jpg\" alt=\"Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO\"\u003e\u003c/p\u003e\u003cp\u003eBitcoiners wanting to focus on short-term factors should be “fairly methodical and mathematical,” says Strategy CEO Phong Le.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 00:35:07 +0000",
-      "fetched_at": "2025-12-26T00:59:44.77846443Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Heavy rain storms in California leave three dead as of Christmas night",
-      "link": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The storms have brought flash flooding and mudslides during a time of busy holiday travel.",
-      "published": "Thu, 25 Dec 2025 22:39:57 GMT",
-      "fetched_at": "2025-12-25T23:12:11.935707188Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "What tariffs have meant for holiday candle sales",
-      "link": "https://www.npr.org/2025/12/25/nx-s1-5651286/what-tariffs-have-meant-for-holiday-candle-sales",
-      "category": "Business",
-      "summary": "More than a third of candle sales every year take place during the end of year holiday season. And this year, tariffs hikes have affected how much consumers pay for their candles.",
-      "published": "Thu, 25 Dec 2025 17:41:01 -0500",
-      "fetched_at": "2025-12-25T22:50:44.751018851Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
-      "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.",
-      "published": "Thu, 25 Dec 2025 21:36:46 GMT",
-      "fetched_at": "2025-12-25T21:48:13.04137945Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas",
-      "link": "https://cointelegraph.com/news/pudgy-penguins-nft-characters-las-vegas-sphere-christmas-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU3MWUtZjE5ZC03NGU5LWFiODUtOTQ2MDNlYjdlYjQ1LmpwZw==.jpg\" alt=\"Pudgy Penguins brings NFT characters to the Las Vegas Sphere during Christmas\"\u003e\u003c/p\u003e\u003cp\u003eThe non-fungible token project owned by Luca Netz appeared on the Sphere’s exterior screens, with the animated display going live on Christmas Eve.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 21:09:49 +0000",
-      "fetched_at": "2025-12-25T21:30:04.694765299Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1707,
-  "last_update": "2026-01-04T12:22:42.403568437Z"
+  "total_captured": 1712,
+  "last_update": "2026-01-04T13:05:26.757445832Z"
 }

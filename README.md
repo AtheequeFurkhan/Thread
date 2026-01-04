@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 12:22 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1707-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 13:05 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1712-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 12:22 UTC)*
+*(Updated: 04 Jan 13:05 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Business** | [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) | ⚪ Neutral |
+| **Business** | [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) | ⚪ Neutral |
+| **World** | [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **World** | [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Joint UK-French air strike targets IS arms cache in Syria](https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [How UK plush toy Jellycat conquered China](https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Bitcoin's price remains resilient amid the US attack on Venezuela](https://cointelegraph.com/news/bitcoin-price-resilient-us-attack-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [US national debt crosses $38.5T, as Bitcoiners celebrate 'Genesis Day'](https://cointelegraph.com/news/us-national-debt-38-5-trillion-bitcoiners-genesis-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Reporter in Caracas describes hearing loud bangs and planes](https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Explosions and smoke at La Guaira port](https://www.bbc.com/news/videos/c20zgq02jp0o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) (⚪ Neutral)
+- [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) (⚪ Neutral)
 - [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) (⚪ Neutral)
 - [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) (🟢 Positive)
 - [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) (⚪ Neutral)
-- [Warren Buffett officially retires as Berkshire Hathway's CEO](https://www.npr.org/2026/01/01/nx-s1-5661491/warren-buffett-retires-berkshire-hathaway-ceo) (⚪ Neutral)
-- [Crypto soared in 2025 — and then crashed. Now what?](https://www.npr.org/2026/01/01/nx-s1-5642654/trump-crypto-winter-bitcoin) (🔴 Negative)
 
 
 ### 📂 Crypto
+- [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Rep. Torres to target insider trading on prediction markets after bet on Maduro](https://cointelegraph.com/news/ritchie-torres-prediction-markets-insider-trading-bill-maduro-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Bitcoin's price remains resilient amid the US attack on Venezuela](https://cointelegraph.com/news/bitcoin-price-resilient-us-attack-venezuela?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
