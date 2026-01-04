@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Wicked composer latest to cancel Kennedy Center gig after Trump name change",
+      "link": "https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Stephen Schwartz says he will not appear at the arts venue as it \"has now become an ideological statement\".",
+      "published": "Sun, 04 Jan 2026 10:02:47 GMT",
+      "fetched_at": "2026-01-04T10:12:48.94329512Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Brigitte Bardot Foundation issues warning about scam memorabilia",
+      "link": "https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Online adverts tout merchandise of the actress with claims the proceeds will go to her charity, it says.",
+      "published": "Sun, 04 Jan 2026 09:39:42 GMT",
+      "fetched_at": "2026-01-04T10:12:48.94327903Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Police identify 16 more victims of Swiss bar fire",
       "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Thu, 25 Dec 2025 20:00:00 +0000",
       "fetched_at": "2025-12-25T20:14:07.198305119Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'",
-      "link": "https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The former leader is serving a 27-year sentence for plotting a coup after losing the 2022 presidential election.",
-      "published": "Thu, 25 Dec 2025 18:24:38 GMT",
-      "fetched_at": "2025-12-25T18:49:23.763752954Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Canton token rallies 27% after DTCC outlines tokenized Treasury plans",
-      "link": "https://cointelegraph.com/news/canton-token-rallies-after-dtcc-outlines-tokenized-treasury-plans?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzJmNzEtYzg3YS03MGVmLWE1ODEtY2U5MzMyYzU3MmZi.jpg\" alt=\"Canton token rallies 27% after DTCC outlines tokenized Treasury plans\"\u003e\u003c/p\u003e\u003cp\u003eDTCC’s move to bring US Treasurys onchain highlights growing institutional momentum behind tokenized real-world assets.\u003c/p\u003e",
-      "published": "Thu, 25 Dec 2025 18:42:09 +0000",
-      "fetched_at": "2025-12-25T18:49:23.578715578Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1703,
-  "last_update": "2026-01-04T09:48:01.394317539Z"
+  "total_captured": 1705,
+  "last_update": "2026-01-04T10:12:49.187741967Z"
 }

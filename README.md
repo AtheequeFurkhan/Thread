@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 09:48 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1703-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 10:12 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1705-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 09:48 UTC)*
+*(Updated: 04 Jan 10:12 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Coinbase pauses local fiat rails in Argentina less than a year after its arrival](https://cointelegraph.com/news/coinbase-pauses-fiat-operations-argentina-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin 'widespread correction' unlikely after US strike on Venezuela: Analyst](https://cointelegraph.com/news/united-states-venezuela-strike-bitcoin-price-downfall-unlikely-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -39,8 +41,6 @@
 | **World** | [Trump on Venezuela: 'We are going to run the country'](https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Why has Trump attacked Venezuela and taken Maduro?](https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Hut 8 finishes 2025 strong despite difficult year for Bitcoin miners](https://cointelegraph.com/news/hut-8-2025-strong-difficult-bitcoin-miners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [BBC reaches agreement with Israeli family for filming in home after 7 October without consent](https://www.bbc.com/news/articles/c1ev7ly35neo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **World** | [Trump's move to topple Maduro is fraught with risk - what happens next is unclear](https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Brigitte Bardot Foundation issues warning about scam memorabilia](https://www.bbc.com/news/articles/c4g4vypvqvxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Police identify 16 more victims of Swiss bar fire](https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Trump says US will 'run' Venezuela and 'fix oil infrastructure'](https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
