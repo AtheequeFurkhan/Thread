@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 15:11 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1713-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-04 Jan 15:31 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1714-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 15:11 UTC)*
+*(Updated: 04 Jan 15:31 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) | ⚪ Neutral |
 | **Business** | [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | ['A long road ahead': Venezuelans react to Maduro's arrest with hope and worry](https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | ['Deeply shocked': World leaders react to US attack on Venezuela](https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **World** | [Spies, drones and blowtorches: How the US captured Maduro](https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Joint UK-French air strike targets IS arms cache in Syria](https://www.bbc.com/news/articles/c1m7l8keyexo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Video shows Maduro's arrival in US and journey into custody](https://www.bbc.com/news/videos/cly308pn4r8o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Wicked composer latest to cancel Kennedy Center gig after Trump name change](https://www.bbc.com/news/articles/c5y2r0yvj25o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 

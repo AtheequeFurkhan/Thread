@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
+      "link": "https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Trump seems to believe he makes the rules and others cannot have the same privileges.",
+      "published": "Sun, 04 Jan 2026 15:14:35 GMT",
+      "fetched_at": "2026-01-04T15:31:24.665121612Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Thousands stranded across Europe as Greece airspace disrupted",
       "link": "https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 04:25:10 +0000",
       "fetched_at": "2025-12-26T04:53:52.46273421Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Ethereum unlikely to reach new highs in 2026: Ben Cowen",
-      "link": "https://cointelegraph.com/news/ether-price-new-highs-2026-unlikely-ben-cowen-crypto-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjU4MWQtMTMyNy03NzY2LTlmYjAtOWM3ZjdlOWEyMzdhLmpwZw==.jpg\" alt=\"Ethereum unlikely to reach new highs in 2026: Ben Cowen\"\u003e\u003c/p\u003e\u003cp\u003eIf Ether manages to reclaim its all-time high in 2026, it may just be a “bull trap,” says crypto analyst Ben Cowen.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 03:53:13 +0000",
-      "fetched_at": "2025-12-26T04:28:46.744190545Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1713,
-  "last_update": "2026-01-04T15:11:51.827159115Z"
+  "total_captured": 1714,
+  "last_update": "2026-01-04T15:31:24.903997939Z"
 }
