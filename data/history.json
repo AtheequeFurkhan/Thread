@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Trump threatens military operation in Colombia as Bitcoin rises to $93K",
+      "link": "https://cointelegraph.com/news/trump-hints-colombia-mexico-next-after-maduro-capture?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiZWEtNzgwNy03OWVlLWJlYmYtMWI2NGQxOGRhZmI1LmpwZw==.jpg\" alt=\"Trump threatens military operation in Colombia as Bitcoin rises to $93K\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin topped $93,000 on Monday as US President Donald Trump said military action in Colombia “sounds good.”\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 05:10:24 +0000",
+      "fetched_at": "2026-01-05T05:22:05.554280437Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Ethereum powers $8T in stablecoin transfers in Q4, smashing record",
       "link": "https://cointelegraph.com/news/stablecoin-transfer-volume-ethereum-tops-8t-q4-ath?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 09:05:38 GMT",
       "fetched_at": "2025-12-26T14:12:45.94301549Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "AI-era internet: Can blockchain prove what’s real anymore?",
-      "link": "https://cointelegraph.com/news/ai-era-internet-can-blockchain-prove-what-is-real?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2MTAtNDliNi03M2ExLWEzYTktZDZjNmI3NGU1OGVkLmpwZw==.jpg\" alt=\"AI-era internet: Can blockchain prove what’s real anymore?\"\u003e\u003c/p\u003e\u003cp\u003eAs AI blurs the line between real and synthetic media, strategies for restoring user trust online are still taking shape as we enter 2026.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 14:00:00 +0000",
-      "fetched_at": "2025-12-26T14:12:45.538312121Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1737,
-  "last_update": "2026-01-05T04:38:45.338392375Z"
+  "total_captured": 1738,
+  "last_update": "2026-01-05T05:22:05.554319029Z"
 }
