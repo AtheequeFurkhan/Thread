@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 07:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1742-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 08:21 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1743-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 07:54 UTC)*
+*(Updated: 05 Jan 08:21 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [9 myths about Bitcoin energy use, debunked by data: ESG expert](https://cointelegraph.com/news/expert-debunks-9-common-myths-about-bitcoin-mining-energy-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Altcoins hold 'crucial' support, set for 'big leg' up, says analyst](https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 
 
 
