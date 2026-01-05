@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Grayscale declares first Ethereum staking payout for US-listed ETF",
+      "link": "https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhlZmQtMTZiYy03MjQ4LTgxODItMTE0ODc3ZWI1YWZkLmpwZw==.jpg\" alt=\"Grayscale declares first Ethereum staking payout for US-listed ETF\"\u003e\u003c/p\u003e\u003cp\u003eThe cash distribution stems from staking rewards earned after the fund enabled Ethereum staking in October.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 17:46:28 +0000",
+      "fetched_at": "2026-01-05T17:54:57.126466985Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "China’s financial associations reclassify RWAs as ‘risky‘: Report",
       "link": "https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 27 Dec 2025 00:41:28 GMT",
       "fetched_at": "2025-12-27T10:12:16.476288492Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "One general, one mathematician: The men competing for power in two African elections",
-      "link": "https://www.bbc.com/news/articles/cpwk9grv290o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The leaders of Guinea and the Central African Republic aim to consolidate power after Sunday's polls.",
-      "published": "Sat, 27 Dec 2025 00:57:52 GMT",
-      "fetched_at": "2025-12-27T10:12:16.476273695Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1763,
-  "last_update": "2026-01-05T17:44:22.294149859Z"
+  "total_captured": 1764,
+  "last_update": "2026-01-05T17:54:58.16573841Z"
 }
