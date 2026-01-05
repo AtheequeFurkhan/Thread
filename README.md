@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 08:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1743-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 09:23 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1744-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 08:54 UTC)*
+*(Updated: 05 Jan 09:23 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **World** | [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **World** | [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [9 myths about Bitcoin energy use, debunked by data: ESG expert](https://cointelegraph.com/news/expert-debunks-9-common-myths-about-bitcoin-mining-energy-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Whales move crypto to Binance, but buyers are missing: Analyst](https://cointelegraph.com/news/crypto-whales-deposit-binance-buyers-missing-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Trump threatens military operation in Colombia as Bitcoin rises to $93K](https://cointelegraph.com/news/trump-hints-colombia-mexico-next-after-maduro-capture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

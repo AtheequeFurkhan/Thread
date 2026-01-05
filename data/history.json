@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January",
+      "link": "https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODA4ZTQtYmMxYS03NDZkLWE3ODgtMzcyOWYwODFkNDJi.jpg\" alt=\"TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January\"\u003e\u003c/p\u003e\u003cp\u003eJanuary’s unlock calendar is heavily concentrated, with four major projects accounting for more than one-third of all tokens set to enter circulation.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 09:04:23 +0000",
+      "fetched_at": "2026-01-05T09:23:18.481498286Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Thirty-two Cubans killed during US attack on Venezuela",
       "link": "https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 18:00:00 +0000",
       "fetched_at": "2025-12-26T18:18:17.16132701Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BNB Chain Fermi hard fork scheduled for January activation",
-      "link": "https://cointelegraph.com/news/binance-smart-chain-bnb-fermi-hard-fork-scheduled-january?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViN2MtOWU1OS03YzYxLWE0ZGMtODE1YzQ1NDVjZGVlLmpwZw==.jpg\" alt=\"BNB Chain Fermi hard fork scheduled for January activation\"\u003e\u003c/p\u003e\u003cp\u003eThe mainnet rollout follows the Fermi testnet activation in November, further reducing block times on the layer-1 blockchain network.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 17:28:34 +0000",
-      "fetched_at": "2025-12-26T17:47:41.015255682Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1743,
-  "last_update": "2026-01-05T08:54:05.14455123Z"
+  "total_captured": 1744,
+  "last_update": "2026-01-05T09:23:18.848642524Z"
 }
