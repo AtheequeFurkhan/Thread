@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Whales move crypto to Binance, but buyers are missing: Analyst",
+      "link": "https://cointelegraph.com/news/crypto-whales-deposit-binance-buyers-missing-analyst?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhjM2EtZTFiNC03MTY3LWE4MDgtY2Q4YjQyMDA5ODk5LmpwZw==.jpg\" alt=\"Whales move crypto to Binance, but buyers are missing: Analyst\"\u003e\u003c/p\u003e\u003cp\u003eThe amount of crypto sent to Binance rose in the past week, but CryptoOnchain says the other side of the trade, the buyers, are yet to show up.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 05:44:24 +0000",
+      "fetched_at": "2026-01-05T05:54:35.111751742Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump threatens military operation in Colombia as Bitcoin rises to $93K",
       "link": "https://cointelegraph.com/news/trump-hints-colombia-mexico-next-after-maduro-capture?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 14:21:38 GMT",
       "fetched_at": "2025-12-26T14:35:11.963056377Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Former Malaysia PM Najib Razak found guilty in state funds scandal",
-      "link": "https://www.bbc.com/news/articles/crk7y27vp1eo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Najib was convicted for his role in the billion-dollar scandal involving the country's sovereign wealth fund 1MDB.",
-      "published": "Fri, 26 Dec 2025 09:05:38 GMT",
-      "fetched_at": "2025-12-26T14:12:45.94301549Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1738,
-  "last_update": "2026-01-05T05:22:05.554319029Z"
+  "total_captured": 1739,
+  "last_update": "2026-01-05T05:54:35.111778752Z"
 }
