@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Prediction markets move into real estate with Polymarket–Parcl deal",
+      "link": "https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhmYjMtOTFjNS03OTMwLTllZDYtMzY5YjU4OTMxYzVkLkpQRw==.jpg\" alt=\"Prediction markets move into real estate with Polymarket–Parcl deal\"\u003e\u003c/p\u003e\u003cp\u003eParcl’s native PRCL token surged over 100% following news of the partnership, which brings housing price indexes into prediction markets.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 21:18:57 +0000",
+      "fetched_at": "2026-01-05T21:34:03.583040646Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Watch: What it was like in the courtroom at Maduro's hearing",
       "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 27 Dec 2025 15:25:18 GMT",
       "fetched_at": "2025-12-27T15:30:39.681351511Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Two dead in 50-vehicle pile up on Japan highway",
-      "link": "https://www.bbc.com/news/articles/c157e9dddwwo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A further 26 people are injured in the crash on a highway in central Japan, police say.",
-      "published": "Sat, 27 Dec 2025 12:03:20 GMT",
-      "fetched_at": "2025-12-27T13:04:18.428376544Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1771,
-  "last_update": "2026-01-05T21:13:27.415944392Z"
+  "total_captured": 1772,
+  "last_update": "2026-01-05T21:34:03.583092463Z"
 }
