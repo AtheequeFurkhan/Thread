@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 17:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1762-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 17:44 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1763-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 17:15 UTC)*
+*(Updated: 05 Jan 17:44 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [China’s financial associations reclassify RWAs as ‘risky‘: Report](https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Bitcoin enters 'strength' phase, but $100K debate heats up between traders](https://cointelegraph.com/news/bitcoin-enters-strength-phase-100k-debate-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price hits $94K as crypto volume dives to lowest since late 2023](https://cointelegraph.com/news/bitcoin-price-nears-94k-crypto-volume-lowest-since-late-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [New redesigned coins marking nation's 250th birthday begin circulating today](https://www.npr.org/2026/01/05/nx-s1-5660747/new-redesigned-coins-250th-anniversary) | 🟢 Positive |
 | **Crypto** | [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [China’s financial associations reclassify RWAs as ‘risky‘: Report](https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin enters 'strength' phase, but $100K debate heats up between traders](https://cointelegraph.com/news/bitcoin-enters-strength-phase-100k-debate-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin price hits $94K as crypto volume dives to lowest since late 2023](https://cointelegraph.com/news/bitcoin-price-nears-94k-crypto-volume-lowest-since-late-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B](https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Three bullish XRP charts to watch as price gains over 18% in 2026](https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
