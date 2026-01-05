@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led",
+      "link": "https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhkOTgtMjMwYS03MDRkLWE0OWQtNGY5OGNkYjY0NGI5LmpwZw==.jpg\" alt=\"Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led\"\u003e\u003c/p\u003e\u003cp\u003eAltcoins led by Ether, XRP, and Solana led crypto ETP growth in 2025, while Bitcoin fund inflows fell 35%.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 10:41:50 +0000",
+      "fetched_at": "2026-01-05T10:48:44.662855761Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
       "title": "Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 19:00:00 +0000",
       "fetched_at": "2025-12-26T19:10:30.792132824Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "USX briefly depegs on Solana DEXs before liquidity support restores price",
-      "link": "https://cointelegraph.com/news/usx-stabilizes-after-brief-depeg-secondary-market-sell-pressure?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjViYjYtNmEwMy03OGVjLWE0NzUtZGE5YTkyMWQ0YTViLmpwZw==.jpg\" alt=\"USX briefly depegs on Solana DEXs before liquidity support restores price\"\u003e\u003c/p\u003e\u003cp\u003eThe USX stablecoin briefly slipped below its dollar peg on Solana DEXs before recovering after its issuer injected liquidity into secondary markets.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 18:25:48 +0000",
-      "fetched_at": "2025-12-26T18:49:05.135786671Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1746,
-  "last_update": "2026-01-05T10:16:24.145530722Z"
+  "total_captured": 1747,
+  "last_update": "2026-01-05T10:48:45.047178169Z"
 }
