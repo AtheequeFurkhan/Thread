@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "South Korea's 'movie of the year' is an indie story about a teen's trauma",
+      "link": "https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The World of Love has been praised for its touching, empathetic portrayal of life after sexual assault.",
+      "published": "Sun, 04 Jan 2026 23:15:58 GMT",
+      "fetched_at": "2026-01-05T01:06:19.158313789Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "The French university where spies go for training",
+      "link": "https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Sciences Po Saint-Germain near Paris trains current French secret agents and potential new recruits.",
+      "published": "Mon, 05 Jan 2026 00:02:00 GMT",
+      "fetched_at": "2026-01-05T01:06:19.158296267Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Activist group says it was behind Berlin fire that cut power to thousands",
+      "link": "https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The far-left Vulkan Gruppe says in a statement that targeting the fossil fuel economy, not cutting power, was the goal.",
+      "published": "Sun, 04 Jan 2026 18:44:05 GMT",
+      "fetched_at": "2026-01-05T01:06:19.158279846Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "South Korea's Lee Jae Myung to meet China's Xi in reset of relations",
+      "link": "https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Trade, regional security and Beijing's unofficial ban on Korean pop culture are on the agenda.",
+      "published": "Mon, 05 Jan 2026 00:13:58 GMT",
+      "fetched_at": "2026-01-05T01:06:19.158262995Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Tech Life",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4463,44 +4499,8 @@
       "published": "Fri, 26 Dec 2025 10:15:00 +0000",
       "fetched_at": "2025-12-26T10:38:17.664039466Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Marijuana rescheduling would bring some immediate changes, but others will take time",
-      "link": "https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-executive-order",
-      "category": "Business",
-      "summary": "President Trump set the process in motion to ease federal restrictions on marijuana. But his order doesn't automatically revoke laws targeting marijuana, which remains illegal to transport over state lines.",
-      "published": "Fri, 26 Dec 2025 05:01:00 -0500",
-      "fetched_at": "2025-12-26T10:13:36.691184785Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Inside the Swiss city where you can pay for almost everything in Bitcoin",
-      "link": "https://cointelegraph.com/news/inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhMWUtOWJiOS03NDQxLWFjZjEtMDVjNDgxZTE3OWI1LmpwZWc=.jpeg\" alt=\"Inside the Swiss city where you can pay for almost everything in Bitcoin\"\u003e\u003c/p\u003e\u003cp\u003eFrom McDonald’s to municipal taxes, Lugano is proving that Bitcoin adoption is not about predicting the future; it is about building the infrastructure to handle it today.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 09:50:05 +0000",
-      "fetched_at": "2025-12-26T10:13:36.091871479Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Economic analyst says consumer spending has been resilient despite uncertainty",
-      "link": "https://www.npr.org/2025/12/26/nx-s1-5648848/economic-analyst-says-consumer-spending-has-been-resilient-despite-uncertainty",
-      "category": "Business",
-      "summary": "NPR's Leila Fadel speaks to an economic analyst for Visa about consumer spending this year, and what we could expect going into 2026.",
-      "published": "Fri, 26 Dec 2025 04:40:36 -0500",
-      "fetched_at": "2025-12-26T09:50:53.308873863Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Holiday spending expected to be up despite low consumer confidence",
-      "link": "https://www.npr.org/2025/12/26/nx-s1-5648379/holiday-spending-expected-to-be-up-despite-low-consumer-confidence",
-      "category": "Business",
-      "summary": "Holiday spending was higher than expected this year, despite low confidence in the economy and many people reporting tightening their budgets.",
-      "published": "Fri, 26 Dec 2025 04:40:42 -0500",
-      "fetched_at": "2025-12-26T09:50:53.308675451Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1726,
-  "last_update": "2026-01-04T23:50:02.47405538Z"
+  "total_captured": 1730,
+  "last_update": "2026-01-05T01:06:19.32259924Z"
 }

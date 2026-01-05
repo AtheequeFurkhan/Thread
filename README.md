@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-04 Jan 23:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1726-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 01:06 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1730-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,14 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 04 Jan 23:50 UTC)*
+*(Updated: 05 Jan 01:06 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
@@ -37,10 +41,6 @@
 | **World** | [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Business** | [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) | ⚪ Neutral |
 | **Business** | [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) | ⚪ Neutral |
-| **World** | [Schools to start reopening after Nigeria mass abduction](https://www.bbc.com/news/articles/c0lxprn290xo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Crypto rich threaten to leave California after new tax: Is it a bluff?](https://cointelegraph.com/news/crypto-rich-leave-california-new-tax-bluff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [Watch: 'I'm so happy' - Venezuelans in the US react to Maduro's capture](https://www.bbc.com/news/videos/c5y2xqgjd7eo?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [At least 30 killed in attack on Nigeria village](https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Can Maduro's trusted lieutenant now work for Trump?](https://www.bbc.com/news/articles/cvgx0ylzy8vo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2026-01-05.md | [View Log](data/2026-01-05.md) |
 | 2026-01-04.md | [View Log](data/2026-01-04.md) |
 | 2026-01-03.md | [View Log](data/2026-01-03.md) |
 | 2026-01-02.md | [View Log](data/2026-01-02.md) |
 | 2026-01-01.md | [View Log](data/2026-01-01.md) |
 | 2025-12-31.md | [View Log](data/2025-12-31.md) |
 | 2025-12-30.md | [View Log](data/2025-12-30.md) |
-| 2025-12-29.md | [View Log](data/2025-12-29.md) |
 
 
 ---
