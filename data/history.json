@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B",
+      "link": "https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVkZDAtZDIzYS03NzA1LWFjNzMtOTNkNzY3OTY5N2Yw.jpg\" alt=\"Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B\"\u003e\u003c/p\u003e\u003cp\u003eStrategy bought 1,283 BTC for $116 million, lifting holdings above 673,000 BTC, while reporting a $17.4 billion unrealized Q4 loss in an SEC filing Monday.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 14:20:01 +0000",
+      "fetched_at": "2026-01-05T14:49:02.049745553Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Three bullish XRP charts to watch as price gains over 18% in 2026",
       "link": "https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 27 Dec 2025 01:36:28 GMT",
       "fetched_at": "2025-12-27T06:51:00.385950208Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "'We will vote but not with our hearts': Inside the election staged by Myanmar's military rulers",
-      "link": "https://www.bbc.com/news/articles/cwyxller1j5o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "This is the first election since the army's coup in early 2021 - and it is being widely condemned as a sham.",
-      "published": "Fri, 26 Dec 2025 23:01:59 GMT",
-      "fetched_at": "2025-12-27T06:51:00.385934749Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1757,
-  "last_update": "2026-01-05T14:16:50.934090833Z"
+  "total_captured": 1758,
+  "last_update": "2026-01-05T14:49:02.060891142Z"
 }
