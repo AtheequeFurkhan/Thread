@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "UK regulator asks X about reports its AI makes 'sexualised images of children'",
+      "link": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Elon Musk's social media platform has warned users not to use Grok to generate illegal content.",
+      "published": "Mon, 05 Jan 2026 15:34:56 GMT",
+      "fetched_at": "2026-01-05T15:40:40.415838308Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B",
       "link": "https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 23:14:10 GMT",
       "fetched_at": "2025-12-27T06:51:00.385966569Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Thousands of US flights disrupted as winter storm looms",
-      "link": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Heavy snow is expected in New York and southern Connecticut during one of the busiest travel weekends of the year.",
-      "published": "Sat, 27 Dec 2025 01:36:28 GMT",
-      "fetched_at": "2025-12-27T06:51:00.385950208Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1758,
-  "last_update": "2026-01-05T15:15:13.270061678Z"
+  "total_captured": 1759,
+  "last_update": "2026-01-05T15:40:41.470715273Z"
 }

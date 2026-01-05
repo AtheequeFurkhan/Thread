@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 15:15 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1758-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 15:40 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1759-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 15:15 UTC)*
+*(Updated: 05 Jan 15:40 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Technology** | [UK regulator asks X about reports its AI makes 'sexualised images of children'](https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B](https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Three bullish XRP charts to watch as price gains over 18% in 2026](https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
@@ -40,7 +41,6 @@
 | **Crypto** | [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [9 myths about Bitcoin energy use, debunked by data: ESG expert](https://cointelegraph.com/news/expert-debunks-9-common-myths-about-bitcoin-mining-energy-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Whales move crypto to Binance, but buyers are missing: Analyst](https://cointelegraph.com/news/crypto-whales-deposit-binance-buyers-missing-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -65,11 +65,11 @@
 
 
 ### 📂 Technology
+- [UK regulator asks X about reports its AI makes 'sexualised images of children'](https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
