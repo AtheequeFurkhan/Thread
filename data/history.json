@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Watch: What it was like in the courtroom at Maduro's hearing",
+      "link": "https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The BBC's Madeline Halpert was inside the room as the former Venezuelan president addressed the judge.",
+      "published": "Mon, 05 Jan 2026 19:58:53 GMT",
+      "fetched_at": "2026-01-05T20:15:40.131596997Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Crypto companies contribute $21M to Trump PAC ahead of US midterms",
+      "link": "https://cointelegraph.com/news/crypto-donald-trump-pac-midterms?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjUwMzEtMGI1My03MmUwLThmN2QtMDA5OTQ1MGRmNWVjLmpwZw==.jpg\" alt=\"Crypto companies contribute $21M to Trump PAC ahead of US midterms\"\u003e\u003c/p\u003e\u003cp\u003eThe Gemini Trust Company and parent company of Crypto.com sent millions of dollars to the Trump-supporting PAC in September and October.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 19:46:37 +0000",
+      "fetched_at": "2026-01-05T20:15:40.107864418Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US sharply criticised by foes and friends over Maduro seizure",
       "link": "https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 27 Dec 2025 12:03:20 GMT",
       "fetched_at": "2025-12-27T13:04:18.428376544Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Four hikers found dead after avalanche in central Greece",
-      "link": "https://www.bbc.com/news/articles/c23ejnge95jo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "A search operation was launched after three men and a woman went missing on Christmas Day.",
-      "published": "Sat, 27 Dec 2025 12:36:09 GMT",
-      "fetched_at": "2025-12-27T13:04:18.428361366Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying",
-      "link": "https://cointelegraph.com/news/coinbase-ceo-genius-act-red-line-bank-lobbying-stablecoins?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVmYzEtNDRiYi03N2UxLWIzMzItOWQzNWY5OWM0NmEzLmpwZw==.jpg\" alt=\"Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying\"\u003e\u003c/p\u003e\u003cp\u003eCoinbase CEO Brian Armstrong warned that reopening the GENIUS Act would cross a “red line,” accusing banks of lobbying Congress to block stablecoin rewards and limit competition.\u003c/p\u003e",
-      "published": "Sat, 27 Dec 2025 12:24:30 +0000",
-      "fetched_at": "2025-12-27T13:04:18.417987403Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1769,
-  "last_update": "2026-01-05T19:49:01.058190492Z"
+  "total_captured": 1771,
+  "last_update": "2026-01-05T20:15:40.296997901Z"
 }
