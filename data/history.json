@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "NFT Paris cancels conferences: ‘The market collapse hit us hard‘",
+      "link": "https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhmZTktZWFmOC03MzJhLThhNWYtYmE0OTZlOWIxN2VjLmpwZw==.jpg\" alt=\"NFT Paris cancels conferences: ‘The market collapse hit us hard‘\"\u003e\u003c/p\u003e\u003cp\u003eThe total NFT market capitalization dropped significantly in 2025, from about $9 billion in January 2025 to just over $2.7 billion in 2026.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 21:53:59 +0000",
+      "fetched_at": "2026-01-05T22:13:07.401287848Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Cuba defiant as it braces for post-Maduro era",
       "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 27 Dec 2025 20:19:48 +0000",
       "fetched_at": "2025-12-27T20:34:33.315309868Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Emerging market economies to drive RWA tokenization in 2026: Crypto exec",
-      "link": "https://cointelegraph.com/news/emerging-market-drive-rwa-tokenization-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmZDUtY2E3MS03ZTEwLWFlZDUtOTc5NDFkODk1ZTM3.jpg\" alt=\"Emerging market economies to drive RWA tokenization in 2026: Crypto exec\"\u003e\u003c/p\u003e\u003cp\u003eDeveloping economies that lack entrenched financial market infrastructure will adopt tokenized real-world assets before developed countries.\u003c/p\u003e",
-      "published": "Sat, 27 Dec 2025 18:20:45 +0000",
-      "fetched_at": "2025-12-27T18:48:01.739406039Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1773,
-  "last_update": "2026-01-05T21:50:44.239927431Z"
+  "total_captured": 1774,
+  "last_update": "2026-01-05T22:13:08.056780913Z"
 }

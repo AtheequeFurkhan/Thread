@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 21:50 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1773-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 22:13 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1774-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 21:50 UTC)*
+*(Updated: 05 Jan 22:13 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [NFT Paris cancels conferences: ‘The market collapse hit us hard‘](https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Prediction markets move into real estate with Polymarket–Parcl deal](https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: What it was like in the courtroom at Maduro's hearing](https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [Three bullish XRP charts to watch as price gains over 18% in 2026](https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ledger says Global-e incident did not compromise crypto wallets](https://cointelegraph.com/news/ledger-data-incident-global-e-not-platform-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Starknet mainnet hit by fresh downtime as team probes cause](https://cointelegraph.com/news/starknet-hit-by-fresh-downtime-team-probes-cause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [NFT Paris cancels conferences: ‘The market collapse hit us hard‘](https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Prediction markets move into real estate with Polymarket–Parcl deal](https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Crypto companies contribute $21M to Trump PAC ahead of US midterms](https://cointelegraph.com/news/crypto-donald-trump-pac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Grayscale declares first Ethereum staking payout for US-listed ETF](https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [China’s financial associations reclassify RWAs as ‘risky‘: Report](https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
