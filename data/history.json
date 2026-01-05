@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
+      "link": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\".",
+      "published": "Mon, 05 Jan 2026 03:11:21 GMT",
+      "fetched_at": "2026-01-05T03:21:24.432480902Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin advocate Machado in running to replace Venezuela’s Maduro",
+      "link": "https://cointelegraph.com/news/nobel-prize-winning-bitcoiner-in-running-to-replace-maduro?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiYTktMDI0NC03ODk1LWJiZWYtOWJhOTMwNTM1OTE3LmpwZw==.jpg\" alt=\"Bitcoin advocate Machado in running to replace Venezuela’s Maduro\"\u003e\u003c/p\u003e\u003cp\u003eNobel Prize-winning Bitcoiner María Corina Machado is one of three looking to replace Nicolás Maduro as Venezuela's president after he was captured on Saturday.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 01:18:25 +0000",
+      "fetched_at": "2026-01-05T03:21:24.421435099Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Bitcoin devs flocked back to work amid a big year for crypto",
+      "link": "https://cointelegraph.com/news/bitcoin-devs-flock-back-more-contributors-code?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiNDktMjRhMi03ZThkLWIyNjgtN2Y1NGU3MWJmNTJkLmpwZw==.jpg\" alt=\"Bitcoin devs flocked back to work amid a big year for crypto\"\u003e\u003c/p\u003e\u003cp\u003eKey metrics tracking the development of Bitcoin Core show 2025 was a good year for the blockchain, with more developers contributing more code, says Jameson Lopp.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 02:37:51 +0000",
+      "fetched_at": "2026-01-05T03:21:24.421407317Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Memecoins rip into 2026 with 23% market cap pump",
+      "link": "https://cointelegraph.com/news/memecoins-post-holiday-rally-23-percent?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiNWItYzFkZi03NDU5LWFlY2YtNzhkMTIzMDM4NzkzLmpwZw==.jpg\" alt=\"Memecoins rip into 2026 with 23% market cap pump\"\u003e\u003c/p\u003e\u003cp\u003eMemecoin transaction volume has also spiked, jumping from $2.2 billion to $8.7 billion, a 300% increase.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 02:40:21 +0000",
+      "fetched_at": "2026-01-05T03:21:24.421390756Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Ethereum ready to solve blockchain trilemma: Vitalik Buterin",
+      "link": "https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiNzEtM2M5NC03YmMyLWFmMWYtNGIwNGJjODBmOTAwLmpwZw==.jpg\" alt=\"Ethereum ready to solve blockchain trilemma: Vitalik Buterin\"\u003e\u003c/p\u003e\u003cp\u003eEthereum's co-founder says PeerDAS and ZK-EVMs have solved crypto's scalability vs. security vs. decentralization trade-off.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 03:14:42 +0000",
+      "fetched_at": "2026-01-05T03:21:24.42137156Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
+      "link": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.",
+      "published": "Mon, 05 Jan 2026 00:01:31 GMT",
+      "fetched_at": "2026-01-05T03:21:24.219479757Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "South Korea's 'movie of the year' is an indie story about a teen's trauma",
       "link": "https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4445,62 +4499,8 @@
       "published": "Fri, 26 Dec 2025 13:26:25 +0000",
       "fetched_at": "2025-12-26T13:43:54.240161882Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Thailand bombs Cambodian border area as ceasefire talks continue",
-      "link": "https://www.bbc.com/news/articles/c4gk15x85jlo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Cambodia accuses Thailand of \"indiscriminate attacks\", as negotiators meet for a third day to try to end weeks of renewed fighting.",
-      "published": "Fri, 26 Dec 2025 12:18:26 GMT",
-      "fetched_at": "2025-12-26T13:07:12.988895764Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel",
-      "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away.",
-      "published": "Fri, 26 Dec 2025 13:03:18 GMT",
-      "fetched_at": "2025-12-26T13:07:12.988878051Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "2026 is the year Ethereum starts scaling exponentially with ZK tech",
-      "link": "https://cointelegraph.com/news/2026-is-the-year-ethereum-starts-scaling-exponentially-with-zk-tech?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1ZGYtMTQzMi03ODE4LWE4YzMtMTEwZDlkYTcxMmM4LmpwZw==.jpg\" alt=\"2026 is the year Ethereum starts scaling exponentially with ZK tech\"\u003e\u003c/p\u003e\u003cp\u003eThe lowdown on how the switchover to ZK-proofs is expected to work this year as part of Ethereum’s plan to scale to 10,000 TPS.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 13:00:00 +0000",
-      "fetched_at": "2025-12-26T13:07:12.980268709Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Memecoins go from Christmas cheer to cold reality, sinking 65% in a year",
-      "link": "https://cointelegraph.com/news/memecoins-christmas-2025-yearly-decline?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhMTctYzE4Yi03ZmFkLWIxMmItYjk2ZWE2MWJlNmE1LmpwZw==.jpg\" alt=\"Memecoins go from Christmas cheer to cold reality, sinking 65% in a year\"\u003e\u003c/p\u003e\u003cp\u003eOnce a barometer of retail hype, memecoins are closing the year with shrinking liquidity, weaker participation and fading speculative momentum.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 11:55:14 +0000",
-      "fetched_at": "2025-12-26T12:24:13.206445563Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "The crypto events that reshaped the industry in 2025",
-      "link": "https://cointelegraph.com/explained/the-crypto-events-that-reshaped-the-industry-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVhMTUtNmQ5Mi03YzYzLWI0OTItNjk5YTg2ODdkMzMzLmpwZWc=.jpeg\" alt=\"The crypto events that reshaped the industry in 2025\"\u003e\u003c/p\u003e\u003cp\u003eFrom hacks and macro shocks to stablecoin regulation and market-structure upgrades, 2025 reshaped how crypto operates and what mainstream adoption really means.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 11:15:00 +0000",
-      "fetched_at": "2025-12-26T11:29:16.222190998Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "AI bubble risks in 2026: What’s the potential impact on Bitcoin price?",
-      "link": "https://cointelegraph.com/news/ai-bubble-risks-in-2026-whats-potential-impact-on-bitcoin-price?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNhMjItMWYxYi03MzZhLWJjYWEtNjVhMTljODJkNzE1LmpwZw==.jpg\" alt=\"AI bubble risks in 2026: What’s the potential impact on Bitcoin price?\"\u003e\u003c/p\u003e\u003cp\u003eTether CEO Paolo Ardoino warned an AI sector correction could spill over into crypto markets in 2026, with some analysts projecting BTC to drop to as low as $65,000.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 10:15:00 +0000",
-      "fetched_at": "2025-12-26T10:38:17.664039466Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1730,
-  "last_update": "2026-01-05T01:06:19.32259924Z"
+  "total_captured": 1736,
+  "last_update": "2026-01-05T03:21:24.58658494Z"
 }

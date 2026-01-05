@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 01:06 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1730-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 03:21 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1736-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,16 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 01:06 UTC)*
+*(Updated: 05 Jan 03:21 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Bitcoin advocate Machado in running to replace Venezuela’s Maduro](https://cointelegraph.com/news/nobel-prize-winning-bitcoiner-in-running-to-replace-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
+| **Crypto** | [Bitcoin devs flocked back to work amid a big year for crypto](https://cointelegraph.com/news/bitcoin-devs-flock-back-more-contributors-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Memecoins rip into 2026 with 23% market cap pump](https://cointelegraph.com/news/memecoins-post-holiday-rally-23-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Ethereum ready to solve blockchain trilemma: Vitalik Buterin](https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Technology** | [Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -35,12 +41,6 @@
 | **World** | [Who is Cilia Flores, Venezuela's once-powerful first lady?](https://www.bbc.com/news/articles/ckgl7k91nl8o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [Denmark urges 'respect' after Trump aide's wife posts on Greenland](https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [From Caracas 'fort' to New York court: Maduro's capture in pictures and maps](https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **Crypto** | [Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst](https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **World** | [Bowen: Trump's action could set precedent for authoritarian powers across globe](https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [Thousands stranded across Europe as Greece airspace disrupted](https://www.bbc.com/news/articles/cgezjlzwz1do?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Business** | [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) | ⚪ Neutral |
-| **Business** | [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) | ⚪ Neutral |
 
 
 ---
@@ -57,27 +57,27 @@
 
 
 ### 📂 Crypto
+- [Bitcoin advocate Machado in running to replace Venezuela’s Maduro](https://cointelegraph.com/news/nobel-prize-winning-bitcoiner-in-running-to-replace-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
+- [Bitcoin devs flocked back to work amid a big year for crypto](https://cointelegraph.com/news/bitcoin-devs-flock-back-more-contributors-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Memecoins rip into 2026 with 23% market cap pump](https://cointelegraph.com/news/memecoins-post-holiday-rally-23-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Ethereum ready to solve blockchain trilemma: Vitalik Buterin](https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
-- [Altcoins hold 'crucial' support, set for 'big leg' up, says analyst](https://cointelegraph.com/news/altcoins-hold-crucial-support-big-leg-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Metaplanet has key advantage over US-based Bitcoin treasuries: Analyst](https://cointelegraph.com/news/metaplanet-edge-us-dats-jpy-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Bitcoin 'will move' when TradFi reacts to Venezuela as BTC price nears $92K](https://cointelegraph.com/news/bitcoin-will-move-tradfi-reacts-venezuela-btc-price-nears-92k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Wrench attacks against crypto holders are rising and growing ‘more violent’](https://cointelegraph.com/news/wrench-attacks-crypto-holders-rising-more-violent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 
 
 ### 📂 Technology
+- [Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/w3ct6zpv?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Tech Now](https://www.bbc.co.uk/iplayer/episode/m002ndlb?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The unexpected history of those oh-so annoying internet popup ads](https://www.bbc.com/news/videos/c9w71g22nw2o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 ### 📂 World
+- [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Raw emotions as mourners attend Mass for Swiss bar fire victims](https://www.bbc.com/news/articles/cn82l012dw6o?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
