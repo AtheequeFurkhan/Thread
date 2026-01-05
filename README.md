@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 09:52 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1744-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 10:16 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1746-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,12 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 09:52 UTC)*
+*(Updated: 05 Jan 10:16 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Business** | [New redesigned coins marking nation's 250th birthday begin circulating today](https://www.npr.org/2026/01/05/nx-s1-5660747/new-redesigned-coins-250th-anniversary) | 🟢 Positive |
 | **Crypto** | [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **World** | [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
 | **Crypto** | [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -39,8 +41,6 @@
 | **World** | [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **World** | [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [South Korea's Lee Jae Myung to meet China's Xi in reset of relations](https://www.bbc.com/news/articles/c70lw9x581no?at_medium=RSS&at_campaign=rss) | 🔴 Negative |
-| **Technology** | [Tech Life](https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Crypto Fear and Greed Index flips to 'neutral' for first time since Oct](https://cointelegraph.com/news/crypto-fear-greed-flips-neutral-first-time-oct?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -49,19 +49,19 @@
 
 
 ### 📂 Business
+- [New redesigned coins marking nation's 250th birthday begin circulating today](https://www.npr.org/2026/01/05/nx-s1-5660747/new-redesigned-coins-250th-anniversary) (🟢 Positive)
 - [The resale market for sneakers is tanking. Is 2026 the end of the sneakerhead era?](https://www.npr.org/2026/01/04/nx-s1-5648609/the-resale-market-for-sneakers-is-tanking-is-2026-the-end-of-the-sneakerhead-era) (⚪ Neutral)
 - [Italian pasta brands get relief from Trump's tariffs after threatening to stop exports](https://www.npr.org/2026/01/04/nx-s1-5665013/italian-pasta-brands-get-relief-from-trumps-tariffs-after-threatening-to-stop-exports) (⚪ Neutral)
 - [Is the whiskey industry in trouble?](https://www.npr.org/2026/01/02/nx-s1-5662629/is-the-whiskey-industry-in-trouble) (⚪ Neutral)
 - [Small business owner shares how Trump's tariffs affected sales](https://www.npr.org/2026/01/02/nx-s1-5664087/small-business-owner-shares-how-trumps-tariffs-affected-sales) (🟢 Positive)
-- [What's next for Berkshire Hathaway as longtime CEO Warren Buffett retires](https://www.npr.org/2026/01/01/nx-s1-5662519/whats-next-for-berkshire-hathaway-as-longtime-ceo-warren-buffett-retires) (⚪ Neutral)
 
 
 ### 📂 Crypto
+- [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [9 myths about Bitcoin energy use, debunked by data: ESG expert](https://cointelegraph.com/news/expert-debunks-9-common-myths-about-bitcoin-mining-energy-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Whales move crypto to Binance, but buyers are missing: Analyst](https://cointelegraph.com/news/crypto-whales-deposit-binance-buyers-missing-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
