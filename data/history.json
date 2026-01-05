@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bitcoin price hits $94K as crypto volume dives to lowest since late 2023",
+      "link": "https://cointelegraph.com/news/bitcoin-price-nears-94k-crypto-volume-lowest-since-late-2023?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhlZTktMjMwNC03ZjJiLWIxMDAtYTNjYzdlYTJjOTNiLmpwZw==.jpg\" alt=\"Bitcoin price hits $94K as crypto volume dives to lowest since late 2023\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin reached its highest levels in nearly a month as risk assets and precious metals headed higher on the US-Venezuela catalyst.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 16:07:32 +0000",
+      "fetched_at": "2026-01-05T16:18:22.493745689Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "UK regulator asks X about reports its AI makes 'sexualised images of children'",
       "link": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS\u0026at_campaign=rss",
       "category": "Technology",
@@ -4490,17 +4499,8 @@
       "published": "Wed, 17 Dec 2025 18:20:44 GMT",
       "fetched_at": "2025-12-27T07:12:17.412493055Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Her husband's kidnapping became Malaysia's biggest mystery. Then came a stunning confession",
-      "link": "https://www.bbc.com/news/articles/cx276v1yvryo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Nine years after her husband disappeared, Susanna Liew had a stunning legal win in one of Malaysia's biggest mysteries.",
-      "published": "Fri, 26 Dec 2025 23:14:10 GMT",
-      "fetched_at": "2025-12-27T06:51:00.385966569Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1759,
-  "last_update": "2026-01-05T15:54:15.318154979Z"
+  "total_captured": 1760,
+  "last_update": "2026-01-05T16:18:22.984889809Z"
 }
