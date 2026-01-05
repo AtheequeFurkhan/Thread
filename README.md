@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 11:12 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1747-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 11:32 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1748-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 11:12 UTC)*
+*(Updated: 05 Jan 11:32 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [Bank of America will allow wealth advisers to recommend Bitcoin from Monday](https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led](https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Business** | [New redesigned coins marking nation's 250th birthday begin circulating today](https://www.npr.org/2026/01/05/nx-s1-5660747/new-redesigned-coins-250th-anniversary) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Technology** | [Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **World** | [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
-| **World** | [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Bank of America will allow wealth advisers to recommend Bitcoin from Monday](https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led](https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [PwC leaned into crypto after US regulatory shift, CEO says](https://cointelegraph.com/news/pwc-leaning-crypto-us-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology

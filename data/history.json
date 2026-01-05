@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Bank of America will allow wealth advisers to recommend Bitcoin from Monday",
+      "link": "https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhkNTQtZjQ1NS03MmM4LTg5ZWYtN2M0NDliMTBjY2QwLmpwZw==.jpg\" alt=\"Bank of America will allow wealth advisers to recommend Bitcoin from Monday\"\u003e\u003c/p\u003e\u003cp\u003eBank of America will enable advisers across Merrill and its private bank to recommend four spot Bitcoin ETFs, expanding beyond client-led access.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 11:15:26 +0000",
+      "fetched_at": "2026-01-05T11:32:13.2917047Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
       "title": "Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led",
       "link": "https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Fri, 26 Dec 2025 20:00:42 +0000",
       "fetched_at": "2025-12-26T20:13:17.007015809Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined",
-      "link": "https://cointelegraph.com/news/bitcoin-crawls-88k-aave-governance-drama?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5ODliZmUtYTU0My03ZjU2LTg3NGMtNjE1MGNmZDg2MWQw.jpg\" alt=\"Bitcoin crawls to $88K as Aave faces governance drama: Finance Redefined\"\u003e\u003c/p\u003e\u003cp\u003eCryptocurrency markets experienced a modest recovery this week, but spot Bitcoin ETFs extended a five-day losing streak amid thin year-end liquidity.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 19:00:00 +0000",
-      "fetched_at": "2025-12-26T19:10:30.792132824Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1747,
-  "last_update": "2026-01-05T11:12:28.038993633Z"
+  "total_captured": 1748,
+  "last_update": "2026-01-05T11:32:13.82726649Z"
 }
