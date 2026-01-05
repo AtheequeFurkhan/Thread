@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 22:13 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1774-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 22:37 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1775-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 22:13 UTC)*
+*(Updated: 05 Jan 22:37 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Venezuela swears in interim president after defiant Maduro pleads not guilty in US court](https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [NFT Paris cancels conferences: ‘The market collapse hit us hard‘](https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Prediction markets move into real estate with Polymarket–Parcl deal](https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
@@ -40,7 +41,6 @@
 | **Crypto** | [Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B](https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Three bullish XRP charts to watch as price gains over 18% in 2026](https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Ledger says Global-e incident did not compromise crypto wallets](https://cointelegraph.com/news/ledger-data-incident-global-e-not-platform-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Venezuela swears in interim president after defiant Maduro pleads not guilty in US court](https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: What it was like in the courtroom at Maduro's hearing](https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US sharply criticised by foes and friends over Maduro seizure](https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['I'm a prisoner of war' - In the room for Maduro's dramatic court hearing](https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Trump's seizure of Maduro raises thorny legal questions, in US and abroad](https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
