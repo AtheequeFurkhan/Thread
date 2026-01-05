@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "Trump's seizure of Maduro raises thorny legal questions, in US and abroad",
+      "link": "https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "US Attorney General Pam Bondi has said Maduro was brought to the US to \"face justice\". Some experts have concerns.",
+      "published": "Mon, 05 Jan 2026 18:02:12 GMT",
+      "fetched_at": "2026-01-05T18:20:39.550241859Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "All 116 injured in Swiss ski resort fire identified",
+      "link": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "Forty people were killed when a fire swept through a busy bar in Crans-Montana on New Year's Eve.",
+      "published": "Mon, 05 Jan 2026 14:12:19 GMT",
+      "fetched_at": "2026-01-05T18:20:39.550220499Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH",
+      "link": "https://cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhmMzctYzliOS03NTU4LWFjMjYtYTIxZTZhZWRjM2QzLmpwZw==.jpg\" alt=\"Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin and several major altcoins have continued their march higher, indicating improving investor sentiment and sustained demand from the bulls.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 18:10:31 +0000",
+      "fetched_at": "2026-01-05T18:20:39.478639972Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Grayscale declares first Ethereum staking payout for US-listed ETF",
       "link": "https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4472,35 +4499,8 @@
       "published": "Sat, 27 Dec 2025 10:24:47 +0000",
       "fetched_at": "2025-12-27T10:35:31.015880994Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Election betting on prediction markets apps is set to boom ahead of midterms",
-      "link": "https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets",
-      "category": "Business",
-      "summary": "Online prediction markets, like Polymarket and Kalshi, were under intense scrutiny in the Biden administration. But Trump officials are embracing the controversial apps, raising new fears about election interference ahead of the midterms.",
-      "published": "Tue, 23 Dec 2025 16:43:33 -0500",
-      "fetched_at": "2025-12-27T10:12:16.894903668Z",
-      "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Watch: Meteor lights up sky over Japan's Mount Fuji",
-      "link": "https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "The meteor could be seen blazing through the night sky over Japan's Mount Fuji",
-      "published": "Sat, 27 Dec 2025 10:01:44 GMT",
-      "fetched_at": "2025-12-27T10:12:16.47630408Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Both of these influencers are successful - but only one is human",
-      "link": "https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Some say AI is ruining social media, but others see its potential to democratise who gains fame online.",
-      "published": "Sat, 27 Dec 2025 00:41:28 GMT",
-      "fetched_at": "2025-12-27T10:12:16.476288492Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1764,
-  "last_update": "2026-01-05T17:54:58.16573841Z"
+  "total_captured": 1767,
+  "last_update": "2026-01-05T18:20:39.642390069Z"
 }

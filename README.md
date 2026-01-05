@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 17:54 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1764-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 18:20 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1767-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 17:54 UTC)*
+*(Updated: 05 Jan 18:20 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Trump's seizure of Maduro raises thorny legal questions, in US and abroad](https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [All 116 injured in Swiss ski resort fire identified](https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **Crypto** | [Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Grayscale declares first Ethereum staking payout for US-listed ETF](https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [China’s financial associations reclassify RWAs as ‘risky‘: Report](https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [Fifa video game to return after four years in Netflix exclusive](https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Fake MetaMask 2FA security checks lure users into sharing recovery phrases](https://cointelegraph.com/news/fake-metamask-2fa-security-checks-lure-users-into-sharing-recovery-phrases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Japan’s finance minister backs exchanges as gateway for digital assets](https://cointelegraph.com/news/japan-crypto-securities-framework-exchange-led-access-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bank of America will allow wealth advisers to recommend Bitcoin from Monday](https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led](https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Business** | [New redesigned coins marking nation's 250th birthday begin circulating today](https://www.npr.org/2026/01/05/nx-s1-5660747/new-redesigned-coins-250th-anniversary) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Grayscale declares first Ethereum staking payout for US-listed ETF](https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [China’s financial associations reclassify RWAs as ‘risky‘: Report](https://cointelegraph.com/news/china-financial-associations-rwa-stablecoin-risky?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin enters 'strength' phase, but $100K debate heats up between traders](https://cointelegraph.com/news/bitcoin-enters-strength-phase-100k-debate-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bitcoin price hits $94K as crypto volume dives to lowest since late 2023](https://cointelegraph.com/news/bitcoin-price-nears-94k-crypto-volume-lowest-since-late-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B](https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Trump's seizure of Maduro raises thorny legal questions, in US and abroad](https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [All 116 injured in Swiss ski resort fire identified](https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [India wants more passenger jets. Can it also build them?](https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Bluefin tuna fetches record $3.2m at Tokyo auction](https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 - [Ten found guilty of cyber-bullying Brigitte Macron](https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) (🔴 Negative)
-- [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 
