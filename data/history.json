@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "India wants more passenger jets. Can it also build them?",
+      "link": "https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "India’s aviation boom, delivery delays and a Russia tie-up revive the long-running question of building planes at home.",
+      "published": "Sun, 04 Jan 2026 23:48:25 GMT",
+      "fetched_at": "2026-01-05T12:27:10.418032708Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Bluefin tuna fetches record $3.2m at Tokyo auction",
+      "link": "https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The 243kg fish went to a man known as the Tuna King, who said \"the year's first tuna brings good luck\".",
+      "published": "Mon, 05 Jan 2026 08:19:49 GMT",
+      "fetched_at": "2026-01-05T12:27:10.418020265Z",
+      "sentiment": "🟢 Positive"
+    },
+    {
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron",
+      "link": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president.",
+      "published": "Mon, 05 Jan 2026 12:17:12 GMT",
+      "fetched_at": "2026-01-05T12:27:10.418007441Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Fake MetaMask 2FA security checks lure users into sharing recovery phrases",
+      "link": "https://cointelegraph.com/news/fake-metamask-2fa-security-checks-lure-users-into-sharing-recovery-phrases?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhkYmUtYWU3ZS03ZTMzLWJiZjgtM2M1MDRmMTkzZjU3LmpwZw==.jpg\" alt=\"Fake MetaMask 2FA security checks lure users into sharing recovery phrases\"\u003e\u003c/p\u003e\u003cp\u003eAccording to SlowMist, attackers are impersonating Metamask, aiming to steal users’ secret recovery phrases.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 11:57:01 +0000",
+      "fetched_at": "2026-01-05T12:27:10.314884836Z",
+      "sentiment": "🔴 Negative"
+    },
+    {
+      "title": "Japan’s finance minister backs exchanges as gateway for digital assets",
+      "link": "https://cointelegraph.com/news/japan-crypto-securities-framework-exchange-led-access-2026?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhkYjMtNzZhMi03MDdiLTk5YTItMTIxNmUxMDIwYjM2LmpwZw==.jpg\" alt=\"Japan’s finance minister backs exchanges as gateway for digital assets\"\u003e\u003c/p\u003e\u003cp\u003eJapan’s finance minister signaled that crypto’s future lies inside regulated exchanges as Japan advances tax, disclosure, and market reforms.\u003c/p\u003e",
+      "published": "Mon, 05 Jan 2026 12:10:42 +0000",
+      "fetched_at": "2026-01-05T12:27:10.314864347Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Bank of America will allow wealth advisers to recommend Bitcoin from Monday",
       "link": "https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4454,53 +4499,8 @@
       "published": "Fri, 26 Dec 2025 23:46:28 +0000",
       "fetched_at": "2025-12-26T23:49:08.876597307Z",
       "sentiment": "🟢 Positive"
-    },
-    {
-      "title": "Memory loss: As AI gobbles up chips, prices for devices may rise",
-      "link": "https://www.npr.org/2025/12/26/nx-s1-5656190/memory-loss-as-ai-gobbles-up-chips-prices-for-devices-may-rise",
-      "category": "Business",
-      "summary": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.",
-      "published": "Fri, 26 Dec 2025 17:17:50 -0500",
-      "fetched_at": "2025-12-26T22:34:28.002288478Z",
-      "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "Bitmain slashes ASIC prices amid mining industry turmoil: Report",
-      "link": "https://cointelegraph.com/news/bitmain-slashes-asic-prices-mining-turmoil?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjODktZmY1Mi03ZjQ4LWE5NWYtYWY5MWRmOTM5OTVlLmpwZw==.jpg\" alt=\"Bitmain slashes ASIC prices amid mining industry turmoil: Report\"\u003e\u003c/p\u003e\u003cp\u003eDiscounts and bundle deals were offered to mining operators, as 2025 ends on a bad note for the crypto market and the mining industry.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 21:39:03 +0000",
-      "fetched_at": "2025-12-26T21:47:48.006571524Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook",
-      "link": "https://cointelegraph.com/news/ethereum-tokenization-role-takes-focus-as-tom-lee-outlines-bullish-outlook?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVjMjUtYjA5Zi03ODEzLTg5MWMtNWRlNTg3NWI2MDFiLmpwZw==.jpg\" alt=\"Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook\"\u003e\u003c/p\u003e\u003cp\u003eFundstrat’s head of research said institutional tokenization supports a $7,000–$9,000 Ether price in early 2026 and a longer-term case for $20,000.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 21:15:54 +0000",
-      "fetched_at": "2025-12-26T21:29:21.606453001Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitcoin price, onchain flows and global macro: Here’s what changed in 2025",
-      "link": "https://cointelegraph.com/news/bitcoin-onchain-flows-global-macro-here-s-what-changed-in-2025?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ3ODMtMTRmMy03N2Q1LWFhZDYtNzQyOGVkZGQwNDM3LmpwZw==.jpg\" alt=\"Bitcoin price, onchain flows and global macro: Here’s what changed in 2025\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s technical and onchain market structure was robust throughout 2025, but ever-shifting macroeconomic conditions eventually put a cap on BTC price. Will the trend shift in 2026?\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 20:00:00 +0000",
-      "fetched_at": "2025-12-26T20:13:17.007033151Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Aave founder denies buying tokens to influence failed DAO vote",
-      "link": "https://cointelegraph.com/news/aave-founder-tokens-influence-failed-dao-vote?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjQ1YmQtNzQxZi03OWMyLTg2ZmEtYWIzYTFiZDc0YmI4LmpwZw==.jpg\" alt=\"Aave founder denies buying tokens to influence failed DAO vote\"\u003e\u003c/p\u003e\u003cp\u003eStani Kulechov's comments followed an uproar in the Aave community about the relationship between the Aave decentralized autonomous organization and Aave Labs.\u003c/p\u003e",
-      "published": "Fri, 26 Dec 2025 20:00:42 +0000",
-      "fetched_at": "2025-12-26T20:13:17.007015809Z",
-      "sentiment": "🔴 Negative"
     }
   ],
-  "total_captured": 1748,
-  "last_update": "2026-01-05T11:49:19.404683007Z"
+  "total_captured": 1753,
+  "last_update": "2026-01-05T12:27:10.777769449Z"
 }

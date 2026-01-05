@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 11:49 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1748-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 12:27 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1753-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,15 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 11:49 UTC)*
+*(Updated: 05 Jan 12:27 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [India wants more passenger jets. Can it also build them?](https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **World** | [Bluefin tuna fetches record $3.2m at Tokyo auction](https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
+| **World** | [Ten found guilty of cyber-bullying Brigitte Macron](https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
+| **Crypto** | [Fake MetaMask 2FA security checks lure users into sharing recovery phrases](https://cointelegraph.com/news/fake-metamask-2fa-security-checks-lure-users-into-sharing-recovery-phrases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
+| **Crypto** | [Japan’s finance minister backs exchanges as gateway for digital assets](https://cointelegraph.com/news/japan-crypto-securities-framework-exchange-led-access-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bank of America will allow wealth advisers to recommend Bitcoin from Monday](https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led](https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -36,11 +41,6 @@
 | **World** | [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 | **Crypto** | [Bitcoin advocate Machado in running to replace Venezuela’s Maduro](https://cointelegraph.com/news/nobel-prize-winning-bitcoiner-in-running-to-replace-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **Crypto** | [Bitcoin devs flocked back to work amid a big year for crypto](https://cointelegraph.com/news/bitcoin-devs-flock-back-more-contributors-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Memecoins rip into 2026 with 23% market cap pump](https://cointelegraph.com/news/memecoins-post-holiday-rally-23-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Crypto** | [Ethereum ready to solve blockchain trilemma: Vitalik Buterin](https://cointelegraph.com/news/blockchain-trilemma-solved-zkevms-and-peerdas-vitalik-buterin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
-| **Technology** | [Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **World** | [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) | 🟢 Positive |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [Fake MetaMask 2FA security checks lure users into sharing recovery phrases](https://cointelegraph.com/news/fake-metamask-2fa-security-checks-lure-users-into-sharing-recovery-phrases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
+- [Japan’s finance minister backs exchanges as gateway for digital assets](https://cointelegraph.com/news/japan-crypto-securities-framework-exchange-led-access-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 - [Bank of America will allow wealth advisers to recommend Bitcoin from Monday](https://cointelegraph.com/news/bank-of-america-recommend-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Crypto funds pull $47B inflows in 2025, shy of 2024 record as altcoins led](https://cointelegraph.com/news/crypto-funds-2025-47-billion-inflows-altcoin-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [Can BTC avoid a bull trap at $93K? 5 things to know in Bitcoin this week](https://cointelegraph.com/news/can-btc-avoid-bull-trap-93k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [TRUMP, ONDO, BGB, HYPE, lead $5.5B in token unlocks in January](https://cointelegraph.com/news/january-crypto-token-unlocks-ondo-bgb-hype-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Visa crypto card spending soars 525% in 2025](https://cointelegraph.com/news/net-spend-visa-crypto-cards-increased-by-525-percent-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [India wants more passenger jets. Can it also build them?](https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
+- [Bluefin tuna fetches record $3.2m at Tokyo auction](https://www.bbc.com/news/articles/c8d0q16zvzgo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
+- [Ten found guilty of cyber-bullying Brigitte Macron](https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Thirty-two Cubans killed during US attack on Venezuela](https://www.bbc.com/news/articles/cj9r0eyw0jno?at_medium=RSS&at_campaign=rss) (🔴 Negative)
 - [Trump warns new Venezuelan leader as Maduro set to appear in court](https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [South Korea's 'movie of the year' is an indie story about a teen's trauma](https://www.bbc.com/news/articles/cjrz3dey7lxo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [The French university where spies go for training](https://www.bbc.com/news/articles/c98nqeqnylro?at_medium=RSS&at_campaign=rss) (🟢 Positive)
-- [Activist group says it was behind Berlin fire that cut power to thousands](https://www.bbc.com/news/articles/c78v984ywgeo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 
 
 
