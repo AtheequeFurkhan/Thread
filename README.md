@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-05 Jan 21:34 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1772-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-05 Jan 21:50 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1773-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 05 Jan 21:34 UTC)*
+*(Updated: 05 Jan 21:50 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **World** | [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Prediction markets move into real estate with Polymarket–Parcl deal](https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Watch: What it was like in the courtroom at Maduro's hearing](https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [Crypto companies contribute $21M to Trump PAC ahead of US midterms](https://cointelegraph.com/news/crypto-donald-trump-pac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
@@ -40,7 +41,6 @@
 | **Crypto** | [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **Crypto** | [Ledger says Global-e incident did not compromise crypto wallets](https://cointelegraph.com/news/ledger-data-incident-global-e-not-platform-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Starknet mainnet hit by fresh downtime as team probes cause](https://cointelegraph.com/news/starknet-hit-by-fresh-downtime-team-probes-cause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **World** | [India wants more passenger jets. Can it also build them?](https://www.bbc.com/news/articles/cpq4x0rw4vyo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 
 
 ---
@@ -73,11 +73,11 @@
 
 
 ### 📂 World
+- [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Watch: What it was like in the courtroom at Maduro's hearing](https://www.bbc.com/news/videos/cy05933de12o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [US sharply criticised by foes and friends over Maduro seizure](https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - ['I'm a prisoner of war' - In the room for Maduro's dramatic court hearing](https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
 - [Trump's seizure of Maduro raises thorny legal questions, in US and abroad](https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS&at_campaign=rss) (⚪ Neutral)
-- [All 116 injured in Swiss ski resort fire identified](https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss) (🟢 Positive)
 
 
 

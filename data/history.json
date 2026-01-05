@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The prospects for Cuba - a close ally of Nicolás Maduro's Venezuela - are now bleak, writes Will Grant.",
+      "published": "Mon, 05 Jan 2026 21:41:36 GMT",
+      "fetched_at": "2026-01-05T21:50:44.162191597Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Prediction markets move into real estate with Polymarket–Parcl deal",
       "link": "https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4490,17 +4499,8 @@
       "published": "Sat, 27 Dec 2025 18:20:45 +0000",
       "fetched_at": "2025-12-27T18:48:01.739406039Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Nine arrested in Italy for allegedly raising millions for Hamas",
-      "link": "https://www.bbc.com/news/articles/cqxq59np394o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Police say the suspects raised around €7m (£6m) for the militant group over more than two years.",
-      "published": "Sat, 27 Dec 2025 15:25:18 GMT",
-      "fetched_at": "2025-12-27T15:30:39.681351511Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1772,
-  "last_update": "2026-01-05T21:34:03.583092463Z"
+  "total_captured": 1773,
+  "last_update": "2026-01-05T21:50:44.239927431Z"
 }
