@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "US sharply criticised by foes and friends over Maduro seizure",
+      "link": "https://www.bbc.com/news/articles/cwy1812n13eo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "The US taking of Venezuela's leader has faced strong criticism from both America's friends and foes.",
+      "published": "Mon, 05 Jan 2026 19:37:39 GMT",
+      "fetched_at": "2026-01-05T19:49:00.615765925Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "'I'm a prisoner of war' - In the room for Maduro's dramatic court hearing",
+      "link": "https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "World",
+      "summary": "During the 40-minute arraignment, Maduro and his wife, Cilia Flores, pleaded not guilty to drugs and weapon charges.",
+      "published": "Mon, 05 Jan 2026 19:35:52 GMT",
+      "fetched_at": "2026-01-05T19:49:00.61574206Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "Trump's seizure of Maduro raises thorny legal questions, in US and abroad",
       "link": "https://www.bbc.com/news/articles/cr4krkz7242o?at_medium=RSS\u0026at_campaign=rss",
       "category": "World",
@@ -4481,26 +4499,8 @@
       "published": "Sat, 27 Dec 2025 12:24:30 +0000",
       "fetched_at": "2025-12-27T13:04:18.417987403Z",
       "sentiment": "🔴 Negative"
-    },
-    {
-      "title": "No $90K Bitcoin till next year: BTC futures open interest hits 8-month low",
-      "link": "https://cointelegraph.com/news/no-90k-bitcoin-futures-open-interest-8-month-low?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWM1YWQtYTBmYy03MjE1LTkxNmUtMmIzMzZjYTM0NGEz.jpg\" alt=\"No $90K Bitcoin till next year: BTC futures open interest hits 8-month low\"\u003e\u003c/p\u003e\u003cp\u003eBitcoin’s resilient basis rate and options data suggest limited downside despite ETF outflows, while BTC waits for a catalyst that can help it reclaim $90,000.\u003c/p\u003e",
-      "published": "Sat, 27 Dec 2025 12:15:00 +0000",
-      "fetched_at": "2025-12-27T12:22:46.940125833Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract",
-      "link": "https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
-      "category": "Crypto",
-      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjVmNGItNWU1NS03MDNjLTg2NWYtOTI2ZTY1ODY3NTgzLmpwZw==.jpg\" alt=\"Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract\"\u003e\u003c/p\u003e\u003cp\u003eEthereum treasury firm Bitmine has begun staking Ether after depositing nearly $219 million worth of ETH into Ethereum’s proof-of-stake system.\u003c/p\u003e",
-      "published": "Sat, 27 Dec 2025 10:24:47 +0000",
-      "fetched_at": "2025-12-27T10:35:31.015880994Z",
-      "sentiment": "⚪ Neutral"
     }
   ],
-  "total_captured": 1767,
-  "last_update": "2026-01-05T19:32:22.579483481Z"
+  "total_captured": 1769,
+  "last_update": "2026-01-05T19:49:01.058190492Z"
 }
