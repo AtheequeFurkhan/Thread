@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Ethereum staking sees tidal shift as validator exit queue clears out",
+      "link": "https://cointelegraph.com/news/ethereum-staking-pressure-shifts-validator-exit-queue-clears-out?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
+      "category": "Crypto",
+      "summary": "\u003cp style=\"float:right; margin:0 0 10px 15px; width:240px;\"\u003e\u003cimg src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg\" alt=\"Ethereum staking sees tidal shift as validator exit queue clears out\"\u003e\u003c/p\u003e\u003cp\u003eEthereum’s validator exit queue fell near zero for the first time since July as staking demand increased, led by BitMine’s aggressive accumulation.\u003c/p\u003e",
+      "published": "Tue, 06 Jan 2026 03:33:59 +0000",
+      "fetched_at": "2026-01-06T04:08:23.083232504Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
+      "title": "Hyundai to use human-like robots in factories",
+      "link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS\u0026at_campaign=rss",
+      "category": "Technology",
+      "summary": "The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025.",
+      "published": "Tue, 06 Jan 2026 03:26:38 GMT",
+      "fetched_at": "2026-01-06T04:08:22.986418126Z",
+      "sentiment": "⚪ Neutral"
+    },
+    {
       "title": "US access to Venezuelan oil could make Bitcoin mining cheaper: Bitfinex",
       "link": "https://cointelegraph.com/news/venezuelan-oil-extraction-could-make-btc-mining-cheaper?utm_source=rss_feed\u0026utm_medium=rss\u0026utm_campaign=rss_partner_inbound",
       "category": "Crypto",
@@ -4481,26 +4499,8 @@
       "published": "Sun, 28 Dec 2025 01:40:21 GMT",
       "fetched_at": "2025-12-28T06:51:12.437122488Z",
       "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "BBC visits Myanmar polling station as civil war rages on",
-      "link": "https://www.bbc.com/news/videos/cwyv4gwyxxwo?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Voters in Myanmar's election say the poll is taking place in a \"climate of fear\", the \nBBC's South East Asia Correspondent Jonathan Head reports.",
-      "published": "Sun, 28 Dec 2025 04:23:42 GMT",
-      "fetched_at": "2025-12-28T06:51:12.436961051Z",
-      "sentiment": "⚪ Neutral"
-    },
-    {
-      "title": "War-torn Myanmar voting in widely criticised 'sham' election",
-      "link": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS\u0026at_campaign=rss",
-      "category": "World",
-      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power.",
-      "published": "Sun, 28 Dec 2025 06:49:55 GMT",
-      "fetched_at": "2025-12-28T06:51:12.436912395Z",
-      "sentiment": "🟢 Positive"
     }
   ],
-  "total_captured": 1778,
-  "last_update": "2026-01-06T03:04:33.651168992Z"
+  "total_captured": 1780,
+  "last_update": "2026-01-06T04:08:23.478831254Z"
 }
