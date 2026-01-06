@@ -5,8 +5,8 @@
 
 <!-- Badges are all on one line to prevent stacking -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/Updated-06 Jan 01:00 UTC-blue?style=for-the-badge)
-![Articles Captured](https://img.shields.io/badge/Articles-1775-orange?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-06 Jan 03:04 UTC-blue?style=for-the-badge)
+![Articles Captured](https://img.shields.io/badge/Articles-1778-orange?style=for-the-badge)
 
 *Thread fetches trending stories every 15 minutes from global sources, analyzes sentiment, and archives them for posterity.*
 
@@ -17,10 +17,13 @@
 ---
 
 ## 🔥 Top 20 Latest Headlines
-*(Updated: 06 Jan 01:00 UTC)*
+*(Updated: 06 Jan 03:04 UTC)*
 
 | Category | Headline | Sentiment |
 | :--- | :--- | :--- |
+| **Crypto** | [US access to Venezuelan oil could make Bitcoin mining cheaper: Bitfinex](https://cointelegraph.com/news/venezuelan-oil-extraction-could-make-btc-mining-cheaper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [US crypto stocks soar double-digits as major tokens rally](https://cointelegraph.com/news/crypto-stocks-soar-double-digits-major-tokens-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
+| **Crypto** | [Coinbase rallies 8% after Goldman Sachs upgrades stock to ‘buy’](https://cointelegraph.com/news/coinbase-soars-8-goldman-sachs-upgrades-stock-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
 | **World** | [Venezuela swears in interim president after defiant Maduro pleads not guilty in US court](https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
 | **Crypto** | [NFT Paris cancels conferences: ‘The market collapse hit us hard‘](https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 | **World** | [Cuba defiant as it braces for post-Maduro era](https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
@@ -38,9 +41,6 @@
 | **Crypto** | [Bitcoin enters 'strength' phase, but $100K debate heats up between traders](https://cointelegraph.com/news/bitcoin-enters-strength-phase-100k-debate-heats-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Crypto** | [Bitcoin price hits $94K as crypto volume dives to lowest since late 2023](https://cointelegraph.com/news/bitcoin-price-nears-94k-crypto-volume-lowest-since-late-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | ⚪ Neutral |
 | **Technology** | [UK regulator asks X about reports its AI makes 'sexualised images of children'](https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss) | ⚪ Neutral |
-| **Crypto** | [Strategy kickstarts 2026 with $116M Bitcoin buy as Q4 paper loss hits $17B](https://cointelegraph.com/news/strategy-2026-116m-bitcoin-buy-17b-loss-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
-| **Crypto** | [Three bullish XRP charts to watch as price gains over 18% in 2026](https://cointelegraph.com/news/three-bullish-xrp-charts-watch-price-gains-18-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🟢 Positive |
-| **Crypto** | [How ZachXBT exposed a Coinbase impersonation scam using onchain clues](https://cointelegraph.com/news/how-zachxbt-exposed-a-coinbase-impersonation-scam-using-onchain-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) | 🔴 Negative |
 
 
 ---
@@ -57,11 +57,11 @@
 
 
 ### 📂 Crypto
+- [US access to Venezuelan oil could make Bitcoin mining cheaper: Bitfinex](https://cointelegraph.com/news/venezuelan-oil-extraction-could-make-btc-mining-cheaper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [US crypto stocks soar double-digits as major tokens rally](https://cointelegraph.com/news/crypto-stocks-soar-double-digits-major-tokens-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
+- [Coinbase rallies 8% after Goldman Sachs upgrades stock to ‘buy’](https://cointelegraph.com/news/coinbase-soars-8-goldman-sachs-upgrades-stock-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
 - [NFT Paris cancels conferences: ‘The market collapse hit us hard‘](https://cointelegraph.com/news/nft-paris-cancelled-market-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🔴 Negative)
 - [Prediction markets move into real estate with Polymarket–Parcl deal](https://cointelegraph.com/news/polymarket-housing-markets-parcl-data-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (🟢 Positive)
-- [Crypto companies contribute $21M to Trump PAC ahead of US midterms](https://cointelegraph.com/news/crypto-donald-trump-pac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Price predictions 1/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH](https://cointelegraph.com/news/price-predictions-1-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
-- [Grayscale declares first Ethereum staking payout for US-listed ETF](https://cointelegraph.com/news/grayscale-us-payout-ethereum-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) (⚪ Neutral)
 
 
 ### 📂 Technology
@@ -87,13 +87,13 @@
 
 | Date | Link |
 | :--- | :--- |
+| 2026-01-06.md | [View Log](data/2026-01-06.md) |
 | 2026-01-05.md | [View Log](data/2026-01-05.md) |
 | 2026-01-04.md | [View Log](data/2026-01-04.md) |
 | 2026-01-03.md | [View Log](data/2026-01-03.md) |
 | 2026-01-02.md | [View Log](data/2026-01-02.md) |
 | 2026-01-01.md | [View Log](data/2026-01-01.md) |
 | 2025-12-31.md | [View Log](data/2025-12-31.md) |
-| 2025-12-30.md | [View Log](data/2025-12-30.md) |
 
 
 ---
